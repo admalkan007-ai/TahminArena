@@ -105,6 +105,10 @@ nav button.active {
 <body>
 
 <header>⚽ TahminArena</header>
+<div id="ta-view" role="group" aria-label="Görünüm seçimi"><button type="button" data-mode="mobile">📱 Telefon</button><button type="button" data-mode="desktop">💻 Bilgisayar</button></div>
+<script>
+(()=>{const mq=matchMedia('(max-width: 768px)');let saved;try{saved=localStorage.getItem('ta-view-v2')}catch(e){};function apply(mode){document.documentElement.dataset.view=mode;document.querySelectorAll('#ta-view button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.mode===mode)));}apply(['mobile','desktop'].includes(saved)?saved:mq.matches?'mobile':'desktop');document.querySelectorAll('#ta-view button').forEach(b=>b.addEventListener('click',()=>{apply(b.dataset.mode);try{localStorage.setItem('ta-view-v2',b.dataset.mode)}catch(e){}}));})();
+</script>
 
 <main>
 <section id="home" class="page active">
@@ -810,38 +814,46 @@ const old=window.taStatsButton;window.taStatsButton=(parent,m)=>{old(parent,m);i
 })();
 </script>
 <style id="ta-mobile">
-@media (max-width: 600px) {
-  body {font-size:13px;line-height:1.45;padding-bottom:calc(76px + env(safe-area-inset-bottom, 0px));overflow-wrap:anywhere;}
-  header {font-size:21px;padding:12px 8px;}
-  main {width:100%;padding:8px;}
-  .card {padding:10px;margin-bottom:9px;border-radius:9px;min-width:0;}
-  h2 {font-size:17px;margin:6px 0 10px;}
-  h3 {font-size:14px;margin:8px 0;}
-  p {font-size:12px;}
-  .league {padding:10px 4px;font-size:13px;min-height:40px;}
-  .league-detail {padding:8px;margin-bottom:6px;min-width:0;}
-  .league-detail p {font-size:12px;}
-  .league-detail button,.ta-stat-button {font-size:12px !important;padding:6px 8px !important;margin:3px !important;min-height:36px;max-width:100%;white-space:normal;}
-  .lig-veri-alani,.takim-maclari,.takim-son-bes {min-width:0;max-width:100%;overflow-wrap:anywhere;}
-  nav {padding-bottom:env(safe-area-inset-bottom, 0px);z-index:10;}
-  nav button {min-width:0;font-size:10px;padding:8px 1px;min-height:48px;}
-  .live-match {padding:8px 2px;}
-  .live-meta {font-size:11px;margin-bottom:5px;}
-  .live-teams {gap:4px;}
-  .live-team {font-size:12px;gap:4px;min-width:0;}
-  .live-team img {width:21px;height:21px;}
-  .live-score {font-size:12px;}
-  #ta-stats,#ta-h2h {width:calc(100% - 16px);max-width:calc(100% - 16px);max-height:85vh;max-height:85dvh;padding:10px;font-size:12px;border-radius:10px;}
-  #ta-stats button,#ta-h2h button {font-size:12px;padding:6px 8px;min-height:36px;margin:3px;}
-  .ta-stat-heading {gap:6px;}
-  .ta-stat-heading button {flex-shrink:0;}
-  .ta-stat-teams {gap:8px;margin:10px 0;}
-  .ta-stat-teams > div {flex:1;min-width:0;}
-  .ta-stat-teams img {width:34px;height:34px;margin-bottom:4px;}
-  .ta-stat-line {grid-template-columns:minmax(0,1fr) minmax(0,1.6fr) minmax(0,1fr);gap:4px;margin:8px 0 4px;font-size:12px;}
-  .ta-stat-bars {height:5px;margin-bottom:9px;}
-  .ta-h2h-row {gap:6px;padding:7px 0;flex-wrap:wrap;}
-}
+
+  html[data-view="mobile"] body {font-size:13px;line-height:1.45;padding-bottom:calc(76px + env(safe-area-inset-bottom, 0px));overflow-wrap:anywhere;}
+  html[data-view="mobile"] header {font-size:21px;padding:12px 8px;}
+  html[data-view="mobile"] main {width:100%;padding:8px;}
+  html[data-view="mobile"] .card {padding:10px;margin-bottom:9px;border-radius:9px;min-width:0;}
+  html[data-view="mobile"] h2 {font-size:17px;margin:6px 0 10px;}
+  html[data-view="mobile"] h3 {font-size:14px;margin:8px 0;}
+  html[data-view="mobile"] p {font-size:12px;}
+  html[data-view="mobile"] .league {padding:10px 4px;font-size:13px;min-height:40px;}
+  html[data-view="mobile"] .league-detail {padding:8px;margin-bottom:6px;min-width:0;}
+  html[data-view="mobile"] .league-detail p {font-size:12px;}
+  html[data-view="mobile"] .league-detail button, html[data-view="mobile"] .ta-stat-button {font-size:12px !important;padding:6px 8px !important;margin:3px !important;min-height:36px;max-width:100%;white-space:normal;}
+  html[data-view="mobile"] .lig-veri-alani, html[data-view="mobile"] .takim-maclari, html[data-view="mobile"] .takim-son-bes {min-width:0;max-width:100%;overflow-wrap:anywhere;}
+  html[data-view="mobile"] nav {padding-bottom:env(safe-area-inset-bottom, 0px);z-index:10;}
+  html[data-view="mobile"] nav button {min-width:0;font-size:10px;padding:8px 1px;min-height:48px;}
+  html[data-view="mobile"] .live-match {padding:8px 2px;}
+  html[data-view="mobile"] .live-meta {font-size:11px;margin-bottom:5px;}
+  html[data-view="mobile"] .live-teams {gap:4px;}
+  html[data-view="mobile"] .live-team {font-size:12px;gap:4px;min-width:0;}
+  html[data-view="mobile"] .live-team img {width:21px;height:21px;}
+  html[data-view="mobile"] .live-score {font-size:12px;}
+  html[data-view="mobile"] #ta-stats, html[data-view="mobile"] #ta-h2h {width:calc(100% - 16px);max-width:calc(100% - 16px);max-height:85vh;max-height:85dvh;padding:10px;font-size:12px;border-radius:10px;}
+  html[data-view="mobile"] #ta-stats button, html[data-view="mobile"] #ta-h2h button {font-size:12px;padding:6px 8px;min-height:36px;margin:3px;}
+  html[data-view="mobile"] .ta-stat-heading {gap:6px;}
+  html[data-view="mobile"] .ta-stat-heading button {flex-shrink:0;}
+  html[data-view="mobile"] .ta-stat-teams {gap:8px;margin:10px 0;}
+  html[data-view="mobile"] .ta-stat-teams > div {flex:1;min-width:0;}
+  html[data-view="mobile"] .ta-stat-teams img {width:34px;height:34px;margin-bottom:4px;}
+  html[data-view="mobile"] .ta-stat-line {grid-template-columns:minmax(0,1fr) minmax(0,1.6fr) minmax(0,1fr);gap:4px;margin:8px 0 4px;font-size:12px;}
+  html[data-view="mobile"] .ta-stat-bars {height:5px;margin-bottom:9px;}
+  html[data-view="mobile"] .ta-h2h-row {gap:6px;padding:7px 0;flex-wrap:wrap;}
+
+#ta-view {display:flex;justify-content:center;gap:8px;padding:8px;background:#191919;border-bottom:1px solid #6b551c;}
+#ta-view button {font:600 12px Arial;padding:9px 12px;border:1px solid #8c7433;border-radius:7px;background:#252525;color:#f4c542;cursor:pointer;}
+#ta-view button[aria-pressed="true"] {background:#f4c542;color:#111;}
+html[data-view="mobile"] main {max-width:480px;}
+html[data-view="mobile"] body {font-size:12px;-webkit-text-size-adjust:100%;text-size-adjust:100%;}
+html[data-view="mobile"] .league-detail div {font-size:12px;overflow-wrap:anywhere;}
+html[data-view="mobile"] .league-detail button {font-size:11px !important;}
+html[data-view="mobile"] #ta-view button {font-size:11px;}
 </style>
 </body>
 </html>
