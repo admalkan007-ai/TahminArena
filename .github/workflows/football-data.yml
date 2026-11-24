@@ -47,6 +47,16 @@ jobs:
             -o data/premier-league-results.json
 
 
+      - name: La Liga fikstürünü indir
+        env:
+          API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: |
+          mkdir -p data
+          curl --fail --silent --show-error \
+            -H "X-Auth-Token: $API_KEY" \
+            "https://api.football-data.org/v4/competitions/PD/matches?status=SCHEDULED" \
+            -o data/la-liga.json
+
       
       - name: Verileri GitHub'a kaydet
         run: |
