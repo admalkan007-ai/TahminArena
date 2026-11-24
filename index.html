@@ -339,4 +339,67 @@ document.querySelectorAll(".league").forEach(function(lig) {
     );
   });
 });
+
+<style>
+.league-detail {
+  display: none;
+  background: #151515;
+  border-left: 3px solid #f4c542;
+  padding: 14px;
+  margin: 5px 0 12px;
+  border-radius: 8px;
+}
+.league-detail.open {
+  display: block;
+}
+.league-detail button {
+  background: #272727;
+  color: #f4c542;
+  border: 1px solid #66521d;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 4px;
+  cursor: pointer;
+}
+.league-detail p {
+  font-size: 13px;
+}
+</style>
+
+<script>
+document.querySelectorAll(".league").forEach(function(lig) {
+  lig.style.cursor = "pointer";
+
+  const detay = document.createElement("div");
+  detay.className = "league-detail";
+  detay.innerHTML = `
+    <button type="button">📅 Fikstür</button>
+    <button type="button">🏆 Puan Durumu</button>
+    <button type="button">⚽ Maç Sonuçları</button>
+    <p>Bu ligin gerçek verileri henüz bağlanmadı.</p>
+  `;
+
+  lig.insertAdjacentElement("afterend", detay);
+
+  lig.addEventListener("click", function() {
+    const acik = detay.classList.contains("open");
+
+    document.querySelectorAll(".league-detail").forEach(function(d) {
+      d.classList.remove("open");
+    });
+
+    if (!acik) {
+      detay.classList.add("open");
+    }
+  });
+
+  detay.querySelectorAll("button").forEach(function(btn) {
+    btn.addEventListener("click", function() {
+      detay.querySelector("p").textContent =
+        btn.textContent.trim() +
+        " verileri henüz bağlanmadı.";
+    });
+  });
+});
 </script>
+
