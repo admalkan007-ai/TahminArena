@@ -54,4 +54,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/premier-league.json data/premier-league-standings.json data/premier-league-results.json
           git diff --cached --quiet || git commit -m "Futbol verilerini güncelle"
-          git push
+           git pull --rebase origin main
+          git push origin main
