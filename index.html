@@ -268,5 +268,72 @@ if (premierLeague) {
 }
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const lig = [...document.querySelectorAll(".league")]
+    .find(el => el.textContent.includes("Premier League"));
+
+  if (!lig) return;
+
+  const detay = lig.nextElementSibling;
+  if (!detay) return;
+
+  const buton = [...detay.querySelectorAll("button")]
+    .find(el => el.textContent.includes("Puan Durumu"));
+
+  if (!buton) return;
+
+  buton.addEventListener("click", async () => {
+    let alan = document.getElementById("pl-puan-tablosu");
+
+    if (!alan) {
+      alan = document.createElement("div");
+      alan.id = "pl-puan-tablosu";
+      detay.appendChild(alan);
+    }
+
+    alan.textContent = "Puan durumu yükleniyor...";
+
+    try {
+      const cevap = await fetch("./data/premier-league-standings.json");
+      if (!cevap.ok) throw new Error("Veri okunamadı");
+
+      const veri = await cevap.json();
+      const tablo = veri.standings.find(s => s.type === "TOTAL")?.table;
+
+      if (!tablo?.length) throw new Error("Tablo boş");
+
+      alan.replaceChildren();
+
+      const baslik = document.createElement("h3");
+      baslik.textContent = "🏆 Premier League Puan Durumu";
+      alan.appendChild(baslik);
+
+      const liste = document.createElement("div");
+
+      tablo.forEach(takim => {
+        const satir = document.createElement("div");
+        satir.style.cssText =
+          "display:flex;justify-content:space-between;" +
+          "gap:10px;padding:10px 5px;border-bottom:1px solid #444;";
+
+        const ad = document.createElement("span");
+        ad.textContent = `${takim.position}. ${takim.team.shortName}`;
+
+        const puan = document.createElement("strong");
+        puan.textContent = `${takim.points} P`;
+
+        satir.append(ad, puan);
+        liste.appendChild(satir);
+      });
+
+      alan.appendChild(liste);
+    } catch (hata) {
+      alan.textContent = "Puan durumu yüklenemedi.";
+    }
+  });
+});
+</script>
+
 </body>
 </html>
