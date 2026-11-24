@@ -2,177 +2,6 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>TahminArena</title>
-  <style>
-    body {
-      margin: 0;
-      background: #101010;
-      color: white;
-      font-family: Arial, sans-serif;
-    }
-    header {
-      background: #191919;
-      color: #f4c542;
-      padding: 22px;
-      text-align: center;
-      font-size: 28px;
-      font-weight: bold;
-    }
-    main { padding: 18px; }
-    .card {
-      background: #202020;
-      border: 1px solid #6b551c;
-      border-radius: 12px;
-      padding: 20px;
-      margin-bottom: 14px;
-    }
-    h2 { color: #f4c542; }
-    p { color: #cccccc; }
-  </style>
-</head>
-<body>
-  <header>⚽ TahminArena</header>
-  <main>
-    <div class="card">
-      <h2>🔴 Canlı Skorlar</h2>
-      <p>Yakında tüm dünyadan canlı maçlar burada.</p>
-    </div>
-    <div class="card">
-      <h2>📊 Ücretsiz İstatistikler</h2>
-      <p>Günlük seçilen 2 maçın istatistikleri.</p>
-    </div>
-    <div class="card">
-      <h2>👑 Premium</h2>
-      <p>Detaylı istatistikler ve özel tahminler.</p>
-    </div>
-  </main>
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TahminArena</title>
-<style>
-* { box-sizing: border-box; }
-body {
-  margin: 0;
-  background: #101010;
-  color: white;
-  font-family: Arial, sans-serif;
-  padding-bottom: 85px;
-}
-header {
-  background: #191919;
-  color: #f4c542;
-  text-align: center;
-  padding: 22px;
-  font-size: 28px;
-  font-weight: bold;
-}
-main { padding: 18px; max-width: 800px; margin: auto; }
-.card {
-  background: #202020;
-  border: 1px solid #6b551c;
-  border-radius: 12px;
-  padding: 20px;
-  margin-bottom: 14px;
-}
-h2 { color: #f4c542; }
-p { color: #ccc; }
-nav {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  display: flex;
-  background: #191919;
-  border-top: 1px solid #6b551c;
-}
-nav button {
-  flex: 1;
-  background: transparent;
-  color: #f4c542;
-  border: none;
-  padding: 15px 3px;
-  cursor: pointer;
-  font-size: 12px;
-}
-nav button.active {
-  background: #33290d;
-}
-.page { display: none; }
-.page.active { display: block; }
-</style>
-</head>
-<body>
-
-<header>⚽ TahminArena</header>
-
-<main>
-  <section id="home" class="page active">
-    <div class="card">
-      <h2>🏆 Dünya Futbolu</h2>
-      <p>Ligler, turnuvalar ve maç sonuçları.</p>
-    </div>
-    <div class="card">
-      <h2>📊 Günün 2 Ücretsiz Maçı</h2>
-      <p>Detaylı istatistikler yakında.</p>
-    </div>
-  </section>
-
-  <section id="live" class="page">
-    <div class="card">
-      <h2>🔴 Canlı Skorlar</h2>
-      <p>Canlı maç verileri yakında eklenecek.</p>
-    </div>
-  </section>
-
-  <section id="stats" class="page">
-    <div class="card">
-      <h2>📈 İstatistikler</h2>
-      <p>Gerçek maç verilerine dayalı raporlar.</p>
-    </div>
-  </section>
-
-  <section id="premium" class="page">
-    <div class="card">
-      <h2>👑 Premium</h2>
-      <p>Özel istatistikler ve tahminler yakında.</p>
-    </div>
-  </section>
-</main>
-
-<nav>
-  <button class="active" onclick="showPage('home',this)">🏠<br>Ana Sayfa</button>
-  <button onclick="showPage('live',this)">🔴<br>Canlı</button>
-  <button onclick="showPage('stats',this)">📊<br>İstatistik</button>
-  <button onclick="showPage('premium',this)">👑<br>Premium</button>
-</nav>
-
-<script>
-function showPage(id, button) {
-  document.querySelectorAll('.page').forEach(page => {
-    page.classList.remove('active');
-  });
-  document.querySelectorAll('nav button').forEach(btn => {
-    btn.classList.remove('active');
-  });
-  document.getElementById(id).classList.add('active');
-  button.classList.add('active');
-}
-</script>
-
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="tr">
-<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TahminArena</title>
@@ -183,20 +12,20 @@ body {
   background: #101010;
   color: #fff;
   font-family: Arial, sans-serif;
-  padding-bottom: 85px;
+  padding-bottom: 90px;
 }
 header {
+  padding: 22px;
   background: #191919;
   color: #f4c542;
-  text-align: center;
-  padding: 22px;
   font-size: 27px;
   font-weight: bold;
+  text-align: center;
 }
 main {
-  padding: 18px;
   max-width: 850px;
   margin: auto;
+  padding: 18px;
 }
 .card {
   background: #202020;
@@ -207,11 +36,40 @@ main {
 }
 h2 { color: #f4c542; }
 p { color: #ccc; }
+.page { display: none; }
+.page.active { display: block; }
+
 .league {
-  padding: 13px;
+  padding: 14px;
   border-bottom: 1px solid #393939;
+  cursor: pointer;
 }
-.league:last-child { border-bottom: none; }
+.league:hover {
+  color: #f4c542;
+}
+.league-detail {
+  display: none;
+  padding: 14px;
+  background: #151515;
+  border-left: 3px solid #f4c542;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.league-detail.open {
+  display: block;
+}
+.league-detail button {
+  background: #272727;
+  color: #f4c542;
+  border: 1px solid #66521d;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 4px;
+  cursor: pointer;
+}
+.league-detail p {
+  font-size: 13px;
+}
 nav {
   position: fixed;
   bottom: 0;
@@ -230,9 +88,9 @@ nav button {
   cursor: pointer;
   font-size: 12px;
 }
-nav button.active { background: #33290d; }
-.page { display: none; }
-.page.active { display: block; }
+nav button.active {
+  background: #33290d;
+}
 </style>
 </head>
 <body>
@@ -309,64 +167,17 @@ nav button.active { background: #33290d; }
 
 <script>
 function showPage(id, button) {
-  document.querySelectorAll('.page').forEach(page => {
-    page.classList.remove('active');
+  document.querySelectorAll(".page").forEach(function(page) {
+    page.classList.remove("active");
   });
-  document.querySelectorAll('nav button').forEach(btn => {
-    btn.classList.remove('active');
+  document.querySelectorAll("nav button").forEach(function(btn) {
+    btn.classList.remove("active");
   });
-  document.getElementById(id).classList.add('active');
-  button.classList.add('active');
+  document.getElementById(id).classList.add("active");
+  button.classList.add("active");
 }
-</script>
 
-<script>
 document.querySelectorAll(".league").forEach(function(lig) {
-  lig.style.cursor = "pointer";
-
-  lig.addEventListener("click", function() {
-    const ligAdi = lig.textContent.trim();
-
-    alert(
-      ligAdi +
-      "\n\n📅 Fikstür" +
-      "\n🏆 Puan Durumu" +
-      "\n⚽ Maç Sonuçları" +
-      "\n\nBu ligin gerçek verileri yakında eklenecek."
-    );
-  });
-});
-
-<style>
-.league-detail {
-  display: none;
-  background: #151515;
-  border-left: 3px solid #f4c542;
-  padding: 14px;
-  margin: 5px 0 12px;
-  border-radius: 8px;
-}
-.league-detail.open {
-  display: block;
-}
-.league-detail button {
-  background: #272727;
-  color: #f4c542;
-  border: 1px solid #66521d;
-  border-radius: 7px;
-  padding: 10px;
-  margin: 4px;
-  cursor: pointer;
-}
-.league-detail p {
-  font-size: 13px;
-}
-</style>
-
-<script>
-document.querySelectorAll(".league").forEach(function(lig) {
-  lig.style.cursor = "pointer";
-
   const detay = document.createElement("div");
   detay.className = "league-detail";
   detay.innerHTML = `
@@ -400,3 +211,5 @@ document.querySelectorAll(".league").forEach(function(lig) {
 });
 </script>
 
+</body>
+</html>
