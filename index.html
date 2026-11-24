@@ -223,6 +223,8 @@ if (premierLeague) {
 
   fiksturButonu.addEventListener("click", async function() {
     const bilgi = detay.querySelector("p");
+    bilgi.style.display = "block";
+    bilgi.textContent = "Fikstür yükleniyor...";
    document.getElementById("pl-puan-tablosu")?.remove();
 document.getElementById("pl-mac-sonuclari")?.remove();
 
@@ -475,6 +477,152 @@ document.getElementById("pl-puan-tablosu")?.remove();
     }
   });
 });
+</script>
+
+<script>
+// Premier League koduna dokunmadan diğer desteklenen ligleri bağlar.
+(() => {
+  const ligler = [
+    ['La Liga','la-liga','La Liga'],
+    ['Bundesliga','bundesliga','Bundesliga'],
+    ['Serie A','serie-a','Serie A'],
+    ['Ligue 1','ligue-1','Ligue 1'],
+    ['Eredivisie','eredivisie','Eredivisie'],
+    ['Primeira Liga','primeira-liga','Primeira Liga'],
+    ['Şampiyonlar Ligi','sampiyonlar-ligi','UEFA Şampiyonlar Ligi'],
+    ['Dünya Kupası','dunya-kupasi','FIFA Dünya Kupası']
+  ];
+  const tarih = iso => new Date(iso).toLocaleDateString('tr-TR',{timeZone:'Europe/Istanbul'});
+  const ad = t => t?.shortName || t?.name || 'Bilinmeyen takım';
+  const skor = m => `${ad(m.homeTeam)} ${m.score?.fullTime?.home ?? '-'} - ${m.score?.fullTime?.away ?? '-'} ${ad(m.awayTeam)}`;
+  async function getir(slug, ek) {
+    const r = await fetch(`./data/${slug}${ek}.json`);
+    if (!r.ok) throw new Error('Veri bulunamadı');
+    const j = await r.json();
+    if (j.error || j.message && !j.matches && !j.standings) throw new Error('API hatası');
+    return j;
+  }
+  for (const [arama,slug,isim] of ligler) {
+    const lig = [...document.querySelectorAll('.league')].find(x => x.textContent.includes(arama));
+    if (!lig) continue;
+    const detay = lig.nextElementSibling;
+    if (!detay) continue;
+    const bilgi = detay.querySelector('p');
+    const butonlar = [...detay.querySelectorAll('button')];
+    const fikstur = butonlar.find(x => x.textContent.includes('Fikstür'));
+    const puan = butonlar.find(x => x.textContent.includes('Puan Durumu'));
+    const sonuc = butonlar.find(x => x.textContent.includes('Maç Sonuçları'));
+    if (!fikstur || !puan || !sonuc) continue;
+    const alan = document.createElement('div');
+    alan.id = `${slug}-icerik`;
+    detay.appendChild(alan);
+    let istek = 0;
+    function basla(metin) {
+      const no = ++istek;
+      bilgi.style.display = 'none';
+      alan.replaceChildren();
+      alan.textContent = metin;
+      return no;
+    }
+    function satir(metin, hedef=alan) {
+      const d = document.createElement('div');
+      d.style.cssText = 'padding:10px 5px;border-bottom:1px solid #444;';
+      d.textContent = metin;
+      hedef.appendChild(d);
+      return d;
+    }
+    function baslik(metin) {
+      const h = document.createElement('h3');
+      h.textContent = metin;
+      alan.appendChild(h);
+    }
+    fikstur.addEventListener('click',async () => {
+      const no = basla('Fikstür yükleniyor...');
+      try {
+        const v = await getir(slug,'');
+        if (no !== istek) return;
+        const maclar = (v.matches || []).filter(m => ['SCHEDULED','TIMED'].includes(m.status))
+          .sort((a,b) => new Date(a.utcDate)-new Date(b.utcDate)).slice(0,10);
+        alan.replaceChildren(); baslik(`📅 ${isim} Fikstür`);
+        if (!maclar.length) satir('Yaklaşan maç bulunamadı.');
+        for (const m of maclar) {
+          const zaman = new Date(m.utcDate).toLocaleString('tr-TR',{
+            timeZone:'Europe/Istanbul',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'
+          });
+          satir(`${zaman} | ${ad(m.homeTeam)} - ${ad(m.awayTeam)}`);
+        }
+      } catch(e) { if(no===istek) alan.textContent=`${isim} fikstürü yüklenemedi. Veri dosyasını kontrol edin.`; }
+    });
+    puan.addEventListener('click',async () => {
+      const no = basla('Puan durumu yükleniyor...');
+      try {
+        const v = await getir(slug,'-standings');
+        if (no !== istek) return;
+        const tablolar = (v.standings || []).filter(s => s.type === 'TOTAL');
+        alan.replaceChildren(); baslik(`🏆 ${isim} Puan Durumu`);
+        if (!tablolar.length) { satir('Bu turnuva için puan tablosu bulunamadı.'); return; }
+        for (const grup of tablolar) {
+          if (grup.group) { const h=document.createElement('h4'); h.textContent=grup.group; alan.appendChild(h); }
+          for (const takim of (grup.table || [])) {
+            const kapsayici = document.createElement('div');
+            kapsayici.style.cssText='padding:10px 5px;border-bottom:1px solid #444;';
+            const ust=document.createElement('div');
+            ust.style.cssText='display:flex;justify-content:space-between;gap:10px;align-items:center;';
+            const adButonu=document.createElement('button');
+            adButonu.type='button';
+            adButonu.textContent=`${takim.position}. ${ad(takim.team)}`;
+            adButonu.style.cssText='background:none;border:0;color:#f4c542;cursor:pointer;text-align:left;font-size:14px;padding:0;';
+            const puanYazisi=document.createElement('strong');
+            puanYazisi.textContent=`${takim.points} P`;
+            ust.append(adButonu,puanYazisi); kapsayici.appendChild(ust); alan.appendChild(kapsayici);
+            adButonu.addEventListener('click',async () => {
+              const eski=kapsayici.querySelector('.takim-son-bes');
+              if (eski) { eski.remove(); return; }
+              const macAlani=document.createElement('div');
+              macAlani.className='takim-son-bes';
+              macAlani.style.cssText='padding:10px 0;color:white;';
+              macAlani.textContent='Son 5 maç yükleniyor...';
+              kapsayici.appendChild(macAlani);
+              try {
+                const sonuclar=await getir(slug,'-results');
+                if (!macAlani.isConnected) return;
+                const maclar=(sonuclar.matches || []).filter(m => m.status==='FINISHED' &&
+                  (m.homeTeam?.id===takim.team.id || m.awayTeam?.id===takim.team.id))
+                  .sort((a,b)=>new Date(b.utcDate)-new Date(a.utcDate)).slice(0,5);
+                macAlani.replaceChildren();
+                if (!maclar.length) { macAlani.textContent='Bu takımın tamamlanmış maçı bulunamadı.'; return; }
+                for (const m of maclar) satir(`${tarih(m.utcDate)} | ${skor(m)}`,macAlani);
+              } catch(e) { if(macAlani.isConnected) macAlani.textContent='Takım maçları yüklenemedi.'; }
+            });
+          }
+        }
+      } catch(e) { if(no===istek) alan.textContent=`${isim} puan durumu yüklenemedi. Veri dosyasını kontrol edin.`; }
+    });
+    sonuc.addEventListener('click',async () => {
+      const no=basla('Maç sonuçları yükleniyor...');
+      try {
+        const v=await getir(slug,'-results');
+        if(no!==istek) return;
+        const maclar=(v.matches || []).filter(m=>m.status==='FINISHED')
+          .sort((a,b)=>new Date(b.utcDate)-new Date(a.utcDate)).slice(0,10);
+        alan.replaceChildren(); baslik(`⚽ ${isim} Maç Sonuçları`);
+        if(!maclar.length) satir('Tamamlanmış maç bulunamadı.');
+        for(const m of maclar) satir(`${tarih(m.utcDate)} | ${skor(m)}`);
+      } catch(e) { if(no===istek) alan.textContent=`${isim} maç sonuçları yüklenemedi. Veri dosyasını kontrol edin.`; }
+    });
+  }
+  // Ücretsiz API kapsamında olmayan liglerde yanıltıcı veri gösterme.
+  const desteklenmeyen=['Türkiye Süper Lig','MLS','Suudi Arabistan','UEFA Avrupa Ligi','UEFA Konferans Ligi','UEFA Avrupa Şampiyonası','Copa América','Afrika Uluslar Kupası'];
+  for (const isim of desteklenmeyen) {
+    const lig=[...document.querySelectorAll('.league')].find(x=>x.textContent.includes(isim));
+    if (!lig) continue;
+    const bilgi=lig.nextElementSibling?.querySelector('p');
+    if (!bilgi) continue;
+    const mesaj='Bu lig için henüz doğrulanmış veri kaynağı bağlanmadı.';
+    bilgi.textContent=mesaj;
+    lig.nextElementSibling.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{bilgi.textContent=mesaj;}));
+  }
+})();
 </script>
 
 </body>
