@@ -1,0 +1,28 @@
+
+name: TahminArena PitchAPI
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lig-kontrol:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ligleri kontrol et
+        env:
+          API_KEY: ${{ secrets.PITCH_API_KEY }}
+        run: |
+          set -euo pipefail
+
+          curl --fail --silent --show-error \
+            -H "X-API-KEY: $API_KEY" \
+            "https://api.pitchapi.dev/v1/leagues" \
+            -o /tmp/pitch-leagues.json
+
+          jq -e '.data.leagues | type == "array"' /tmp/pitch-leagues.json
+
+          jq '.data.leagues[] | {id, name, country_code, seasons}' /tmp/pitch-leagues.json
