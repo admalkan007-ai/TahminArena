@@ -335,90 +335,7 @@ document.getElementById("pl-mac-sonuclari")?.remove();
       baslik.textContent = "🏆 Premier League Puan Durumu";
       alan.appendChild(baslik);
 
-      const liste = document.createElement("div");
-
-      tablo.forEach(takim => {
-        const satir = document.createElement("div");
-        satir.style.cssText =
-          "display:flex;justify-content:space-between;" +
-          "gap:10px;padding:10px 5px;border-bottom:1px solid #444;";
-
-     
-const ad = document.createElement("button");
-ad.type = "button";
-ad.textContent = `${takim.position}. ${takim.team.shortName}`;
-ad.style.cssText =
-  "background:none;border:none;color:#f4c542;" +
-  "cursor:pointer;text-align:left;font-size:14px;";
-
-ad.addEventListener("click", async () => {
-  let macAlani = satir.querySelector(".takim-maclari");
-
-  if (macAlani) {
-    macAlani.remove();
-    return;
-  }
-
-  macAlani = document.createElement("div");
-  macAlani.className = "takim-maclari";
-  macAlani.style.cssText =
-    "width:100%;padding:10px;color:white;";
-  macAlani.textContent = "Son 5 maç yükleniyor...";
-
-  satir.appendChild(macAlani);
-
-  try {
-    const cevap = await fetch("./data/premier-league-results.json");
-    if (!cevap.ok) throw new Error("Veri okunamadı");
-
-    const veri = await cevap.json();
-
-    const maclar = veri.matches
-      .filter(mac =>
-        mac.status === "FINISHED" &&
-        (mac.homeTeam.id === takim.team.id ||
-         mac.awayTeam.id === takim.team.id)
-      )
-      .sort((a, b) => new Date(b.utcDate) - new Date(a.utcDate))
-      .slice(0, 5);
-
-    macAlani.replaceChildren();
-
-    if (!maclar.length) {
-      macAlani.textContent = "Bu takımın maç sonucu bulunamadı.";
-      return;
-    }
-
-    maclar.forEach(mac => {
-      const sonuc = document.createElement("div");
-      sonuc.style.padding = "7px 0";
-
-      const tarih = new Date(mac.utcDate)
-        .toLocaleDateString("tr-TR");
-
-      sonuc.textContent =
-        `${tarih} | ${mac.homeTeam.shortName} ` +
-        `${mac.score.fullTime.home} - ` +
-        `${mac.score.fullTime.away} ${mac.awayTeam.shortName}`;
-
-      macAlani.appendChild(sonuc);
-    });
-  } catch (hata) {
-    macAlani.textContent = "Maçlar yüklenemedi.";
-  }
-});
-
-satir.style.flexWrap = "wrap";
-
-
-        const puan = document.createElement("strong");
-        puan.textContent = `${takim.points} P`;
-
-        satir.append(ad, puan);
-        liste.appendChild(satir);
-      });
-
-      alan.appendChild(liste);
+      window.taStandings(alan, veri.standings, async()=>{const r=await fetch('./data/premier-league-results.json');if(!r.ok)throw Error('Sonuçlar yok');const d=await r.json();if(d.competition?.code!=='PL')throw Error('Yanlış lig');return d.matches;},false);
     } catch (hata) {
       alan.textContent = "Puan durumu yüklenemedi.";
     }
@@ -578,47 +495,7 @@ document.getElementById("pl-puan-tablosu")?.remove();
         alan.replaceChildren();
         baslik(`🏆 ${ligBilgi.isim} Puan Durumu`);
         if (!tablolar.length) { satir('Bu turnuva için puan tablosu bulunamadı.'); return; }
-        for (const grup of tablolar) {
-          if (grup.group) {
-            const h = document.createElement('h4'); h.textContent = grup.group; alan.appendChild(h);
-          }
-          for (const takim of (grup.table || [])) {
-            const kapsayici = document.createElement('div');
-            kapsayici.style.cssText = 'padding:10px 5px;border-bottom:1px solid #444;';
-            const ust = document.createElement('div');
-            ust.style.cssText = 'display:flex;justify-content:space-between;gap:10px;align-items:center;';
-            const adButonu = document.createElement('button');
-            adButonu.type = 'button';
-            adButonu.textContent = `${takim.position}. ${ad(takim.team)}`;
-            adButonu.style.cssText = 'background:none;border:0;color:#f4c542;cursor:pointer;text-align:left;font-size:14px;padding:0;';
-            const puanYazisi = document.createElement('strong');
-            puanYazisi.textContent = `${takim.points} P`;
-            ust.append(adButonu, puanYazisi);
-            kapsayici.appendChild(ust);
-            alan.appendChild(kapsayici);
-            adButonu.addEventListener('click', async () => {
-              const eski = kapsayici.querySelector('.takim-son-bes');
-              if (eski) { eski.remove(); return; }
-              const macAlani = document.createElement('div');
-              macAlani.className = 'takim-son-bes';
-              macAlani.style.cssText = 'padding:10px 0;color:white;';
-              macAlani.textContent = 'Son 5 maç yükleniyor...';
-              kapsayici.appendChild(macAlani);
-              try {
-                const veriler = await getir(ligBilgi, '-results');
-                if (!macAlani.isConnected) return;
-                if (!Array.isArray(veriler.matches)) throw new Error('Maç listesi yok');
-                const maclar = veriler.matches
-                  .filter(m => m.status === 'FINISHED' &&
-                    (m.homeTeam?.id === takim.team.id || m.awayTeam?.id === takim.team.id))
-                  .sort((a,b) => new Date(b.utcDate)-new Date(a.utcDate)).slice(0,5);
-                macAlani.replaceChildren();
-                if (!maclar.length) { macAlani.textContent = 'Bu takımın tamamlanmış maçı bulunamadı.'; return; }
-                for (const m of maclar) satir(`${tarih(m.utcDate)} | ${skor(m)}`, macAlani);
-              } catch(e) { if (macAlani.isConnected) macAlani.textContent = 'Takım maçları yüklenemedi: '+e.message; }
-            });
-          }
-        }
+        window.taStandings(alan, veri.standings, async()=>(await getir(ligBilgi,'-results')).matches,false);
       } catch(e) { if (no === istek) alan.textContent = `${ligBilgi.isim} puan durumu yüklenemedi: ${e.message}`; }
     });
 
@@ -676,9 +553,8 @@ buttons.forEach((b,i)=>b.onclick=async()=>{const s=++seq;area.textContent='Yükl
 if(i!==1){const list=i===0?all.filter(m=>m.status==='not_started'&&date(m)>=new Date()).sort((a,b)=>date(a)-date(b)):done;if(!list.length)row(area,'Maç bulunamadı.');list.slice(0,10).forEach(m=>{const r=window.taCompactRow(area,m,i===2);const actions=document.createElement('div');actions.className='ta-match-actions';r.append(actions);window.taStatsButton(actions,{...m,league_id:l.id});const line=r.querySelector('.ta-compact-line');});return;}
 el('p','Hesaplanan puanlar (resmi tablo değildir). Grup, etap, ceza ve özel sıralama kuralları dahil değildir.',area);
 if(l.country_code==='INT-2'){row(area,'Turnuva etapları ayrıştırılmadığı için güvenilir puan tablosu gösterilemiyor.');return;}
-const teams=new Map();for(const m of all)for(const t of [m.home_team,m.away_team])if(!teams.has(t.id))teams.set(t.id,{...t,p:0,o:0,g:0});
-for(const m of done){const h=teams.get(m.home_team.id),a=teams.get(m.away_team.id);h.o++;a.o++;h.g+=m.score_home-m.score_away;a.g+=m.score_away-m.score_home;h.p+=m.score_home>m.score_away?3:m.score_home===m.score_away?1:0;a.p+=m.score_away>m.score_home?3:m.score_home===m.score_away?1:0;}
-[...teams.values()].sort((a,b)=>b.p-a.p||b.g-a.g||a.name.localeCompare(b.name,'tr')).forEach((t,j)=>{const r=row(area,'');const b=el('button',`${j+1}. ${t.name} | ${t.o} maç | ${t.p} P`,r);b.onclick=()=>{const old=r.querySelector('.last-five');if(old){old.remove();return;}const box=el('div','',r);box.className='last-five';const list=done.filter(m=>m.home_team.id===t.id||m.away_team.id===t.id).slice(0,5);if(!list.length)row(box,'Sonuç yok.');list.forEach(m=>{const r=row(box,line(m,true));window.taStatsButton(r,{...m,league_id:l.id});});};});
+window.taStandings(area, [], async()=>done,true,all);
+
 }catch(e){if(s===seq)area.textContent='Veri yüklenemedi: '+e.message;}});
 }
 msg.textContent=`${leagues.length} ek lig katalogda. Maç dosyaları lig seçildiğinde kontrol edilir.`;
@@ -936,5 +812,20 @@ html[data-view="mobile"] #leagues .ta-match-row .ta-compact-line {grid-template-
 html[data-view="mobile"] #leagues .ta-match-row .ta-match-home span,html[data-view="mobile"] #leagues .ta-match-row .ta-match-away span {font-size:11px;white-space:normal;overflow-wrap:anywhere;line-height:1.2;}
 .ta-match-actions .ta-stat-button {opacity:1;color:#f4c542;border-color:#8c7433;cursor:pointer;}
 </style>
+<style>
+.ta-table-scroll{overflow-x:auto;max-width:100%;}.ta-standing{border-collapse:collapse;width:100%;font-size:12px;white-space:nowrap}.ta-standing th,.ta-standing td{padding:7px 4px;text-align:center;border-bottom:1px solid #393939}.ta-standing th{color:#f4c542;background:#292929}.ta-standing td:nth-child(2){text-align:left}.ta-standing td:last-child{color:#f4c542;font-weight:bold}.ta-standing .ta-team-link{border:0;background:none;color:inherit;padding:0!important;margin:0!important;min-height:0!important;text-align:left;font-size:inherit!important}.ta-standing img{width:16px;height:16px;object-fit:contain;vertical-align:middle;margin-right:4px}.ta-standing-tabs{display:flex;gap:3px}.ta-standing-tabs button[aria-pressed=true]{background:#f4c542;color:#111}.ta-form{display:inline-flex;gap:2px}.ta-form span{display:inline-grid;place-items:center;width:15px;height:17px;border-radius:3px;color:white;font-size:10px}.ta-standing-note{font-size:11px;color:#aaa}html[data-view=mobile] .ta-standing{font-size:10px}html[data-view=mobile] .ta-standing td,html[data-view=mobile] .ta-standing th{padding:5px 3px}html[data-view=mobile] .ta-standing td:nth-child(2){position:sticky;left:0;background:#151515;z-index:1}html[data-view=mobile] .ta-standing th:nth-child(2){position:sticky;left:0;z-index:2}html[data-view=mobile] .ta-standing-tabs button{min-height:28px!important;padding:4px!important}
+</style>
+<script>
+window.taStandings=function(area,official,load,pitch,all=[]){
+ const root=document.createElement('div');area.append(root);const mk=(tag,text,parent)=>{const n=document.createElement(tag);n.textContent=text;parent.append(n);return n};
+ const tabs=mk('div','',root);tabs.className='ta-standing-tabs';const note=mk('p','Sonuçlar yükleniyor…',root);note.className='ta-standing-note';const scroll=mk('div','',root);scroll.className='ta-table-scroll';const detail=mk('div','',root);let games=null,mode='TOTAL';
+ const norm=m=>({id:m.id,date:m.time_utc||m.utcDate,h:m.home_team||m.homeTeam,a:m.away_team||m.awayTeam,hg:pitch?m.score_home:m.score?.fullTime?.home,ag:pitch?m.score_away:m.score?.fullTime?.away,status:m.status});
+ const buttons=['TOTAL','HOME','AWAY'].map((k,i)=>{const b=mk('button',['Genel','İç saha','Dış saha'][i],tabs);b.type='button';b.onclick=()=>{mode=k;render()};return b});
+ function computed(){const map=new Map();for(const t of [...all.flatMap(m=>[m.home_team,m.away_team]),...official.flatMap(g=>(g.table||[]).map(r=>r.team)),...(games||[]).flatMap(m=>[m.h,m.a])])if(t?.id&&!map.has(t.id))map.set(t.id,{team:t,playedGames:0,won:0,draw:0,lost:0,goalsFor:0,goalsAgainst:0,points:0});for(const m of games||[]){for(const [t,g,a,side] of [[m.h,m.hg,m.ag,'HOME'],[m.a,m.ag,m.hg,'AWAY']]){if(mode!=='TOTAL'&&mode!==side)continue;const r=map.get(t.id);r.playedGames++;r.goalsFor+=g;r.goalsAgainst+=a;r.won+=+(g>a);r.draw+=+(g===a);r.lost+=+(g<a);r.points+=g>a?3:g===a?1:0;}}return [...map.values()].map(r=>({...r,goalDifference:r.goalsFor-r.goalsAgainst})).sort((a,b)=>b.points-a.points||b.goalDifference-a.goalDifference||b.goalsFor-a.goalsFor||a.team.name.localeCompare(b.team.name,'tr')).map((r,i)=>({...r,position:i+1}));}
+ function recent(t){return (games||[]).filter(m=>(mode!=='AWAY'&&m.h.id===t.id)||(mode!=='HOME'&&m.a.id===t.id)).slice(0,5)}
+ function render(){scroll.replaceChildren();detail.replaceChildren();buttons.forEach((b,i)=>b.setAttribute('aria-pressed',String(['TOTAL','HOME','AWAY'][i]===mode)));let groups=official.filter(g=>g.type===mode&&g.table?.length);const calculated=!groups.length;if(calculated){if(!games?.length){note.textContent='Bu görünüm için yeterli sonuç verisi yok.';return}if(!pitch&&official.filter(g=>g.type==='TOTAL').length>1){note.textContent='Gruplu turnuvada bu görünüm için resmi tablo yok.';return}groups=[{table:computed()}]};note.textContent=(calculated?'Maç sonuçlarından hesaplanmıştır; ceza ve özel sıralama kuralları dahil değildir.':'Football-Data puan tablosu.')+(games===null?' Form verisi bekleniyor veya alınamadı.':' Son 5 maç: en yeni solda.');for(const group of groups){if(group.group)mk('h4',group.group,scroll);const table=mk('table','',scroll);table.className='ta-standing';const head=mk('tr','',mk('thead','',table));for(const h of ['#','Takım','O','G','B','M','AG','YG','AV','Form','P'])mk('th',h,head);const body=mk('tbody','',table);for(const r of group.table){const tr=mk('tr','',body);mk('td',r.position??'—',tr);const td=mk('td','',tr);const b=mk('button','',td);b.type='button';b.className='ta-team-link';const logo=r.team.crest||r.team.image_url;if(typeof logo==='string'&&logo.startsWith('https://')){const img=mk('img','',b);img.src=logo;img.alt='';img.onerror=()=>img.remove()}b.append(document.createTextNode(r.team.shortName||r.team.name));for(const k of ['playedGames','won','draw','lost','goalsFor','goalsAgainst','goalDifference'])mk('td',r[k]??'—',tr);const f=mk('span','',mk('td','',tr));f.className='ta-form';const last=recent(r.team);for(const m of last){const home=m.h.id===r.team.id,g=home?m.hg:m.ag,a=home?m.ag:m.hg;const x=mk('span',g>a?'G':g===a?'B':'M',f);x.style.background=g>a?'#247c43':g===a?'#666':'#a83131'}if(!last.length)f.textContent='—';mk('td',r.points??'—',tr);b.onclick=()=>{detail.replaceChildren();mk('h4',(r.team.name||'Takım')+' – Son maçlar',detail);if(!last.length)mk('p','Sonuç bulunamadı.',detail);for(const m of last)mk('p',new Date(m.date).toLocaleDateString('tr-TR',{timeZone:'Europe/Istanbul'})+' | '+m.h.name+' '+m.hg+' - '+m.ag+' '+m.a.name,detail);};}}}
+ render();Promise.resolve().then(load).then(list=>{games=[...new Map((list||[]).map(norm).filter(m=>m.h?.id&&m.a?.id&&['finished','FINISHED'].includes(m.status)&&Number.isInteger(m.hg)&&Number.isInteger(m.ag)).map(m=>[m.id,m])).values()].sort((a,b)=>new Date(b.date)-new Date(a.date));render()}).catch(()=>{render()});
+};
+</script>
 </body>
 </html>
