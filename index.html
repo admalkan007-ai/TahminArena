@@ -335,5 +335,79 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const lig = [...document.querySelectorAll(".league")]
+    .find(el => el.textContent.includes("Premier League"));
+
+  if (!lig) return;
+
+  const detay = lig.nextElementSibling;
+  if (!detay) return;
+
+  const buton = [...detay.querySelectorAll("button")]
+    .find(el => el.textContent.includes("Maç Sonuçları"));
+
+  if (!buton) return;
+
+  buton.addEventListener("click", async () => {
+    let alan = document.getElementById("pl-mac-sonuclari");
+
+    if (!alan) {
+      alan = document.createElement("div");
+      alan.id = "pl-mac-sonuclari";
+      detay.appendChild(alan);
+    }
+
+    alan.textContent = "Maç sonuçları yükleniyor...";
+
+    try {
+      const cevap = await fetch("./data/premier-league-results.json");
+      if (!cevap.ok) throw new Error("Veri okunamadı");
+
+      const veri = await cevap.json();
+
+      const maclar = veri.matches
+        .filter(mac => mac.status === "FINISHED")
+        .sort((a, b) => new Date(b.utcDate) - new Date(a.utcDate))
+        .slice(0, 10);
+
+      alan.replaceChildren();
+
+      const baslik = document.createElement("h3");
+      baslik.textContent = "⚽ Premier League Maç Sonuçları";
+      alan.appendChild(baslik);
+
+      if (maclar.length === 0) {
+        alan.append("Tamamlanmış maç bulunamadı.");
+        return;
+      }
+
+      maclar.forEach(mac => {
+        const satir = document.createElement("div");
+        satir.style.cssText =
+          "padding:12px 5px;border-bottom:1px solid #444;";
+
+        const tarih = new Date(mac.utcDate)
+          .toLocaleDateString("tr-TR", {
+            timeZone: "Europe/Istanbul"
+          });
+
+        const ev = mac.score.fullTime.home;
+        const dep = mac.score.fullTime.away;
+
+        satir.textContent =
+          `${tarih} | ${mac.homeTeam.shortName} ` +
+          `${ev} - ${dep} ${mac.awayTeam.shortName}`;
+
+        alan.appendChild(satir);
+      });
+    } catch (hata) {
+      alan.textContent = "Maç sonuçları yüklenemedi.";
+    }
+  });
+});
+</script>
+
 </body>
 </html>
