@@ -47,12 +47,11 @@ jobs:
             -o data/premier-league-results.json
 
 
+      
       - name: Verileri GitHub'a kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                  
-git add data/premier-league.json data/premier-league-standings.json data/premier-league-results.json
-
+          git add data/premier-league.json data/premier-league-standings.json data/premier-league-results.json
           git diff --cached --quiet || git commit -m "Futbol verilerini güncelle"
           git push
