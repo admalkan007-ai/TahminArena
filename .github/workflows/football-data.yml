@@ -37,6 +37,16 @@ jobs:
             "https://api.football-data.org/v4/competitions/PL/standings" \
             -o data/premier-league-standings.json
 
+      - name: Premier League mac sonuclarini al
+        env:
+          API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: |
+          curl --fail --silent --show-error \
+            -H "X-Auth-Token: $API_KEY" \
+            "https://api.football-data.org/v4/competitions/PL/matches?status=FINISHED" \
+            -o data/premier-league-results.json
+
+
       - name: Verileri GitHub'a kaydet
         run: |
           git config user.name "github-actions[bot]"
