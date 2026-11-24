@@ -223,7 +223,8 @@ if (premierLeague) {
 
   fiksturButonu.addEventListener("click", async function() {
     const bilgi = detay.querySelector("p");
-    bilgi.textContent = "Fikstür yükleniyor...";
+   document.getElementById("pl-puan-tablosu")?.remove();
+document.getElementById("pl-mac-sonuclari")?.remove();
 
     try {
       const cevap = await fetch("./data/premier-league.json");
