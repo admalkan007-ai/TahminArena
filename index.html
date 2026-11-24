@@ -188,8 +188,8 @@ async function taAttach(row,m,lid){
  if(!taPitchCache.has(lid))taPitchCache.set(lid,fetch('./data/pitch/'+lid+'.json').then(r=>{if(!r.ok)throw Error('Veri yok');return r.json();}).then(j=>{if(j.data?.league?.id!==lid||!Array.isArray(j.data.matches))throw Error('Lig verisi yok');return j.data.matches;}).catch(()=>{taPitchCache.delete(lid);return [];}));
  const list=await taPitchCache.get(lid);if(!row.isConnected)return;
  const candidates=list.filter(x=>/^m_[a-zA-Z0-9]{6}$/.test(x.id||'')&&Math.abs(new Date(x.time_utc)-new Date(m.utcDate))<=300000&&taSameTeam(m.homeTeam,x.home_team)&&taSameTeam(m.awayTeam,x.away_team));
- if(candidates.length===1)window.taStatsButton(actions,{...candidates[0],league_id:lid});
- else {for(const label of ['📊','H2H']){const b=document.createElement('button');b.type='button';b.className='ta-stat-button';b.textContent=label;b.title=label==='H2H'?'Karşılıklı maç geçmişi':'Maç istatistikleri';b.setAttribute('aria-label',b.title);b.onclick=()=>{const dialog=document.getElementById(label==='H2H'?'ta-h2h':'ta-stats');const area=document.getElementById(label==='H2H'?'ta-h2h-content':'ta-stat-content');area.replaceChildren();const h=document.createElement('h3');h.textContent=(m.homeTeam?.shortName||m.homeTeam?.name||'Ev sahibi')+' – '+(m.awayTeam?.shortName||m.awayTeam?.name||'Deplasman');const p=document.createElement('p');p.textContent='Bu maç için doğrulanmış detay verisi henüz bulunamadı. Yanlış maç verisi gösterilmemektedir.';area.append(h,p);if(!dialog.open)dialog.showModal();};actions.append(b);}}
+ if(candidates.length===1)window.taStatsButton(actions,{...candidates[0],league_id:lid,footballMatch:m});
+ else {for(const label of ['📊','H2H']){const b=document.createElement('button');b.type='button';b.className='ta-stat-button';b.textContent=label;b.title=label==='H2H'?'Karşılıklı maç geçmişi':'Maç istatistikleri';b.setAttribute('aria-label',b.title);b.onclick=()=>{if(label==='H2H'){window.taOpenHistory({...m,league_id:lid});return;}const dialog=document.getElementById(label==='H2H'?'ta-h2h':'ta-stats');const area=document.getElementById(label==='H2H'?'ta-h2h-content':'ta-stat-content');area.replaceChildren();const h=document.createElement('h3');h.textContent=(m.homeTeam?.shortName||m.homeTeam?.name||'Ev sahibi')+' – '+(m.awayTeam?.shortName||m.awayTeam?.name||'Deplasman');const p=document.createElement('p');p.textContent='Bu maç için doğrulanmış detay verisi henüz bulunamadı. Yanlış maç verisi gösterilmemektedir.';area.append(h,p);if(!dialog.open)dialog.showModal();};actions.append(b);}}
 }
 window.taCompactRow=function(parent,m,scored,lid){
  const row=document.createElement('div');row.className='ta-match-row'+(scored?' ta-result-row':'');parent.append(row);
@@ -793,14 +793,42 @@ const dialog=document.getElementById('ta-h2h'), area=document.getElementById('ta
 const make=(tag,text,parent,cls)=>{const n=document.createElement(tag);n.textContent=text;if(cls)n.className=cls;parent.append(n);return n;};
 const row=(label,value)=>{const r=make('div','',area,'ta-h2h-row');make('span',label,r);make('strong',String(value),r);};
 document.getElementById('ta-h2h-close').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{seq++;controller?.abort();});
-async function open(m){const current=++seq;controller?.abort();controller=new AbortController();area.replaceChildren();make('p','Karşılaşmalar yükleniyor…',area);if(!dialog.open)dialog.showModal();try{const r=await fetch('https://tahminarena-live.admalkan007.workers.dev/match/'+m.id+'/h2h',{signal:controller.signal});if(!r.ok)throw Error('HTTP '+r.status);const j=await r.json();if(current!==seq)return;if(!j.success||!j.data)throw Error('Veri yok');const d=j.data;area.replaceChildren();const home=d.home_team||m.home_team,away=d.away_team||m.away_team;make('h3',(home?.name||'Ev sahibi')+' – '+(away?.name||'Deplasman'),area);let list=Array.isArray(d.recent_matches)?d.recent_matches:[];let source="PitchAPI H2H";const valid=v=>v!==null&&v!==undefined&&v!==''&&Number.isInteger(Number(v))&&Number(v)>=0;let games=list.filter(x=>x.finished===true&&new Date(x.time_utc)<new Date(m.time_utc||Date.now())&&valid(x.score_home)&&valid(x.score_away)&&((x.home?.id===home?.id&&x.away?.id===away?.id)||(x.home?.id===away?.id&&x.away?.id===home?.id))).sort((a,b)=>String(b.time_utc).localeCompare(String(a.time_utc))).slice(0,10);if(!games.length){
-const lid=m.league_id||m.league?.id;
-if(/^l_[a-zA-Z0-9]+$/.test(lid||'')){
-try{const rr=await fetch('./data/pitch/'+lid+'.json',{signal:controller.signal});if(!rr.ok)throw Error('Lig dosyası');const dd=(await rr.json()).data;if(current!==seq)return;if(dd?.league?.id!==lid||!Array.isArray(dd.matches))throw Error('Lig verisi');
-games=[...new Map(dd.matches.filter(x=>x.id&&x.id!==m.id&&x.status==='finished'&&valid(x.score_home)&&valid(x.score_away)&&new Date(x.time_utc)<new Date(m.time_utc||Date.now())&&((x.home_team?.id===home?.id&&x.away_team?.id===away?.id)||(x.home_team?.id===away?.id&&x.away_team?.id===home?.id))).map(x=>[x.id,{...x,home:x.home_team,away:x.away_team,finished:true}])).values()].sort((a,b)=>String(b.time_utc).localeCompare(String(a.time_utc))).slice(0,10);source='PitchAPI lig sonuçları (kayıtlı sezon)';}catch(e){if(current!==seq)return;source='PitchAPI H2H (lig dosyası okunamadı)';}
-}}
-if(!games.length){make('p','Yeterli karşılaşma verisi bulunamadı.',area);}else{let hw=0,aw=0,draw=0,goals=0,over=0,btts=0;for(const x of games){const h=Number(x.score_home),a=Number(x.score_away);goals+=h+a;over+=Number(h+a>2);btts+=Number(h>0&&a>0);if(h===a)draw++;else if((h>a&&x.home.id===home.id)||(a>h&&x.away.id===home.id))hw++;else aw++;}const n=games.length,pct=v=>'%'+(100*v/n).toFixed(1);make('h4','Son '+n+' tamamlanmış karşılaşma',area);row(home.name+' galibiyeti',hw);row('Beraberlik',draw);row(away.name+' galibiyeti',aw);row('Maç başına gol',(goals/n).toFixed(2));row('2.5 üst',pct(over));row('2.5 alt',pct(n-over));row('Karşılıklı gol var',pct(btts));row('Karşılıklı gol yok',pct(n-btts));make('h4','Geçmiş sonuçlar',area);for(const x of games)row(new Date(x.time_utc).toLocaleDateString('tr-TR',{timeZone:'Europe/Istanbul'})+' • '+x.home.name+' – '+x.away.name,x.score_home+' - '+x.score_away);}
-const upcoming=list.filter(x=>x.finished===false&&new Date(x.time_utc).getTime()>Date.now());if(upcoming.length){make('h4','Gelecek karşılaşmalar',area);for(const x of upcoming)row(x.home?.name+' – '+x.away?.name,new Date(x.time_utc).toLocaleString('tr-TR',{timeZone:'Europe/Istanbul'}));}make('p','Kaynak: '+source+'. Analiz yalnızca listelenen tamamlanmış maçlara dayanır.',area);}catch(e){if(current===seq){area.replaceChildren();make('p','H2H verisi alınamadı. Daha sonra tekrar dene.',area);}}}
+async function open(m){
+ const current=++seq;controller?.abort();controller=new AbortController();const signal=controller.signal;
+ area.replaceChildren();make('p','Karşılaşmalar yükleniyor…',area);if(!dialog.open)dialog.showModal();
+ const lid=m.league_id||m.league?.id, fm=m.footballMatch||m;
+ const home=m.home_team||fm.homeTeam,away=m.away_team||fm.awayTeam;
+ const cutoff=Math.min(Date.now(),new Date(m.time_utc||fm.utcDate||Date.now()).getTime());
+ const slugs={PL:'premier-league',PD:'la-liga',BL1:'bundesliga',SA:'serie-a',FL1:'ligue-1',DED:'eredivisie',PPL:'primeira-liga',CL:'champions-league',WC:'world-cup'};
+ const code=Object.keys(window.taPitchIds).find(k=>window.taPitchIds[k]===lid);
+ const jobs=[];let loaded=0;
+ async function read(path,parse){try{const r=await fetch(path,{signal});if(!r.ok)return [];const j=await r.json();const list=parse(j);if(!Array.isArray(list))return [];loaded++;return list;}catch{return [];}}
+ if(/^l_[a-zA-Z0-9]+$/.test(lid||'')){
+ jobs.push(read('./data/pitch/'+lid+'.json',j=>j.data?.league?.id===lid?j.data.matches:null));
+ for(const season of ['2021-2022','2022-2023','2023-2024','2024-2025','2025-2026','2021','2022','2023','2024','2025','2026'])jobs.push(read('./data/pitch-history/'+lid+'/'+season+'.json',j=>j.data?.league?.id===lid?j.data.matches:null));
+ }
+ if(code)jobs.push(read('./data/'+slugs[code]+'-results.json',j=>j.competition?.code===code?j.matches:null));
+ if(/^m_[a-zA-Z0-9]{6}$/.test(m.id||''))jobs.push(read('https://tahminarena-live.admalkan007.workers.dev/match/'+m.id+'/h2h',j=>j.success?j.data?.recent_matches:null));
+ const lists=await Promise.all(jobs);if(current!==seq)return;
+ const same=(x,y)=>!!x&&!!y&&((x.id!=null&&y.id!=null&&String(x.id)===String(y.id))||taSameTeam(x,y));
+ const isHome=t=>same(t,home)||same(t,fm.homeTeam),isAway=t=>same(t,away)||same(t,fm.awayTeam);
+ const games=new Map();for(const x of lists.flat()){
+ if(!(x.finished===true||['finished','FINISHED'].includes(x.status)))continue;
+ const h=x.home_team||x.homeTeam||x.home,a=x.away_team||x.awayTeam||x.away;
+ const direct=isHome(h)&&isAway(a),reverse=isAway(h)&&isHome(a);if(direct===reverse)continue;
+ const time=x.time_utc||x.utcDate;const stamp=new Date(time).getTime();if(!Number.isFinite(stamp)||stamp>=cutoff)continue;
+ const hs=x.score_home??x.score?.fullTime?.home,as=x.score_away??x.score?.fullTime?.away;
+ if(hs==null||as==null||hs===''||as===''||!Number.isInteger(Number(hs))||!Number.isInteger(Number(as))||Number(hs)<0||Number(as)<0)continue;
+ const day=new Date(time).toLocaleDateString('en-CA',{timeZone:'Europe/Istanbul'});const key=day+'|'+direct;
+ if(!games.has(key))games.set(key,{time,h,a,hs:Number(hs),as:Number(as),direct});
+ }
+ const list=[...games.values()].sort((a,b)=>new Date(b.time)-new Date(a.time)).slice(0,10);
+ area.replaceChildren();make('h3',(home?.name||'Ev sahibi')+' – '+(away?.name||'Deplasman'),area);
+ if(!list.length){make('p',loaded?'Kayıtlı sonuçlarda bu iki takımın önceki karşılaşması bulunamadı.':'Maç sonuçları dosyaları okunamadı.',area);return;}
+ let hw=0,aw=0,draw=0,goals=0,over=0,btts=0;for(const x of list){goals+=x.hs+x.as;over+=Number(x.hs+x.as>2);btts+=Number(x.hs>0&&x.as>0);if(x.hs===x.as)draw++;else if((x.hs>x.as)===x.direct)hw++;else aw++;}
+ const n=list.length,pct=v=>'%'+(100*v/n).toFixed(1);make('h4','Son '+n+' karşılıklı maç',area);row(home.name+' galibiyeti',hw);row('Beraberlik',draw);row(away.name+' galibiyeti',aw);row('Maç başına gol',(goals/n).toFixed(2));row('2.5 üst',pct(over));row('2.5 alt',pct(n-over));row('Karşılıklı gol var',pct(btts));row('Karşılıklı gol yok',pct(n-btts));make('h4','Geçmiş maç sonuçları',area);for(const x of list)row(new Date(x.time).toLocaleDateString('tr-TR',{timeZone:'Europe/Istanbul'})+' • '+x.h.name+' – '+x.a.name,x.hs+' - '+x.as);make('p','Kaynak: erişilebilen lig sonuçları, sezon arşivi ve PitchAPI H2H. Yalnızca doğrulanabilen kayıtlar.',area);
+}
+window.taOpenHistory=open;
 const old=window.taStatsButton;window.taStatsButton=(parent,m)=>{old(parent,m);if(!/^m_[a-zA-Z0-9]{6}$/.test(m.id||''))return;const b=make('button','H2H',parent,'ta-stat-button');b.type='button';b.setAttribute('aria-label',b.textContent);b.title=b.textContent;b.onclick=e=>{e.stopPropagation();open(m);};};
 })();
 </script>
