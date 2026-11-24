@@ -1,0 +1,152 @@
+
+name: PitchAPI Gecmis Sezon Arsivi
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pitch-history
+  cancel-in-progress: false
+
+jobs:
+  history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu ac
+        uses: actions/checkout@v4
+
+      - name: Gecmis sezonlari indir
+        env:
+          PITCH_API_KEY: ${{ secrets.PITCH_API_KEY }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          API="https://api.pitchapi.dev"
+          ID="l_0S1uaf"
+
+          mkdir -p "data/pitch-history/$ID"
+
+          SEASONS=(
+            "2021/2022"
+            "2022/2023"
+            "2023/2024"
+            "2024/2025"
+            "2025/2026"
+          )
+
+          BASARILI=0
+
+          for SEASON in "${SEASONS[@]}"; do
+
+            FILE="${SEASON//\//-}"
+
+            echo "================================"
+            echo "Super Lig - $SEASON"
+            echo "================================"
+
+            if curl --fail --silent --show-error \
+              --retry 3 \
+              --retry-delay 5 \
+              --max-time 90 \
+              -H "X-API-KEY: $PITCH_API_KEY" \
+              --get "$API/v1/leagues/$ID/matches" \
+              --data-urlencode "season=$SEASON" \
+              --data-urlencode "status=played" \
+              -o /tmp/history.json; then
+
+              if jq -e \
+                --arg id "$ID" \
+                --arg season "$SEASON" \
+                '.data.league.id == $id and
+                 .data.league.season == $season and
+                 (.data.matches | type == "array")' \
+                /tmp/history.json > /dev/null; then
+
+                jq '.data.matches |= map(
+                  select(
+                    .status == "finished" and
+                    .score_home != null and
+                    .score_away != null
+                  )
+                )' /tmp/history.json \
+                  > /tmp/finished.json
+
+                COUNT=$(jq \
+                  '.data.matches | length' \
+                  /tmp/finished.json)
+
+                if [ "$COUNT" -gt 0 ]; then
+
+                  cp /tmp/finished.json \
+                    "data/pitch-history/$ID/$FILE.json"
+
+                  echo "BASARILI: $COUNT mac"
+
+                  BASARILI=$((BASARILI + 1))
+
+                  jq -r '
+                    .data.matches[]
+                    | select(
+                      (
+                        .home_team.name + " " +
+                        .away_team.name
+                      ) | test("Beşiktaş"; "i")
+                    )
+                    | select(
+                      (
+                        .home_team.name + " " +
+                        .away_team.name
+                      ) | test("Galatasaray"; "i")
+                    )
+                    | [
+                        .time_utc,
+                        .home_team.name,
+                        .score_home,
+                        .score_away,
+                        .away_team.name
+                      ]
+                    | @tsv
+                  ' /tmp/finished.json
+
+                else
+                  echo "Bu sezonda mac bulunamadi."
+                fi
+
+              else
+                echo "Sezon veya veri dogrulanamadi."
+              fi
+
+            else
+              echo "API istegi basarisiz."
+            fi
+
+            sleep 3
+
+          done
+
+          echo "Basarili sezon sayisi: $BASARILI / 5"
+
+          if [ "$BASARILI" -eq 0 ]; then
+            echo "Gecmis sezon verisi alinamadi."
+            exit 1
+          fi
+
+      - name: Arsivi GitHub'a kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/pitch-history/
+
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok."
+          else
+            git commit -m "PitchAPI gecmis sezon arsivi"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
