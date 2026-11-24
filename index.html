@@ -179,6 +179,23 @@ nav button.active {
 </nav>
 
 <script>
+window.taCompactRow=function(parent,m,scored){
+ const row=document.createElement('div');row.className='ta-match-row';parent.append(row);
+ const date=new Date(m.time_utc||m.utcDate||m.date), home=m.home_team||m.homeTeam, away=m.away_team||m.awayTeam;
+ const h=m.score_home??m.score?.fullTime?.home,a=m.score_away??m.score?.fullTime?.away;
+ const name=t=>t?.shortName||t?.name||'Takım';
+ const fmt=o=>date.toLocaleString('tr-TR',{timeZone:'Europe/Istanbul',...o});
+ const day=fmt({day:'2-digit',month:'2-digit',year:'numeric'}),time=fmt({hour:'2-digit',minute:'2-digit'});
+ const old=document.createElement('div');old.className='ta-original-match';old.textContent=day+(scored?'':' '+time)+' | '+name(home)+' '+(scored?(h??'—')+' - '+(a??'—'):'-')+' '+name(away);row.append(old);
+ const prev=row.previousElementSibling;if(prev?.dataset.matchDay!==day){const heading=document.createElement('div');heading.className='ta-match-day';heading.textContent=day;row.before(heading);}row.dataset.matchDay=day;
+ const line=document.createElement('div');line.className='ta-compact-line';row.append(line);
+ function text(v,c){const n=document.createElement('span');n.className=c;n.textContent=v;line.append(n);return n;}
+ function team(t,c){const n=text('',c);const url=t?.image_url||t?.crest;if(typeof url==='string'&&url.startsWith('https://')){const img=document.createElement('img');img.src=url;img.alt='';img.loading='lazy';img.onerror=()=>img.remove();n.append(img);}const label=document.createElement('span');label.textContent=name(t);n.append(label);n.title=name(t);}
+ text(scored?'MS':time,'ta-match-time');team(home,'ta-match-home');text(scored?(h??'—')+' - '+(a??'—'):'–','ta-match-score');team(away,'ta-match-away');
+ return row;
+};
+</script>
+<script>
 function showPage(id, button) {
   document.querySelectorAll(".page").forEach(function(page) {
     page.classList.remove("active");
@@ -250,29 +267,7 @@ document.getElementById("pl-mac-sonuclari")?.remove();
 
       bilgi.replaceChildren();
 
-      maclar.forEach(mac => {
-        const satir = document.createElement("div");
-        const tarih = new Date(mac.utcDate);
-
-        satir.style.padding = "10px 0";
-        satir.style.borderBottom = "1px solid #393939";
-
-        satir.textContent =
-          tarih.toLocaleString("tr-TR", {
-            timeZone: "Europe/Istanbul",
-            day: "2-digit",
-            month: "2-digit",
-            year: "numeric",
-            hour: "2-digit",
-            minute: "2-digit"
-          }) +
-          " | " +
-          mac.homeTeam.shortName +
-          " - " +
-          mac.awayTeam.shortName;
-
-        bilgi.appendChild(satir);
-      });
+      maclar.forEach(mac => window.taCompactRow(bilgi,mac,false));
 
       if (maclar.length === 0) {
         bilgi.textContent = "Planlanmış maç bulunamadı.";
@@ -466,25 +461,7 @@ document.getElementById("pl-puan-tablosu")?.remove();
         return;
       }
 
-      maclar.forEach(mac => {
-        const satir = document.createElement("div");
-        satir.style.cssText =
-          "padding:12px 5px;border-bottom:1px solid #444;";
-
-        const tarih = new Date(mac.utcDate)
-          .toLocaleDateString("tr-TR", {
-            timeZone: "Europe/Istanbul"
-          });
-
-        const ev = mac.score.fullTime.home;
-        const dep = mac.score.fullTime.away;
-
-        satir.textContent =
-          `${tarih} | ${mac.homeTeam.shortName} ` +
-          `${ev} - ${dep} ${mac.awayTeam.shortName}`;
-
-        alan.appendChild(satir);
-      });
+      maclar.forEach(mac => window.taCompactRow(alan,mac,true));
     } catch (hata) {
       alan.textContent = "Maç sonuçları yüklenemedi.";
     }
@@ -572,7 +549,7 @@ document.getElementById("pl-puan-tablosu")?.remove();
           const zaman = new Date(m.utcDate).toLocaleString('tr-TR', {
             timeZone:'Europe/Istanbul',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'
           });
-          satir(`${zaman} | ${ad(m.homeTeam)} - ${ad(m.awayTeam)}`);
+          window.taCompactRow(alan,m,false);
         }
       } catch(e) { if (no === istek) alan.textContent = `${ligBilgi.isim} fikstürü yüklenemedi: ${e.message}`; }
     });
@@ -642,7 +619,7 @@ document.getElementById("pl-puan-tablosu")?.remove();
         alan.replaceChildren();
         baslik(`⚽ ${ligBilgi.isim} Maç Sonuçları`);
         if (!maclar.length) satir('Veri dosyasında tamamlanmış maç bulunamadı.');
-        for (const m of maclar) satir(`${tarih(m.utcDate)} | ${skor(m)}`);
+        for (const m of maclar) window.taCompactRow(alan,m,true);
       } catch(e) { if (no === istek) alan.textContent = `${ligBilgi.isim} maç sonuçları yüklenemedi: ${e.message}`; }
     });
   }
@@ -682,7 +659,7 @@ const title=label(l);const existing=[...root.querySelectorAll('.league')].find(n
 let head,detail;if(existing){head=existing;detail=existing.nextElementSibling;detail.replaceChildren();}else{head=el('div',title,card);head.className='league';detail=el('div','',card);detail.className='league-detail';head.onclick=()=>{const open=detail.classList.contains('open');document.querySelectorAll('.league-detail').forEach(d=>d.classList.remove('open'));if(!open)detail.classList.add('open');};}
 const buttons=['📅 Fikstür','🏆 Puan Durumu','⚽ Maç Sonuçları'].map(t=>el('button',t,detail));const area=el('div','',detail);let seq=0;
 buttons.forEach((b,i)=>b.onclick=async()=>{const s=++seq;area.textContent='Yükleniyor...';try{const d=(await get(`./data/pitch/${l.id}.json`)).data;if(d?.league?.id!==l.id||!Array.isArray(d.matches))throw Error('Lig verisi geçersiz');if(s!==seq)return;const all=[...new Map(d.matches.filter(m=>m.id&&m.home_team?.id&&m.away_team?.id).map(m=>[m.id,m])).values()];const done=all.filter(finished).sort((a,b)=>date(b)-date(a));area.replaceChildren();el('h3',`${title} — ${d.league.season||''}`,area);
-if(i!==1){const list=i===0?all.filter(m=>m.status==='not_started'&&date(m)>=new Date()).sort((a,b)=>date(a)-date(b)):done;if(!list.length)row(area,'Maç bulunamadı.');list.slice(0,10).forEach(m=>{const r=row(area,line(m,i===2));window.taStatsButton(r,{...m,league_id:l.id});});return;}
+if(i!==1){const list=i===0?all.filter(m=>m.status==='not_started'&&date(m)>=new Date()).sort((a,b)=>date(a)-date(b)):done;if(!list.length)row(area,'Maç bulunamadı.');list.slice(0,10).forEach(m=>{const r=window.taCompactRow(area,m,i===2);const actions=document.createElement('div');actions.className='ta-match-actions';r.append(actions);window.taStatsButton(actions,{...m,league_id:l.id});const line=r.querySelector('.ta-compact-line');line.setAttribute('role','button');line.tabIndex=0;line.setAttribute('aria-expanded','false');const toggle=()=>{const open=r.classList.toggle('ta-expanded');line.setAttribute('aria-expanded',String(open));};line.onclick=toggle;line.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle();}};});return;}
 el('p','Hesaplanan puanlar (resmi tablo değildir). Grup, etap, ceza ve özel sıralama kuralları dahil değildir.',area);
 if(l.country_code==='INT-2'){row(area,'Turnuva etapları ayrıştırılmadığı için güvenilir puan tablosu gösterilemiyor.');return;}
 const teams=new Map();for(const m of all)for(const t of [m.home_team,m.away_team])if(!teams.has(t.id))teams.set(t.id,{...t,p:0,o:0,g:0});
@@ -854,6 +831,15 @@ html[data-view="mobile"] body {font-size:12px;-webkit-text-size-adjust:100%;text
 html[data-view="mobile"] .league-detail div {font-size:12px;overflow-wrap:anywhere;}
 html[data-view="mobile"] .league-detail button {font-size:11px !important;}
 html[data-view="mobile"] #ta-view button {font-size:11px;}
+</style>
+<style>
+.ta-match-day,.ta-compact-line{display:none}.ta-original-match{padding:10px 5px;border-bottom:1px solid #444}.ta-match-actions{display:block}
+html[data-view="mobile"] .ta-original-match{display:none}
+html[data-view="mobile"] .ta-match-day{display:block;background:#292929;color:#f4c542;font-size:11px;padding:4px 5px;margin-top:5px;font-weight:bold}
+html[data-view="mobile"] .ta-compact-line{display:grid;grid-template-columns:33px minmax(0,1fr) 40px minmax(0,1fr);gap:3px;align-items:center;min-height:34px;border-bottom:1px solid #383838;padding:3px 1px;font-size:11px;line-height:1.2}
+html[data-view="mobile"] .ta-match-time{font-size:10px;color:#bbb}html[data-view="mobile"] .ta-match-score{text-align:center;color:#f4c542;font-weight:bold;white-space:nowrap}
+html[data-view="mobile"] .ta-match-home,html[data-view="mobile"] .ta-match-away{display:flex;align-items:center;gap:3px;min-width:0}html[data-view="mobile"] .ta-match-home{justify-content:flex-end;text-align:right}html[data-view="mobile"] .ta-match-home img{order:2}html[data-view="mobile"] .ta-compact-line img{width:16px;height:16px;object-fit:contain;flex-shrink:0}html[data-view="mobile"] .ta-match-home span,html[data-view="mobile"] .ta-match-away span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+html[data-view="mobile"] .ta-match-actions{display:none}html[data-view="mobile"] .ta-expanded .ta-match-actions{display:flex;justify-content:center}html[data-view="mobile"] .ta-compact-line[role=button]{cursor:pointer}html[data-view="mobile"] #leagues .card{padding:5px}html[data-view="mobile"] .league-detail{padding:4px 2px;border-left-width:1px}html[data-view="mobile"] .league-detail .ta-match-row{padding:0!important}
 </style>
 </body>
 </html>
