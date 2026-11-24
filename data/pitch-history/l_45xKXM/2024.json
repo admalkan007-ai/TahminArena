@@ -1,0 +1,3252 @@
+{
+  "data": {
+    "league": {
+      "id": "l_45xKXM",
+      "name": "Virsliga",
+      "season": "2024",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/44c82a19fd06e6a335bbb1e39ce3928b3d166ec00b8e828b43e7ddaab6dbe453.webp"
+    },
+    "matches": [
+      {
+        "id": "m_0SKOPZ",
+        "date": "2024-03-08",
+        "time_utc": "2024-03-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_04reSv",
+        "date": "2024-03-09",
+        "time_utc": "2024-03-09T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3OZRTB",
+        "date": "2024-03-09",
+        "time_utc": "2024-03-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4TdIEt",
+        "date": "2024-03-10",
+        "time_utc": "2024-03-10T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1IwpIK",
+        "date": "2024-03-10",
+        "time_utc": "2024-03-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0QsnKH",
+        "date": "2024-03-15",
+        "time_utc": "2024-03-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_33UafQ",
+        "date": "2024-03-16",
+        "time_utc": "2024-03-16T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4bncg5",
+        "date": "2024-03-16",
+        "time_utc": "2024-03-16T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4ZbxN3",
+        "date": "2024-03-16",
+        "time_utc": "2024-03-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3IrsKg",
+        "date": "2024-03-17",
+        "time_utc": "2024-03-17T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1QYCQr",
+        "date": "2024-03-29",
+        "time_utc": "2024-03-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1fp3Pd",
+        "date": "2024-03-30",
+        "time_utc": "2024-03-30T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1ZTDC0",
+        "date": "2024-03-30",
+        "time_utc": "2024-03-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2GEGDW",
+        "date": "2024-03-31",
+        "time_utc": "2024-03-31T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3qbBaS",
+        "date": "2024-03-31",
+        "time_utc": "2024-03-31T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3xZWse",
+        "date": "2024-04-03",
+        "time_utc": "2024-04-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_11BKhH",
+        "date": "2024-04-03",
+        "time_utc": "2024-04-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_39gWSX",
+        "date": "2024-04-04",
+        "time_utc": "2024-04-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0FlKER",
+        "date": "2024-04-04",
+        "time_utc": "2024-04-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1rMJoJ",
+        "date": "2024-04-05",
+        "time_utc": "2024-04-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2RPO3v",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Bd3SB",
+        "date": "2024-04-08",
+        "time_utc": "2024-04-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1bDNTf",
+        "date": "2024-04-08",
+        "time_utc": "2024-04-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3lHLx6",
+        "date": "2024-04-09",
+        "time_utc": "2024-04-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Wyydj",
+        "date": "2024-04-09",
+        "time_utc": "2024-04-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3bm6Tm",
+        "date": "2024-04-12",
+        "time_utc": "2024-04-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4SWWyD",
+        "date": "2024-04-12",
+        "time_utc": "2024-04-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1qvQr5",
+        "date": "2024-04-13",
+        "time_utc": "2024-04-13T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2LMYRu",
+        "date": "2024-04-13",
+        "time_utc": "2024-04-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2FtMwj",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_01bwMF",
+        "date": "2024-04-16",
+        "time_utc": "2024-04-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0kUJlr",
+        "date": "2024-04-17",
+        "time_utc": "2024-04-17T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1c6p7k",
+        "date": "2024-04-17",
+        "time_utc": "2024-04-17T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3wF262",
+        "date": "2024-04-18",
+        "time_utc": "2024-04-18T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1tFLSl",
+        "date": "2024-04-18",
+        "time_utc": "2024-04-18T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2LceZ0",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0NpFhy",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2FSbjQ",
+        "date": "2024-04-22",
+        "time_utc": "2024-04-22T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3TLh61",
+        "date": "2024-04-23",
+        "time_utc": "2024-04-23T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2hsO3B",
+        "date": "2024-04-23",
+        "time_utc": "2024-04-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0YyAdJ",
+        "date": "2024-04-26",
+        "time_utc": "2024-04-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0UtMmc",
+        "date": "2024-04-27",
+        "time_utc": "2024-04-27T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3lisHC",
+        "date": "2024-04-27",
+        "time_utc": "2024-04-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2jqF9o",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ZBcZf",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_41koM4",
+        "date": "2024-05-01",
+        "time_utc": "2024-05-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Hd9gk",
+        "date": "2024-05-01",
+        "time_utc": "2024-05-01T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1yMVQs",
+        "date": "2024-05-02",
+        "time_utc": "2024-05-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3WMQiH",
+        "date": "2024-05-02",
+        "time_utc": "2024-05-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4UqPBO",
+        "date": "2024-05-03",
+        "time_utc": "2024-05-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1RVkb2",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ohHnW",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ckorV",
+        "date": "2024-05-06",
+        "time_utc": "2024-05-06T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0rwx6u",
+        "date": "2024-05-07",
+        "time_utc": "2024-05-07T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3EXZ3P",
+        "date": "2024-05-07",
+        "time_utc": "2024-05-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_04Lae2",
+        "date": "2024-05-10",
+        "time_utc": "2024-05-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1DFb0m",
+        "date": "2024-05-10",
+        "time_utc": "2024-05-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3x7eps",
+        "date": "2024-05-11",
+        "time_utc": "2024-05-11T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JV5nJ",
+        "date": "2024-05-11",
+        "time_utc": "2024-05-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4euIU0",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3XQl4e",
+        "date": "2024-05-14",
+        "time_utc": "2024-05-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3D8xMQ",
+        "date": "2024-05-15",
+        "time_utc": "2024-05-15T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1KMQCS",
+        "date": "2024-05-15",
+        "time_utc": "2024-05-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0bLd5Y",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Og1fm",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3cQn3R",
+        "date": "2024-05-19",
+        "time_utc": "2024-05-19T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_0o0i92",
+        "date": "2024-05-19",
+        "time_utc": "2024-05-19T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3oXfsj",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1NBqS2",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_2xaA5G",
+        "date": "2024-05-21",
+        "time_utc": "2024-05-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0m9huA",
+        "date": "2024-05-23",
+        "time_utc": "2024-05-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3E0IyO",
+        "date": "2024-05-24",
+        "time_utc": "2024-05-24T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1ilCSz",
+        "date": "2024-05-24",
+        "time_utc": "2024-05-24T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3xyH3d",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0PuIbG",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1CYiEv",
+        "date": "2024-05-28",
+        "time_utc": "2024-05-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wLCmE",
+        "date": "2024-05-28",
+        "time_utc": "2024-05-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0OIKCd",
+        "date": "2024-05-29",
+        "time_utc": "2024-05-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_31r67o",
+        "date": "2024-05-29",
+        "time_utc": "2024-05-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_24do7x",
+        "date": "2024-05-29",
+        "time_utc": "2024-05-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1qH9b4",
+        "date": "2024-06-01",
+        "time_utc": "2024-06-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 1,
+        "score_away": 6
+      },
+      {
+        "id": "m_2d1iVU",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3AAVg2",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0BJpAa",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3Rr8mI",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0l3ATE",
+        "date": "2024-06-14",
+        "time_utc": "2024-06-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_4AoEeg",
+        "date": "2024-06-15",
+        "time_utc": "2024-06-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3lqhYf",
+        "date": "2024-06-16",
+        "time_utc": "2024-06-16T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0mtKFc",
+        "date": "2024-06-16",
+        "time_utc": "2024-06-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_07oBUS",
+        "date": "2024-06-16",
+        "time_utc": "2024-06-16T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2OiA6q",
+        "date": "2024-06-20",
+        "time_utc": "2024-06-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_45iSRp",
+        "date": "2024-06-20",
+        "time_utc": "2024-06-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dp00Q",
+        "date": "2024-06-21",
+        "time_utc": "2024-06-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3G8LO5",
+        "date": "2024-06-21",
+        "time_utc": "2024-06-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_15W8Vm",
+        "date": "2024-06-22",
+        "time_utc": "2024-06-22T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_0AP0rg",
+        "date": "2024-06-25",
+        "time_utc": "2024-06-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_14y0p2",
+        "date": "2024-06-26",
+        "time_utc": "2024-06-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3OtbaG",
+        "date": "2024-06-26",
+        "time_utc": "2024-06-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ERvGJ",
+        "date": "2024-06-26",
+        "time_utc": "2024-06-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0VSxko",
+        "date": "2024-06-27",
+        "time_utc": "2024-06-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2JwE91",
+        "date": "2024-07-01",
+        "time_utc": "2024-07-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_44yhxA",
+        "date": "2024-07-01",
+        "time_utc": "2024-07-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3bhepD",
+        "date": "2024-07-02",
+        "time_utc": "2024-07-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2LHJAH",
+        "date": "2024-07-02",
+        "time_utc": "2024-07-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_07xbiK",
+        "date": "2024-07-03",
+        "time_utc": "2024-07-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2k3zh0",
+        "date": "2024-07-05",
+        "time_utc": "2024-07-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 7,
+        "score_away": 0
+      },
+      {
+        "id": "m_2lUoiu",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3CP5RL",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_23AkFq",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3slxj8",
+        "date": "2024-07-08",
+        "time_utc": "2024-07-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3FZb30",
+        "date": "2024-07-19",
+        "time_utc": "2024-07-19T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_0c2A8E",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3IX1cC",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_23jlEL",
+        "date": "2024-07-22",
+        "time_utc": "2024-07-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3MHuuj",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2SSZrG",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_35Z7ls",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3cS4ms",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0GWMvb",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Kheh6",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2iSTr1",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3SmLw7",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_0a5ZB2",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1vgmr0",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_16toMU",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3FHWzx",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XVUde",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3c08on",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Bsubg",
+        "date": "2024-08-23",
+        "time_utc": "2024-08-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0qVAQb",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4PCmgl",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2s1swS",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1O0Jtc",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_22Zoz0",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0yz4BJ",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_2B5GTl",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0lZMWq",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1L6dqD",
+        "date": "2024-09-13",
+        "time_utc": "2024-09-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_26TtRg",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_40gjsR",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3lBxDQ",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3NHzWu",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4ALmku",
+        "date": "2024-09-17",
+        "time_utc": "2024-09-17T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3spPjc",
+        "date": "2024-09-19",
+        "time_utc": "2024-09-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4AnxSe",
+        "date": "2024-09-20",
+        "time_utc": "2024-09-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0gTWBY",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3FLhBf",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_247tQy",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2KdrUG",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2qaoHe",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1RxUV4",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2xjNV4",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3PQMM2",
+        "date": "2024-09-30",
+        "time_utc": "2024-09-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Ejvfs",
+        "date": "2024-10-02",
+        "time_utc": "2024-10-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1z4c26",
+        "date": "2024-10-04",
+        "time_utc": "2024-10-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_0AVwSj",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4HnT4a",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2sjsu6",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2z4t7H",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Qswjs",
+        "date": "2024-10-17",
+        "time_utc": "2024-10-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4DiGzj",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_0oJz33",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_35gLqA",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0CKvbm",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Y9AtU",
+        "date": "2024-10-21",
+        "time_utc": "2024-10-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_45EtHJ",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4XIqpT",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Oo7dM",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0YgQkO",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 10,
+        "score_away": 1
+      },
+      {
+        "id": "m_2a7iRV",
+        "date": "2024-10-28",
+        "time_utc": "2024-10-28T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3hqd68",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ibGHC",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3uCuaF",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_17fVIE",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_01LNAO",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0AlqAb",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_4gGmpi",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3VNrKG",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3spJow",
+          "name": "Valmiera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ed83f9f034cb7424f08c7e8081bd4220beae6aa9c0850e18024a20fed3cfefc3.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2V9Whp",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_448uU8",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      }
+    ]
+  }
+}

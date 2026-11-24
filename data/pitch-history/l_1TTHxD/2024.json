@@ -1,0 +1,2892 @@
+{
+  "data": {
+    "league": {
+      "id": "l_1TTHxD",
+      "name": "Besta deild",
+      "season": "2024",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/283e103e268e29cc01e35372e69d700a6f4b75ab54f665ac93afc7346e6e9c92.webp"
+    },
+    "matches": [
+      {
+        "id": "m_37cd3F",
+        "date": "2024-04-06",
+        "time_utc": "2024-04-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1SzWdr",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1LfKRi",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wt3HA",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_46D2TA",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_3NGAOG",
+        "date": "2024-04-08",
+        "time_utc": "2024-04-08T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_252zFj",
+        "date": "2024-04-12",
+        "time_utc": "2024-04-12T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_355uIL",
+        "date": "2024-04-13",
+        "time_utc": "2024-04-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0gY4pI",
+        "date": "2024-04-13",
+        "time_utc": "2024-04-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_191uUZ",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_39I2od",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_24RkHL",
+        "date": "2024-04-15",
+        "time_utc": "2024-04-15T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1VC2FY",
+        "date": "2024-04-19",
+        "time_utc": "2024-04-19T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Nvvnd",
+        "date": "2024-04-20",
+        "time_utc": "2024-04-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0KosRA",
+        "date": "2024-04-20",
+        "time_utc": "2024-04-20T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2neNhp",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0C3ZbF",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_07yTnD",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0pZ1DI",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2YK57i",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0NAAlr",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VYoF4",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0XsLNH",
+        "date": "2024-04-29",
+        "time_utc": "2024-04-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4dbmWS",
+        "date": "2024-04-29",
+        "time_utc": "2024-04-29T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Lgd4Z",
+        "date": "2024-05-04",
+        "time_utc": "2024-05-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0kt0Y5",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0FBXvM",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_23KCQj",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0IrxAH",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3OwoUS",
+        "date": "2024-05-06",
+        "time_utc": "2024-05-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3K8Uve",
+        "date": "2024-05-10",
+        "time_utc": "2024-05-10T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3mMAOG",
+        "date": "2024-05-11",
+        "time_utc": "2024-05-11T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_48AGC3",
+        "date": "2024-05-11",
+        "time_utc": "2024-05-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2iG4n5",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Sciqo",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_08U9n0",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1hZpiD",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_1DWDc6",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Rbfa0",
+        "date": "2024-05-21",
+        "time_utc": "2024-05-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Mh3Da",
+        "date": "2024-05-21",
+        "time_utc": "2024-05-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0CxIAW",
+        "date": "2024-05-21",
+        "time_utc": "2024-05-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kHeDN",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2QMte4",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0qnPOV",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3z6iIy",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_3lpvvq",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_04LYiu",
+        "date": "2024-05-27",
+        "time_utc": "2024-05-27T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_31U06j",
+        "date": "2024-05-30",
+        "time_utc": "2024-05-30T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2gtGQD",
+        "date": "2024-05-30",
+        "time_utc": "2024-05-30T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2OPcrT",
+        "date": "2024-05-31",
+        "time_utc": "2024-05-31T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_29hgsc",
+        "date": "2024-06-01",
+        "time_utc": "2024-06-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1Pdcvi",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4FO66T",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_0qZMLu",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0uwBps",
+        "date": "2024-06-03",
+        "time_utc": "2024-06-03T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 3,
+        "score_away": 5
+      },
+      {
+        "id": "m_4WQciw",
+        "date": "2024-06-18",
+        "time_utc": "2024-06-18T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_10Quib",
+        "date": "2024-06-18",
+        "time_utc": "2024-06-18T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1ehuou",
+        "date": "2024-06-18",
+        "time_utc": "2024-06-18T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3v2rd9",
+        "date": "2024-06-18",
+        "time_utc": "2024-06-18T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_42jpXW",
+        "date": "2024-06-18",
+        "time_utc": "2024-06-18T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4FeP5l",
+        "date": "2024-06-19",
+        "time_utc": "2024-06-19T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1A4flD",
+        "date": "2024-06-22",
+        "time_utc": "2024-06-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_3oiTfH",
+        "date": "2024-06-22",
+        "time_utc": "2024-06-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_1RfgND",
+        "date": "2024-06-22",
+        "time_utc": "2024-06-22T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3MtDHW",
+        "date": "2024-06-23",
+        "time_utc": "2024-06-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3allOC",
+        "date": "2024-06-23",
+        "time_utc": "2024-06-23T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_17diLa",
+        "date": "2024-06-23",
+        "time_utc": "2024-06-23T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_09LG03",
+        "date": "2024-06-27",
+        "time_utc": "2024-06-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2rRNK2",
+        "date": "2024-06-27",
+        "time_utc": "2024-06-27T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_144x8m",
+        "date": "2024-06-27",
+        "time_utc": "2024-06-27T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1qrdZv",
+        "date": "2024-06-28",
+        "time_utc": "2024-06-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0A4O7h",
+        "date": "2024-06-28",
+        "time_utc": "2024-06-28T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3DEqBw",
+        "date": "2024-06-28",
+        "time_utc": "2024-06-28T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3VIZdp",
+        "date": "2024-06-30",
+        "time_utc": "2024-06-30T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2VGxR8",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_00SvuH",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 8,
+        "score_away": 0
+      },
+      {
+        "id": "m_2aLTFi",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1UcMhY",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_316cn0",
+        "date": "2024-07-08",
+        "time_utc": "2024-07-08T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4bxBy5",
+        "date": "2024-07-11",
+        "time_utc": "2024-07-11T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3PsquK",
+        "date": "2024-07-14",
+        "time_utc": "2024-07-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_14mSqd",
+        "date": "2024-07-15",
+        "time_utc": "2024-07-15T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0kIerC",
+        "date": "2024-07-15",
+        "time_utc": "2024-07-15T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1VLXJw",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Q4aUT",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Vem89",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4W7iFP",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_18D3kn",
+        "date": "2024-07-22",
+        "time_utc": "2024-07-22T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hinIK",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3faTMw",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3nJBRZ",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1FSenW",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3anhHi",
+        "date": "2024-07-29",
+        "time_utc": "2024-07-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Fu4OA",
+        "date": "2024-07-31",
+        "time_utc": "2024-07-31T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0us5n0",
+        "date": "2024-08-05",
+        "time_utc": "2024-08-05T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1Ufcda",
+        "date": "2024-08-06",
+        "time_utc": "2024-08-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_22DhFC",
+        "date": "2024-08-06",
+        "time_utc": "2024-08-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Nw02O",
+        "date": "2024-08-06",
+        "time_utc": "2024-08-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1BRNVf",
+        "date": "2024-08-07",
+        "time_utc": "2024-08-07T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Euees",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2yLil3",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1IZJqO",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Z8vEW",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Qz0In",
+        "date": "2024-08-12",
+        "time_utc": "2024-08-12T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0I082h",
+        "date": "2024-08-12",
+        "time_utc": "2024-08-12T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4W4c4c",
+        "date": "2024-08-15",
+        "time_utc": "2024-08-15T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4JbOhf",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_40n8K2",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_18ESOn",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0o9aVn",
+        "date": "2024-08-19",
+        "time_utc": "2024-08-19T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1m1NN6",
+        "date": "2024-08-19",
+        "time_utc": "2024-08-19T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4BTw3O",
+        "date": "2024-08-19",
+        "time_utc": "2024-08-19T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4eT1xV",
+        "date": "2024-08-22",
+        "time_utc": "2024-08-22T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4AUmmM",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Q98DI",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4PVMi0",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1mEev2",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_48Ilkn",
+        "date": "2024-08-26",
+        "time_utc": "2024-08-26T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3kkEZo",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1A61Et",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1PVoYd",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Uxt0b",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1ZjBrC",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3kIfci",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3aOzgA",
+        "date": "2024-09-13",
+        "time_utc": "2024-09-13T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3Zc4ge",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_1jCEVh",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3c08Kb",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4XX5UA",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 5,
+        "score_away": 3
+      },
+      {
+        "id": "m_01uX0Z",
+        "date": "2024-09-16",
+        "time_utc": "2024-09-16T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_33aRwy",
+        "date": "2024-09-16",
+        "time_utc": "2024-09-16T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0o4Bk1",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_17ehk3",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3BVdb2",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4dDFkQ",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1DLBvv",
+        "date": "2024-09-25",
+        "time_utc": "2024-09-25T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_13dE5P",
+        "date": "2024-09-25",
+        "time_utc": "2024-09-25T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jZQna",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2CqMTt",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 7,
+        "score_away": 1
+      },
+      {
+        "id": "m_03p8Vl",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1IRkKu",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3Myj76",
+        "date": "2024-09-30",
+        "time_utc": "2024-09-30T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0nIKzS",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2WoDOr",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lHmuP",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2r6vuC",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0fnyMd",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3GZ56e",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3KPc7N",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "away_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_0sSJN5",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "away_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4EjVso",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "away_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0AtBEm",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "away_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0jt0yz",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "away_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3dCGk3",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "away_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2IVwsd",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42KAcT",
+          "name": "Vestri",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/13169053b82928a046e3ee21015344ebfd1fd024ba900e28cedb1bc090edb0dc.webp"
+        },
+        "away_team": {
+          "id": "t_06Gscn",
+          "name": "Fylkir",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7d3681dcff1da7a782fd3a3c96364f26e757d67eb5dd74ccc7e60a143aa09087.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0ed9Em",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ep7tb",
+          "name": "KR",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/df9a179b85ac8ca5286f3c5fcade596afc9ed08c62d3aed27fb709c7c410b0f8.webp"
+        },
+        "away_team": {
+          "id": "t_2ka7RS",
+          "name": "HK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/777ed9cfdd5eef668f75c00a3b1ec5a821e5004476987afa4cd549a3797e63f1.webp"
+        },
+        "score_home": 7,
+        "score_away": 0
+      },
+      {
+        "id": "m_08NuRV",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3htuOD",
+          "name": "Fram",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/87aace83c8b100283818aef804df347a988b8898ceb6b5e62bbe2ac9554cd575.webp"
+        },
+        "away_team": {
+          "id": "t_42t8st",
+          "name": "KA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e03bf076d277dd051a2e00dbbc59ea59fb7aba543c06550133fb010448b05731.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1DjwXZ",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1u3jjy",
+          "name": "Stjarnan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7a3a03791dd42e9a98b46ab2d871b486b11a75392f9ea0c6296b7235031ac50.webp"
+        },
+        "away_team": {
+          "id": "t_0Cfn1B",
+          "name": "FH",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5fe43d9b138357713767b99b82b2eb3fa6d31e716670828f874a3f19f5f405ed.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2soP8o",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2g4lNs",
+          "name": "Valur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3100fb7ee19bfaa53617d7b17867ff28c1e6d8e09ed9f0f90bf0715ac310a6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0IRRYS",
+          "name": "ÍA",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a1ec52a42077db89ffb589752af2250d7305cb0da50b26486737c9121792ab2.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_3CEEJY",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4C1Jtt",
+          "name": "Víkingur Reykjavík",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9c00dc38d9fded1f3e765d881190076f6ff66aa212e89bf82ae4e4d6e81cefa.webp"
+        },
+        "away_team": {
+          "id": "t_0Nh6WP",
+          "name": "Breidablik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a78fcea3023fbbbd85f591a427e9f66628b581f148de32b45d7fb2a0aca25aad.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      }
+    ]
+  }
+}

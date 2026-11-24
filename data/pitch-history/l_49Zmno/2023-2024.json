@@ -1,0 +1,3486 @@
+{
+  "data": {
+    "league": {
+      "id": "l_49Zmno",
+      "name": "Superligaen",
+      "season": "2023/2024",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/5c273f66850d887ea9dade57eab4c8d9fa99c6cf67c2ca4b6e05874d5f605397.webp"
+    },
+    "matches": [
+      {
+        "id": "m_2ereNu",
+        "date": "2023-07-21",
+        "time_utc": "2023-07-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1BUQAV",
+        "date": "2023-07-22",
+        "time_utc": "2023-07-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1lqHWo",
+        "date": "2023-07-23",
+        "time_utc": "2023-07-23T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4dPdY3",
+        "date": "2023-07-23",
+        "time_utc": "2023-07-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0d5aOh",
+        "date": "2023-07-23",
+        "time_utc": "2023-07-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3sC5ZH",
+        "date": "2023-07-24",
+        "time_utc": "2023-07-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2qboml",
+        "date": "2023-07-28",
+        "time_utc": "2023-07-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Z8N6n",
+        "date": "2023-07-29",
+        "time_utc": "2023-07-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1kZkjB",
+        "date": "2023-07-30",
+        "time_utc": "2023-07-30T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Oz1kH",
+        "date": "2023-07-30",
+        "time_utc": "2023-07-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2k6Qdm",
+        "date": "2023-07-30",
+        "time_utc": "2023-07-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1qbcIH",
+        "date": "2023-07-31",
+        "time_utc": "2023-07-31T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Yas0G",
+        "date": "2023-08-04",
+        "time_utc": "2023-08-04T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Btdep",
+        "date": "2023-08-05",
+        "time_utc": "2023-08-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0GmN4y",
+        "date": "2023-08-06",
+        "time_utc": "2023-08-06T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0qXlpS",
+        "date": "2023-08-06",
+        "time_utc": "2023-08-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2giFgH",
+        "date": "2023-08-06",
+        "time_utc": "2023-08-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3xkHEq",
+        "date": "2023-08-07",
+        "time_utc": "2023-08-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_04ELsZ",
+        "date": "2023-08-11",
+        "time_utc": "2023-08-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2yk2jt",
+        "date": "2023-08-13",
+        "time_utc": "2023-08-13T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_3N1Zi8",
+        "date": "2023-08-13",
+        "time_utc": "2023-08-13T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2h1ag4",
+        "date": "2023-08-13",
+        "time_utc": "2023-08-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Ee7Vz",
+        "date": "2023-08-13",
+        "time_utc": "2023-08-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3EBUhC",
+        "date": "2023-08-14",
+        "time_utc": "2023-08-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0CmJIo",
+        "date": "2023-08-18",
+        "time_utc": "2023-08-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1I8tJ7",
+        "date": "2023-08-20",
+        "time_utc": "2023-08-20T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1xSCjQ",
+        "date": "2023-08-20",
+        "time_utc": "2023-08-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4aWy2F",
+        "date": "2023-08-20",
+        "time_utc": "2023-08-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Hlfaq",
+        "date": "2023-08-20",
+        "time_utc": "2023-08-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1a3cfU",
+        "date": "2023-08-21",
+        "time_utc": "2023-08-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_45pmKz",
+        "date": "2023-08-25",
+        "time_utc": "2023-08-25T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1DdURo",
+        "date": "2023-08-26",
+        "time_utc": "2023-08-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_47PIQ2",
+        "date": "2023-08-27",
+        "time_utc": "2023-08-27T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4TCHDV",
+        "date": "2023-08-27",
+        "time_utc": "2023-08-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_39aY8v",
+        "date": "2023-08-27",
+        "time_utc": "2023-08-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1oY2xO",
+        "date": "2023-08-28",
+        "time_utc": "2023-08-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_04Kkm6",
+        "date": "2023-09-01",
+        "time_utc": "2023-09-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1SsLwO",
+        "date": "2023-09-03",
+        "time_utc": "2023-09-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wzDuk",
+        "date": "2023-09-03",
+        "time_utc": "2023-09-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_26Bcpb",
+        "date": "2023-09-03",
+        "time_utc": "2023-09-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3bLdWL",
+        "date": "2023-09-03",
+        "time_utc": "2023-09-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0l9K9n",
+        "date": "2023-09-03",
+        "time_utc": "2023-09-03T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_42nuh3",
+        "date": "2023-09-15",
+        "time_utc": "2023-09-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1qmSSH",
+        "date": "2023-09-16",
+        "time_utc": "2023-09-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2bbedY",
+        "date": "2023-09-17",
+        "time_utc": "2023-09-17T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Qrwcq",
+        "date": "2023-09-17",
+        "time_utc": "2023-09-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0qY8pX",
+        "date": "2023-09-17",
+        "time_utc": "2023-09-17T16:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_474P7U",
+        "date": "2023-09-18",
+        "time_utc": "2023-09-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0PGXl6",
+        "date": "2023-09-22",
+        "time_utc": "2023-09-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1PGjYF",
+        "date": "2023-09-24",
+        "time_utc": "2023-09-24T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2o7jeG",
+        "date": "2023-09-24",
+        "time_utc": "2023-09-24T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4bDn4L",
+        "date": "2023-09-24",
+        "time_utc": "2023-09-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1TbKaD",
+        "date": "2023-09-24",
+        "time_utc": "2023-09-24T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DYTjb",
+        "date": "2023-09-25",
+        "time_utc": "2023-09-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0mD659",
+        "date": "2023-09-30",
+        "time_utc": "2023-09-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1wKsud",
+        "date": "2023-10-01",
+        "time_utc": "2023-10-01T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Yqduz",
+        "date": "2023-10-01",
+        "time_utc": "2023-10-01T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2VDPBD",
+        "date": "2023-10-01",
+        "time_utc": "2023-10-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0HOG92",
+        "date": "2023-10-01",
+        "time_utc": "2023-10-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Qh2R6",
+        "date": "2023-10-02",
+        "time_utc": "2023-10-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_07QaGC",
+        "date": "2023-10-06",
+        "time_utc": "2023-10-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1R6DCY",
+        "date": "2023-10-08",
+        "time_utc": "2023-10-08T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3WHHKL",
+        "date": "2023-10-08",
+        "time_utc": "2023-10-08T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1vFzD1",
+        "date": "2023-10-08",
+        "time_utc": "2023-10-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2GZN52",
+        "date": "2023-10-08",
+        "time_utc": "2023-10-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Uar2d",
+        "date": "2023-10-08",
+        "time_utc": "2023-10-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3amgl9",
+        "date": "2023-10-20",
+        "time_utc": "2023-10-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2MLSHG",
+        "date": "2023-10-21",
+        "time_utc": "2023-10-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4B0VxJ",
+        "date": "2023-10-22",
+        "time_utc": "2023-10-22T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1duohr",
+        "date": "2023-10-22",
+        "time_utc": "2023-10-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2uxBGB",
+        "date": "2023-10-22",
+        "time_utc": "2023-10-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0iLqty",
+        "date": "2023-10-23",
+        "time_utc": "2023-10-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3LhwpL",
+        "date": "2023-10-27",
+        "time_utc": "2023-10-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1DNsw9",
+        "date": "2023-10-28",
+        "time_utc": "2023-10-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0FMuxc",
+        "date": "2023-10-29",
+        "time_utc": "2023-10-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0S8IcR",
+        "date": "2023-10-29",
+        "time_utc": "2023-10-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Pbkgl",
+        "date": "2023-10-29",
+        "time_utc": "2023-10-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0jEsrv",
+        "date": "2023-10-30",
+        "time_utc": "2023-10-30T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2WPfjK",
+        "date": "2023-11-04",
+        "time_utc": "2023-11-04T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0kTWPd",
+        "date": "2023-11-05",
+        "time_utc": "2023-11-05T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3k4n2C",
+        "date": "2023-11-05",
+        "time_utc": "2023-11-05T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3riD3Y",
+        "date": "2023-11-05",
+        "time_utc": "2023-11-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3SZ7D4",
+        "date": "2023-11-05",
+        "time_utc": "2023-11-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_4Y5Mhk",
+        "date": "2023-11-06",
+        "time_utc": "2023-11-06T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2obBtn",
+        "date": "2023-11-10",
+        "time_utc": "2023-11-10T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1xrTDt",
+        "date": "2023-11-12",
+        "time_utc": "2023-11-12T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0LXWpU",
+        "date": "2023-11-12",
+        "time_utc": "2023-11-12T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0KdvKq",
+        "date": "2023-11-12",
+        "time_utc": "2023-11-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_09jF0a",
+        "date": "2023-11-12",
+        "time_utc": "2023-11-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4ELDDY",
+        "date": "2023-11-12",
+        "time_utc": "2023-11-12T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0xF7rW",
+        "date": "2023-11-24",
+        "time_utc": "2023-11-24T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lDqq8",
+        "date": "2023-11-25",
+        "time_utc": "2023-11-25T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2dn5es",
+        "date": "2023-11-26",
+        "time_utc": "2023-11-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3YQBjk",
+        "date": "2023-11-26",
+        "time_utc": "2023-11-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1potML",
+        "date": "2023-11-26",
+        "time_utc": "2023-11-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2LUUZw",
+        "date": "2023-11-27",
+        "time_utc": "2023-11-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_08dbQD",
+        "date": "2023-12-01",
+        "time_utc": "2023-12-01T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1iqJSb",
+        "date": "2023-12-03",
+        "time_utc": "2023-12-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_062CEJ",
+        "date": "2023-12-03",
+        "time_utc": "2023-12-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1P8EWL",
+        "date": "2023-12-03",
+        "time_utc": "2023-12-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2BJWYm",
+        "date": "2023-12-03",
+        "time_utc": "2023-12-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_36yOJL",
+        "date": "2023-12-04",
+        "time_utc": "2023-12-04T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_344lQp",
+        "date": "2024-02-16",
+        "time_utc": "2024-02-16T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1WvUiD",
+        "date": "2024-02-18",
+        "time_utc": "2024-02-18T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0uF8wg",
+        "date": "2024-02-18",
+        "time_utc": "2024-02-18T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2HeoyY",
+        "date": "2024-02-18",
+        "time_utc": "2024-02-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4D0n7Z",
+        "date": "2024-02-18",
+        "time_utc": "2024-02-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1M1PTx",
+        "date": "2024-02-19",
+        "time_utc": "2024-02-19T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_41BEfy",
+        "date": "2024-02-23",
+        "time_utc": "2024-02-23T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1TAipV",
+        "date": "2024-02-25",
+        "time_utc": "2024-02-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1d0Wpv",
+        "date": "2024-02-25",
+        "time_utc": "2024-02-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1trUY9",
+        "date": "2024-02-25",
+        "time_utc": "2024-02-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2ApJRE",
+        "date": "2024-02-25",
+        "time_utc": "2024-02-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1LE2hB",
+        "date": "2024-02-26",
+        "time_utc": "2024-02-26T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1VRAfB",
+        "date": "2024-03-01",
+        "time_utc": "2024-03-01T18:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0rC4HN",
+        "date": "2024-03-03",
+        "time_utc": "2024-03-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_08XGJw",
+        "date": "2024-03-03",
+        "time_utc": "2024-03-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2oZeF6",
+        "date": "2024-03-03",
+        "time_utc": "2024-03-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3M8vIQ",
+        "date": "2024-03-03",
+        "time_utc": "2024-03-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_28Xz0A",
+        "date": "2024-03-04",
+        "time_utc": "2024-03-04T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_055gky",
+        "date": "2024-03-08",
+        "time_utc": "2024-03-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Jgmau",
+        "date": "2024-03-10",
+        "time_utc": "2024-03-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3NWvq0",
+        "date": "2024-03-10",
+        "time_utc": "2024-03-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2cXgZz",
+        "date": "2024-03-10",
+        "time_utc": "2024-03-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0tBBOt",
+        "date": "2024-03-10",
+        "time_utc": "2024-03-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_131J2o",
+        "date": "2024-03-11",
+        "time_utc": "2024-03-11T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3xsga5",
+        "date": "2024-03-17",
+        "time_utc": "2024-03-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1xFMFz",
+        "date": "2024-03-17",
+        "time_utc": "2024-03-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_33fkRr",
+        "date": "2024-03-17",
+        "time_utc": "2024-03-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1sOPI1",
+        "date": "2024-03-17",
+        "time_utc": "2024-03-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2x8Hug",
+        "date": "2024-03-17",
+        "time_utc": "2024-03-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4MBf1V",
+        "date": "2024-03-17",
+        "time_utc": "2024-03-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3dxxCR",
+        "date": "2024-03-31",
+        "time_utc": "2024-03-31T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 6,
+        "score_away": 2
+      },
+      {
+        "id": "m_4LDBaV",
+        "date": "2024-03-31",
+        "time_utc": "2024-03-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3PiloH",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Oc0l0",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_33tKts",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1djR1R",
+        "date": "2024-04-02",
+        "time_utc": "2024-04-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0gtVX6",
+        "date": "2024-04-05",
+        "time_utc": "2024-04-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_33XQaS",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_143ZC3",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3LE8ME",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2do54e",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3lZGy9",
+        "date": "2024-04-08",
+        "time_utc": "2024-04-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1By0kg",
+        "date": "2024-04-12",
+        "time_utc": "2024-04-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0WT5BM",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_08Hj5e",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3seDEB",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1qkt6c",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2HTr0D",
+        "date": "2024-04-15",
+        "time_utc": "2024-04-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1tUyoh",
+        "date": "2024-04-19",
+        "time_utc": "2024-04-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1xTNzY",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2YQbPW",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0JnA7p",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_18YQ1Z",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wvGjD",
+        "date": "2024-04-22",
+        "time_utc": "2024-04-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 7,
+        "score_away": 2
+      },
+      {
+        "id": "m_3nCUul",
+        "date": "2024-04-26",
+        "time_utc": "2024-04-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3KnrsO",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0fUfIV",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3wvBbN",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4YWAwy",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3lz7X1",
+        "date": "2024-04-29",
+        "time_utc": "2024-04-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2B6IRg",
+        "date": "2024-05-03",
+        "time_utc": "2024-05-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1H2qM0",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Z3dMS",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2zdKBW",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0bsQ0W",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_47Kgor",
+        "date": "2024-05-06",
+        "time_utc": "2024-05-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2CJpMU",
+        "date": "2024-05-10",
+        "time_utc": "2024-05-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0CKG6E",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_021WFV",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1vmzJR",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_42hBmb",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3YaIn7",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_48eg76",
+        "date": "2024-05-15",
+        "time_utc": "2024-05-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_01weR5",
+        "date": "2024-05-15",
+        "time_utc": "2024-05-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1aqZ9R",
+        "date": "2024-05-15",
+        "time_utc": "2024-05-15T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2m2qrg",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3T2jAw",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0CHwZs",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1zKbjz",
+        "date": "2024-05-19",
+        "time_utc": "2024-05-19T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ELnUj",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "away_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4b8AOY",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "away_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3A4MSr",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "away_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0NRwX7",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "away_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2oUUUj",
+        "date": "2024-05-21",
+        "time_utc": "2024-05-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "away_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_13N8Wf",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rAWxV",
+          "name": "Hvidovre",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8fad69555b985895af7b08fa85f6c89f89446373d58e590f6e49dcb3184b35e3.webp"
+        },
+        "away_team": {
+          "id": "t_0tDIZ5",
+          "name": "Lyngby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6eb154f8aca4b910f1963c66e7720d1b93accfef8cd694a0045c44a866413f59.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1R08BK",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "away_team": {
+          "id": "t_0IweBQ",
+          "name": "Vejle Boldklub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6cacc6bdee6192ff596a47042d41a5f649aafa29bdc5ee298c6971da18e689f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4IGrPm",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eVDVk",
+          "name": "Viborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d29803c5822e8935e149a725c6912731f09e20ddec16ab61cbada6cf6d92722.webp"
+        },
+        "away_team": {
+          "id": "t_0CWBdu",
+          "name": "OB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f3342813504ce25bd0f051d6a0edc9d6e3bf1b9280c8d8179f765b01aa785eac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2z0nr5",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Mrl3A",
+          "name": "Brøndby IF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0d2a853b0339afc27cbb5b2619127dbf92bf356ed5a7c06d293a9cc5b8b5c139.webp"
+        },
+        "away_team": {
+          "id": "t_0rrO78",
+          "name": "AGF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8ca73acf62a4d9442d64e07c43f6a0216104a78f45fec62d16580edade1fa15c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3nvYkI",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_4L4qT5",
+          "name": "Nordsjælland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bf018311d1f64adb4103d941f0c0a9f95462803516976cebf5077d817b53b03c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1kkdKQ",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0b9L5I",
+          "name": "FC Midtjylland",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d312136626a51da65e1e66dcf2d1582c1e5b5e31c9909c3091db37c6e33a2da5.webp"
+        },
+        "away_team": {
+          "id": "t_3rFzZU",
+          "name": "Silkeborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e9857c3c68de9636a4abf51285ead158e389ec625ca4319427e896ecefededdd.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_1Mti8n",
+        "date": "2024-05-31",
+        "time_utc": "2024-05-31T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4eCFHQ",
+          "name": "FC København",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02ded80ee9ef47cd6d66394fc3a8f3855f1e0c09908246bbbea039f9367b5dbe.webp"
+        },
+        "away_team": {
+          "id": "t_4EBz7e",
+          "name": "Randers FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91d3d1186499f832d14a09369d8fef26e167cef46ef549f9cfeb6debd4699f5c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      }
+    ]
+  }
+}

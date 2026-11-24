@@ -1,0 +1,3288 @@
+{
+  "data": {
+    "league": {
+      "id": "l_0aEfof",
+      "name": "Pro League",
+      "season": "2024/2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/f1776be65ec0e34ba4b859fc6be60e410997d9a07690328d7bbd4f99fc0e931c.webp"
+    },
+    "matches": [
+      {
+        "id": "m_3i3mH8",
+        "date": "2024-08-23",
+        "time_utc": "2024-08-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_3AvBBc",
+        "date": "2024-08-23",
+        "time_utc": "2024-08-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4ZL7fc",
+        "date": "2024-08-23",
+        "time_utc": "2024-08-23T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Ijiig",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1tcGtP",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3MsJpY",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_10J08y",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_0jsbRw",
+        "date": "2024-08-29",
+        "time_utc": "2024-08-29T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0J9ISo",
+        "date": "2024-08-29",
+        "time_utc": "2024-08-29T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1dXJ6k",
+        "date": "2024-08-29",
+        "time_utc": "2024-08-29T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2CPpzu",
+        "date": "2024-08-29",
+        "time_utc": "2024-08-29T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2rJzh8",
+        "date": "2024-08-30",
+        "time_utc": "2024-08-30T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0C8zJX",
+        "date": "2024-08-30",
+        "time_utc": "2024-08-30T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2SkM5N",
+        "date": "2024-08-30",
+        "time_utc": "2024-08-30T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2s7eLj",
+        "date": "2024-09-20",
+        "time_utc": "2024-09-20T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1LLKzJ",
+        "date": "2024-09-20",
+        "time_utc": "2024-09-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3uMy5y",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ZbViu",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_36TWlR",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 5,
+        "score_away": 4
+      },
+      {
+        "id": "m_0KE0Mr",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1fJ9kU",
+        "date": "2024-09-26",
+        "time_utc": "2024-09-26T13:20:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1O98uI",
+        "date": "2024-09-26",
+        "time_utc": "2024-09-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_2qbRlc",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T13:20:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_0RPo8y",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T13:20:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_1QBPZc",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4MCyGc",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T13:20:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1OnDW0",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0JltZT",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T13:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 6
+      },
+      {
+        "id": "m_3WqgVJ",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T13:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2szYr7",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Y2LxD",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_101JQA",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T13:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_0nlpPq",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3tRv7K",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0IqnKz",
+        "date": "2024-10-25",
+        "time_utc": "2024-10-25T12:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_03y2lt",
+        "date": "2024-10-25",
+        "time_utc": "2024-10-25T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0X4HFV",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T12:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4KrC9c",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0PIwM4",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2pBAQx",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T12:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_4OXxN2",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0tbOHf",
+        "date": "2024-10-31",
+        "time_utc": "2024-10-31T12:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1ZcqQZ",
+        "date": "2024-10-31",
+        "time_utc": "2024-10-31T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4ayu3k",
+        "date": "2024-11-01",
+        "time_utc": "2024-11-01T12:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2x5RKP",
+        "date": "2024-11-01",
+        "time_utc": "2024-11-01T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Ig5lk",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T12:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_102wRl",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4bBnf0",
+        "date": "2024-11-21",
+        "time_utc": "2024-11-21T12:40:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1kdoPs",
+        "date": "2024-11-21",
+        "time_utc": "2024-11-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_27oRW1",
+        "date": "2024-11-22",
+        "time_utc": "2024-11-22T12:40:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1bHWEr",
+        "date": "2024-11-22",
+        "time_utc": "2024-11-22T12:40:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0lU5hq",
+        "date": "2024-11-22",
+        "time_utc": "2024-11-22T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4O3MII",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T12:40:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0YEbhL",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0GymSe",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_33tijv",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2cTYAq",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DbgBi",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1lsf9p",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4FNlGI",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0WGTEw",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4E1ew0",
+        "date": "2024-12-11",
+        "time_utc": "2024-12-11T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_36b8mh",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1SlA9H",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2RFgvS",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Q9j2d",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_398kzf",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1I9ZG8",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2hx4DI",
+        "date": "2024-12-17",
+        "time_utc": "2024-12-17T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_11Qzli",
+        "date": "2025-01-05",
+        "time_utc": "2025-01-05T12:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2fSpiS",
+        "date": "2025-01-05",
+        "time_utc": "2025-01-05T12:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4OlVQC",
+        "date": "2025-01-05",
+        "time_utc": "2025-01-05T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1DClSa",
+        "date": "2025-01-05",
+        "time_utc": "2025-01-05T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2kRjC3",
+        "date": "2025-01-06",
+        "time_utc": "2025-01-06T12:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_0YBAve",
+        "date": "2025-01-06",
+        "time_utc": "2025-01-06T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0SGaL6",
+        "date": "2025-01-06",
+        "time_utc": "2025-01-06T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_3QVAF3",
+        "date": "2025-01-10",
+        "time_utc": "2025-01-10T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2eFp2z",
+        "date": "2025-01-10",
+        "time_utc": "2025-01-10T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0GgzW6",
+        "date": "2025-01-10",
+        "time_utc": "2025-01-10T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dyWNA",
+        "date": "2025-01-11",
+        "time_utc": "2025-01-11T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_377cun",
+        "date": "2025-01-11",
+        "time_utc": "2025-01-11T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0U5shW",
+        "date": "2025-01-11",
+        "time_utc": "2025-01-11T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ZMp6i",
+        "date": "2025-01-15",
+        "time_utc": "2025-01-15T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0v1DER",
+        "date": "2025-01-21",
+        "time_utc": "2025-01-21T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0tfAZk",
+        "date": "2025-01-21",
+        "time_utc": "2025-01-21T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1EyIcP",
+        "date": "2025-01-21",
+        "time_utc": "2025-01-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2jUayN",
+        "date": "2025-01-22",
+        "time_utc": "2025-01-22T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2M26gN",
+        "date": "2025-01-22",
+        "time_utc": "2025-01-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2aX2N9",
+        "date": "2025-01-23",
+        "time_utc": "2025-01-23T13:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Dl7xM",
+        "date": "2025-01-23",
+        "time_utc": "2025-01-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3G5Qxx",
+        "date": "2025-01-30",
+        "time_utc": "2025-01-30T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1e07S1",
+        "date": "2025-01-30",
+        "time_utc": "2025-01-30T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2l1caU",
+        "date": "2025-01-30",
+        "time_utc": "2025-01-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3mcuCO",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_1kNzoI",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3cAU4X",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_241huh",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0UNcQ6",
+        "date": "2025-02-04",
+        "time_utc": "2025-02-04T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2G6nNV",
+        "date": "2025-02-06",
+        "time_utc": "2025-02-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Go0Fj",
+        "date": "2025-02-07",
+        "time_utc": "2025-02-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 4,
+        "score_away": 5
+      },
+      {
+        "id": "m_0jcJI4",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T13:20:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4V4LfV",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Bdt4F",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hdzhz",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T13:20:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1jlWh3",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3HSgdT",
+        "date": "2025-02-13",
+        "time_utc": "2025-02-13T13:25:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0kzmc1",
+        "date": "2025-02-13",
+        "time_utc": "2025-02-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0BVNEs",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T13:25:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3s7QcP",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T13:25:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4A6lYK",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4X6jon",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_10tNWI",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1blnUi",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_304vwG",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3S9IMr",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4REGz3",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0w7gen",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2GXPbG",
+        "date": "2025-02-26",
+        "time_utc": "2025-02-26T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3gbOKu",
+        "date": "2025-02-27",
+        "time_utc": "2025-02-27T13:35:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1z9fDe",
+        "date": "2025-02-27",
+        "time_utc": "2025-02-27T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_05Qf6X",
+        "date": "2025-02-27",
+        "time_utc": "2025-02-27T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_30RW4P",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T13:35:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0UlQoo",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T13:35:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3s7gXr",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_26bKQX",
+        "date": "2025-03-27",
+        "time_utc": "2025-03-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Znw9H",
+        "date": "2025-03-27",
+        "time_utc": "2025-03-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_12muv7",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Fd3QS",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_01rkA2",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3N4GCi",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3U7YdJ",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Q83x9",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T13:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_31bphk",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_04VdRx",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T13:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0fPDia",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3oSozx",
+        "date": "2025-04-07",
+        "time_utc": "2025-04-07T13:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_0jRK1V",
+        "date": "2025-04-07",
+        "time_utc": "2025-04-07T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3RdFt8",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_1hf5dh",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ZbRDQ",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Uzfzh",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2zkoB0",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0PuKsH",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Addqn",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_48rDOz",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_31Gesi",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Sz5R6",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4JGLJv",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0ioLBI",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3II1bb",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2IPKgv",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3oJul8",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ojDFp",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2SZtAC",
+        "date": "2025-05-01",
+        "time_utc": "2025-05-01T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1IsiX5",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T14:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3oE25z",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T14:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_44J1RW",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4GWBBM",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T14:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0DXFsJ",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3hPChR",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T14:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_02VBmP",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0RVp7R",
+        "date": "2025-05-12",
+        "time_utc": "2025-05-12T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2r3pIq",
+        "date": "2025-05-12",
+        "time_utc": "2025-05-12T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_1pMCDp",
+        "date": "2025-05-12",
+        "time_utc": "2025-05-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2U7rb3",
+        "date": "2025-05-13",
+        "time_utc": "2025-05-13T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Xsoru",
+        "date": "2025-05-13",
+        "time_utc": "2025-05-13T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2r8BAZ",
+        "date": "2025-05-13",
+        "time_utc": "2025-05-13T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0FhEv8",
+        "date": "2025-05-13",
+        "time_utc": "2025-05-13T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0M7oky",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "away_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0IUYe5",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "away_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0d0VS9",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "away_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0lqqqE",
+        "date": "2025-05-20",
+        "time_utc": "2025-05-20T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "away_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ZL8po",
+        "date": "2025-05-20",
+        "time_utc": "2025-05-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "away_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0XE4W7",
+        "date": "2025-05-20",
+        "time_utc": "2025-05-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "away_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2cWJ8S",
+        "date": "2025-05-22",
+        "time_utc": "2025-05-22T15:40:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "away_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_4TodBG",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0RxCtA",
+          "name": "Al Nasr",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba8051680c20fffb6657f36581defd09661b64031af97f2b4ba400ab85f09801.webp"
+        },
+        "away_team": {
+          "id": "t_1atj5j",
+          "name": "Al Ain",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a649ea12166115e90b45c83339fad81add74770356be902f708e86b587e3b909.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0KcvFk",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4KAFCg",
+          "name": "Dibba Al Hisn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ddc0130f3b2b1dfb16e963218e3bc7aea0b4b36ad855e0ad5323a5e5a2d8c9b0.webp"
+        },
+        "away_team": {
+          "id": "t_2vGnhH",
+          "name": "Al Orooba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/254bf5cc68af76dc6eece4acaa2e67631de123d424190c00303dbdad57e7324c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_06RxC1",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XHif7",
+          "name": "Bani Yas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f1f19240079157b8eca52c3cd50cb8fba17065afc4fcbbf0f41a3b6235067acf.webp"
+        },
+        "away_team": {
+          "id": "t_34hEDE",
+          "name": "Kalba",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1bfff3e4beb94915115e9d4a3e86e19b414f6186d771c2cbec0f8a05812d2274.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1CjMoV",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z0zC5",
+          "name": "Sharjah",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa897449439b5bf79e7bda53f18df392dd01a086b0afcfaf78a2d0a6b6e95da9.webp"
+        },
+        "away_team": {
+          "id": "t_4VQf4g",
+          "name": "Al Wasl",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e82d88335981a8e8c8230f7955f571d34c2587987df41766c320d0d0856f26d0.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3QZsng",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T14:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1NSKlH",
+          "name": "Al Bataeh",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/006b52214256e1a779875aa3889b8a4ac22992156610456b5543c11657143568.webp"
+        },
+        "away_team": {
+          "id": "t_3yzTAy",
+          "name": "Al Wahda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05eb6d6f9a392a442197ecf9fa5812c1fd74dc7b08bd10b2a8e169c2b8fdc2ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0eKZx9",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06otQF",
+          "name": "Ajman",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d1cf53626ce5cc771465ed82c049a718c840f07196b7be912bb753176f8c8d29.webp"
+        },
+        "away_team": {
+          "id": "t_4bw6WQ",
+          "name": "Khorfakkan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8a54996ded25f2a0e5f62564751022dee538d45b4e06dbc438d09690f411f6a6.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1lmQOl",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TNOYL",
+          "name": "Al Jazira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05c42638b41612d3c36ca4b13fad73068094dadb1773c01ac19a08d9c48c4b8e.webp"
+        },
+        "away_team": {
+          "id": "t_2LeCEz",
+          "name": "Shabab Al Ahli",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3dac2cd542b8a790f445bce2760ce9d99ed4f88af6069ae53ec762a59efb1a8e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      }
+    ]
+  }
+}

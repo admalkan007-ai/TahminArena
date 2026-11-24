@@ -1,0 +1,2946 @@
+{
+  "data": {
+    "league": {
+      "id": "l_1qpFVw",
+      "name": "Indian Super League",
+      "season": "2024/2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/d3683ba4409093414b79425926bd93f106156152aa20dc89ac013903ac86d426.webp"
+    },
+    "matches": [
+      {
+        "id": "m_05CbBP",
+        "date": "2024-09-13",
+        "time_utc": "2024-09-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3I9JtU",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4Pqgqg",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Ktiay",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2JOrzi",
+        "date": "2024-09-16",
+        "time_utc": "2024-09-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1GbeOO",
+        "date": "2024-09-17",
+        "time_utc": "2024-09-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4KWbXK",
+        "date": "2024-09-19",
+        "time_utc": "2024-09-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_38eDSe",
+        "date": "2024-09-20",
+        "time_utc": "2024-09-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_028sAo",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4K6jz5",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2FMl2g",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0eCLhc",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Flqon",
+        "date": "2024-09-25",
+        "time_utc": "2024-09-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1PMAxf",
+        "date": "2024-09-26",
+        "time_utc": "2024-09-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3blluw",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1LKX3T",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_41HC8l",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_14MjGW",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2h5WlN",
+        "date": "2024-10-01",
+        "time_utc": "2024-10-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Xjeda",
+        "date": "2024-10-02",
+        "time_utc": "2024-10-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_18a4LH",
+        "date": "2024-10-03",
+        "time_utc": "2024-10-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3PvFtW",
+        "date": "2024-10-04",
+        "time_utc": "2024-10-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Xps13",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ky3Kq",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3uORJD",
+        "date": "2024-10-17",
+        "time_utc": "2024-10-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3616Jf",
+        "date": "2024-10-18",
+        "time_utc": "2024-10-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4G83ai",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3owhWF",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2hczfO",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4SisGi",
+        "date": "2024-10-21",
+        "time_utc": "2024-10-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2oUBDH",
+        "date": "2024-10-22",
+        "time_utc": "2024-10-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_05qziM",
+        "date": "2024-10-24",
+        "time_utc": "2024-10-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0gMRlh",
+        "date": "2024-10-25",
+        "time_utc": "2024-10-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1Ffiiz",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_27XwWO",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1C0x7Y",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4dyp6V",
+        "date": "2024-10-30",
+        "time_utc": "2024-10-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_35SmoK",
+        "date": "2024-10-31",
+        "time_utc": "2024-10-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_26FlVR",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_23uEcy",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2aejZa",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0gQ6Nl",
+        "date": "2024-11-04",
+        "time_utc": "2024-11-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_3e41cr",
+        "date": "2024-11-06",
+        "time_utc": "2024-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0YhWIo",
+        "date": "2024-11-07",
+        "time_utc": "2024-11-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1W5o9a",
+        "date": "2024-11-08",
+        "time_utc": "2024-11-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2iLP6X",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4aaxav",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2dXCIS",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0nkjFL",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1w8LLX",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ZyHKp",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2fXOd3",
+        "date": "2024-11-25",
+        "time_utc": "2024-11-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_0IgD1h",
+        "date": "2024-11-26",
+        "time_utc": "2024-11-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0mSt6l",
+        "date": "2024-11-27",
+        "time_utc": "2024-11-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1phIa5",
+        "date": "2024-11-28",
+        "time_utc": "2024-11-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2PHZ2J",
+        "date": "2024-11-29",
+        "time_utc": "2024-11-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_227CIy",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ebTmd",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Mltiz",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0hvPIZ",
+        "date": "2024-12-02",
+        "time_utc": "2024-12-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1A70ti",
+        "date": "2024-12-04",
+        "time_utc": "2024-12-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1GF37u",
+        "date": "2024-12-05",
+        "time_utc": "2024-12-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2fLwjE",
+        "date": "2024-12-06",
+        "time_utc": "2024-12-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ETWEf",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4dvx3A",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4RaGQR",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3CBJM8",
+        "date": "2024-12-11",
+        "time_utc": "2024-12-11T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2eOACc",
+        "date": "2024-12-12",
+        "time_utc": "2024-12-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_24z3uE",
+        "date": "2024-12-13",
+        "time_utc": "2024-12-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1jy2vj",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0jjbl0",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4F0KJv",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3qbvAH",
+        "date": "2024-12-17",
+        "time_utc": "2024-12-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_2bFOk5",
+        "date": "2024-12-20",
+        "time_utc": "2024-12-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0d0iA1",
+        "date": "2024-12-21",
+        "time_utc": "2024-12-21T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Yoh6L",
+        "date": "2024-12-21",
+        "time_utc": "2024-12-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Ue43F",
+        "date": "2024-12-22",
+        "time_utc": "2024-12-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3vWXxT",
+        "date": "2024-12-23",
+        "time_utc": "2024-12-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_1QTPEo",
+        "date": "2024-12-26",
+        "time_utc": "2024-12-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0ob3mi",
+        "date": "2024-12-27",
+        "time_utc": "2024-12-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1xRkzT",
+        "date": "2024-12-28",
+        "time_utc": "2024-12-28T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0XpHvs",
+        "date": "2024-12-28",
+        "time_utc": "2024-12-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_1LzUdF",
+        "date": "2024-12-29",
+        "time_utc": "2024-12-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0qqItq",
+        "date": "2024-12-30",
+        "time_utc": "2024-12-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0zThgM",
+        "date": "2025-01-02",
+        "time_utc": "2025-01-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4MO8Mi",
+        "date": "2025-01-03",
+        "time_utc": "2025-01-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1wNqpF",
+        "date": "2025-01-04",
+        "time_utc": "2025-01-04T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_0C8QuU",
+        "date": "2025-01-04",
+        "time_utc": "2025-01-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1GdvMs",
+        "date": "2025-01-05",
+        "time_utc": "2025-01-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3gWt2g",
+        "date": "2025-01-06",
+        "time_utc": "2025-01-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_25wRlV",
+        "date": "2025-01-08",
+        "time_utc": "2025-01-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2tgK9w",
+        "date": "2025-01-09",
+        "time_utc": "2025-01-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1w1sbg",
+        "date": "2025-01-10",
+        "time_utc": "2025-01-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2wKKvP",
+        "date": "2025-01-11",
+        "time_utc": "2025-01-11T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1lMaLH",
+        "date": "2025-01-11",
+        "time_utc": "2025-01-11T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2daWw5",
+        "date": "2025-01-12",
+        "time_utc": "2025-01-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2vEPQ8",
+        "date": "2025-01-13",
+        "time_utc": "2025-01-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1G4O3r",
+        "date": "2025-01-14",
+        "time_utc": "2025-01-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_42Xe50",
+        "date": "2025-01-15",
+        "time_utc": "2025-01-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3dg4gq",
+        "date": "2025-01-16",
+        "time_utc": "2025-01-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1BpWdx",
+        "date": "2025-01-17",
+        "time_utc": "2025-01-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_20qhF9",
+        "date": "2025-01-18",
+        "time_utc": "2025-01-18T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_381d1C",
+        "date": "2025-01-18",
+        "time_utc": "2025-01-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2lzolc",
+        "date": "2025-01-19",
+        "time_utc": "2025-01-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KPBAP",
+        "date": "2025-01-21",
+        "time_utc": "2025-01-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3rQBhN",
+        "date": "2025-01-22",
+        "time_utc": "2025-01-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Za9vf",
+        "date": "2025-01-23",
+        "time_utc": "2025-01-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2vRfry",
+        "date": "2025-01-24",
+        "time_utc": "2025-01-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3FaoXw",
+        "date": "2025-01-25",
+        "time_utc": "2025-01-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_117Tr0",
+        "date": "2025-01-26",
+        "time_utc": "2025-01-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cwz69",
+        "date": "2025-01-27",
+        "time_utc": "2025-01-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_18Raak",
+        "date": "2025-01-28",
+        "time_utc": "2025-01-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0mUsQT",
+        "date": "2025-01-29",
+        "time_utc": "2025-01-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0N5R8A",
+        "date": "2025-01-30",
+        "time_utc": "2025-01-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3J9ybz",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_32qfXh",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2qavLR",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1fVzT4",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0CbbLF",
+        "date": "2025-02-03",
+        "time_utc": "2025-02-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2LYfYF",
+        "date": "2025-02-05",
+        "time_utc": "2025-02-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_31X7gb",
+        "date": "2025-02-06",
+        "time_utc": "2025-02-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_499lnb",
+        "date": "2025-02-07",
+        "time_utc": "2025-02-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0AGtCW",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1GPuvs",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1gwyoH",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_24Qk2j",
+        "date": "2025-02-10",
+        "time_utc": "2025-02-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1MGYvB",
+        "date": "2025-02-12",
+        "time_utc": "2025-02-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3K8jqy",
+        "date": "2025-02-13",
+        "time_utc": "2025-02-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3BpDap",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Tf0lJ",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_05smRm",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1qoMCj",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3PrljO",
+        "date": "2025-02-19",
+        "time_utc": "2025-02-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2UGjst",
+        "date": "2025-02-20",
+        "time_utc": "2025-02-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3GOHeS",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_157hXA",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4e7nOe",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3oc3mH",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Eky1G",
+        "date": "2025-02-25",
+        "time_utc": "2025-02-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2IUL3U",
+        "date": "2025-02-26",
+        "time_utc": "2025-02-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4PAzGg",
+        "date": "2025-02-27",
+        "time_utc": "2025-02-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3hWwUy",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3egxCt",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0tQ81L",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0dHBrx",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_46XMCM",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2JXBKI",
+        "date": "2025-03-04",
+        "time_utc": "2025-03-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1lefpy",
+        "date": "2025-03-05",
+        "time_utc": "2025-03-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_31fJv8",
+          "name": "Odisha FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4f85ddfa5bf7dcab96d114c8785651da991117989989581a09079a39c6993881.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1FmIDk",
+        "date": "2025-03-06",
+        "time_utc": "2025-03-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4YoOVE",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1P1nB0",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_1VMgwm",
+          "name": "East Bengal FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d47e7b278beb67c5f04ce1b99f51b028c057e9bc726556c5bdf3b9be5a7bf061.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3TCg0S",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1O4Nwf",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1951NX",
+          "name": "Chennaiyin FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/05748528431569141aa0a10a3c92d49a9e04ec2fa2651747238ea67e1e1cb678.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_3gYI26",
+        "date": "2025-03-10",
+        "time_utc": "2025-03-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tNBMM",
+          "name": "Mohammedan SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdc21df4533ebbf99829c05ffe370ba6b1db16751470589657177ffa35aaee64.webp"
+        },
+        "away_team": {
+          "id": "t_1LbDuV",
+          "name": "Punjab FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3fe9ba4a28f65892eb6a3d589304fc349e833d4d0527bfacfb643834b4d69ace.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3IUNWz",
+        "date": "2025-03-11",
+        "time_utc": "2025-03-11T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0U0BAG",
+        "date": "2025-03-12",
+        "time_utc": "2025-03-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YlYYn",
+          "name": "SC Delhi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e7f9443ae25230d0260fd1dd117710c71f1dcdb0d9e07165a6928b0109f590bb.webp"
+        },
+        "away_team": {
+          "id": "t_2DvCDD",
+          "name": "Kerala Blasters FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c6cee6cfcf57ce09728f3c65f649bb653165c3b4829c62116d721b0968ae5e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4VVxIQ",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_1JhxSx",
+          "name": "Mumbai City FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9de5ed867fc98c482eb86222998e0720144349da809962fcfc7a6a66a396a045.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_19xwjW",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_115a7W",
+          "name": "Northeast United FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bcbf8011f724516ca86604711ea31a4d49bd84f56e8856c9004ea7c44d8438ff.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ZrFj7",
+        "date": "2025-04-02",
+        "time_utc": "2025-04-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "away_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4VPrRJ",
+        "date": "2025-04-03",
+        "time_utc": "2025-04-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "away_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0U2o96",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KWKFi",
+          "name": "FC Goa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3410cffa4b54f82e2ab27c1ff6be2699490b1225480e0ad48ed8e4ac505c2c.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3d8nnf",
+        "date": "2025-04-07",
+        "time_utc": "2025-04-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_3FgyJ1",
+          "name": "Jamshedpur FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2e83070e119e3ff81062c62b7dbaf8cf9c6fbcea3350e1e2a8ed357e49f4c709.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0f3Y28",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3p0lpu",
+          "name": "Mohun Bagan SG",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e9ba7addd2ee682c187fcf041a1e9d50b15f80823e40341d9862c044e1016e7.webp"
+        },
+        "away_team": {
+          "id": "t_0J0C1F",
+          "name": "Bengaluru FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6cfcc14ce30cc466ab08bafe4f5d2b9583f1041c8db9bc58bc6bcc6d472460ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      }
+    ]
+  }
+}

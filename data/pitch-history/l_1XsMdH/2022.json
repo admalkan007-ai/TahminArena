@@ -1,0 +1,4332 @@
+{
+  "data": {
+    "league": {
+      "id": "l_1XsMdH",
+      "name": "Allsvenskan",
+      "season": "2022",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/51a23963c11284d009f9896fead0d7e015ca2f9e2c7f10917a59916bcdd5caa4.webp"
+    },
+    "matches": [
+      {
+        "id": "m_1c6qLW",
+        "date": "2022-04-02",
+        "time_utc": "2022-04-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3BKORd",
+        "date": "2022-04-02",
+        "time_utc": "2022-04-02T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4A5gwa",
+        "date": "2022-04-03",
+        "time_utc": "2022-04-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3jBxig",
+        "date": "2022-04-03",
+        "time_utc": "2022-04-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Mx9eX",
+        "date": "2022-04-03",
+        "time_utc": "2022-04-03T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1s5t0z",
+        "date": "2022-04-03",
+        "time_utc": "2022-04-03T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1BP6Ia",
+        "date": "2022-04-04",
+        "time_utc": "2022-04-04T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_42IAR4",
+        "date": "2022-04-04",
+        "time_utc": "2022-04-04T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_09lzl8",
+        "date": "2022-04-09",
+        "time_utc": "2022-04-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_2NU3bs",
+        "date": "2022-04-09",
+        "time_utc": "2022-04-09T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3GnsdS",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3EUcV6",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3vtNd6",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4HRRVP",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3SDlEz",
+        "date": "2022-04-11",
+        "time_utc": "2022-04-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Dh0ng",
+        "date": "2022-04-11",
+        "time_utc": "2022-04-11T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3WuNZF",
+        "date": "2022-04-15",
+        "time_utc": "2022-04-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2eobOT",
+        "date": "2022-04-16",
+        "time_utc": "2022-04-16T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_27LN8l",
+        "date": "2022-04-16",
+        "time_utc": "2022-04-16T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_25mOcj",
+        "date": "2022-04-17",
+        "time_utc": "2022-04-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_15vMVM",
+        "date": "2022-04-17",
+        "time_utc": "2022-04-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0l5zOb",
+        "date": "2022-04-17",
+        "time_utc": "2022-04-17T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2DnfPI",
+        "date": "2022-04-17",
+        "time_utc": "2022-04-17T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3abiDs",
+        "date": "2022-04-17",
+        "time_utc": "2022-04-17T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wnXuN",
+        "date": "2022-04-20",
+        "time_utc": "2022-04-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_206tFk",
+        "date": "2022-04-20",
+        "time_utc": "2022-04-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1pYAEh",
+        "date": "2022-04-20",
+        "time_utc": "2022-04-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Doejk",
+        "date": "2022-04-20",
+        "time_utc": "2022-04-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_12jDx7",
+        "date": "2022-04-20",
+        "time_utc": "2022-04-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0FlQwy",
+        "date": "2022-04-21",
+        "time_utc": "2022-04-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1sk7GK",
+        "date": "2022-04-21",
+        "time_utc": "2022-04-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0qy6qE",
+        "date": "2022-04-21",
+        "time_utc": "2022-04-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2p3Zck",
+        "date": "2022-04-24",
+        "time_utc": "2022-04-24T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1yQ7RI",
+        "date": "2022-04-24",
+        "time_utc": "2022-04-24T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1AGqTW",
+        "date": "2022-04-24",
+        "time_utc": "2022-04-24T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0kSQ9z",
+        "date": "2022-04-25",
+        "time_utc": "2022-04-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_384ECw",
+        "date": "2022-04-25",
+        "time_utc": "2022-04-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2xzKA3",
+        "date": "2022-04-25",
+        "time_utc": "2022-04-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3HuHds",
+        "date": "2022-04-25",
+        "time_utc": "2022-04-25T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ODyCl",
+        "date": "2022-04-26",
+        "time_utc": "2022-04-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2wov0N",
+        "date": "2022-04-30",
+        "time_utc": "2022-04-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_4CJ4Vw",
+        "date": "2022-05-01",
+        "time_utc": "2022-05-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_3gbR32",
+        "date": "2022-05-01",
+        "time_utc": "2022-05-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3WT5xU",
+        "date": "2022-05-01",
+        "time_utc": "2022-05-01T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3xTE3J",
+        "date": "2022-05-01",
+        "time_utc": "2022-05-01T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_44mfRO",
+        "date": "2022-05-02",
+        "time_utc": "2022-05-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0x4puQ",
+        "date": "2022-05-02",
+        "time_utc": "2022-05-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1tHxBu",
+        "date": "2022-05-02",
+        "time_utc": "2022-05-02T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1eu2Fe",
+        "date": "2022-05-05",
+        "time_utc": "2022-05-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Mofuy",
+        "date": "2022-05-07",
+        "time_utc": "2022-05-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Voh1f",
+        "date": "2022-05-07",
+        "time_utc": "2022-05-07T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3wtqKr",
+        "date": "2022-05-08",
+        "time_utc": "2022-05-08T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0J83Pi",
+        "date": "2022-05-08",
+        "time_utc": "2022-05-08T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_18s7gI",
+        "date": "2022-05-09",
+        "time_utc": "2022-05-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_41yTE8",
+        "date": "2022-05-09",
+        "time_utc": "2022-05-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_34ckT3",
+        "date": "2022-05-09",
+        "time_utc": "2022-05-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1nh7KG",
+        "date": "2022-05-09",
+        "time_utc": "2022-05-09T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_146V3S",
+        "date": "2022-05-11",
+        "time_utc": "2022-05-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1I9gWs",
+        "date": "2022-05-14",
+        "time_utc": "2022-05-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0pjURb",
+        "date": "2022-05-14",
+        "time_utc": "2022-05-14T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_10xoPq",
+        "date": "2022-05-15",
+        "time_utc": "2022-05-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_35nPL3",
+        "date": "2022-05-15",
+        "time_utc": "2022-05-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3BzN94",
+        "date": "2022-05-15",
+        "time_utc": "2022-05-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4W6gva",
+        "date": "2022-05-15",
+        "time_utc": "2022-05-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2GZcbF",
+        "date": "2022-05-15",
+        "time_utc": "2022-05-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_03h5rv",
+        "date": "2022-05-16",
+        "time_utc": "2022-05-16T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_4FxRiL",
+        "date": "2022-05-21",
+        "time_utc": "2022-05-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2NGEL0",
+        "date": "2022-05-21",
+        "time_utc": "2022-05-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3woqJN",
+        "date": "2022-05-22",
+        "time_utc": "2022-05-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3zVdEW",
+        "date": "2022-05-22",
+        "time_utc": "2022-05-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_05tAYm",
+        "date": "2022-05-22",
+        "time_utc": "2022-05-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1RmT81",
+        "date": "2022-05-22",
+        "time_utc": "2022-05-22T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0hz6zJ",
+        "date": "2022-05-22",
+        "time_utc": "2022-05-22T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_04zKSC",
+        "date": "2022-05-23",
+        "time_utc": "2022-05-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_264WrW",
+        "date": "2022-05-28",
+        "time_utc": "2022-05-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4R412c",
+        "date": "2022-05-28",
+        "time_utc": "2022-05-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_03MVmz",
+        "date": "2022-05-28",
+        "time_utc": "2022-05-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_0OF9iC",
+        "date": "2022-05-29",
+        "time_utc": "2022-05-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1BRa3J",
+        "date": "2022-05-29",
+        "time_utc": "2022-05-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1S7TpS",
+        "date": "2022-05-29",
+        "time_utc": "2022-05-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_26h8Aw",
+        "date": "2022-05-29",
+        "time_utc": "2022-05-29T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_47pdHP",
+        "date": "2022-05-29",
+        "time_utc": "2022-05-29T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2w9RGI",
+        "date": "2022-06-26",
+        "time_utc": "2022-06-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0r0FuA",
+        "date": "2022-06-26",
+        "time_utc": "2022-06-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1oV41l",
+        "date": "2022-06-26",
+        "time_utc": "2022-06-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bonRd",
+        "date": "2022-06-26",
+        "time_utc": "2022-06-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_2XJeOd",
+        "date": "2022-06-27",
+        "time_utc": "2022-06-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_4bUECP",
+        "date": "2022-06-27",
+        "time_utc": "2022-06-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0uKPu4",
+        "date": "2022-06-27",
+        "time_utc": "2022-06-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_34o3T9",
+        "date": "2022-06-27",
+        "time_utc": "2022-06-27T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3CamRv",
+        "date": "2022-07-01",
+        "time_utc": "2022-07-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4SmlD6",
+        "date": "2022-07-02",
+        "time_utc": "2022-07-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_43TGu7",
+        "date": "2022-07-02",
+        "time_utc": "2022-07-02T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1kZPcK",
+        "date": "2022-07-03",
+        "time_utc": "2022-07-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2LZC9b",
+        "date": "2022-07-03",
+        "time_utc": "2022-07-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2gCJ7m",
+        "date": "2022-07-03",
+        "time_utc": "2022-07-03T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4GVdwe",
+        "date": "2022-07-03",
+        "time_utc": "2022-07-03T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0EfsW9",
+        "date": "2022-07-04",
+        "time_utc": "2022-07-04T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3fc3U5",
+        "date": "2022-07-09",
+        "time_utc": "2022-07-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_44Y2j3",
+        "date": "2022-07-09",
+        "time_utc": "2022-07-09T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0i9CeD",
+        "date": "2022-07-10",
+        "time_utc": "2022-07-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VW3xC",
+        "date": "2022-07-10",
+        "time_utc": "2022-07-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4IV0Lf",
+        "date": "2022-07-10",
+        "time_utc": "2022-07-10T15:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2XUoPs",
+        "date": "2022-07-11",
+        "time_utc": "2022-07-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0KYBl3",
+        "date": "2022-07-11",
+        "time_utc": "2022-07-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_222d9e",
+        "date": "2022-07-11",
+        "time_utc": "2022-07-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1i088o",
+        "date": "2022-07-16",
+        "time_utc": "2022-07-16T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1kutwz",
+        "date": "2022-07-16",
+        "time_utc": "2022-07-16T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0tC89D",
+        "date": "2022-07-17",
+        "time_utc": "2022-07-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1qQ2wJ",
+        "date": "2022-07-17",
+        "time_utc": "2022-07-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4DaboG",
+        "date": "2022-07-17",
+        "time_utc": "2022-07-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0lL1Fj",
+        "date": "2022-07-17",
+        "time_utc": "2022-07-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_43Nfxp",
+        "date": "2022-07-18",
+        "time_utc": "2022-07-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_0XxjXp",
+        "date": "2022-07-18",
+        "time_utc": "2022-07-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3kuz5q",
+        "date": "2022-07-23",
+        "time_utc": "2022-07-23T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2G7a9k",
+        "date": "2022-07-23",
+        "time_utc": "2022-07-23T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4M9H7h",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0EKwWv",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4NwaMX",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1aZ6TC",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4NHXfv",
+        "date": "2022-07-25",
+        "time_utc": "2022-07-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_12lcDm",
+        "date": "2022-07-25",
+        "time_utc": "2022-07-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0kCA8h",
+        "date": "2022-07-30",
+        "time_utc": "2022-07-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bZT6O",
+        "date": "2022-07-30",
+        "time_utc": "2022-07-30T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1ZaD2c",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 4,
+        "score_away": 4
+      },
+      {
+        "id": "m_3vJtJj",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4CDaim",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1IVXts",
+        "date": "2022-08-01",
+        "time_utc": "2022-08-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0tREtZ",
+        "date": "2022-08-06",
+        "time_utc": "2022-08-06T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ct4pW",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_203bTX",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3geKg0",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4VAuXk",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1UjbmY",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3HJ6Yz",
+        "date": "2022-08-08",
+        "time_utc": "2022-08-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_22sbdt",
+        "date": "2022-08-08",
+        "time_utc": "2022-08-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4TxQyM",
+        "date": "2022-08-13",
+        "time_utc": "2022-08-13T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1epdrx",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1giu7G",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3GCpP5",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2FlqIL",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3d28bl",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1rOlLM",
+        "date": "2022-08-15",
+        "time_utc": "2022-08-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4bOUxD",
+        "date": "2022-08-15",
+        "time_utc": "2022-08-15T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wYJMk",
+        "date": "2022-08-20",
+        "time_utc": "2022-08-20T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_28cFAs",
+        "date": "2022-08-21",
+        "time_utc": "2022-08-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ZFhXw",
+        "date": "2022-08-21",
+        "time_utc": "2022-08-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ZYKId",
+        "date": "2022-08-21",
+        "time_utc": "2022-08-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_19aUTE",
+        "date": "2022-08-21",
+        "time_utc": "2022-08-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_4KqYjf",
+        "date": "2022-08-22",
+        "time_utc": "2022-08-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3lQokv",
+        "date": "2022-08-22",
+        "time_utc": "2022-08-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1uJD0J",
+        "date": "2022-08-22",
+        "time_utc": "2022-08-22T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Ne0zV",
+        "date": "2022-08-27",
+        "time_utc": "2022-08-27T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_42fXwy",
+        "date": "2022-08-27",
+        "time_utc": "2022-08-27T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1pj33K",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3oNhyN",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3369xT",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4PvECQ",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_38SUMO",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2BOTMt",
+        "date": "2022-08-29",
+        "time_utc": "2022-08-29T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_013kKo",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_11YWSU",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0YuxEM",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XxCzj",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0dNSq0",
+        "date": "2022-09-05",
+        "time_utc": "2022-09-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4bw4N8",
+        "date": "2022-09-05",
+        "time_utc": "2022-09-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1wvPOg",
+        "date": "2022-09-05",
+        "time_utc": "2022-09-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_386GYs",
+        "date": "2022-09-05",
+        "time_utc": "2022-09-05T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1eyZy4",
+        "date": "2022-09-10",
+        "time_utc": "2022-09-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1wZCPO",
+        "date": "2022-09-10",
+        "time_utc": "2022-09-10T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1kDrDZ",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Ydvvp",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1WbQQ8",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3b11N9",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_468CHv",
+        "date": "2022-09-12",
+        "time_utc": "2022-09-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2WHL8M",
+        "date": "2022-09-12",
+        "time_utc": "2022-09-12T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0AY1gy",
+        "date": "2022-09-17",
+        "time_utc": "2022-09-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2irHgr",
+        "date": "2022-09-17",
+        "time_utc": "2022-09-17T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1vIZRD",
+        "date": "2022-09-17",
+        "time_utc": "2022-09-17T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0o4EDK",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0fLoNj",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4gIIwG",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2GcbpU",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1aKiRQ",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1afLcR",
+        "date": "2022-10-01",
+        "time_utc": "2022-10-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_158Dih",
+        "date": "2022-10-01",
+        "time_utc": "2022-10-01T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_05CFPx",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1Q5ZiF",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3PU6o1",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_14WquJ",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0unrpv",
+        "date": "2022-10-03",
+        "time_utc": "2022-10-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_11JxPJ",
+        "date": "2022-10-03",
+        "time_utc": "2022-10-03T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4flBPA",
+        "date": "2022-10-08",
+        "time_utc": "2022-10-08T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4SGyiL",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ns0sT",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4EFaJ4",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0XgZI7",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2OTOjM",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0yW5nm",
+        "date": "2022-10-10",
+        "time_utc": "2022-10-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3WVtre",
+        "date": "2022-10-10",
+        "time_utc": "2022-10-10T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_41rtA9",
+        "date": "2022-10-14",
+        "time_utc": "2022-10-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4ZDd8P",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_118CH3",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1KlFWt",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4UsFzJ",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Z81Tf",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1lNsPz",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0jdkze",
+        "date": "2022-10-17",
+        "time_utc": "2022-10-17T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1q3ijD",
+        "date": "2022-10-19",
+        "time_utc": "2022-10-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0WN0v9",
+        "date": "2022-10-19",
+        "time_utc": "2022-10-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3sj21h",
+        "date": "2022-10-19",
+        "time_utc": "2022-10-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3WUqon",
+        "date": "2022-10-19",
+        "time_utc": "2022-10-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1IvyHM",
+        "date": "2022-10-20",
+        "time_utc": "2022-10-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1M7hHP",
+        "date": "2022-10-20",
+        "time_utc": "2022-10-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0bQedr",
+        "date": "2022-10-20",
+        "time_utc": "2022-10-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4fN9cM",
+        "date": "2022-10-20",
+        "time_utc": "2022-10-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_22B7cM",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wo9nw",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1qWJAM",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4AMwSL",
+        "date": "2022-10-24",
+        "time_utc": "2022-10-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1AVe69",
+        "date": "2022-10-24",
+        "time_utc": "2022-10-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0LtLTz",
+        "date": "2022-10-24",
+        "time_utc": "2022-10-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3pmThE",
+        "date": "2022-10-24",
+        "time_utc": "2022-10-24T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_30t1YE",
+        "date": "2022-10-24",
+        "time_utc": "2022-10-24T17:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ScTHj",
+        "date": "2022-10-29",
+        "time_utc": "2022-10-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "away_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3EsxsT",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "away_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_15h8F3",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "away_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1wWXb7",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "away_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1pxpZR",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "away_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_03YEYZ",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "away_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_3VLpai",
+        "date": "2022-10-31",
+        "time_utc": "2022-10-31T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "away_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1GV7Fn",
+        "date": "2022-10-31",
+        "time_utc": "2022-10-31T18:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "away_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4JVmUl",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_07zOhG",
+          "name": "AIK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c5569845a53838d5142abfeb9d3fdc40b4d5c143be6d562a9430767974332b2.webp"
+        },
+        "away_team": {
+          "id": "t_1A5Ku8",
+          "name": "Elfsborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0426d3bd4e288c26a941d714404525652681d13ea4f4b6446de1b1174ce12e4b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4dFUh9",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EsmDL",
+          "name": "Djurgården",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/645845301753245b63e26cbfc9225e31ea09d4970ba403dd1814042e5a51ebc7.webp"
+        },
+        "away_team": {
+          "id": "t_4WZCfY",
+          "name": "Mjällby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e6cf27b3508d5b4aed006cd97522ba4d2782d29eae18492dd28f8707c974a612.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2MSHpp",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16Q0cn",
+          "name": "Häcken",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/291344792b6e789cca715a0d3f9792de76544fe70c1817ee081ed8552575acb1.webp"
+        },
+        "away_team": {
+          "id": "t_4R5NSf",
+          "name": "IFK Norrköping",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a91f601ef81125d8b29bbfa0994861924d861120adb0162c66ab778f9902c019.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0VIov2",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dRIgU",
+          "name": "Helsingborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b0b314015d4ab5e439fbf4ee727076fc48fe60a974ba7c88c674398a93def4c.webp"
+        },
+        "away_team": {
+          "id": "t_4E7vY4",
+          "name": "Hammarby",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2f95803b579f3735b7aaa343638ca37e701e66b49306d278443cda7ca37d600b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3qqNyV",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Fc4a0",
+          "name": "IFK Värnamo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd502e2080129e1e5fd4ee5899284e03d8b975a9ab59e95e73b4207a5432bc1d.webp"
+        },
+        "away_team": {
+          "id": "t_1sUBD0",
+          "name": "IFK Göteborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d0f45bb43a4c64dab149e4846e6b3bf732aeec71d6eab9f98c29b76a71c92bc.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_0KN1bC",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_22NLCn",
+          "name": "Kalmar FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f05c490324779b443d4dda9b7b94e611c765a36d5047c48b6f982e4cdd64ac16.webp"
+        },
+        "away_team": {
+          "id": "t_2KN414",
+          "name": "GIF Sundsvall",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce892d4d0d95bf6b12ca8aeae0b293df1faa00550b63b656fe65698eb3c4753e.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1OI6sV",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0BJtVe",
+          "name": "Malmö FF",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7680b1a9043f5663f1b9ef9792e6d9dc0a07516fc1536d2a8a0e4b371918c016.webp"
+        },
+        "away_team": {
+          "id": "t_0uPsiJ",
+          "name": "Degerfors",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/514158472df40f12232f5c23c0cf41417f024e92df53412716e494b2c1b198ed.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3ED0iN",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2VKc0M",
+          "name": "Sirius",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/86e37570c3cc269d62390348fec0d212b351e76cd2960fdb80b906374e8ed3f1.webp"
+        },
+        "away_team": {
+          "id": "t_0WeliH",
+          "name": "Varbergs BoIS FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f824e9f106b665782c671dd1e58e661a700b02678f6fc309979dde7c8f3eca7.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      }
+    ]
+  }
+}

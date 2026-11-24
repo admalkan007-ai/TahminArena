@@ -1,0 +1,4980 @@
+{
+  "data": {
+    "league": {
+      "id": "l_0F4I4F",
+      "name": "1. Liga",
+      "season": "2024/2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/6663e17874784ca64814cbe92ad8abf528efeaed372f46eee0e4109890b1afc0.webp"
+    },
+    "matches": [
+      {
+        "id": "m_0gYe6e",
+        "date": "2024-07-19",
+        "time_utc": "2024-07-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_40ss1B",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4NPusR",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_28CQW3",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4CBcXV",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2cjLM0",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Qljo0",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3MBg1x",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dO2SC",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_38p8fg",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2fo678",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0UN9g8",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2bqP5J",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_392bB9",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jJxJ0",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0myNtB",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2swb3b",
+        "date": "2024-08-02",
+        "time_utc": "2024-08-02T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_35UrNW",
+        "date": "2024-08-02",
+        "time_utc": "2024-08-02T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3YQDjg",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0odtdS",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0RP31q",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1gjF6L",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0XcKC4",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Uto5K",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0K3e4r",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wg9bh",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2i0S0A",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4gPqZa",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2w4i03",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0qqOzK",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1R1WnN",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_4SIKgT",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_26hOcZ",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0imELW",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0KYval",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2RJrpF",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2YLbcc",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Z7JLm",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2DSj1D",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_05oAjn",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3sG6tb",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3O1TGw",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Lskcp",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2P5kyV",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_004FyY",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Tp80G",
+        "date": "2024-08-28",
+        "time_utc": "2024-08-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0moVU4",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2woz3v",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3jUu7A",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3FUq4R",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2KLmmJ",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_34jjee",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1M5R88",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2omnzd",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0k4cLN",
+        "date": "2024-09-17",
+        "time_utc": "2024-09-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4GApBl",
+        "date": "2024-09-17",
+        "time_utc": "2024-09-17T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1nCPR5",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3cBopS",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_07dwhd",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2s8w0O",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0GZik9",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Wpvi5",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3yrLVR",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0BeHlP",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_10FCJO",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2dUuIF",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1v79ax",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Z8qX8",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_18iZXg",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Vm1qt",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3nt7Xa",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3cvCgp",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3L7uUk",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1VfNFu",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_23VDSQ",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1muwEa",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_1VcU0B",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_14xvzi",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0er1pu",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_01zASe",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_46Kj0e",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_46R4LG",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_12yV0Q",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_01Pjj0",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1kZCSb",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0BGKCP",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3RLrMP",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0hepAG",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0aYHxq",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2zkPgX",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0GpwPd",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_35aVIz",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0dDlW2",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3e8III",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ETCGV",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1IfUvV",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_46hIBl",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3u3lyc",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0vVktS",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Qr71i",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4PICLu",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0IG6pm",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ICKPV",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0PPPLT",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ywLs0",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_3NNzkP",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3iIAJr",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4VwcOS",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_2E0rmP",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0fTstR",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0senHn",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_0msujh",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0zzaSU",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hpiwd",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3onvkD",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0W83tY",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1DYmWY",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1dc4Lx",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_32ZFCo",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3TSt4p",
+        "date": "2024-11-27",
+        "time_utc": "2024-11-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1cRMla",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_27QZpv",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4cQm4x",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3HZYmm",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1MKoxj",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1urkJl",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0semMZ",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_304Vtt",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3yk3lU",
+        "date": "2024-12-03",
+        "time_utc": "2024-12-03T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0rNlgW",
+        "date": "2024-12-04",
+        "time_utc": "2024-12-04T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0B0dK9",
+        "date": "2024-12-04",
+        "time_utc": "2024-12-04T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1wVglw",
+        "date": "2024-12-04",
+        "time_utc": "2024-12-04T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_42Qpw7",
+        "date": "2024-12-04",
+        "time_utc": "2024-12-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0tcf23",
+        "date": "2024-12-05",
+        "time_utc": "2024-12-05T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1TBxNW",
+        "date": "2024-12-05",
+        "time_utc": "2024-12-05T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2bLx9m",
+        "date": "2024-12-05",
+        "time_utc": "2024-12-05T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0MlWUD",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3MNCa5",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2tc0Dv",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2OIZCi",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1HA8wx",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2nyrEg",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3WsChM",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_05xKVt",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_08ix0G",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3oRXUW",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_04O0lK",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_1Sv3y0",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4aA9Py",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1j1yWn",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_34ZFoE",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0M0c7Y",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 7,
+        "score_away": 2
+      },
+      {
+        "id": "m_3TNYu0",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2IAKI2",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1UUf14",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wpgYt",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1HVDBg",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2px2Z5",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ss0Uk",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2OKVlp",
+        "date": "2025-02-03",
+        "time_utc": "2025-02-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2h9Wz1",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1GubE6",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3jHznl",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ft4TG",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4KkOjY",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2i5Qhe",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2dJN5u",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_36Seug",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1w5XeP",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3jJTLF",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4BHOJi",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1brLwv",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4cXbvR",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0mLNZ6",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1rWN18",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_36EWnP",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3ewLAE",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0T7KCu",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2kctl8",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_15isTv",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3kFjwN",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_4E5H79",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1SS0n1",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_0NZW0D",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1KUojy",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1oIElC",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1prfW4",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2zeSD8",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2gUPlo",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1vZBwR",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ogVPC",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3grTQF",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3WNLh3",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0uAvT4",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dazce",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1lMa9F",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0DoJay",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0TQWYE",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3k3uSF",
+        "date": "2025-03-12",
+        "time_utc": "2025-03-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0yGmqK",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3viZdx",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_09n9FM",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_06aPcG",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3g1383",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4RuA0s",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2uOrEo",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0xvFbm",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4URFuk",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2dpZsu",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_380UzS",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3zqejr",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2KsmHI",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2NQ33C",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1OBYry",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1jN3ju",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_1Nx461",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4MlA94",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2SPWcn",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_02zymg",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3cX7q4",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_092Xyy",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4PLdr2",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0yJ9OV",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3FMIaY",
+        "date": "2025-04-09",
+        "time_utc": "2025-04-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_3zeFp5",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2i75FX",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2NpTih",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Bjks9",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3uQ4Ya",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0cJfyE",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2DXywa",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1M5udG",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_24cX5g",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0YSagf",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1oFXD7",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2jGqaP",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0y4bGF",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_2n60Sa",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0wAGLl",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_47EWoG",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3GXIDP",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3LPEw8",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2TwMC2",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_3c390u",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3QeFWM",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4UdLlw",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Z3nQr",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XZ7be",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_41rzD0",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_2xrG0F",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2terFW",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_39VGwd",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kuwAf",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_38qK7G",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2NdS7D",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2s3OXI",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10bdCj",
+          "name": "Karviná",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23ce04afe18f347389cb02b34885b72d4c7c1f731657523e489049f7062fd13f.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4RoAZy",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Mf6R1",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0CzEwB",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0UHvmI",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1heaIa",
+          "name": "Slovan Liberec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/af80d1c9806faa2b4edb421cb90016febfe8d4f64f0f0086a866d8b3c2dcc4f1.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1unQu5",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3dcCm9",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4WmJeb",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "away_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Kykau",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "away_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2izkY4",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "away_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_00g3ZP",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "away_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1QFpAr",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "away_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_45vKw8",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "away_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3lpbkO",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "away_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0n9bNF",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1G8RuA",
+          "name": "Viktoria Plzeň",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/786d8290c958c4b312b4c64ad9293e7e29ef4a0b2b0a97fa3f33efbeb8f9c80d.webp"
+        },
+        "away_team": {
+          "id": "t_33z5hz",
+          "name": "Jablonec",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/94b8f0bb5f33323de0efa7e177fcc37458c049b68d7b7e1ef3517ff786be6898.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3pmVnF",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19pSyq",
+          "name": "Sparta Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83110e344a5a5bfa92691b7abc038174e25dc66146f033631a31c9ff9a4b6d7b.webp"
+        },
+        "away_team": {
+          "id": "t_1f8Jae",
+          "name": "Sigma Olomouc",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ba3149215895cb9b751d5a171780595a839f7bf21558adb16758774bc8af8283.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0voVfw",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_41GCDg",
+          "name": "Slavia Prague",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53729e84362ce320d7bf5e5473466d4fdfd8032c4c0e8725d64563d53935da00.webp"
+        },
+        "away_team": {
+          "id": "t_4cz6mV",
+          "name": "Baník Ostrava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/60f4560ae4d869b77000956fd88c851f0a8ece6761cb2a7d11839bf32b9d2dc6.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2MCzb3",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3syz3e",
+          "name": "Hradec Králové",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/31688b8bbcec42880c50f097ef98be02014ce921fdbda695eb7c7de8159e639f.webp"
+        },
+        "away_team": {
+          "id": "t_3bqJOI",
+          "name": "Bohemians 1905",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a7a07ab5ddbed1ddcdc9fa053666362e33ca16d7dab1b433bed6b1a4000a02.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4WQrq8",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1OB46o",
+          "name": "Teplice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/154d093664a1fced4d321a133f09fe215cdf8f144dc737428aef683dc8da1667.webp"
+        },
+        "away_team": {
+          "id": "t_46tRLy",
+          "name": "Pardubice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1f2473299cebe1f70b1d7672ab3739b389f53fed8ec83b844f4c0286e272513c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4F4W54",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4T4c7t",
+          "name": "Mladá Boleslav",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/776229ad05d88d39d9300c8db994adbc5cea631a6c3d57d2d6057e82f53da4f0.webp"
+        },
+        "away_team": {
+          "id": "t_11JbPq",
+          "name": "Slovácko",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c304a26a1927767e526b0fd57850ac200e26b6f96d280d3ea706ec264d3db2c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3cf3D5",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39E1lf",
+          "name": "Dukla Praha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/600e8583ffa264360bdf4a18b144341ac3785ac02dd0d268ca82387eeb334022.webp"
+        },
+        "away_team": {
+          "id": "t_3r5rud",
+          "name": "České Budějovice",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fd78027044ed2ea24e41b2ce686902362cb19abaf0fccfaf0c5d5441c653457a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      }
+    ]
+  }
+}

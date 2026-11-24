@@ -1,0 +1,3018 @@
+{
+  "data": {
+    "league": {
+      "id": "l_3v84VE",
+      "name": "Liga MX",
+      "season": "2024/2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/aef301d348710cb29bbdd742e9043910b97b1a31fe19b1b2dd7bf76d29f08d58.webp"
+    },
+    "matches": [
+      {
+        "id": "m_3slEbO",
+        "date": "2024-07-05",
+        "time_utc": "2024-07-05T22:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_18dJrT",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2aawbe",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2yDYgC",
+        "date": "2024-07-06",
+        "time_utc": "2024-07-06T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_41Hj70",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_25ngnz",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_26Pdqp",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4ODImr",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_35Maqz",
+        "date": "2024-07-08",
+        "time_utc": "2024-07-08T01:06:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_026wUq",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ISOBO",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_28KK3t",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_38N1c4",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1RWxTj",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2tEg2S",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_305BwT",
+        "date": "2024-07-14",
+        "time_utc": "2024-07-14T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3esKdT",
+        "date": "2024-07-14",
+        "time_utc": "2024-07-14T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4KADvC",
+        "date": "2024-07-14",
+        "time_utc": "2024-07-14T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4EWzm7",
+        "date": "2024-07-17",
+        "time_utc": "2024-07-17T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Vy7gK",
+        "date": "2024-07-17",
+        "time_utc": "2024-07-17T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ykaHY",
+        "date": "2024-07-17",
+        "time_utc": "2024-07-17T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1KGSmL",
+        "date": "2024-07-17",
+        "time_utc": "2024-07-17T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_02BxuB",
+        "date": "2024-07-17",
+        "time_utc": "2024-07-17T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XyMmn",
+        "date": "2024-07-18",
+        "time_utc": "2024-07-18T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_20aLpB",
+        "date": "2024-07-18",
+        "time_utc": "2024-07-18T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3rC2uW",
+        "date": "2024-07-18",
+        "time_utc": "2024-07-18T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1efNcl",
+        "date": "2024-07-18",
+        "time_utc": "2024-07-18T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ccEd2",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_38Iq5u",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3oMk7o",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T23:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3BqKqI",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Mgp50",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3nggXL",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4aZwHl",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VOVvM",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4dI97y",
+        "date": "2024-07-22",
+        "time_utc": "2024-07-22T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3KaSV2",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_43Jdzc",
+        "date": "2024-08-19",
+        "time_utc": "2024-08-19T00:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_23lTj0",
+        "date": "2024-08-19",
+        "time_utc": "2024-08-19T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3hq2Bz",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3T6gXz",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1EDTpl",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0sdyvc",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4QM4G7",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2EGXqx",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0IyWX8",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1L4apk",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_001iCK",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_20ovmG",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0HHEzM",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_01u858",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0JTq8I",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_39PM3t",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T23:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_4GEIs8",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4FDZaA",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3AolWf",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4PZMEa",
+        "date": "2024-09-02",
+        "time_utc": "2024-09-02T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1RalUt",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3qIM3H",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Brp3m",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T02:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0rU5jm",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T02:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2n1CqZ",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3g3FUR",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T22:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_49OC6g",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T00:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Gds6o",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T02:35:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0NpWG4",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_24SR02",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2wLa1e",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_38Wz6k",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1b6ls3",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3pEc7N",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0GaBND",
+        "date": "2024-09-19",
+        "time_utc": "2024-09-19T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3owExi",
+        "date": "2024-09-19",
+        "time_utc": "2024-09-19T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_44K9wF",
+        "date": "2024-09-19",
+        "time_utc": "2024-09-19T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VNKuw",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_35PvEu",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4KlMkO",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_26DJKT",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0gZCSH",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1uB3LZ",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0zouN6",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3MVlFL",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0egQyM",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T01:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4dExFp",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_363O6p",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2FUHcF",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3DUOrp",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2g1zlD",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lERRd",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_1nzCk4",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1MoOTD",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1OSJsw",
+        "date": "2024-09-30",
+        "time_utc": "2024-09-30T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2xIDNl",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1kbD4o",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lmgPB",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2tiQTm",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0VTbFb",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0k4O3N",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_19WzGZ",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2nfDM4",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2OHWjd",
+        "date": "2024-10-07",
+        "time_utc": "2024-10-07T02:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2WNm7L",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3tobcc",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ga0Hn",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_03oLNp",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_35nTSM",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2gGhrj",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ibjMO",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T01:06:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2QzqfF",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_1VBsZW",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_41baaW",
+        "date": "2024-10-23",
+        "time_utc": "2024-10-23T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2S8Wzx",
+        "date": "2024-10-23",
+        "time_utc": "2024-10-23T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3aPfW0",
+        "date": "2024-10-23",
+        "time_utc": "2024-10-23T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4RVpdg",
+        "date": "2024-10-23",
+        "time_utc": "2024-10-23T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1LjwVc",
+        "date": "2024-10-24",
+        "time_utc": "2024-10-24T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1TuQa9",
+        "date": "2024-10-24",
+        "time_utc": "2024-10-24T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1i7Rjo",
+        "date": "2024-10-24",
+        "time_utc": "2024-10-24T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1vLCst",
+        "date": "2024-10-24",
+        "time_utc": "2024-10-24T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3pTBGX",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_48TnYw",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0p6YYN",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Bw1uv",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1icH41",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0xZrmb",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2GojiR",
+        "date": "2024-10-28",
+        "time_utc": "2024-10-28T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_225Fzh",
+        "date": "2024-10-28",
+        "time_utc": "2024-10-28T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1iJvtL",
+        "date": "2024-10-28",
+        "time_utc": "2024-10-28T02:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0crQJ9",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1MBEpG",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_1O4ZRN",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3UNah7",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4b9NK8",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1EBlNN",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3j1ikL",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0AszFo",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T03:06:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "score_home": 6,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Sd3GD",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4dKq5C",
+        "date": "2024-11-06",
+        "time_utc": "2024-11-06T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "away_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_275W4f",
+        "date": "2024-11-06",
+        "time_utc": "2024-11-06T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "away_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4OqrbS",
+        "date": "2024-11-06",
+        "time_utc": "2024-11-06T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Z92a9",
+        "date": "2024-11-07",
+        "time_utc": "2024-11-07T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4T4Kni",
+        "date": "2024-11-07",
+        "time_utc": "2024-11-07T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1zggkX",
+        "date": "2024-11-07",
+        "time_utc": "2024-11-07T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4eJbhp",
+        "date": "2024-11-07",
+        "time_utc": "2024-11-07T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_12J9PF",
+        "date": "2024-11-07",
+        "time_utc": "2024-11-07T03:06:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_10BmVt",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1Qxyck",
+          "name": "Querétaro FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0a9746b0b1dd93b4f73f4ec2bd6b2629c8037f6a7eb8154a776d290ff0300a19.webp"
+        },
+        "away_team": {
+          "id": "t_3FfqhA",
+          "name": "Santos Laguna",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1a04235cef39c387ea2b1689a5bb21c8957cadcde622bef4735ae1a20ac8760d.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1d3baE",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Wm9EG",
+          "name": "Mazatlan FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bbe9afedf7e9dc5e98cf8b7b025c4d9a589e73db5ea809256ecc816bbfc8f8ff.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1xyn06",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T23:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3aG59l",
+          "name": "Chivas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55bc5f46df4a110a27c4e4b1dd806243aaf179b2f1ef074181dbce2b7e0d0e13.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3tfgyL",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_37z0el",
+          "name": "Pachuca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c5804aa3ac136475ddfe9b944447e1b97d09ce07185288eb0e9727956a4ab041.webp"
+        },
+        "away_team": {
+          "id": "t_0p2Sk7",
+          "name": "FC Juárez",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a77d055a78fa5ff6428ec04a9d91c34d91a25ac96c4e566da825e44288421a38.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4TZ5OW",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0tzTvN",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T03:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2m8h3G",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_09cXNN",
+          "name": "Necaxa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5f59e8a12eb514adb88a3cf0a3d864fc5dc48b427bbecf22194967980b9061f1.webp"
+        },
+        "away_team": {
+          "id": "t_06pffY",
+          "name": "Atlas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/11ccd9fa3bd0885bee371f3d6fa9f6ca975a0631a83eefb79f65741336ad0ebe.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0cRtmT",
+        "date": "2024-11-11",
+        "time_utc": "2024-11-11T01:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_3Aj84E",
+          "name": "León",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/64b00149db6bacb4b1c0fafee55eee906449da31a2706569d7a03ee87129f10b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0zmX5K",
+        "date": "2024-11-11",
+        "time_utc": "2024-11-11T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_16UjNo",
+          "name": "Puebla",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e723120c32287d5f37d6912dbeff59dd94be9be0c768c601f4596ce57f3a029.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_31Anm8",
+        "date": "2024-11-28",
+        "time_utc": "2024-11-28T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3qRKcM",
+        "date": "2024-11-28",
+        "time_utc": "2024-11-28T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1tE98E",
+        "date": "2024-11-29",
+        "time_utc": "2024-11-29T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3VhCd3",
+        "date": "2024-11-29",
+        "time_utc": "2024-11-29T03:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2JURrJ",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_33VE4n",
+          "name": "Toluca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ccc4b3baab886e30f399d1ab42d9ffc4efaf0782b7741511b480779c5b76ef9d.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1qRgNY",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T01:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_42FKLM",
+          "name": "Tijuana",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1ae78b07e4c8b40e43cab903161c596f549d0545a2a923a21c57bb24153af3f0.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3KhB0R",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_08l6Cu",
+          "name": "Pumas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4afb520d78781eecd36c8e17f52730529455e93ab123c8c7ac177c1525f9a3ea.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 3,
+        "score_away": 5
+      },
+      {
+        "id": "m_4DnobF",
+        "date": "2024-12-02",
+        "time_utc": "2024-12-02T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1xzdYt",
+          "name": "Tigres",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3cda3bac9b8a7e403ad979e737e162660c8791d7106fb7e7ac56e1149819bceb.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3qgZz8",
+        "date": "2024-12-05",
+        "time_utc": "2024-12-05T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1vjBGt",
+        "date": "2024-12-06",
+        "time_utc": "2024-12-06T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3vCGao",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_0NY6cC",
+          "name": "Atlético de San Luis",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b31e3fcb807a3caae08a1920c93c09d3cfd36c00cc581acf1fa8b2f8c0c90ab.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_1YhbSH",
+        "date": "2024-12-09",
+        "time_utc": "2024-12-09T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0cPdCL",
+          "name": "Cruz Azul",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe9c41d206d33c9f5cf45e060a75310497cd557784148900e65b616bf062348f.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_2XTjzw",
+        "date": "2024-12-13",
+        "time_utc": "2024-12-13T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "away_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Ndbme",
+        "date": "2024-12-16",
+        "time_utc": "2024-12-16T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wrUAV",
+          "name": "Monterrey",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b3b7e4f649f0e2003f83bfbfd97ecfb5811b691187d5822346b9dddf46507b68.webp"
+        },
+        "away_team": {
+          "id": "t_4co6t5",
+          "name": "CF América",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/75bb2ab62fb14b16363da8e3be7ffc114c6e50cb52a1d218ad400652ee03caf7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      }
+    ]
+  }
+}

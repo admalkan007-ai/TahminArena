@@ -1,0 +1,4332 @@
+{
+  "data": {
+    "league": {
+      "id": "l_4dzm4e",
+      "name": "Primera Division",
+      "season": "2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/2ce3f4ff7905e71fee55f8f620489282e1aa76f5a5c2a854afea74a6153363a1.webp"
+    },
+    "matches": [
+      {
+        "id": "m_2OkfQQ",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_03fMqi",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_31JqZn",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2KcPSg",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0kqMbi",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ELAHy",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0tixSt",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2DuxOm",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2XFZxT",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1gT5Ni",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2aAUMq",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_0iPYBu",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1vVB0Y",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kxETU",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3aBjWv",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0DjbYk",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_28zsWg",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4KCmv8",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_26pt1o",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1QpRQd",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_0wHuZ5",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Wz4BY",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1Fu6BE",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VLCSw",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1SkYiN",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3PFNFD",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1z31JE",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Hvh1K",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4VgqN8",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Oodpd",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3FOluv",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2tePlY",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3xxope",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1fdGNN",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Ze6Nl",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0hTjQT",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3dYjQL",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_27Auff",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VnRF8",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 7
+      },
+      {
+        "id": "m_2OLYgf",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3oAp8n",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3TlPkR",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_43tPv7",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JnlVd",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1LwFg0",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 7
+      },
+      {
+        "id": "m_3fRFFk",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T00:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_0WBQ2o",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2WKIT5",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2S3lno",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3AgtO1",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3sLfC8",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_0i1MSQ",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3yI1CL",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 6,
+        "score_away": 3
+      },
+      {
+        "id": "m_2M0RfV",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1O3LWF",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Vonrv",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1DJ8G9",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_48Evcf",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_35lIi7",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3HNV5Q",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3nFxc3",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2CDFrN",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0hUbN1",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_423Nyi",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_3rcquO",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4DRc4z",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2vYz2U",
+        "date": "2025-05-26",
+        "time_utc": "2025-05-26T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4e1T3w",
+        "date": "2025-05-27",
+        "time_utc": "2025-05-27T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_0kNSNB",
+        "date": "2025-05-27",
+        "time_utc": "2025-05-27T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_09NC5K",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Mv0QW",
+        "date": "2025-06-08",
+        "time_utc": "2025-06-08T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_11JzVW",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ZXxQp",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2CRB4Q",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0CAuWr",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_14lyJj",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3sVuCp",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4gSXhv",
+        "date": "2025-06-20",
+        "time_utc": "2025-06-20T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0iaA32",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4CKdK7",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_33MBOo",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4SZ2uO",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4DpnAz",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2l8Apm",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Eff2D",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2RQl8R",
+        "date": "2025-06-28",
+        "time_utc": "2025-06-28T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2xoLoJ",
+        "date": "2025-06-28",
+        "time_utc": "2025-06-28T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0vzOgW",
+        "date": "2025-06-29",
+        "time_utc": "2025-06-29T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4E27JC",
+        "date": "2025-06-29",
+        "time_utc": "2025-06-29T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_05pI8u",
+        "date": "2025-06-29",
+        "time_utc": "2025-06-29T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2sXSt1",
+        "date": "2025-06-30",
+        "time_utc": "2025-06-30T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lvXb9",
+        "date": "2025-06-30",
+        "time_utc": "2025-06-30T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0XTzX4",
+        "date": "2025-07-01",
+        "time_utc": "2025-07-01T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3fAz0Y",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2KJWB9",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0c5o5x",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 7,
+        "score_away": 2
+      },
+      {
+        "id": "m_15Lgrw",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3puufH",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_1D7Mxb",
+        "date": "2025-07-07",
+        "time_utc": "2025-07-07T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0aCuIz",
+        "date": "2025-07-07",
+        "time_utc": "2025-07-07T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0lqB1I",
+        "date": "2025-07-08",
+        "time_utc": "2025-07-08T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1qtz3N",
+        "date": "2025-07-11",
+        "time_utc": "2025-07-11T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1CniFa",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DaTol",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_23LGZ1",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_38IRFl",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_29qp8d",
+        "date": "2025-07-14",
+        "time_utc": "2025-07-14T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3fKCGN",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2pFrP1",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2PpWci",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_4V82e9",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3BV1RL",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0KEb86",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3FPOOV",
+        "date": "2025-07-21",
+        "time_utc": "2025-07-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3yZ8gw",
+        "date": "2025-07-22",
+        "time_utc": "2025-07-22T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0cihXy",
+        "date": "2025-07-29",
+        "time_utc": "2025-07-29T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1vNvHO",
+        "date": "2025-07-30",
+        "time_utc": "2025-07-30T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3yKGrf",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_33053T",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_20eZon",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_40XDrr",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1hj1uk",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0bWGse",
+        "date": "2025-08-04",
+        "time_utc": "2025-08-04T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Zh8M4",
+        "date": "2025-08-04",
+        "time_utc": "2025-08-04T21:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ef0Ib",
+        "date": "2025-08-06",
+        "time_utc": "2025-08-06T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0bBQSG",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0XVZBQ",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3zbtdi",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_255Mgv",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1vf5jp",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Drtgw",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_428W2l",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3AAiWQ",
+        "date": "2025-08-12",
+        "time_utc": "2025-08-12T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Q8YNl",
+        "date": "2025-08-13",
+        "time_utc": "2025-08-13T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4IfTD0",
+        "date": "2025-08-13",
+        "time_utc": "2025-08-13T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0iEDSr",
+        "date": "2025-08-20",
+        "time_utc": "2025-08-20T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_478s47",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2RhY1d",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3klkwc",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_33yRm5",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_21U3ve",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_36607M",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1BUc03",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_4fftA7",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Zk9De",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1D5yM3",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_09DtmI",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1eLg19",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1TWFHO",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ebS0q",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3AQzeS",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3P7oC8",
+        "date": "2025-09-15",
+        "time_utc": "2025-09-15T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_11SwDd",
+        "date": "2025-09-16",
+        "time_utc": "2025-09-16T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Xihc7",
+        "date": "2025-09-17",
+        "time_utc": "2025-09-17T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 5,
+        "score_away": 3
+      },
+      {
+        "id": "m_0RDsKL",
+        "date": "2025-09-17",
+        "time_utc": "2025-09-17T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cBlp3",
+        "date": "2025-09-17",
+        "time_utc": "2025-09-17T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_4dmKt7",
+        "date": "2025-09-18",
+        "time_utc": "2025-09-18T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2rAOUe",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3IvvcX",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2hAzHt",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2SQUzO",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Kuy1O",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1a1p2H",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_49bume",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_0t5zwQ",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Qf45O",
+        "date": "2025-09-23",
+        "time_utc": "2025-09-23T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ru5Zf",
+        "date": "2025-09-24",
+        "time_utc": "2025-09-24T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0FcL39",
+        "date": "2025-09-24",
+        "time_utc": "2025-09-24T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4T4Bru",
+        "date": "2025-09-25",
+        "time_utc": "2025-09-25T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Mtgv4",
+        "date": "2025-09-25",
+        "time_utc": "2025-09-25T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_4a4Pic",
+        "date": "2025-09-25",
+        "time_utc": "2025-09-25T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3hJjaE",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 3,
+        "score_away": 6
+      },
+      {
+        "id": "m_35v9zb",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2iTVMq",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2lHqP0",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_16swno",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2fveX1",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_41XI0K",
+        "date": "2025-09-29",
+        "time_utc": "2025-09-29T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_330uPs",
+        "date": "2025-09-29",
+        "time_utc": "2025-09-29T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_4AaQtG",
+        "date": "2025-09-30",
+        "time_utc": "2025-09-30T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2VruSL",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0A1c0u",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_11okR4",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4FAKiC",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0eGQr1",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3p98yS",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_2rngsR",
+        "date": "2025-11-03",
+        "time_utc": "2025-11-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0vz5OE",
+        "date": "2025-11-03",
+        "time_utc": "2025-11-03T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0RzZfl",
+        "date": "2025-11-03",
+        "time_utc": "2025-11-03T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2SjRao",
+        "date": "2025-11-04",
+        "time_utc": "2025-11-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0pQH8v",
+        "date": "2025-11-04",
+        "time_utc": "2025-11-04T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_14VWwa",
+        "date": "2025-11-06",
+        "time_utc": "2025-11-06T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Vm8Pn",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_15Jksk",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Bwbqx",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_37KT80",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3gdVqx",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1N8RIm",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0kTtT0",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T21:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4ZHICe",
+        "date": "2025-11-24",
+        "time_utc": "2025-11-24T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_19BEjC",
+        "date": "2025-11-28",
+        "time_utc": "2025-11-28T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_330SfH",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 7
+      },
+      {
+        "id": "m_321zCW",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3q8rM6",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_39eGiM",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3deDBV",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1cYLDq",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4BBfFB",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_10RpjB",
+        "date": "2025-12-02",
+        "time_utc": "2025-12-02T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_0n4MB3",
+        "date": "2025-12-02",
+        "time_utc": "2025-12-02T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_14f9zC",
+        "date": "2025-12-03",
+        "time_utc": "2025-12-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_0NfEfB",
+        "date": "2025-12-03",
+        "time_utc": "2025-12-03T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Ixz3f",
+        "date": "2025-12-04",
+        "time_utc": "2025-12-04T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_17lC42",
+        "date": "2025-12-04",
+        "time_utc": "2025-12-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 5,
+        "score_away": 3
+      },
+      {
+        "id": "m_0sKskZ",
+        "date": "2025-12-04",
+        "time_utc": "2025-12-04T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_25T8Sm",
+        "date": "2025-12-05",
+        "time_utc": "2025-12-05T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_0hLrhG",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4dt3k4",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 10,
+        "score_away": 1
+      },
+      {
+        "id": "m_0PZwYs",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 6,
+        "score_away": 3
+      },
+      {
+        "id": "m_0ReKpW",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2oIGvs",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4XlYLr",
+        "date": "2025-12-08",
+        "time_utc": "2025-12-08T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1V7dQ9",
+        "date": "2025-12-08",
+        "time_utc": "2025-12-08T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 5,
+        "score_away": 4
+      },
+      {
+        "id": "m_0HiJHJ",
+        "date": "2025-12-08",
+        "time_utc": "2025-12-08T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0MWK0r",
+        "date": "2025-12-09",
+        "time_utc": "2025-12-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "away_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1hvKbx",
+        "date": "2025-12-10",
+        "time_utc": "2025-12-10T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "away_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_22LCDc",
+        "date": "2025-12-10",
+        "time_utc": "2025-12-10T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "away_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3s88Hj",
+        "date": "2025-12-11",
+        "time_utc": "2025-12-11T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "away_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_20TkXe",
+        "date": "2025-12-11",
+        "time_utc": "2025-12-11T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "away_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4gbCpI",
+        "date": "2025-12-12",
+        "time_utc": "2025-12-12T00:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "away_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0tOlqX",
+        "date": "2025-12-12",
+        "time_utc": "2025-12-12T00:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "away_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_08y0Jt",
+        "date": "2025-12-12",
+        "time_utc": "2025-12-12T00:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "away_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dQ3no",
+        "date": "2025-12-13",
+        "time_utc": "2025-12-13T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4SlbRr",
+          "name": "Gualberto Villarroel SJ",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1de1b28ebcfd07d9e02fe1ec6f97c97da98142abf9c8aac19b7b02438ebdb2f0.webp"
+        },
+        "away_team": {
+          "id": "t_2txXQc",
+          "name": "Universitario de Vinto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c1a714d822f9f9209845fedbd308f17b51b986949a6a3cddf242d5e24d5c351.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_3wmM2N",
+        "date": "2025-12-14",
+        "time_utc": "2025-12-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mlLHR",
+          "name": "The Strongest",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eabfd7fac093c9908aecac04451c22f42e6db7e18b5070447057ee7cb50d6bb3.webp"
+        },
+        "away_team": {
+          "id": "t_1jsKzQ",
+          "name": "Jorge Wilstermann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/65bda094a6cd8f9df442806834eff6e449ef3fe8f0af11214c92b6853095825c.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_37ATOl",
+        "date": "2025-12-14",
+        "time_utc": "2025-12-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1RB8Dk",
+          "name": "Independiente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/510e14fd751879f44a9248e6f9d52c598216133a77efe995e8e48f2fc8f1c089.webp"
+        },
+        "away_team": {
+          "id": "t_0GiY2M",
+          "name": "Always Ready",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7c0ac9961e8eebb6562bf24a935afa99b3fd1021b01282fc007d9f0465e4f7ac.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_2iEMtk",
+        "date": "2025-12-14",
+        "time_utc": "2025-12-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23gU3Q",
+          "name": "Oriente Petrolero",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4917757149c2d69b888d08db92cbba46dc782d47410836d322d31763b9445ea4.webp"
+        },
+        "away_team": {
+          "id": "t_1jcxsO",
+          "name": "Bolívar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/02490087da9069131dfd349d0c1d5cbe880240725a9eea8ec30dde754a6517c8.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_01sdF7",
+        "date": "2025-12-14",
+        "time_utc": "2025-12-14T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EokRy",
+          "name": "Nacional Potosí",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/09e323a20f0c6d587e990eb2387d2b160255f1e51f479cf4f804e1bc09d60cd1.webp"
+        },
+        "away_team": {
+          "id": "t_48P3Jk",
+          "name": "Real Tomayapo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9501ba046ae77c2c8f67d538266f6762bf87047766849332ad2e66fd9fbcf336.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Hkw7u",
+        "date": "2025-12-14",
+        "time_utc": "2025-12-14T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bEdIp",
+          "name": "Guabirá",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0909d8c281b9d5bf7641b63ff67bf924e296e288fceff1ddd52fca6776efa4f4.webp"
+        },
+        "away_team": {
+          "id": "t_4VgACE",
+          "name": "Blooming",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb8e3e8fa150c8cfd00dad25e46350b9d0a9a9870e69ae7b4f91265478a40b93.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_44xNKY",
+        "date": "2025-12-15",
+        "time_utc": "2025-12-15T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_237g5O",
+          "name": "San Antonio Bulo Bulo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c96e815909280098a49743a16824676c589ede227d77224d988990b6014291d6.webp"
+        },
+        "away_team": {
+          "id": "t_1FL5ss",
+          "name": "Real Oruro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0c7c8a067e7db3463c0f15a679f9b346b3887c4c32a92259c9510c31a55b35de.webp"
+        },
+        "score_home": 5,
+        "score_away": 3
+      },
+      {
+        "id": "m_40PoCW",
+        "date": "2025-12-15",
+        "time_utc": "2025-12-15T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3KpT7r",
+          "name": "Aurora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f7b01a35736c211ee28118a31a2341d28ae469f47fe80c22151fae53024a108.webp"
+        },
+        "away_team": {
+          "id": "t_403VEU",
+          "name": "ABB",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/404f960c1496711317bab05c3510640075e1fe64729218d9b8a6755095358e8b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      }
+    ]
+  }
+}

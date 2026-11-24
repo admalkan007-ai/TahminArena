@@ -1,0 +1,3198 @@
+{
+  "data": {
+    "league": {
+      "id": "l_3Ci5Cg",
+      "name": "Veikkausliiga",
+      "season": "2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/20fd9acba4b6a8f0b57a408e7604a18170ed85e637292a3254e6901fe5d1f08c.webp"
+    },
+    "matches": [
+      {
+        "id": "m_23qJth",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Fh5wh",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1n9jH8",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_145Zb2",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2aUOmS",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_15EUZP",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2pT88c",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1fBIcm",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3xOOHd",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hWLpE",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Zdmkh",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KwtyU",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T16:23:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jcs2R",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_25bjbW",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2OVan8",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0oEDP6",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_2xfq1r",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Jza39",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1PHBlt",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1zt5oR",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3rnM4q",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_4Zjhj7",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_38N00s",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4L4xSN",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0tNBdU",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0vmrtw",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2p1FOo",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0xcHTZ",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3AYIMH",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1JV5Qx",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1TbCv8",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2OLy54",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1xQS1e",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T16:31:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1mLqqK",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3xgnqE",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2le1gr",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2DrGtB",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3Wm0Ql",
+        "date": "2025-05-12",
+        "time_utc": "2025-05-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1nXdnx",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0eHsdb",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4SR4mS",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1F7uPp",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3SnYOt",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1KytMH",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3TUGJC",
+        "date": "2025-05-20",
+        "time_utc": "2025-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_1YPZYh",
+        "date": "2025-05-21",
+        "time_utc": "2025-05-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1QAjVl",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XZAHA",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_32M4tJ",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2GCLJf",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4dPSbU",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3AXCu7",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4fHTGp",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3rmEIh",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Ebtbh",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4RCiJ7",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0CNesB",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2T0Wqe",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Apgtc",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2HQk2W",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4D2CW2",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_46GLeS",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_13HwuL",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1tC2Vt",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kE7Vk",
+        "date": "2025-06-18",
+        "time_utc": "2025-06-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_49y3NO",
+        "date": "2025-06-18",
+        "time_utc": "2025-06-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1TkaG3",
+        "date": "2025-06-18",
+        "time_utc": "2025-06-18T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4IjuOw",
+        "date": "2025-06-18",
+        "time_utc": "2025-06-18T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_158bUp",
+        "date": "2025-06-18",
+        "time_utc": "2025-06-18T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2fn6Jo",
+        "date": "2025-06-19",
+        "time_utc": "2025-06-19T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_2BrSSD",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1lUGUo",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Xxhyg",
+        "date": "2025-06-28",
+        "time_utc": "2025-06-28T09:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0yJKUD",
+        "date": "2025-06-28",
+        "time_utc": "2025-06-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2V8Zjb",
+        "date": "2025-06-28",
+        "time_utc": "2025-06-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1mnEIa",
+        "date": "2025-06-28",
+        "time_utc": "2025-06-28T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4aATV6",
+        "date": "2025-07-01",
+        "time_utc": "2025-07-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 6,
+        "score_away": 2
+      },
+      {
+        "id": "m_4EbJIC",
+        "date": "2025-07-02",
+        "time_utc": "2025-07-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4ZDKWl",
+        "date": "2025-07-02",
+        "time_utc": "2025-07-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4AYfSS",
+        "date": "2025-07-02",
+        "time_utc": "2025-07-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3W2bxJ",
+        "date": "2025-07-02",
+        "time_utc": "2025-07-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1a4TvV",
+        "date": "2025-07-04",
+        "time_utc": "2025-07-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_48n4tu",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3rUx3D",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Ok66t",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0NALCf",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_08PDYQ",
+        "date": "2025-07-07",
+        "time_utc": "2025-07-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2l55Mz",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4WiOtZ",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_18JZCx",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3jkLGI",
+        "date": "2025-07-14",
+        "time_utc": "2025-07-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3kTuqY",
+        "date": "2025-07-18",
+        "time_utc": "2025-07-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_34xzeI",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3b8pOr",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Rbxv4",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0e1oDL",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0taB6H",
+        "date": "2025-07-21",
+        "time_utc": "2025-07-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Kzuga",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3MF231",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0MRkvt",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1qOCjG",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ZsZNY",
+        "date": "2025-07-28",
+        "time_utc": "2025-07-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2k9gAW",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3JhcWQ",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Qxabn",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4eANwj",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1kh0vO",
+        "date": "2025-08-04",
+        "time_utc": "2025-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_10bhU9",
+        "date": "2025-08-04",
+        "time_utc": "2025-08-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_00hHjL",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0QIfRJ",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4CKB8a",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1dRu8v",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_03bl2X",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2x2fkA",
+        "date": "2025-08-11",
+        "time_utc": "2025-08-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_03LnKL",
+        "date": "2025-08-15",
+        "time_utc": "2025-08-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4beLGy",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_0e0YGw",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1VDQRO",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_24yYVZ",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1tZEjs",
+        "date": "2025-08-18",
+        "time_utc": "2025-08-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2DzQB5",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1upaVw",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2156wM",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 8,
+        "score_away": 2
+      },
+      {
+        "id": "m_4BrfjL",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_10j1UP",
+        "date": "2025-08-25",
+        "time_utc": "2025-08-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3IvMOH",
+        "date": "2025-08-25",
+        "time_utc": "2025-08-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1LbL1x",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4gC7tN",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DB06O",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1hNuWX",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0rpIu7",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2ITrK9",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3KH0Et",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4er6uP",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Mv4Z4",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3fkEmU",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2KpYe6",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1CDgbE",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3yg35G",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DeNgy",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4euX5K",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_313jk5",
+        "date": "2025-09-23",
+        "time_utc": "2025-09-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1BfMTc",
+        "date": "2025-09-23",
+        "time_utc": "2025-09-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2X43is",
+        "date": "2025-09-23",
+        "time_utc": "2025-09-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_19Bfl1",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_18MVLd",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1kAIz2",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_38FSbL",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0h1a3a",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1CGGjq",
+        "date": "2025-09-29",
+        "time_utc": "2025-09-29T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2sKnDR",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "away_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_414Xcb",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4dmZSj",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "away_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1YxixS",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "away_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3d2uxc",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3pp8z5",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0ZUy52",
+        "date": "2025-10-16",
+        "time_utc": "2025-10-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Z10Fe",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1tYJyR",
+          "name": "VPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aff7fba1eb1c343e3d5d0b5a5af1c96655be00c86811298af71faaeaaaffe960.webp"
+        },
+        "away_team": {
+          "id": "t_0zKfUe",
+          "name": "Jaro",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/08411eca02d0a60dacce4d67688a7e6f181e5e6d1c2fc8f58d998324656ba009.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3N6i1A",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2jf4tr",
+          "name": "Mariehamn",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1e5a41ab67f8a2e80c6697a476361a21fe8b48cb5341ffc63d320884cbcaf909.webp"
+        },
+        "away_team": {
+          "id": "t_1WM2Do",
+          "name": "Oulu",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6546366536d23aab4bab947687f29d5aba9ba9e0363859a2efae7b29bbf3fd36.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3lmue4",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4VkNgz",
+          "name": "Haka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b1c0818742dec40eacbc42919724120613a667c50d85474b163f534837295689.webp"
+        },
+        "away_team": {
+          "id": "t_1yNQbO",
+          "name": "KTP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/282ae63e0d95b3f6832417ba074ed8ed3d891a861a473ced4fbda1fbf9acd0ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4K4tmh",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2X1fXF",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_46yF3v",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0fTfSz",
+        "date": "2025-10-22",
+        "time_utc": "2025-10-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1EZVvg",
+        "date": "2025-10-22",
+        "time_utc": "2025-10-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_2ILoSn",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3kDFRL",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3bG77l",
+        "date": "2025-10-27",
+        "time_utc": "2025-10-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2mjLG6",
+        "date": "2025-10-30",
+        "time_utc": "2025-10-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2WaI7R",
+        "date": "2025-10-30",
+        "time_utc": "2025-10-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2RtXkC",
+        "date": "2025-10-30",
+        "time_utc": "2025-10-30T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ZLzD2",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "away_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0JdKQ0",
+        "date": "2025-11-03",
+        "time_utc": "2025-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "away_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0YXHnp",
+        "date": "2025-11-03",
+        "time_utc": "2025-11-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "away_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3bsrJ0",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_157jrM",
+          "name": "Inter Turku",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b72c49d5aa14bb64f46f8a7a1de3376de7e2e2fdee2ded93b400a54cfaa4877e.webp"
+        },
+        "away_team": {
+          "id": "t_2XIoEC",
+          "name": "Ilves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7b1966727fcc9a5c5cd168e33691f86757709e0995e92187e64ecfdd7b5cd32e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0phPqT",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4ZLBuu",
+          "name": "HJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7342d8793c7f5f808d05535da3b85b8c829d6171cdde439f4a59a3bb739777c5.webp"
+        },
+        "away_team": {
+          "id": "t_0dvYbV",
+          "name": "KuPS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9deb3200bbb2b53055d7554004f427f7316821d4047181acacdd8109c86034cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3FwCZ6",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1PzXfs",
+          "name": "SJK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6b2549a8d31912e5836b1af92de5f7b37b38218cb508656b4bd143a19dce0b14.webp"
+        },
+        "away_team": {
+          "id": "t_3ezHQe",
+          "name": "Gnistan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9498687f36bb92b3565680f8d696d3ad48fec494016619a09d9cf32ee5c7118e.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      }
+    ]
+  }
+}

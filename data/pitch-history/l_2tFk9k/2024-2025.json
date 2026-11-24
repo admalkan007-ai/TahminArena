@@ -1,0 +1,3252 @@
+{
+  "data": {
+    "league": {
+      "id": "l_2tFk9k",
+      "name": "HNL",
+      "season": "2024/2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/4465aea105839a24f2d53ead9c53bda99ad9ac5ef046d92dd47db55804698e1a.webp"
+    },
+    "matches": [
+      {
+        "id": "m_0ofMtH",
+        "date": "2024-08-02",
+        "time_utc": "2024-08-02T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jUHmC",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3REyKM",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T16:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3uV4l6",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1GWSK7",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3dU3VG",
+        "date": "2024-08-09",
+        "time_utc": "2024-08-09T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KB7Hi",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_29daY4",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wMzEr",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Ujs4V",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Z2lCZ",
+        "date": "2024-08-16",
+        "time_utc": "2024-08-16T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1y5Ele",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1TfrQz",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T16:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1vb5AQ",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3s7YiX",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1iA68S",
+        "date": "2024-08-23",
+        "time_utc": "2024-08-23T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3qpTGd",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JlSH7",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1zDlm3",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0C2rI1",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0mx4qJ",
+        "date": "2024-08-30",
+        "time_utc": "2024-08-30T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1k5w5l",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1rTNWU",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_02ALzj",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1jYhEu",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2kEQWP",
+        "date": "2024-09-13",
+        "time_utc": "2024-09-13T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2O7cbV",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0X7VYL",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_29lOwS",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3RO30T",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Pcyz8",
+        "date": "2024-09-20",
+        "time_utc": "2024-09-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_444fRZ",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1c8pIY",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_32XvlG",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3r4I7K",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3r0iEI",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JX5f3",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_31IMKA",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1AIaz3",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_24Zdre",
+        "date": "2024-09-30",
+        "time_utc": "2024-09-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1yI1il",
+        "date": "2024-10-04",
+        "time_utc": "2024-10-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3GQEpb",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Kbg7w",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Ia5MD",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3njX91",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_4QUxHM",
+        "date": "2024-10-18",
+        "time_utc": "2024-10-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4cwwSf",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_44p7Zw",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2DzYs4",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2FgoZL",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3PWm9M",
+        "date": "2024-10-25",
+        "time_utc": "2024-10-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2uZUVq",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0mTytp",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4WP9Ik",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_13pm9P",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Kl7Zb",
+        "date": "2024-11-01",
+        "time_utc": "2024-11-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4VbwPk",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4YAWj4",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3RyPXh",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wSTpO",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2UMtWk",
+        "date": "2024-11-08",
+        "time_utc": "2024-11-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1J8Jd6",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1j3QDL",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_11fkvP",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3uVUrC",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4AkH5e",
+        "date": "2024-11-22",
+        "time_utc": "2024-11-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3GI67B",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ITx2K",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0lQRxd",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3inPNf",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ji8iH",
+        "date": "2024-11-29",
+        "time_utc": "2024-11-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2olb8e",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1BLpFw",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1n3kVQ",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2iYRe7",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_25kbIY",
+        "date": "2024-12-06",
+        "time_utc": "2024-12-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2kvLgn",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_44GQUy",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3oVFzc",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4CdWrJ",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3kEnAe",
+        "date": "2024-12-13",
+        "time_utc": "2024-12-13T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3eMArA",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2oHYIu",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_1lK98i",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_46zUyq",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_142rbM",
+        "date": "2024-12-20",
+        "time_utc": "2024-12-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2N2bQG",
+        "date": "2024-12-21",
+        "time_utc": "2024-12-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2heoVk",
+        "date": "2024-12-22",
+        "time_utc": "2024-12-22T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Sph6H",
+        "date": "2024-12-22",
+        "time_utc": "2024-12-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1PCUti",
+        "date": "2024-12-22",
+        "time_utc": "2024-12-22T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0xaCEE",
+        "date": "2025-01-24",
+        "time_utc": "2025-01-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ZIOYE",
+        "date": "2025-01-25",
+        "time_utc": "2025-01-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2azWOC",
+        "date": "2025-01-25",
+        "time_utc": "2025-01-25T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3f2RAt",
+        "date": "2025-01-26",
+        "time_utc": "2025-01-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_4NWAH1",
+        "date": "2025-01-26",
+        "time_utc": "2025-01-26T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0DGaiZ",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_33lLBh",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_02543J",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1DAW5y",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T11:50:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3trbzy",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1cBCqR",
+        "date": "2025-02-07",
+        "time_utc": "2025-02-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4aU2kX",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3yDW5l",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0mJ6wL",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Mf1Vq",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_22XE42",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2vrFGy",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hq7UC",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Cohey",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1UwOdz",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1yy792",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_35mbkn",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0oKtDs",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_43AGpL",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3SMI1h",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2wLRrw",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_12vJkO",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3NLela",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3QYkpo",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1cDHJJ",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_07LzST",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4amR65",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2lmyUi",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0kB9OR",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_01GuOx",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0PyGvv",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2217kV",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dasAB",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ld3FU",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XGswI",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3y5cyg",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1l36Vr",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3bh9zC",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T17:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3LZkTo",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_32kXXk",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1CN17z",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KyDWw",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_488XFa",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4gAeUf",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2WmjjV",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_40PYc8",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Fscds",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4YXIAp",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3IloHP",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0IKNBl",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_20A684",
+        "date": "2025-04-17",
+        "time_utc": "2025-04-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2CO2Vd",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2NR0fO",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2E7Wgy",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0wXOXw",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0BwSH5",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1HnNRd",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ZTKEc",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4N2evD",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2TEgc5",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2qrngk",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0tmEKC",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4f953s",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4MDBWF",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0uSmJC",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1u0VfB",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3qm1Pi",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_09Bbeo",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0NZghu",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1VppFy",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1nhLJx",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_49pii7",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2oFUNK",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T17:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_2SkTLL",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Xjm9m",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T16:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2iurht",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "away_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3fdbma",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "away_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2nvw7A",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "away_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Gj5Fq",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "away_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Ynafb",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "away_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bJrCX",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MDUlL",
+          "name": "HNK Gorica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/567d139455f32e861aebbb6bdfb3a5c4303ccd832625d1316b92550b44ebe157.webp"
+        },
+        "away_team": {
+          "id": "t_3jcZgw",
+          "name": "Lokomotiva Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6da1d470ec0baa48e8570d84ef1391e8f24a55a792c60fe2a9f490896cab4c6a.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1fNnIW",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RYv68",
+          "name": "Rijeka",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3e4ff0e91b9324200299786a3d9c0f8c0689198e799e4892780f95a398b089d6.webp"
+        },
+        "away_team": {
+          "id": "t_2PWt2N",
+          "name": "Slaven Koprivnica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41188b93d701deedd0cd1116471a2a2ec2eb9ceec3da867a6348c985d9720207.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0bukoF",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2OMc9P",
+          "name": "Šibenik",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f1add453b76e418c45c75997aa19ab33c4bb98a3a409d3da763598ff6c97bf5.webp"
+        },
+        "away_team": {
+          "id": "t_1XmH0P",
+          "name": "Hajduk Split",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/55a02024be6125a498e1e70233042fde3dfb9852cb2ef146f84d6db1b83b8525.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4e1eJO",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1n1mzJ",
+          "name": "Dinamo Zagreb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/156d34e6aa49318bc7cca25f3d06df36a7d09c4651d715fc5dd4dfca4a81ff65.webp"
+        },
+        "away_team": {
+          "id": "t_2dYbzd",
+          "name": "Varaždin",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1b1f69de79f185f29df7b2b44e87e8d88188b0ed3dd6f3daaed1b11d067874cb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1YyPTA",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0tQnN0",
+          "name": "Osijek",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/56d5e8b4f7d73f30b87e3585cfb252b47054b27f42781cafc40a27f842f51157.webp"
+        },
+        "away_team": {
+          "id": "t_2W2Fsd",
+          "name": "Istra 1961",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b270987d8e3d3d131ae84fe676fe3da0acde335d3e194a094be8691876b30b71.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,3900 @@
+{
+  "data": {
+    "league": {
+      "id": "l_3Kf7Ni",
+      "name": "USL League One",
+      "season": "2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/5d8028ffa1a81056cb94728e1fc577a051f12ce8a0bfcab1571b0b51cb6410bd.webp"
+    },
+    "matches": [
+      {
+        "id": "m_0sTt8F",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2udbr9",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1MSalE",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_42rzQr",
+        "date": "2025-03-12",
+        "time_utc": "2025-03-12T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3aq26Y",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3yjZhY",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_196KQi",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2t21Tx",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3QA68m",
+        "date": "2025-03-22",
+        "time_utc": "2025-03-22T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4XHxrI",
+        "date": "2025-03-22",
+        "time_utc": "2025-03-22T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2BQDye",
+        "date": "2025-03-23",
+        "time_utc": "2025-03-23T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4QjUPN",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1olUIw",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_44RH2e",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_35vQ2b",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2TJPkD",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1TYgDm",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Z1Ngv",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_185TQ8",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0T2fR3",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_26P5kn",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cmMCJ",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4T1LUw",
+        "date": "2025-04-09",
+        "time_utc": "2025-04-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3TctFU",
+        "date": "2025-04-09",
+        "time_utc": "2025-04-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1J6NWd",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4OrGfJ",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0sNbFa",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wp2N8",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2YNOHC",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3YberW",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 4,
+        "score_away": 4
+      },
+      {
+        "id": "m_4PQECl",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0VPyJv",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_15Gpb2",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_12qsTm",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1DY1dK",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3CXKuq",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3v5CD1",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0I82VM",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_2jB8tm",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0pnLCR",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4enoDV",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3OaZqa",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_342De2",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4PpSpi",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3RWvvg",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1yjBnG",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4bLjpx",
+        "date": "2025-05-14",
+        "time_utc": "2025-05-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4b0biS",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1utyHx",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4P6Kyd",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2WVtsB",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_38lj5D",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T02:03:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_10EhLo",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1rOiNU",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0vbdow",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4IdhFO",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_018nKt",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1EX27n",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Aba66",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_31i8Ks",
+        "date": "2025-06-07",
+        "time_utc": "2025-06-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_07bngK",
+        "date": "2025-06-07",
+        "time_utc": "2025-06-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bK8SZ",
+        "date": "2025-06-07",
+        "time_utc": "2025-06-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4IWTa7",
+        "date": "2025-06-07",
+        "time_utc": "2025-06-07T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0gpi1T",
+        "date": "2025-06-08",
+        "time_utc": "2025-06-08T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_42eEIY",
+        "date": "2025-06-08",
+        "time_utc": "2025-06-08T01:03:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3pa3QM",
+        "date": "2025-06-08",
+        "time_utc": "2025-06-08T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0krgom",
+        "date": "2025-06-12",
+        "time_utc": "2025-06-12T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4NFDqC",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1QWdiM",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0qFdXK",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_23mV0M",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_04guLW",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3UX3rG",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3u71RX",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_2ObAEP",
+        "date": "2025-06-19",
+        "time_utc": "2025-06-19T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_15BX6i",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2QP29U",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_16UVx8",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2SDP1f",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1RpLuq",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0m7Mke",
+        "date": "2025-06-25",
+        "time_utc": "2025-06-25T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_28j5KZ",
+        "date": "2025-06-26",
+        "time_utc": "2025-06-26T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_2XGTNo",
+        "date": "2025-06-29",
+        "time_utc": "2025-06-29T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3EQ6Wx",
+        "date": "2025-07-02",
+        "time_utc": "2025-07-02T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_37GSM6",
+        "date": "2025-07-02",
+        "time_utc": "2025-07-02T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_097mMT",
+        "date": "2025-07-03",
+        "time_utc": "2025-07-03T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3BBaoI",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2JvhWo",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0iSlx8",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_12izbv",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4c9jGq",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Bocpp",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_31DAFY",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0LkO4C",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T00:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3hR9Gx",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T01:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Gn01p",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T04:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0M5CHc",
+        "date": "2025-07-16",
+        "time_utc": "2025-07-16T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3RB1Yu",
+        "date": "2025-07-16",
+        "time_utc": "2025-07-16T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2wtXIV",
+        "date": "2025-07-16",
+        "time_utc": "2025-07-16T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4dEVdp",
+        "date": "2025-07-17",
+        "time_utc": "2025-07-17T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_41SYBu",
+        "date": "2025-07-18",
+        "time_utc": "2025-07-18T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2cpnI6",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4QmCCH",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3lNpmT",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Rhisw",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_17WCnb",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1dfLrm",
+        "date": "2025-07-24",
+        "time_utc": "2025-07-24T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3qd3pB",
+        "date": "2025-07-30",
+        "time_utc": "2025-07-30T23:44:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3duoYv",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1LSHkS",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ZdZbs",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_11xLBY",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_489BLw",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0NRUom",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3d0eog",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2rCPAX",
+        "date": "2025-08-06",
+        "time_utc": "2025-08-06T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Osf6X",
+        "date": "2025-08-07",
+        "time_utc": "2025-08-07T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0bBsFT",
+        "date": "2025-08-07",
+        "time_utc": "2025-08-07T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0XffEc",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3DqgfF",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 4,
+        "score_away": 5
+      },
+      {
+        "id": "m_1V5B0v",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1muAFQ",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Ri7pQ",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2CqvDD",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0V7w3M",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_4HipmD",
+        "date": "2025-08-15",
+        "time_utc": "2025-08-15T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jQ1Sl",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3S9YYr",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0JsZ7h",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2w9jNk",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1V3aRs",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T03:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3y6rYh",
+        "date": "2025-08-20",
+        "time_utc": "2025-08-20T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ML991",
+        "date": "2025-08-21",
+        "time_utc": "2025-08-21T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3dWO3N",
+        "date": "2025-08-21",
+        "time_utc": "2025-08-21T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0qZtXl",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_20M0J3",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0qkQKW",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_33IzmU",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1RM20Q",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2hILr1",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1x53jB",
+        "date": "2025-08-27",
+        "time_utc": "2025-08-27T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1K1fVy",
+        "date": "2025-08-28",
+        "time_utc": "2025-08-28T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ULjo0",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3WcrGH",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3U3ovL",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2bKiBn",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ZNCXC",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2LNH5n",
+        "date": "2025-09-03",
+        "time_utc": "2025-09-03T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1NlfXE",
+        "date": "2025-09-03",
+        "time_utc": "2025-09-03T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_00VdnF",
+        "date": "2025-09-06",
+        "time_utc": "2025-09-06T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0OcPvJ",
+        "date": "2025-09-06",
+        "time_utc": "2025-09-06T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3zhMG6",
+        "date": "2025-09-06",
+        "time_utc": "2025-09-06T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3SGtW7",
+        "date": "2025-09-06",
+        "time_utc": "2025-09-06T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3TjhEJ",
+        "date": "2025-09-07",
+        "time_utc": "2025-09-07T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0mX6rQ",
+        "date": "2025-09-07",
+        "time_utc": "2025-09-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0WNERq",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_37UXOU",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_36vB6K",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4PnVqC",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4NKUrr",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_38mGIV",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_20N5Fv",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3ptwDD",
+        "date": "2025-09-17",
+        "time_utc": "2025-09-17T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_2eO9UD",
+        "date": "2025-09-18",
+        "time_utc": "2025-09-18T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1HucAL",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ChToz",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T23:06:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1FQu4a",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4BSGCj",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0KtvOy",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_35BxKs",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_36vTsf",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1QmRHi",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1MLpLK",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2V5JWb",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3YuJHy",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3tMEtH",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_07S47A",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2jy6PO",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0aW9st",
+        "date": "2025-10-01",
+        "time_utc": "2025-10-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3OFtA5",
+        "date": "2025-10-01",
+        "time_utc": "2025-10-01T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_098oWu",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1nBoCZ",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1iEXvA",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_40na0K",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2VytSY",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1wEnpT",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0t64Oc",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ZFjJ6",
+        "date": "2025-10-10",
+        "time_utc": "2025-10-10T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0gaCTl",
+        "date": "2025-10-10",
+        "time_utc": "2025-10-10T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4XSZTx",
+        "date": "2025-10-11",
+        "time_utc": "2025-10-11T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4RKCwY",
+        "date": "2025-10-11",
+        "time_utc": "2025-10-11T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3G7Jvc",
+        "date": "2025-10-12",
+        "time_utc": "2025-10-12T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1OQJZo",
+        "date": "2025-10-12",
+        "time_utc": "2025-10-12T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1bJfTE",
+        "date": "2025-10-12",
+        "time_utc": "2025-10-12T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1f8Ka5",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "away_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_47He7V",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T02:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "away_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0kLrjP",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2hrSYg",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2bUJ2q",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3VhSpx",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ij8Va",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4VGkhO",
+        "date": "2025-10-21",
+        "time_utc": "2025-10-21T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_2BTT9e",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "away_team": {
+          "id": "t_3JXoBG",
+          "name": "Alta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/18b3980ca76916ec91b3e496761bf30617f556521f5079c4466f81da2ffae93b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4au3zM",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1S3X6m",
+          "name": "Richmond Kickers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b669e65857f16fb75dde354a3f345c1a3306cbfa4db83dc3002503c97a301778.webp"
+        },
+        "away_team": {
+          "id": "t_1LpqZD",
+          "name": "Forward Madison",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8bc1c34ebff91061948ab5820de346b1d11600d893a9e0481f9f50241a2608f3.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2xske6",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3YmjJf",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "away_team": {
+          "id": "t_27iM4I",
+          "name": "Texoma",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5d23bc44c92167359c578701257bafc218c3454c61df9a7f56884317a979a77e.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cxoAD",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_4B9YyE",
+          "name": "Westchester SC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/efcd5a878626c660dacc4c3fada17110595b5477cc715c0fc001a3641444f421.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2D3MPo",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_1rRpmv",
+          "name": "Greenville Triumph",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9819e62e563bc8ab57ddeb4d5c7102b6f1b4d985fd60809f946e9a9d20bc29bf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0xj0Ms",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_216PNF",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0fr4J8",
+          "name": "Chattanooga Red Wolves",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/094283fb6e6171369c1bd31b30f483a9a5e74f02040bc8c5c3a8d719a6890c6d.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0EE86C",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "away_team": {
+          "id": "t_2hyYCR",
+          "name": "Union Omaha",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cabd7b5ec3d571fab361b6c416e0a5c1ea435968bd9bca657ea648cddf5e447d.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4acllg",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_3Ohay8",
+          "name": "Charlotte Independence",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2dbd1fc03ae195d0e4c44433b17ab55380228db1d4cc8275bf8b82d6ee5aae2.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_061vzH",
+        "date": "2025-11-03",
+        "time_utc": "2025-11-03T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_0ZvLXv",
+          "name": "Tormenta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/66cf0786a72a83a0d347f22f545f17fda17430346fe676ae22d9621127bde2a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2X4Gbu",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_0pgSLB",
+          "name": "Naples",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25f2d24fc3aa88fb6a0250b7bd37c52f7b3583fec63c9216d0007cfed4b354ae.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4OTqt8",
+        "date": "2025-11-10",
+        "time_utc": "2025-11-10T02:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "away_team": {
+          "id": "t_2QPBPj",
+          "name": "Portland Hearts of Pine",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e53f86aaa90ae939d65329006f56820cceadd7fb5aee2b92424499e94dd9a80.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0G0qBe",
+        "date": "2025-11-16",
+        "time_utc": "2025-11-16T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3UVzgi",
+          "name": "One Knoxville",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d4108ed76666d3263af103339abb3235b0a3ce1320ee0e1c221003a7a2501639.webp"
+        },
+        "away_team": {
+          "id": "t_45bVkw",
+          "name": "Spokane Velocity",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4a37383c0f0797d8dc3b11be70440e03eb2d6ffa3f6c8ed53818273c19eb4fee.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      }
+    ]
+  }
+}

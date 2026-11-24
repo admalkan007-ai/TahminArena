@@ -1,0 +1,4332 @@
+{
+  "data": {
+    "league": {
+      "id": "l_3qNjzC",
+      "name": "Liga de Primera",
+      "season": "2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/97259d43758f66e6c6fee1d7ba2272825aa36ad733a1d85afdfc4485c6a5a863.webp"
+    },
+    "matches": [
+      {
+        "id": "m_3JbpI8",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_08EG7Y",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4OaXcX",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_00DFQm",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0eW24u",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4dmeTb",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hpZdI",
+        "date": "2025-02-17",
+        "time_utc": "2025-02-17T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4W3yCJ",
+        "date": "2025-02-17",
+        "time_utc": "2025-02-17T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2gg1YB",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3qhVgX",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2vqbtS",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_14psXN",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0neo17",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Yyq6r",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4NCzyN",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2oWzrB",
+        "date": "2025-02-24",
+        "time_utc": "2025-02-24T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4XZf42",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Wi704",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ixm9q",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4SLQgF",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0FnEgG",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0nPFPN",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0npaX5",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3bsa5R",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_24xE6k",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4dnz89",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_129Xf7",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4O6cUe",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1ZEDyR",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0t8ovp",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_45d9z0",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JdHOy",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0fVHXY",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2iv6di",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3zK0Ny",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4H9HSu",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1kVIVo",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0nITt2",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_16lr7N",
+        "date": "2025-03-27",
+        "time_utc": "2025-03-27T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_220bR2",
+        "date": "2025-03-27",
+        "time_utc": "2025-03-27T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_23zqk7",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1jpzas",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0dtI1J",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1LGSfb",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3j84xO",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2pT4E5",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4My6Zz",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0h2FY3",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_37JDUn",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0PkI76",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_49qKoo",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4OnTbl",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_43MRTL",
+        "date": "2025-04-15",
+        "time_utc": "2025-04-15T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3cIXIc",
+        "date": "2025-04-17",
+        "time_utc": "2025-04-17T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0hh2Ex",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4I3X86",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0fnZwP",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_18Ssze",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2a89Rx",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_43j2k9",
+        "date": "2025-04-21",
+        "time_utc": "2025-04-21T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3pgjBw",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0jMKJg",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3lLiu0",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_22VeRO",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0qttFw",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1afCD8",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3EdBD0",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3mTYBg",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_364Run",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2XKX13",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_49dwy8",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_23AXPc",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cbbJy",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3CQQ1e",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0FfbEr",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ygVPr",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0tyfYO",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2FqpaX",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2kNAMT",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Eg7kO",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_15Lggv",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_04IHwQ",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Z87jp",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2QJGYC",
+        "date": "2025-05-20",
+        "time_utc": "2025-05-20T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2wNBDS",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0QTeuK",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0oHheF",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3v54Vg",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KGXIS",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Vj5w4",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3jXaQf",
+        "date": "2025-05-26",
+        "time_utc": "2025-05-26T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1mStAE",
+        "date": "2025-05-26",
+        "time_utc": "2025-05-26T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_46YvG7",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2FDqWf",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1rlox3",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_3pHAap",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0dFjSA",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0vOfTB",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2A3hOi",
+        "date": "2025-06-02",
+        "time_utc": "2025-06-02T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_08I4c8",
+        "date": "2025-06-03",
+        "time_utc": "2025-06-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1jn4HU",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Oj2qz",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4BnNSU",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_08DZif",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3qMqof",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_35cdQD",
+        "date": "2025-06-15",
+        "time_utc": "2025-06-15T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2XVJsX",
+        "date": "2025-06-16",
+        "time_utc": "2025-06-16T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0fdPSz",
+        "date": "2025-06-17",
+        "time_utc": "2025-06-17T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_264U52",
+        "date": "2025-06-17",
+        "time_utc": "2025-06-17T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_12zTVI",
+        "date": "2025-06-20",
+        "time_utc": "2025-06-20T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1AKJu4",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0GzTHN",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0icF2Z",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_186IIX",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Xf800",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0POeFI",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4B4dzi",
+        "date": "2025-06-23",
+        "time_utc": "2025-06-23T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2gx6wY",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0nMmT8",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_30RPpR",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1LN7uj",
+        "date": "2025-07-18",
+        "time_utc": "2025-07-18T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1e8FG7",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0gqSvu",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2AVhPb",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3qPN2A",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2GvHIL",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_32NpOa",
+        "date": "2025-07-21",
+        "time_utc": "2025-07-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Kq3RN",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2MjCXN",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_49Xgc5",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1MkHUV",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wFOZu",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3zkWxT",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2cKW3Z",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_32s5Y9",
+        "date": "2025-07-28",
+        "time_utc": "2025-07-28T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1iCH0M",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2gb0fS",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0E3bXJ",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hFmUo",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1U3yrd",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_33Yre1",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1HPgGt",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_26aJOw",
+        "date": "2025-08-04",
+        "time_utc": "2025-08-04T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0XHUTx",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2aci0U",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0U3LO6",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1eiMbn",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_32jjGV",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2z3jEW",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1zAxib",
+        "date": "2025-08-11",
+        "time_utc": "2025-08-11T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3bmIE3",
+        "date": "2025-08-15",
+        "time_utc": "2025-08-15T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1S8NC8",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4bChdm",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ygbnQ",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2Ywb3v",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2UuTpX",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Nmwqq",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0YUT4r",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Gqcw4",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0pIyUI",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_44BNnq",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Hz7sH",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1QIBof",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_36UR57",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4O9HSE",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0cKaSS",
+        "date": "2025-08-28",
+        "time_utc": "2025-08-28T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2FMYpy",
+        "date": "2025-08-29",
+        "time_utc": "2025-08-29T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1BV77o",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_26uuD5",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0sUMQG",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0nYnpM",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2akvbP",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2oN4RT",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4KVoI7",
+        "date": "2025-09-07",
+        "time_utc": "2025-09-07T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_001HSr",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1MKtVQ",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3EGZHT",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_1SYCP1",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3jVwiq",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2a8An7",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0NxwDC",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2cIK3J",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0h5iwS",
+        "date": "2025-10-09",
+        "time_utc": "2025-10-09T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_41HthG",
+        "date": "2025-10-12",
+        "time_utc": "2025-10-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4fAlh2",
+        "date": "2025-10-13",
+        "time_utc": "2025-10-13T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1N130a",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_3URGH5",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1dFjja",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2RTO1k",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1UWxmx",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4NbBDV",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3D7wTD",
+        "date": "2025-10-24",
+        "time_utc": "2025-10-24T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Xk1Pk",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_00PdcI",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0K7WO1",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3TtZqi",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Comd7",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1C8RFu",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1GLVVu",
+        "date": "2025-10-27",
+        "time_utc": "2025-10-27T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4E1irC",
+        "date": "2025-10-31",
+        "time_utc": "2025-10-31T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_11Zf4e",
+        "date": "2025-10-31",
+        "time_utc": "2025-10-31T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3PSLA2",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_19jKPy",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3tvCoV",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3sSzqB",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2P8Mg0",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ZfOqA",
+        "date": "2025-11-03",
+        "time_utc": "2025-11-03T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3bNRiv",
+        "date": "2025-11-05",
+        "time_utc": "2025-11-05T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2mFXuM",
+        "date": "2025-11-07",
+        "time_utc": "2025-11-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3RoGu5",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1s3Hne",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3XI7uY",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_42YM7W",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_2HQeur",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0XVkRI",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_2WMsVE",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1T5jAo",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2hNHih",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_47TF0e",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4aHKvP",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_41fmfi",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0JQoiA",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_06k4tu",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_27HwDI",
+        "date": "2025-11-24",
+        "time_utc": "2025-11-24T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_37rux1",
+        "date": "2025-11-28",
+        "time_utc": "2025-11-28T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "away_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0NXN1J",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "away_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3L8Bsb",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "away_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4EJSlY",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "away_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Oh7b5",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "away_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_4Jwx2Y",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "away_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4TEOIp",
+        "date": "2025-12-01",
+        "time_utc": "2025-12-01T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "away_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1b124S",
+        "date": "2025-12-02",
+        "time_utc": "2025-12-02T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "away_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1yAw5C",
+        "date": "2025-12-05",
+        "time_utc": "2025-12-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2dyjC6",
+          "name": "Palestino",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d46c3ba249a2b6dc9b6074d77484f532d293a8e18a3f494403522100f1e5c719.webp"
+        },
+        "away_team": {
+          "id": "t_3MDWNU",
+          "name": "Huachipato",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41e7b7b8e5ad15380101684fc8c4349a0fd0611d49e9f0d6731064d48090a293.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ftbTx",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2s3d3S",
+          "name": "Deportes Iquique",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e669537466848c7a1c76aab71e56ad742532cb67d9e612113fdade4ccd6a166a.webp"
+        },
+        "away_team": {
+          "id": "t_3lYPdH",
+          "name": "Universidad de Chile",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e47638e98276d75c25372d702ce54b9ede2f79187016ce8ef9ef9a3c3db828e0.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3CB7bz",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Wfo8I",
+          "name": "Coquimbo Unido",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c6ba0f1510e852d70a5917ed66dca0f7502f5221b0a001ff285cd7fbfb9f3e63.webp"
+        },
+        "away_team": {
+          "id": "t_2xK773",
+          "name": "Unión Española",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0647ac725627cb1b1b322c18319002952165cedf9626eab83626b2ff00387da.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4YtX1w",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4HC6uK",
+          "name": "Deportes Limache",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f421a7f19a7cd861b366759011a4014c69c47da448c3b3a6d8ab25c712e7fe03.webp"
+        },
+        "away_team": {
+          "id": "t_2PylA5",
+          "name": "La Serena",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d10506811234a4d2c900fe011dc9e85771fc8d609fe34b6e047a7bd21b4dcb41.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1NxV1o",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_03ax8S",
+          "name": "Universidad Católica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b2d4a62d800685264a4646e9da938cca17d7376f53798bd94b608416b5066907.webp"
+        },
+        "away_team": {
+          "id": "t_1IUA6j",
+          "name": "Unión La Calera",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d561680a4f9746093030a9c8c462cb93f7ef7d3506a97068d582448e1d15a4a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_12IlYM",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4QRquw",
+          "name": "O'Higgins",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6f8137f013ee355ab460f5dd58614d818b5eb109169d6ec03a859dc3f5881126.webp"
+        },
+        "away_team": {
+          "id": "t_1ZG8QE",
+          "name": "Everton",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/80f3d40af1ba11e6d90a3dc16b1efb93dc18b493a0b8be73d18e119395f2be7c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3jHSsd",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2HUSyA",
+          "name": "Ñublense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a8645dd50a25c32bbd87381a5d6cf1bacefd2c7eba21bf7f412a3be0a3be5622.webp"
+        },
+        "away_team": {
+          "id": "t_23q9Z5",
+          "name": "Cobresal",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/34ed04c415f494bd07839223d880e9bd6421c65819a0134d7a8e8fd4eed13f44.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_32luz1",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2C6ens",
+          "name": "Colo Colo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/53a34aed15c815713bdf54c4c945a15341b3bf7a8508a27a7fad602398e17089.webp"
+        },
+        "away_team": {
+          "id": "t_32lQTT",
+          "name": "Audax Italiano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fe7183aa2990c8cf2a7deaf26b62c5a2c062676541b465fb4bb0ac1c0f9b2c70.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      }
+    ]
+  }
+}

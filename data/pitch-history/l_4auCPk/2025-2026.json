@@ -1,0 +1,3252 @@
+{
+  "data": {
+    "league": {
+      "id": "l_4auCPk",
+      "name": "Challenge League",
+      "season": "2025/2026",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/0c668af6aca9434f334be97605905fb0c8b49de0d3395973b1727f0b0000e288.webp"
+    },
+    "matches": [
+      {
+        "id": "m_1uDuI4",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3vpqEb",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3i0OVo",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0LdmnK",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3UusGN",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0M2rAP",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_087OxB",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_1UyraO",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Qm7mq",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_25Pyke",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0YokkQ",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0N78B1",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1U4qQ3",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1uTbTM",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4bzWO5",
+        "date": "2025-08-13",
+        "time_utc": "2025-08-13T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jfHEh",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Eyur7",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 4,
+        "score_away": 5
+      },
+      {
+        "id": "m_0dvLab",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ZMV1n",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3NwYtq",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_46TkPm",
+        "date": "2025-08-25",
+        "time_utc": "2025-08-25T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1deGxa",
+        "date": "2025-08-25",
+        "time_utc": "2025-08-25T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Aso7d",
+        "date": "2025-08-26",
+        "time_utc": "2025-08-26T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3jCYNJ",
+        "date": "2025-08-26",
+        "time_utc": "2025-08-26T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_42S5rZ",
+        "date": "2025-08-26",
+        "time_utc": "2025-08-26T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wP0Xc",
+        "date": "2025-08-29",
+        "time_utc": "2025-08-29T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kSVQu",
+        "date": "2025-08-29",
+        "time_utc": "2025-08-29T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0vysvb",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_44dFGu",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Dat0Y",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_28BYta",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1RUuwJ",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wDppe",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0PnOnN",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0eDKUF",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2BX5tK",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_38kGw2",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3htU2e",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3J20Vd",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wl9xG",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1QSfAw",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3EI2qK",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_05nWbf",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4fVWg8",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4Ai0li",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3q10lx",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2prZLY",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3rkelu",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_00hjpb",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3nmGes",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0lT1Nc",
+        "date": "2025-10-24",
+        "time_utc": "2025-10-24T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0OzTWo",
+        "date": "2025-10-24",
+        "time_utc": "2025-10-24T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2RrhFm",
+        "date": "2025-10-24",
+        "time_utc": "2025-10-24T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2lzVkc",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2I7kBN",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0GEdU7",
+        "date": "2025-10-31",
+        "time_utc": "2025-10-31T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Ag0nu",
+        "date": "2025-10-31",
+        "time_utc": "2025-10-31T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_1S7uva",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bsU7F",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3kLnxy",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Pi2pT",
+        "date": "2025-11-07",
+        "time_utc": "2025-11-07T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Dkz0z",
+        "date": "2025-11-07",
+        "time_utc": "2025-11-07T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4F4VhI",
+        "date": "2025-11-07",
+        "time_utc": "2025-11-07T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3GqQ7h",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_00ZCRh",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_06ry1c",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_1NSmRR",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4QV3jT",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1m7IHB",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0i09Pv",
+        "date": "2025-11-28",
+        "time_utc": "2025-11-28T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_07jYDo",
+        "date": "2025-11-28",
+        "time_utc": "2025-11-28T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4fMRZW",
+        "date": "2025-11-28",
+        "time_utc": "2025-11-28T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1HPWcO",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1EwDUG",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dwsB2",
+        "date": "2025-12-05",
+        "time_utc": "2025-12-05T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4DiwH2",
+        "date": "2025-12-05",
+        "time_utc": "2025-12-05T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Zh5az",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4WppVq",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3U8zP6",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2YY0po",
+        "date": "2025-12-10",
+        "time_utc": "2025-12-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4bUPMD",
+        "date": "2025-12-12",
+        "time_utc": "2025-12-12T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_0U2eAm",
+        "date": "2025-12-12",
+        "time_utc": "2025-12-12T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1sP1Kq",
+        "date": "2025-12-13",
+        "time_utc": "2025-12-13T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Ycp9p",
+        "date": "2025-12-14",
+        "time_utc": "2025-12-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3peyhL",
+        "date": "2025-12-14",
+        "time_utc": "2025-12-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_11Hewg",
+        "date": "2025-12-19",
+        "time_utc": "2025-12-19T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DMQwl",
+        "date": "2025-12-19",
+        "time_utc": "2025-12-19T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1MvK9i",
+        "date": "2025-12-19",
+        "time_utc": "2025-12-19T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_08dMRr",
+        "date": "2025-12-20",
+        "time_utc": "2025-12-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1OcWAE",
+        "date": "2025-12-21",
+        "time_utc": "2025-12-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_15jbSV",
+        "date": "2026-01-23",
+        "time_utc": "2026-01-23T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2x7K20",
+        "date": "2026-01-23",
+        "time_utc": "2026-01-23T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2MzBjp",
+        "date": "2026-01-24",
+        "time_utc": "2026-01-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2aFv6g",
+        "date": "2026-01-24",
+        "time_utc": "2026-01-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2SomAY",
+        "date": "2026-01-25",
+        "time_utc": "2026-01-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_05PpTb",
+        "date": "2026-01-30",
+        "time_utc": "2026-01-30T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_45jttK",
+        "date": "2026-01-30",
+        "time_utc": "2026-01-30T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_0KkYg8",
+        "date": "2026-01-30",
+        "time_utc": "2026-01-30T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_42tNhS",
+        "date": "2026-01-30",
+        "time_utc": "2026-01-30T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Xvl2K",
+        "date": "2026-02-01",
+        "time_utc": "2026-02-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_301ROV",
+        "date": "2026-02-06",
+        "time_utc": "2026-02-06T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0kuufD",
+        "date": "2026-02-06",
+        "time_utc": "2026-02-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0P3tSf",
+        "date": "2026-02-07",
+        "time_utc": "2026-02-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Jvgto",
+        "date": "2026-02-07",
+        "time_utc": "2026-02-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1tfeut",
+        "date": "2026-02-08",
+        "time_utc": "2026-02-08T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2hDObP",
+        "date": "2026-02-13",
+        "time_utc": "2026-02-13T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_37ftOG",
+        "date": "2026-02-13",
+        "time_utc": "2026-02-13T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Mj2aT",
+        "date": "2026-02-13",
+        "time_utc": "2026-02-13T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_149yo5",
+        "date": "2026-02-13",
+        "time_utc": "2026-02-13T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_2mfQ3s",
+        "date": "2026-02-13",
+        "time_utc": "2026-02-13T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1MJjc0",
+        "date": "2026-02-20",
+        "time_utc": "2026-02-20T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lpd4a",
+        "date": "2026-02-20",
+        "time_utc": "2026-02-20T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0GnNO2",
+        "date": "2026-02-20",
+        "time_utc": "2026-02-20T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0fBfNR",
+        "date": "2026-02-22",
+        "time_utc": "2026-02-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0s1j7q",
+        "date": "2026-02-22",
+        "time_utc": "2026-02-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1gre6N",
+        "date": "2026-02-27",
+        "time_utc": "2026-02-27T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3MqqQo",
+        "date": "2026-02-27",
+        "time_utc": "2026-02-27T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 5,
+        "score_away": 3
+      },
+      {
+        "id": "m_3mx8Ds",
+        "date": "2026-02-28",
+        "time_utc": "2026-02-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0WyoOs",
+        "date": "2026-03-01",
+        "time_utc": "2026-03-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1G3jDT",
+        "date": "2026-03-01",
+        "time_utc": "2026-03-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3U5MVP",
+        "date": "2026-03-06",
+        "time_utc": "2026-03-06T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4DtPpW",
+        "date": "2026-03-06",
+        "time_utc": "2026-03-06T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0PIgh4",
+        "date": "2026-03-06",
+        "time_utc": "2026-03-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3PcLMR",
+        "date": "2026-03-07",
+        "time_utc": "2026-03-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2IWZLb",
+        "date": "2026-03-08",
+        "time_utc": "2026-03-08T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0DZmw5",
+        "date": "2026-03-13",
+        "time_utc": "2026-03-13T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2R5gP2",
+        "date": "2026-03-13",
+        "time_utc": "2026-03-13T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_39H6mi",
+        "date": "2026-03-13",
+        "time_utc": "2026-03-13T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3V9smE",
+        "date": "2026-03-14",
+        "time_utc": "2026-03-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1jDAjm",
+        "date": "2026-03-15",
+        "time_utc": "2026-03-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Jc6CC",
+        "date": "2026-03-20",
+        "time_utc": "2026-03-20T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4g5D5a",
+        "date": "2026-03-20",
+        "time_utc": "2026-03-20T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2RY9YL",
+        "date": "2026-03-20",
+        "time_utc": "2026-03-20T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Ve2p5",
+        "date": "2026-03-21",
+        "time_utc": "2026-03-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3xLFV2",
+        "date": "2026-03-22",
+        "time_utc": "2026-03-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_16fUL5",
+        "date": "2026-04-03",
+        "time_utc": "2026-04-03T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_1R7vDl",
+        "date": "2026-04-03",
+        "time_utc": "2026-04-03T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_44hTDv",
+        "date": "2026-04-03",
+        "time_utc": "2026-04-03T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2sQfcr",
+        "date": "2026-04-03",
+        "time_utc": "2026-04-03T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0UJhnI",
+        "date": "2026-04-04",
+        "time_utc": "2026-04-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 4,
+        "score_away": 5
+      },
+      {
+        "id": "m_30cM5M",
+        "date": "2026-04-06",
+        "time_utc": "2026-04-06T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1uEjX9",
+        "date": "2026-04-07",
+        "time_utc": "2026-04-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4N49iv",
+        "date": "2026-04-07",
+        "time_utc": "2026-04-07T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0c8kKz",
+        "date": "2026-04-07",
+        "time_utc": "2026-04-07T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_2YcdOw",
+        "date": "2026-04-07",
+        "time_utc": "2026-04-07T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_16KfJg",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-10T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_43LX7Z",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-10T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2YmrN1",
+        "date": "2026-04-10",
+        "time_utc": "2026-04-10T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Ufmx1",
+        "date": "2026-04-11",
+        "time_utc": "2026-04-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0gJA1T",
+        "date": "2026-04-11",
+        "time_utc": "2026-04-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_08qwqU",
+        "date": "2026-04-17",
+        "time_utc": "2026-04-17T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3600tD",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1FRbyq",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DJ3ij",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_016TUf",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0XhIeF",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-24T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2pEjJI",
+        "date": "2026-04-24",
+        "time_utc": "2026-04-24T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1EuEJT",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Lj5oX",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1zQQu2",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_48SYlt",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-01T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4BXONK",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-01T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Iud6e",
+        "date": "2026-05-02",
+        "time_utc": "2026-05-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1PUwrn",
+        "date": "2026-05-03",
+        "time_utc": "2026-05-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_4WNuyL",
+        "date": "2026-05-03",
+        "time_utc": "2026-05-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 3,
+        "score_away": 5
+      },
+      {
+        "id": "m_44eDPJ",
+        "date": "2026-05-08",
+        "time_utc": "2026-05-08T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2BX2JZ",
+        "date": "2026-05-08",
+        "time_utc": "2026-05-08T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1nDrZO",
+        "date": "2026-05-08",
+        "time_utc": "2026-05-08T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2SXYs0",
+        "date": "2026-05-08",
+        "time_utc": "2026-05-08T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_3rLecE",
+        "date": "2026-05-08",
+        "time_utc": "2026-05-08T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3U1nej",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "away_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2AIZps",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "away_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Nj9jC",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "away_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_03yRJl",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "away_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_38JdOh",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "away_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2imSHa",
+        "date": "2026-05-15",
+        "time_utc": "2026-05-15T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_30mNMn",
+          "name": "Aarau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd92881f587ee25ca6fffdbda0838b3a723a0954cf6291f02bfb83294da26ffd.webp"
+        },
+        "away_team": {
+          "id": "t_1d1W6m",
+          "name": "Yverdon",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cdbd4b48c65bce28a29de98b10afb87291fb17cae125b62259244dc7e5cf6157.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1giLSH",
+        "date": "2026-05-15",
+        "time_utc": "2026-05-15T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BGMbD",
+          "name": "Etoile Carouge",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5afdc59b9114566c865c8ae70f2ac64c49a7dbcef4a733f004cadcaafdca204b.webp"
+        },
+        "away_team": {
+          "id": "t_2RRbr2",
+          "name": "Bellinzona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/e41bd28ff633ef64ec56ee9b1a3b18f034fcc868942a2b71c8b59a5f700cea53.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1uAjmf",
+        "date": "2026-05-15",
+        "time_utc": "2026-05-15T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3wOoHp",
+          "name": "Rapperswil-Jona",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7007c2080b6a74f6f60c62a4d2d99ab520c33e7b9b3df624b4edede5490389fa.webp"
+        },
+        "away_team": {
+          "id": "t_26mVwo",
+          "name": "Stade Nyonnais",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/577633ce32596f455592735a0cea7ac6fc55072b8da3be13c97784bf3b443f33.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2cjCaF",
+        "date": "2026-05-15",
+        "time_utc": "2026-05-15T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3kC4HE",
+          "name": "Stade-Lausanne-Ouchy",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a5c3f915b86d7035745970b6e807fdcc05c1cc8309f27f0fb13584a40e6a5a07.webp"
+        },
+        "away_team": {
+          "id": "t_4MO3yE",
+          "name": "Xamax",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9c459ed62e968465b453a3b8108cabf1fed17bd6e23a29e36fa7dc0961ce58d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4g34NU",
+        "date": "2026-05-15",
+        "time_utc": "2026-05-15T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3Xhvtm",
+          "name": "Wil",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8941b8cb6da14082a0ab32fce189694e510d896eb7d0402a06afa52db28990ce.webp"
+        },
+        "away_team": {
+          "id": "t_0EP7Df",
+          "name": "FC Vaduz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/24a00cac357465b9214a228435bfdb7f41fa6b43c7100b9fd19a361ce81f65e9.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,3234 @@
+{
+  "data": {
+    "league": {
+      "id": "l_1eJSA7",
+      "name": "Premier Division",
+      "season": "2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/5ffef8a884ece366af2775bc932e81436a9e5449cfac2769b6b2f047f413b219.webp"
+    },
+    "matches": [
+      {
+        "id": "m_0cHO7P",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2klPoU",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1k1Wl3",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3uVNC5",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1djruo",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_47hoST",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_34OUXf",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_39qNN5",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1EFLy1",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0MV99w",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0zxDnq",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4N6rlI",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1LT1PV",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_39WVqt",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Htsc2",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2PFdjv",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1xwo8M",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3m9XBx",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0xidzV",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4dlE2p",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0A9afF",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0o3ZQ7",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3adxFE",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4f44Jc",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_04uqJG",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2PAXUp",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0W3fGq",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2LF4RK",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1sRO5G",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Y82fi",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Eo0NQ",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1w6upw",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T19:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2v9KhP",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0S88xO",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Lr628",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3jJ133",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3OaChX",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3nciLG",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0maQTh",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2y3mIm",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2JMaEj",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3a5aaY",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3KCjPG",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4GeJbw",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0wxBiP",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0rN0Qi",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1w93Xv",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_21Dk59",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4E280h",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3UdEj4",
+        "date": "2025-04-21",
+        "time_utc": "2025-04-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_20dxq1",
+        "date": "2025-04-21",
+        "time_utc": "2025-04-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3GWHwS",
+        "date": "2025-04-21",
+        "time_utc": "2025-04-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2RamPP",
+        "date": "2025-04-21",
+        "time_utc": "2025-04-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0CNVwu",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_00z7tt",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0JFJGy",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dmpcL",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dUAej",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2eEXFk",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_41t7IV",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_15Q6v4",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_29A5vz",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3duHBz",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ZbhJ9",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_24TM00",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1xCA0v",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1QYJvi",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4X1wT8",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4cL2yE",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2HZlDS",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1UFTls",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_04lU6M",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ksNGg",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1qe66H",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4g5EAC",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_074czi",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2L9gVA",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1DQFJt",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0I78b2",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0SrTXs",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3qDgpi",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Edghq",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0XrIXX",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_36WNu8",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3W7Vtv",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1FG8DJ",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_13zahR",
+        "date": "2025-05-30",
+        "time_utc": "2025-05-30T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2J7RFG",
+        "date": "2025-05-30",
+        "time_utc": "2025-05-30T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ziW3e",
+        "date": "2025-05-30",
+        "time_utc": "2025-05-30T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1UYAa2",
+        "date": "2025-05-30",
+        "time_utc": "2025-05-30T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4T6FN3",
+        "date": "2025-05-30",
+        "time_utc": "2025-05-30T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3xdugX",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3FTKOm",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3F5IxT",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1YsnTL",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Inyav",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Fhv8q",
+        "date": "2025-06-16",
+        "time_utc": "2025-06-16T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4BSjuW",
+        "date": "2025-06-16",
+        "time_utc": "2025-06-16T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_230ZHH",
+        "date": "2025-06-20",
+        "time_utc": "2025-06-20T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Z9Nv3",
+        "date": "2025-06-20",
+        "time_utc": "2025-06-20T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1954vR",
+        "date": "2025-06-20",
+        "time_utc": "2025-06-20T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0kAC5b",
+        "date": "2025-06-20",
+        "time_utc": "2025-06-20T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_00Oz5v",
+        "date": "2025-06-20",
+        "time_utc": "2025-06-20T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0qNICI",
+        "date": "2025-06-23",
+        "time_utc": "2025-06-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2GfMvS",
+        "date": "2025-06-23",
+        "time_utc": "2025-06-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ZYpA3",
+        "date": "2025-06-23",
+        "time_utc": "2025-06-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4YKA0r",
+        "date": "2025-06-23",
+        "time_utc": "2025-06-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3wPLmy",
+        "date": "2025-06-23",
+        "time_utc": "2025-06-23T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2TXXaw",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Ueq8L",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_04W27g",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3TLW4U",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_37gu42",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KcoxF",
+        "date": "2025-07-04",
+        "time_utc": "2025-07-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 7,
+        "score_away": 2
+      },
+      {
+        "id": "m_0SPHJ2",
+        "date": "2025-07-04",
+        "time_utc": "2025-07-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Ix6f4",
+        "date": "2025-07-04",
+        "time_utc": "2025-07-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0dGEyC",
+        "date": "2025-07-04",
+        "time_utc": "2025-07-04T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ZWpU2",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4VhZyb",
+        "date": "2025-07-11",
+        "time_utc": "2025-07-11T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2qhQ74",
+        "date": "2025-07-11",
+        "time_utc": "2025-07-11T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4eDYKL",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2EnZVr",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4Bly7o",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3NUcTf",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_1R1i5d",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_31pYPm",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_03e0lm",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3DcEsC",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4JYWkr",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1bKGRe",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2bQe6Z",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Z7gxI",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1sjcNO",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3MM2E3",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_48mT41",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_11i62J",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2GnTEV",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Ayxdj",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Sgt2b",
+        "date": "2025-08-29",
+        "time_utc": "2025-08-29T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1EYiNH",
+        "date": "2025-08-29",
+        "time_utc": "2025-08-29T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3yQ5I2",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ovXch",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1mFVZE",
+        "date": "2025-09-07",
+        "time_utc": "2025-09-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KTD1k",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_34zapu",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2saz5I",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1tP2Ox",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4F8Cyr",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2yQK7A",
+        "date": "2025-09-19",
+        "time_utc": "2025-09-19T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4g6WAL",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_34WwBH",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0NdX05",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Q4pCX",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_16l6rv",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1GhmdC",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2HX8Hs",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4BkAec",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3mK9SL",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1bUluy",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4AQm3Q",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0sFKQM",
+        "date": "2025-10-10",
+        "time_utc": "2025-10-10T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3M78AZ",
+        "date": "2025-10-13",
+        "time_utc": "2025-10-13T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2uX6u2",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3cu38y",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4HC3Rv",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3rmyc6",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2BIxQz",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Ftp9U",
+        "date": "2025-10-20",
+        "time_utc": "2025-10-20T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3SjYjC",
+        "date": "2025-10-24",
+        "time_utc": "2025-10-24T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "away_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0GyZW3",
+        "date": "2025-10-24",
+        "time_utc": "2025-10-24T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "away_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3FRv4w",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T18:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "away_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4RZ6hV",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "away_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_40Bbqq",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "away_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3afF01",
+        "date": "2025-10-29",
+        "time_utc": "2025-10-29T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4LNfeK",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49neSv",
+          "name": "Cork City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c78e62736c31fda091f494efb72386d470f100e74e10caf3829ab7f5afe2985b.webp"
+        },
+        "away_team": {
+          "id": "t_1GZDl1",
+          "name": "Derry City",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2ed427e65bad2ca5421fc598b9f9191aa26dc19cbc828951f1e4381ad2dfad22.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3bcbjX",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_10Wpec",
+          "name": "Drogheda United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b081b775191d7c4ebb08903414975c06b459995664c69277102913e4b63b25c1.webp"
+        },
+        "away_team": {
+          "id": "t_1MFoZY",
+          "name": "Bohemians",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2387bd33680412ab0202a4882beb5773413e4944b309c98a0c21b2858fdba04c.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2vZdw4",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4YIcUe",
+          "name": "Shamrock Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7c59341540cae3d3cdd605bb1d02ca10cc76f99175473b615a937cf9a90ae6f.webp"
+        },
+        "away_team": {
+          "id": "t_3LeEKW",
+          "name": "Sligo Rovers",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3830cd7d36da40d71167915bdc46ac11f8a36cb61f1ba2c5dcd8e7415dbeb4ef.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1uJLeA",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0vq5Vy",
+          "name": "Shelbourne",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ef807713b2eb38516bae5f13281fb195b0f945c3d926edb4d3be8201a57b97d9.webp"
+        },
+        "away_team": {
+          "id": "t_25pBLe",
+          "name": "St Patrick's Athletic",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/861551c207b9156882751bc1ecbb05d4b575bcee80f78850802906f6f4a98e2b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0UQy1f",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3VYVMf",
+          "name": "Waterford",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/23e3c9c2d53b14fd378206eb49159502421d190e53ce3915332b76a219a927a0.webp"
+        },
+        "away_team": {
+          "id": "t_0jdiJw",
+          "name": "Galway United",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ff46473822e30d69dcf917c739ce6e365f1f67bb8ecb93c71909ca4512e70cca.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      }
+    ]
+  }
+}

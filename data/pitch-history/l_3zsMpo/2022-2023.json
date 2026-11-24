@@ -1,0 +1,3522 @@
+{
+  "data": {
+    "league": {
+      "id": "l_3zsMpo",
+      "name": "Bundesliga",
+      "season": "2022/2023",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/ab03095cf3cc559226c13cadabffdede1ed5217913c05fa4d1bb5a0e612176fd.webp"
+    },
+    "matches": [
+      {
+        "id": "m_2ybECV",
+        "date": "2022-07-22",
+        "time_utc": "2022-07-22T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Ap5Tb",
+        "date": "2022-07-23",
+        "time_utc": "2022-07-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3BEpEO",
+        "date": "2022-07-23",
+        "time_utc": "2022-07-23T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0LeW2K",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lbZWT",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ZSxf0",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_10C92r",
+        "date": "2022-07-30",
+        "time_utc": "2022-07-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2kAEGZ",
+        "date": "2022-07-30",
+        "time_utc": "2022-07-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1lPb90",
+        "date": "2022-07-30",
+        "time_utc": "2022-07-30T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0SNZJC",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1a2DbF",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3M7e5C",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1QpvIq",
+        "date": "2022-08-06",
+        "time_utc": "2022-08-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3m5wM3",
+        "date": "2022-08-06",
+        "time_utc": "2022-08-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_1HyIDa",
+        "date": "2022-08-06",
+        "time_utc": "2022-08-06T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4IO7Ek",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1jJlEa",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1sYi0O",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2zu9Zf",
+        "date": "2022-08-13",
+        "time_utc": "2022-08-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1qPBg8",
+        "date": "2022-08-13",
+        "time_utc": "2022-08-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_39x99X",
+        "date": "2022-08-13",
+        "time_utc": "2022-08-13T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0biD7M",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_489NYQ",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_41ku3c",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0NwzDu",
+        "date": "2022-08-20",
+        "time_utc": "2022-08-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1PVEJt",
+        "date": "2022-08-20",
+        "time_utc": "2022-08-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1UTQqk",
+        "date": "2022-08-20",
+        "time_utc": "2022-08-20T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3GQ26y",
+        "date": "2022-08-21",
+        "time_utc": "2022-08-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_38RP0h",
+        "date": "2022-08-21",
+        "time_utc": "2022-08-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2bhfWS",
+        "date": "2022-08-27",
+        "time_utc": "2022-08-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_2uOXXH",
+        "date": "2022-08-27",
+        "time_utc": "2022-08-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2bFNvP",
+        "date": "2022-08-27",
+        "time_utc": "2022-08-27T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0XNPPn",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4IyFgV",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_4HjPp9",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1d6o9K",
+        "date": "2022-09-03",
+        "time_utc": "2022-09-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_29f80M",
+        "date": "2022-09-03",
+        "time_utc": "2022-09-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1e15OH",
+        "date": "2022-09-03",
+        "time_utc": "2022-09-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2fz7a2",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1CqkSS",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_43ZnV3",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0nvkwk",
+        "date": "2022-09-10",
+        "time_utc": "2022-09-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3o644o",
+        "date": "2022-09-10",
+        "time_utc": "2022-09-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0nYavk",
+        "date": "2022-09-10",
+        "time_utc": "2022-09-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1QDNu3",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2FD8Ab",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1rMu05",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0P9v1g",
+        "date": "2022-09-17",
+        "time_utc": "2022-09-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3jKFzV",
+        "date": "2022-09-17",
+        "time_utc": "2022-09-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3vbMJt",
+        "date": "2022-09-17",
+        "time_utc": "2022-09-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4VEa7C",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cyMJb",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4LnCy9",
+        "date": "2022-09-18",
+        "time_utc": "2022-09-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1EIr1V",
+        "date": "2022-10-01",
+        "time_utc": "2022-10-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1g1uXl",
+        "date": "2022-10-01",
+        "time_utc": "2022-10-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dRvO6",
+        "date": "2022-10-01",
+        "time_utc": "2022-10-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_0qPyMc",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1uXczq",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2ndjlc",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0SRP5a",
+        "date": "2022-10-08",
+        "time_utc": "2022-10-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2QxWyT",
+        "date": "2022-10-08",
+        "time_utc": "2022-10-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2jMBGh",
+        "date": "2022-10-08",
+        "time_utc": "2022-10-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ntEAY",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1hdIId",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1yhSZ6",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2nRDRq",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1sJpLn",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3GOGp2",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3uXpyN",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4D16eK",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1EMPIo",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2DBQfg",
+        "date": "2022-10-22",
+        "time_utc": "2022-10-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_1qVjEJ",
+        "date": "2022-10-22",
+        "time_utc": "2022-10-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2TElXN",
+        "date": "2022-10-22",
+        "time_utc": "2022-10-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1uNd1H",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ElVJQ",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_40jfJc",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0UIp90",
+        "date": "2022-10-26",
+        "time_utc": "2022-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_1j3fB5",
+        "date": "2022-10-29",
+        "time_utc": "2022-10-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_12hSoP",
+        "date": "2022-10-29",
+        "time_utc": "2022-10-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3wXEeJ",
+        "date": "2022-10-29",
+        "time_utc": "2022-10-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1XmOdm",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3BjK90",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2jpi1k",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2kMjgZ",
+        "date": "2022-11-05",
+        "time_utc": "2022-11-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1y65LS",
+        "date": "2022-11-05",
+        "time_utc": "2022-11-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2wnr4b",
+        "date": "2022-11-05",
+        "time_utc": "2022-11-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0U4gxP",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0xaANu",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4HBPiz",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2OLIS4",
+        "date": "2022-11-12",
+        "time_utc": "2022-11-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ywDU8",
+        "date": "2022-11-12",
+        "time_utc": "2022-11-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_110l43",
+        "date": "2022-11-12",
+        "time_utc": "2022-11-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_14dPMW",
+        "date": "2022-11-13",
+        "time_utc": "2022-11-13T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4XwntP",
+        "date": "2022-11-13",
+        "time_utc": "2022-11-13T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Unuo6",
+        "date": "2022-11-13",
+        "time_utc": "2022-11-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Dg3gg",
+        "date": "2023-02-10",
+        "time_utc": "2023-02-10T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ntxqs",
+        "date": "2023-02-11",
+        "time_utc": "2023-02-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_4D4zzQ",
+        "date": "2023-02-11",
+        "time_utc": "2023-02-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1br2Y5",
+        "date": "2023-02-12",
+        "time_utc": "2023-02-12T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_17Fp6t",
+        "date": "2023-02-12",
+        "time_utc": "2023-02-12T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2xnsqc",
+        "date": "2023-02-12",
+        "time_utc": "2023-02-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2DOj0q",
+        "date": "2023-02-18",
+        "time_utc": "2023-02-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_094a54",
+        "date": "2023-02-18",
+        "time_utc": "2023-02-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3IKAZ9",
+        "date": "2023-02-18",
+        "time_utc": "2023-02-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1B1fHf",
+        "date": "2023-02-19",
+        "time_utc": "2023-02-19T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3kDXIJ",
+        "date": "2023-02-19",
+        "time_utc": "2023-02-19T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3jlHKr",
+        "date": "2023-02-19",
+        "time_utc": "2023-02-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2fgUox",
+        "date": "2023-02-24",
+        "time_utc": "2023-02-24T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0PKyUP",
+        "date": "2023-02-25",
+        "time_utc": "2023-02-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1PMkgB",
+        "date": "2023-02-25",
+        "time_utc": "2023-02-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3YsloV",
+        "date": "2023-02-26",
+        "time_utc": "2023-02-26T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_05LXJU",
+        "date": "2023-02-26",
+        "time_utc": "2023-02-26T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3LpU8L",
+        "date": "2023-02-26",
+        "time_utc": "2023-02-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1dj9m2",
+        "date": "2023-03-04",
+        "time_utc": "2023-03-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_37D1LQ",
+        "date": "2023-03-04",
+        "time_utc": "2023-03-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1aASOk",
+        "date": "2023-03-04",
+        "time_utc": "2023-03-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3QAf27",
+        "date": "2023-03-05",
+        "time_utc": "2023-03-05T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2XvDea",
+        "date": "2023-03-05",
+        "time_utc": "2023-03-05T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3y8v4c",
+        "date": "2023-03-05",
+        "time_utc": "2023-03-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3H8f2e",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2NjUR6",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_03CcEZ",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2v96hB",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2bJb7I",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4e7H7h",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Tfec7",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4SsfpS",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_12TYSB",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Sn0Lk",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1oRO8Y",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_099RsF",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VnY1U",
+        "date": "2023-03-31",
+        "time_utc": "2023-03-31T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1zm5RF",
+        "date": "2023-04-01",
+        "time_utc": "2023-04-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1u30Dh",
+        "date": "2023-04-01",
+        "time_utc": "2023-04-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2hUJd3",
+        "date": "2023-04-02",
+        "time_utc": "2023-04-02T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2M58En",
+        "date": "2023-04-02",
+        "time_utc": "2023-04-02T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3vLZNh",
+        "date": "2023-04-02",
+        "time_utc": "2023-04-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4WZIBs",
+        "date": "2023-04-07",
+        "time_utc": "2023-04-07T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2mXIx9",
+        "date": "2023-04-08",
+        "time_utc": "2023-04-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Lkapc",
+        "date": "2023-04-08",
+        "time_utc": "2023-04-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2xuhoc",
+        "date": "2023-04-09",
+        "time_utc": "2023-04-09T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_31ERNh",
+        "date": "2023-04-09",
+        "time_utc": "2023-04-09T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2cJ8wJ",
+        "date": "2023-04-09",
+        "time_utc": "2023-04-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2xGaLW",
+        "date": "2023-04-14",
+        "time_utc": "2023-04-14T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2JI7hg",
+        "date": "2023-04-15",
+        "time_utc": "2023-04-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4Uyexc",
+        "date": "2023-04-15",
+        "time_utc": "2023-04-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Al7YY",
+        "date": "2023-04-16",
+        "time_utc": "2023-04-16T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1kqcEC",
+        "date": "2023-04-16",
+        "time_utc": "2023-04-16T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1ERWoo",
+        "date": "2023-04-16",
+        "time_utc": "2023-04-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Nz4oZ",
+        "date": "2023-04-21",
+        "time_utc": "2023-04-21T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0oIJiE",
+        "date": "2023-04-22",
+        "time_utc": "2023-04-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1mcahg",
+        "date": "2023-04-22",
+        "time_utc": "2023-04-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0KU2U8",
+        "date": "2023-04-23",
+        "time_utc": "2023-04-23T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1JeE76",
+        "date": "2023-04-23",
+        "time_utc": "2023-04-23T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_21qbwz",
+        "date": "2023-04-23",
+        "time_utc": "2023-04-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_47LoOZ",
+        "date": "2023-04-26",
+        "time_utc": "2023-04-26T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0L6IwH",
+        "date": "2023-04-26",
+        "time_utc": "2023-04-26T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3W9Kph",
+        "date": "2023-04-28",
+        "time_utc": "2023-04-28T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1XzdK0",
+        "date": "2023-04-29",
+        "time_utc": "2023-04-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 4,
+        "score_away": 4
+      },
+      {
+        "id": "m_44m7fI",
+        "date": "2023-04-29",
+        "time_utc": "2023-04-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_30bicz",
+        "date": "2023-04-30",
+        "time_utc": "2023-04-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Lmmg6",
+        "date": "2023-05-05",
+        "time_utc": "2023-05-05T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2pw1NM",
+        "date": "2023-05-06",
+        "time_utc": "2023-05-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0rinBX",
+        "date": "2023-05-06",
+        "time_utc": "2023-05-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_2uFaS8",
+        "date": "2023-05-07",
+        "time_utc": "2023-05-07T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Vqnep",
+        "date": "2023-05-07",
+        "time_utc": "2023-05-07T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4aacQM",
+        "date": "2023-05-07",
+        "time_utc": "2023-05-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2wx8xX",
+        "date": "2023-05-12",
+        "time_utc": "2023-05-12T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2UsC6y",
+        "date": "2023-05-13",
+        "time_utc": "2023-05-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ufYMT",
+        "date": "2023-05-13",
+        "time_utc": "2023-05-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ndZ21",
+        "date": "2023-05-14",
+        "time_utc": "2023-05-14T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2huC1I",
+        "date": "2023-05-14",
+        "time_utc": "2023-05-14T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0BBuT0",
+        "date": "2023-05-14",
+        "time_utc": "2023-05-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dIPFB",
+        "date": "2023-05-19",
+        "time_utc": "2023-05-19T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3K67VZ",
+        "date": "2023-05-20",
+        "time_utc": "2023-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_0Qsa3z",
+        "date": "2023-05-20",
+        "time_utc": "2023-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4OBgVK",
+        "date": "2023-05-21",
+        "time_utc": "2023-05-21T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Bbzvo",
+        "date": "2023-05-21",
+        "time_utc": "2023-05-21T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kJTNJ",
+        "date": "2023-05-21",
+        "time_utc": "2023-05-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2IsEvc",
+        "date": "2023-05-27",
+        "time_utc": "2023-05-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3vZHDd",
+        "date": "2023-05-27",
+        "time_utc": "2023-05-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "away_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2q04q1",
+        "date": "2023-05-27",
+        "time_utc": "2023-05-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3iGlQO",
+        "date": "2023-05-28",
+        "time_utc": "2023-05-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_32yR4L",
+        "date": "2023-05-28",
+        "time_utc": "2023-05-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "away_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Jlsnz",
+        "date": "2023-05-28",
+        "time_utc": "2023-05-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "away_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4OzD7y",
+        "date": "2023-06-02",
+        "time_utc": "2023-06-02T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_3qXYYf",
+          "name": "Hartberg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9336353581bc0ae1afc0c153747aed87fc8775fe9b191e39d644a729f84dc1c6.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_4F50NX",
+        "date": "2023-06-02",
+        "time_utc": "2023-06-02T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_34FD4Z",
+          "name": "Ried",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aeb3d87018af39cd88667ce7bcbd5a6ffc927433704b179e8890a83bb7bfe242.webp"
+        },
+        "away_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0teo6K",
+        "date": "2023-06-02",
+        "time_utc": "2023-06-02T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BlVBx",
+          "name": "WSG Tirol",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cad1286585e77559a5a497e686af3a9ee0e3754723dbbd9cd3ee8b9e28a69048.webp"
+        },
+        "away_team": {
+          "id": "t_3GNEpw",
+          "name": "Altach",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b94dcfbe1990877473851ae131b69c529a4bd20992e8d4332cfa905de5c5e346.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2R3s6M",
+        "date": "2023-06-03",
+        "time_utc": "2023-06-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_2Mf10x",
+          "name": "Salzburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4005f060b534d25f4c041f7cfb9bd85860fcfac123d6db20ec4161fe6bacd761.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4c2qNj",
+        "date": "2023-06-03",
+        "time_utc": "2023-06-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_01FQez",
+          "name": "SK Austria Klagenfurt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d8205d5b8103c32adefe867a2ef34d7a8c7695257fcf9aee95027b39b0e04c65.webp"
+        },
+        "away_team": {
+          "id": "t_3A58ap",
+          "name": "Rapid Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ca9d8a4cad8fba4e6fa953dd1f3d7e630b1dae7b873c759cfdd7c552c538f207.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Vu9xc",
+        "date": "2023-06-03",
+        "time_utc": "2023-06-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0qB4tc",
+          "name": "Sturm Graz",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8c2144240c8ec6c3c13421724548b48d5c33ad8ac69fe0d444c73e4541267af.webp"
+        },
+        "away_team": {
+          "id": "t_1ta56l",
+          "name": "LASK",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7e1cc9adf796345eed652d70b6425c8add7abc494151cb677e6f60c63eb518ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Yh92N",
+        "date": "2023-06-05",
+        "time_utc": "2023-06-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rbgXI",
+          "name": "Wolfsberger AC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bca024a31a44e4ac2a995e27256664987888df187b0df0dffcf46985fd6ae89.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1sHHRC",
+        "date": "2023-06-08",
+        "time_utc": "2023-06-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "away_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_43rBr3",
+        "date": "2023-06-11",
+        "time_utc": "2023-06-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1AVPg7",
+          "name": "Austria Wien",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6e40b58e681d5b041779fbb3463618ac21be02b6d8f497067144b2faca48f4a6.webp"
+        },
+        "away_team": {
+          "id": "t_3mYDa8",
+          "name": "Austria Lustenau",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bfec623c44124566a0ed56990fd98182bab69890dd89e3cfb9b7486c386a0f15.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      }
+    ]
+  }
+}

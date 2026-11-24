@@ -1,0 +1,4206 @@
+{
+  "data": {
+    "league": {
+      "id": "l_1TVRZW",
+      "name": "Primera Division",
+      "season": "2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/6c808ba3a50a963a66cffd4538318549d49275f9d9cdd00a688c6b1c68e32354.webp"
+    },
+    "matches": [
+      {
+        "id": "m_2bmy9k",
+        "date": "2025-01-24",
+        "time_utc": "2025-01-24T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2VhYSB",
+        "date": "2025-01-25",
+        "time_utc": "2025-01-25T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1YpLBW",
+        "date": "2025-01-25",
+        "time_utc": "2025-01-25T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Mky6h",
+        "date": "2025-01-25",
+        "time_utc": "2025-01-25T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1njQbZ",
+        "date": "2025-01-26",
+        "time_utc": "2025-01-26T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_04jCyP",
+        "date": "2025-01-26",
+        "time_utc": "2025-01-26T21:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Jw1rX",
+        "date": "2025-01-27",
+        "time_utc": "2025-01-27T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3AiP1k",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_4b5Tbm",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_27D4QP",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Zl0CM",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3oQie4",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_36fekR",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1yAtBe",
+        "date": "2025-02-03",
+        "time_utc": "2025-02-03T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2HjiLm",
+        "date": "2025-02-06",
+        "time_utc": "2025-02-06T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1XGTCP",
+        "date": "2025-02-07",
+        "time_utc": "2025-02-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0N2Yci",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0lxJaT",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T21:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3yDBrh",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_46H1yZ",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0c55hC",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cgHlR",
+        "date": "2025-02-14",
+        "time_utc": "2025-02-14T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_09QwlK",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0hzfvf",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T21:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3CQC0A",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1tCKuc",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3NHcU9",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2DOO41",
+        "date": "2025-02-17",
+        "time_utc": "2025-02-17T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1SLTtX",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Vb67q",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0AKJwj",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T21:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3OpxDg",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4YRC5P",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0OyrJt",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T22:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2LJcST",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1kEwbw",
+        "date": "2025-02-28",
+        "time_utc": "2025-02-28T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1FYYg5",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2SXeHr",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T22:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0av4bn",
+        "date": "2025-03-01",
+        "time_utc": "2025-03-01T22:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_090V1w",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Xga1F",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0jRcfw",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Guztw",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_2qxPef",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2YPX9Y",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_15sApz",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4f7oRC",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_24e1sX",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1JF3BG",
+        "date": "2025-03-10",
+        "time_utc": "2025-03-10T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0p1Zky",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_299pLj",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1c9SwD",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3OmqqI",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T21:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1TuFOE",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_33Bs6l",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_40SjIw",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3iG2Ex",
+        "date": "2025-03-27",
+        "time_utc": "2025-03-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2QAkYL",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1KM6Bu",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_29AP25",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0E6xpJ",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0DRhA6",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_47FYRr",
+        "date": "2025-03-31",
+        "time_utc": "2025-03-31T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0qwZwe",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3bYIRo",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4TG98C",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2o0ZJR",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Ux30y",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T21:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3gYhtu",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4DoWEd",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2pWXLp",
+        "date": "2025-04-10",
+        "time_utc": "2025-04-10T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3U6BOf",
+        "date": "2025-04-11",
+        "time_utc": "2025-04-11T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Y1D6A",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2zf3FS",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4aTjMg",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4LsDBd",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1RwQRY",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0HVEIw",
+        "date": "2025-04-17",
+        "time_utc": "2025-04-17T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2yZzAk",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2m3JU1",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Gylrq",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_46GNjk",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1aE41z",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3rZYaN",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0oToAa",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0DbpiJ",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2wsdA5",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_1AiWlL",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0ZDEBO",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0YjFgP",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_16tkPV",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kSZjm",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Ehuk4",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4ayKZy",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 4,
+        "score_away": 4
+      },
+      {
+        "id": "m_0IF6vd",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T01:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0uTjxJ",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2woAxK",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4MkZPz",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2NPAlH",
+        "date": "2025-05-12",
+        "time_utc": "2025-05-12T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1DWqSq",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_41FKb7",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cyVF0",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_415VDs",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Qg2Uj",
+        "date": "2025-05-21",
+        "time_utc": "2025-05-21T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1afSyE",
+        "date": "2025-05-22",
+        "time_utc": "2025-05-22T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1TEp0s",
+        "date": "2025-05-22",
+        "time_utc": "2025-05-22T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3D7dRF",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3j8rzj",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ua0Nm",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2VsUs7",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_19rPCH",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0JP56W",
+        "date": "2025-06-07",
+        "time_utc": "2025-06-07T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3xujwE",
+        "date": "2025-06-07",
+        "time_utc": "2025-06-07T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1j5RXk",
+        "date": "2025-06-08",
+        "time_utc": "2025-06-08T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1oTfKd",
+        "date": "2025-06-09",
+        "time_utc": "2025-06-09T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_03CwV8",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0XJH6Q",
+        "date": "2025-07-04",
+        "time_utc": "2025-07-04T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1jk3Rj",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_47M9h0",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0eckzm",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_288V48",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Z6HCS",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_49HWuQ",
+        "date": "2025-07-07",
+        "time_utc": "2025-07-07T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Z5Otp",
+        "date": "2025-07-11",
+        "time_utc": "2025-07-11T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1WDpfX",
+        "date": "2025-07-11",
+        "time_utc": "2025-07-11T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2cDhHV",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2vhK1j",
+        "date": "2025-07-12",
+        "time_utc": "2025-07-12T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Dq7fh",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JGAOu",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3f6mag",
+        "date": "2025-07-13",
+        "time_utc": "2025-07-13T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4OthvT",
+        "date": "2025-07-18",
+        "time_utc": "2025-07-18T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1hrAIT",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T00:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2BKgrw",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2CAWh7",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3OyQHB",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4e1Xbv",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2vUclp",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Z37NA",
+        "date": "2025-07-23",
+        "time_utc": "2025-07-23T22:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_45SjGP",
+        "date": "2025-07-23",
+        "time_utc": "2025-07-23T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0awPOk",
+        "date": "2025-07-23",
+        "time_utc": "2025-07-23T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3bIQLK",
+        "date": "2025-07-24",
+        "time_utc": "2025-07-24T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2nBZf1",
+        "date": "2025-07-24",
+        "time_utc": "2025-07-24T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0hk44n",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2zfTbA",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_38atgo",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1nnidf",
+        "date": "2025-08-01",
+        "time_utc": "2025-08-01T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3yMxim",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3KT0Ip",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0KtY8N",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0RMhOc",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3sJyug",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0QGnGt",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0xldvK",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Rt23H",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2fLCER",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0kLU0I",
+        "date": "2025-08-11",
+        "time_utc": "2025-08-11T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3IHMDu",
+        "date": "2025-08-11",
+        "time_utc": "2025-08-11T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wQPu5",
+        "date": "2025-08-11",
+        "time_utc": "2025-08-11T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2bvEbd",
+        "date": "2025-08-15",
+        "time_utc": "2025-08-15T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3WvO1F",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_09X30N",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3IHHng",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4AUSRP",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0xMgmY",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0mBcMc",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_36ZnCD",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4T3pom",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4e87Qc",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1eAycq",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1yWDDr",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0mH3bT",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2qwG2W",
+        "date": "2025-08-25",
+        "time_utc": "2025-08-25T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1c2MBx",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3imNGt",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1gwGaA",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0QDVZk",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_16y326",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3LAQ3L",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1erxEI",
+        "date": "2025-09-01",
+        "time_utc": "2025-09-01T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_18LjEp",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0nVfNL",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2pMZ12",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4HkHEW",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2FADlP",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1lrXQB",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2CwPnk",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3J5CL5",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2EDgm5",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_11GBQK",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1bb7cj",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3L7O1s",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3c4rtY",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0WBY2E",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_44lawz",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2L6CBs",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1JARHR",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1W64RV",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3FQzVn",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1adbE1",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1bCZ2E",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4UolW0",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3uCNXd",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_37NY7s",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2FeTc0",
+          "name": "Estudiantes de Mérida",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd6ab363f8cd47dc7bf7777ba0edd8db343c96cbcc69c75e0aefb07f09886bc9.webp"
+        },
+        "away_team": {
+          "id": "t_2bwvjo",
+          "name": "Yaracuyanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f8b8c503c225a8b8f9416221e6c3d923583a7a1c9f4953bcc9a54dba5d61399.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0paXMu",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_481SSu",
+          "name": "Rayo Zuliano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72ec564edbaa844024768ecc49b5ff084c5a404d0c731c6710d798aff8f49923.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2vEdHk",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2vrCh1",
+          "name": "Anzoátegui",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3c1dedab2f156373eaae60068009a7c2425ce8499af6f8f63568eb37f71d1cfe.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1cCQV7",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_08snn9",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3pVDKM",
+          "name": "Portuguesa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/76cef3bb271a88208240718581c51af774fc334a6a339c4f07b8b2d742d16623.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2PLsFw",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4HY74G",
+        "date": "2025-10-17",
+        "time_utc": "2025-10-17T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jwmXs",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Bi19g",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T00:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1nK8Qx",
+        "date": "2025-10-21",
+        "time_utc": "2025-10-21T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2LMUbf",
+        "date": "2025-10-21",
+        "time_utc": "2025-10-21T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2H0XTg",
+        "date": "2025-10-22",
+        "time_utc": "2025-10-22T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_45KTDK",
+        "date": "2025-10-22",
+        "time_utc": "2025-10-22T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2qG02K",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4ZeLTl",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0XFNq1",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1T80vJ",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_40jv3P",
+        "date": "2025-10-31",
+        "time_utc": "2025-10-31T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_24YoZx",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2SRqSW",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4c30c9",
+        "date": "2025-11-04",
+        "time_utc": "2025-11-04T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "away_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0tXZHv",
+        "date": "2025-11-04",
+        "time_utc": "2025-11-04T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "away_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_25vJTH",
+        "date": "2025-11-05",
+        "time_utc": "2025-11-05T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1e2bJA",
+        "date": "2025-11-05",
+        "time_utc": "2025-11-05T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "away_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_33o6ml",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Kqyt3",
+          "name": "Deportivo La Guaira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5b7036766c44d2b897243757b93809229e252f98e37e245543e338f0c95d08ea.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2syko9",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T23:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_348X3O",
+          "name": "Monagas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/569d65c375be579a840b34598a4cb1b5c54aba8c0731250ab84f734cad022766.webp"
+        },
+        "away_team": {
+          "id": "t_0oN7VH",
+          "name": "Zamora",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/81de041075d36f79b211fb87398483cafbeea716185d8bb66c2da1db1a65724b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0tTO2W",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T21:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2yp8yo",
+          "name": "Deportivo Táchira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f2a5d5f658dc17e2e92bb3002e04e3261a19dbe5255b730fa154b0dd699e9e59.webp"
+        },
+        "away_team": {
+          "id": "t_3FyF6Q",
+          "name": "Metropolitanos",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/33fa2d51a0ce93a72634b0251e387d03811561a25d425b2b0d393613357ba7a8.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4FOHa4",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T23:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_49cLJW",
+          "name": "Caracas",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/aa5db837dffa463325d65743894d7bb75422b22beaa47e391d41366925f8665c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0XEDvA",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_31pxlb",
+          "name": "Academia Puerto Cabello",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3d7a7f2229ea7bd6ce9f252455349b95c70dfc06eb312458eae95954882716d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1oHTkd",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "away_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3mudrJ",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T22:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4X61EH",
+          "name": "Carabobo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f139475c7fe0359442d10eb688d994b6164d07c59b96c4d44797d0dfcc937b.webp"
+        },
+        "away_team": {
+          "id": "t_4R67gH",
+          "name": "UCV",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/783761ac3c19ba175af5b237d80eac2a085d077982557ff63513c1fccbf11ee7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      }
+    ]
+  }
+}

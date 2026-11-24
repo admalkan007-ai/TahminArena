@@ -1,0 +1,3252 @@
+{
+  "data": {
+    "league": {
+      "id": "l_45xKXM",
+      "name": "Virsliga",
+      "season": "2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/44c82a19fd06e6a335bbb1e39ce3928b3d166ec00b8e828b43e7ddaab6dbe453.webp"
+    },
+    "matches": [
+      {
+        "id": "m_3fwMzV",
+        "date": "2025-03-05",
+        "time_utc": "2025-03-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_07nd6c",
+        "date": "2025-03-06",
+        "time_utc": "2025-03-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0svwbC",
+        "date": "2025-03-06",
+        "time_utc": "2025-03-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2uJWzT",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3hkd3N",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_17iZhV",
+        "date": "2025-03-10",
+        "time_utc": "2025-03-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0guReB",
+        "date": "2025-03-11",
+        "time_utc": "2025-03-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2MrkWu",
+        "date": "2025-03-11",
+        "time_utc": "2025-03-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1sbJ6e",
+        "date": "2025-03-12",
+        "time_utc": "2025-03-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1nN0vU",
+        "date": "2025-03-12",
+        "time_utc": "2025-03-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3LhO8p",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1cR9UR",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_373LAh",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0QjLB1",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_18PajC",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wSxEn",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4bOWZL",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2SB2wq",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_32V403",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_48sGUr",
+        "date": "2025-03-31",
+        "time_utc": "2025-03-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_42yiUc",
+        "date": "2025-04-03",
+        "time_utc": "2025-04-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_2WbTsx",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_09kLFc",
+        "date": "2025-04-04",
+        "time_utc": "2025-04-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3QCcgg",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_31GWUg",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Jz5qu",
+        "date": "2025-04-08",
+        "time_utc": "2025-04-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_23P6AD",
+        "date": "2025-04-09",
+        "time_utc": "2025-04-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1g8Jqv",
+        "date": "2025-04-09",
+        "time_utc": "2025-04-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3jSJwO",
+        "date": "2025-04-10",
+        "time_utc": "2025-04-10T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2jcsok",
+        "date": "2025-04-10",
+        "time_utc": "2025-04-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0lWh0P",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1BoXc5",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3vOpBN",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_32Bi0B",
+        "date": "2025-04-15",
+        "time_utc": "2025-04-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1jcOMq",
+        "date": "2025-04-15",
+        "time_utc": "2025-04-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3NVwQE",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_16hXas",
+        "date": "2025-04-18",
+        "time_utc": "2025-04-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_49no8N",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3opnzy",
+        "date": "2025-04-19",
+        "time_utc": "2025-04-19T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ouPnb",
+        "date": "2025-04-20",
+        "time_utc": "2025-04-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2lNesg",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0283fs",
+        "date": "2025-04-24",
+        "time_utc": "2025-04-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1QQQDp",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2SeqXb",
+        "date": "2025-04-25",
+        "time_utc": "2025-04-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4DoDQg",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_23594X",
+        "date": "2025-04-29",
+        "time_utc": "2025-04-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3wxlIA",
+        "date": "2025-04-30",
+        "time_utc": "2025-04-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1AzEzU",
+        "date": "2025-05-01",
+        "time_utc": "2025-05-01T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_3wOldd",
+        "date": "2025-05-01",
+        "time_utc": "2025-05-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1D3Z07",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_0bCza0",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4MtrCt",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1gPznh",
+        "date": "2025-05-05",
+        "time_utc": "2025-05-05T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4VdDyM",
+        "date": "2025-05-06",
+        "time_utc": "2025-05-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1ZMgDg",
+        "date": "2025-05-06",
+        "time_utc": "2025-05-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4UpH8F",
+        "date": "2025-05-09",
+        "time_utc": "2025-05-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3G1oye",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0sIAd5",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4dNj9E",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3CLHHp",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2IOGBN",
+        "date": "2025-05-14",
+        "time_utc": "2025-05-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0sPcJT",
+        "date": "2025-05-14",
+        "time_utc": "2025-05-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4QAPls",
+        "date": "2025-05-15",
+        "time_utc": "2025-05-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0pgzdH",
+        "date": "2025-05-15",
+        "time_utc": "2025-05-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3e3JaX",
+        "date": "2025-05-16",
+        "time_utc": "2025-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2oDYj6",
+        "date": "2025-05-19",
+        "time_utc": "2025-05-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3rGsyt",
+        "date": "2025-05-20",
+        "time_utc": "2025-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0C4o5U",
+        "date": "2025-05-20",
+        "time_utc": "2025-05-20T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_28Qq9E",
+        "date": "2025-05-21",
+        "time_utc": "2025-05-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ZLZOn",
+        "date": "2025-05-21",
+        "time_utc": "2025-05-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_12iK3L",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3LP5bx",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3QJBVQ",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2OtwN6",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_1rPn3p",
+        "date": "2025-05-26",
+        "time_utc": "2025-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1rznIU",
+        "date": "2025-05-29",
+        "time_utc": "2025-05-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lEMvq",
+        "date": "2025-05-30",
+        "time_utc": "2025-05-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ahvCl",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_12FGdb",
+        "date": "2025-05-31",
+        "time_utc": "2025-05-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Qquik",
+        "date": "2025-06-01",
+        "time_utc": "2025-06-01T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_405zwS",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3YKoee",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0KYRTa",
+        "date": "2025-06-13",
+        "time_utc": "2025-06-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2kSPL5",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0x4x2b",
+        "date": "2025-06-14",
+        "time_utc": "2025-06-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_16u7DX",
+        "date": "2025-06-17",
+        "time_utc": "2025-06-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2AOFkU",
+        "date": "2025-06-17",
+        "time_utc": "2025-06-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1NMux3",
+        "date": "2025-06-17",
+        "time_utc": "2025-06-17T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3ZjDJq",
+        "date": "2025-06-18",
+        "time_utc": "2025-06-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Gye7M",
+        "date": "2025-06-18",
+        "time_utc": "2025-06-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2zbRjp",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2YeFYx",
+        "date": "2025-06-21",
+        "time_utc": "2025-06-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_48V6Ja",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Br2ak",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3BaX1p",
+        "date": "2025-06-22",
+        "time_utc": "2025-06-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3f0TST",
+        "date": "2025-06-25",
+        "time_utc": "2025-06-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4EDecL",
+        "date": "2025-06-26",
+        "time_utc": "2025-06-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1mFtpD",
+        "date": "2025-06-26",
+        "time_utc": "2025-06-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_01NMJH",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_03t2T0",
+        "date": "2025-06-27",
+        "time_utc": "2025-06-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1tIW4c",
+        "date": "2025-06-30",
+        "time_utc": "2025-06-30T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 7
+      },
+      {
+        "id": "m_1a79Xm",
+        "date": "2025-06-30",
+        "time_utc": "2025-06-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0zPfgU",
+        "date": "2025-07-01",
+        "time_utc": "2025-07-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2tiQMN",
+        "date": "2025-07-01",
+        "time_utc": "2025-07-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XocU8",
+        "date": "2025-07-02",
+        "time_utc": "2025-07-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3NDw2D",
+        "date": "2025-07-04",
+        "time_utc": "2025-07-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1mjLBM",
+        "date": "2025-07-05",
+        "time_utc": "2025-07-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2tYfI8",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ibZQg",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4TBYSf",
+        "date": "2025-07-06",
+        "time_utc": "2025-07-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_060RHX",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_46nLDL",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_0sFlNc",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4FL0vJ",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3GnhWq",
+        "date": "2025-07-21",
+        "time_utc": "2025-07-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1xwlsW",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2N8Icq",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 6,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Xiahu",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3O0iKR",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3LTip2",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4cJMMl",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Bg8tW",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4IEDi8",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Jihjd",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1s4BgN",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3fiz3D",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1IIx8Z",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3NlUoy",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0YTGs3",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0IGN6O",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2E935V",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4ORy4l",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3qozhl",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2vXCmZ",
+        "date": "2025-08-25",
+        "time_utc": "2025-08-25T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1GabqY",
+        "date": "2025-08-29",
+        "time_utc": "2025-08-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Q3j9X",
+        "date": "2025-08-29",
+        "time_utc": "2025-08-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3wac9o",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 6
+      },
+      {
+        "id": "m_4WUXd1",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0sOBQS",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4JQQRy",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_0ZK9r9",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_08DO4S",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0VrQJr",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3TJbCJ",
+        "date": "2025-09-15",
+        "time_utc": "2025-09-15T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3mUbJx",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1AlvJJ",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_49jE3y",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1TJRDE",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2JSe6s",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1WNj76",
+        "date": "2025-09-25",
+        "time_utc": "2025-09-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_03bTuk",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2aUBCE",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2DhlcE",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4V4Fes",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4cx3jU",
+        "date": "2025-09-29",
+        "time_utc": "2025-09-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3UxuA9",
+        "date": "2025-10-03",
+        "time_utc": "2025-10-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2n2M94",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3jduRC",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ZWOlu",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1M8C9q",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_0zMJlj",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4VBVeD",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_08PK4q",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_4H3W4k",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Uigvv",
+        "date": "2025-10-20",
+        "time_utc": "2025-10-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1lB521",
+        "date": "2025-10-24",
+        "time_utc": "2025-10-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_48ePzN",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Ey2Eb",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_03lArH",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Ctcoy",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "away_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_4JjQ9h",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3GoALU",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4I0458",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "away_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2rPJV3",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "away_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3ihgkb",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_100O7m",
+        "date": "2025-11-07",
+        "time_utc": "2025-11-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0p5FnN",
+          "name": "Riga FC",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d1faf0d38dc3a420a5039c761eb42044c5ad79c474780b6a58043926a7ef476.webp"
+        },
+        "away_team": {
+          "id": "t_4EfjSE",
+          "name": "RFS",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/413f9fbac88ed5de64b089345969005a45289c7ab3d5f59e1024764dd680defd.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_3Wblvc",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Ch4Kz",
+          "name": "Super Nova",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/12bf3a85f2fedd584e2e9dd24fb28aa2db4cf72e308e999842f5cc6f785f820e.webp"
+        },
+        "away_team": {
+          "id": "t_2i0yqv",
+          "name": "Liepāja",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6572b17e817a8ffa31092f0a1cb4a9279d647f810bf857da847df04914e26330.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3a5bZ8",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_40eLxC",
+          "name": "Metta",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f07cfc60e11a805364afc20b3f5cf0377e208d572881de7b5d1aa09149d0d600.webp"
+        },
+        "away_team": {
+          "id": "t_051g7V",
+          "name": "Daugavpils",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd4ce2cacc696beabd76f258046ee193906995921341064004715e81268e5782.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_19JeaH",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3a5toL",
+          "name": "Tukums",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/69372551ed843c008fead27d7020b0339ea49c173d4f8771d5c3fdf07567f872.webp"
+        },
+        "away_team": {
+          "id": "t_19myYB",
+          "name": "Jelgava",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2cc4b7ac3b046e9f4646b51109743a576fba29d7ce3aebd0b62a3ec522f85d43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dCxwd",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1hKUaX",
+          "name": "Grobiņa",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/85f60cb4429928cd41f5efb767e739da9b18fe2da441d69683f102c4d71549c7.webp"
+        },
+        "away_team": {
+          "id": "t_4Vi7w3",
+          "name": "Auda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eb860f421bdda10abc9f57ff17387e1cad35be2681303dd75996cbc540e89c82.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      }
+    ]
+  }
+}

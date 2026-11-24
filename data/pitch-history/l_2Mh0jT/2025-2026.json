@@ -1,0 +1,4332 @@
+{
+  "data": {
+    "league": {
+      "id": "l_2Mh0jT",
+      "name": "Premier League",
+      "season": "2025/2026",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/474ad85827e7f67e6a25e4a54c422314a39d3e60c578a49911f1af9a5882bc0d.webp"
+    },
+    "matches": [
+      {
+        "id": "m_0dxA6I",
+        "date": "2025-07-18",
+        "time_utc": "2025-07-18T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1xqhcF",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3LHJS0",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1O8vTC",
+        "date": "2025-07-19",
+        "time_utc": "2025-07-19T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2xqjca",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2rVvVi",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2tISIM",
+        "date": "2025-07-20",
+        "time_utc": "2025-07-20T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2kwdwm",
+        "date": "2025-07-21",
+        "time_utc": "2025-07-21T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2UxUd7",
+        "date": "2025-07-25",
+        "time_utc": "2025-07-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1YVVZD",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1PpFiD",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0eQKYA",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1goyWl",
+        "date": "2025-07-26",
+        "time_utc": "2025-07-26T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_0WPE2h",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_32Cw3n",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_13q2tO",
+        "date": "2025-07-27",
+        "time_utc": "2025-07-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3STXUW",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3lQlDT",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_27ZZGZ",
+        "date": "2025-08-02",
+        "time_utc": "2025-08-02T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3TGYnR",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T10:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1TPHPl",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_477EoB",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1vLCsG",
+        "date": "2025-08-03",
+        "time_utc": "2025-08-03T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Yw2Sa",
+        "date": "2025-08-04",
+        "time_utc": "2025-08-04T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1i7Tyb",
+        "date": "2025-08-08",
+        "time_utc": "2025-08-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1sMXO3",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T10:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3rZtDC",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Zhrfx",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0RWoRV",
+        "date": "2025-08-09",
+        "time_utc": "2025-08-09T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4KQf2m",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0J8G5h",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1VlU49",
+        "date": "2025-08-10",
+        "time_utc": "2025-08-10T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4AjZmw",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3nTO2H",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Gh0ua",
+        "date": "2025-08-16",
+        "time_utc": "2025-08-16T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Ic7Da",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T10:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2GLnpm",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0aKgrJ",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3WMaZo",
+        "date": "2025-08-17",
+        "time_utc": "2025-08-17T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Ee5d5",
+        "date": "2025-08-18",
+        "time_utc": "2025-08-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3NXBUb",
+        "date": "2025-08-22",
+        "time_utc": "2025-08-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2T8i7V",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0UH6pz",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3s4cwE",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2YG1Bw",
+        "date": "2025-08-23",
+        "time_utc": "2025-08-23T17:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_23Vclk",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_0xQ77j",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bmEVc",
+        "date": "2025-08-24",
+        "time_utc": "2025-08-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1h803x",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_15Ltkc",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4fiisS",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2KTFMe",
+        "date": "2025-08-30",
+        "time_utc": "2025-08-30T17:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_39oUlV",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T10:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1LpOwY",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T12:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1kRBXa",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0NMWxR",
+        "date": "2025-08-31",
+        "time_utc": "2025-08-31T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Rige0",
+        "date": "2025-09-12",
+        "time_utc": "2025-09-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ZnHfM",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ZITe2",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T13:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1GdMb0",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T13:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_03punv",
+        "date": "2025-09-13",
+        "time_utc": "2025-09-13T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3VrG0p",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1zFdZ1",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_26tePn",
+        "date": "2025-09-14",
+        "time_utc": "2025-09-14T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1DImMB",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_451lC8",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T13:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0eHoz1",
+        "date": "2025-09-20",
+        "time_utc": "2025-09-20T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2v37iA",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T09:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4AXuQZ",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1kjgs1",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1LmqYc",
+        "date": "2025-09-21",
+        "time_utc": "2025-09-21T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2EDqTz",
+        "date": "2025-09-22",
+        "time_utc": "2025-09-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1lfo4N",
+        "date": "2025-09-26",
+        "time_utc": "2025-09-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2brRRF",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_10F5ip",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_43PyrN",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1iZDw5",
+        "date": "2025-09-27",
+        "time_utc": "2025-09-27T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_1xx535",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4CxbWO",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0GWwdb",
+        "date": "2025-09-28",
+        "time_utc": "2025-09-28T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3rh8EP",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Ii8jS",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1NNlgt",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3GdPju",
+        "date": "2025-10-04",
+        "time_utc": "2025-10-04T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 3,
+        "score_away": 5
+      },
+      {
+        "id": "m_1aWZkK",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T09:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_08W7fM",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T11:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0vjwWv",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_30U8Kq",
+        "date": "2025-10-05",
+        "time_utc": "2025-10-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1WlMYk",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Tdx2n",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0aaa4E",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2mmnYH",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ExZ1T",
+        "date": "2025-10-18",
+        "time_utc": "2025-10-18T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2UmQ7c",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0xOT88",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2aAO6R",
+        "date": "2025-10-19",
+        "time_utc": "2025-10-19T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Clnhv",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3NpFCs",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3JTErD",
+        "date": "2025-10-25",
+        "time_utc": "2025-10-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2KiHvu",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2AYWjv",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1WNxum",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0IbrGB",
+        "date": "2025-10-26",
+        "time_utc": "2025-10-26T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3P6XlV",
+        "date": "2025-10-27",
+        "time_utc": "2025-10-27T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_4N251a",
+        "date": "2025-10-31",
+        "time_utc": "2025-10-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0duDQd",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T14:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Q2qPn",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T14:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0HRrKy",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3KVMpe",
+        "date": "2025-11-01",
+        "time_utc": "2025-11-01T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_437xMv",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T09:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3iOjsT",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3KCYxo",
+        "date": "2025-11-02",
+        "time_utc": "2025-11-02T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2JEwhX",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Z64B3",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Xn4er",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_41Tyvc",
+        "date": "2025-11-08",
+        "time_utc": "2025-11-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3abe7K",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0DM9pp",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3QXWrd",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1JQmMh",
+        "date": "2025-11-09",
+        "time_utc": "2025-11-09T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3vOJ9r",
+        "date": "2025-11-21",
+        "time_utc": "2025-11-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_11nJxx",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JJmzY",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T13:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3ShQnH",
+        "date": "2025-11-22",
+        "time_utc": "2025-11-22T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4EyYwf",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1j6E6C",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_22QId2",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4D8CZ7",
+        "date": "2025-11-23",
+        "time_utc": "2025-11-23T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4apZkU",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_383QUU",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0sdJJe",
+        "date": "2025-11-29",
+        "time_utc": "2025-11-29T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4gf8qC",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_4MuLIg",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3NGYUv",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Qbano",
+        "date": "2025-11-30",
+        "time_utc": "2025-11-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_47iIIm",
+        "date": "2025-12-01",
+        "time_utc": "2025-12-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4M2hde",
+        "date": "2025-12-05",
+        "time_utc": "2025-12-05T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1DVLcv",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4LfMa6",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T13:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0shHPQ",
+        "date": "2025-12-06",
+        "time_utc": "2025-12-06T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1vVFIC",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2cYkol",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_4CzX0p",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4H6Bqn",
+        "date": "2025-12-07",
+        "time_utc": "2025-12-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3SpJRD",
+        "date": "2026-02-27",
+        "time_utc": "2026-02-27T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4c1eT8",
+        "date": "2026-02-28",
+        "time_utc": "2026-02-28T09:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Fnmca",
+        "date": "2026-02-28",
+        "time_utc": "2026-02-28T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2b660e",
+        "date": "2026-02-28",
+        "time_utc": "2026-02-28T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4HfKF9",
+        "date": "2026-02-28",
+        "time_utc": "2026-02-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2oTZeK",
+        "date": "2026-03-01",
+        "time_utc": "2026-03-01T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3rP0LU",
+        "date": "2026-03-01",
+        "time_utc": "2026-03-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0G1dWA",
+        "date": "2026-03-02",
+        "time_utc": "2026-03-02T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3bI4kZ",
+        "date": "2026-03-07",
+        "time_utc": "2026-03-07T13:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1CJhKL",
+        "date": "2026-03-07",
+        "time_utc": "2026-03-07T16:10:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2y1Nlh",
+        "date": "2026-03-08",
+        "time_utc": "2026-03-08T09:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2VUtDC",
+        "date": "2026-03-08",
+        "time_utc": "2026-03-08T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1IBAUB",
+        "date": "2026-03-08",
+        "time_utc": "2026-03-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3llMo2",
+        "date": "2026-03-08",
+        "time_utc": "2026-03-08T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2spNBP",
+        "date": "2026-03-09",
+        "time_utc": "2026-03-09T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4F06yj",
+        "date": "2026-03-09",
+        "time_utc": "2026-03-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_3VHG8T",
+        "date": "2026-03-13",
+        "time_utc": "2026-03-13T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1zTMQo",
+        "date": "2026-03-14",
+        "time_utc": "2026-03-14T10:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1teelF",
+        "date": "2026-03-14",
+        "time_utc": "2026-03-14T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_184W4W",
+        "date": "2026-03-14",
+        "time_utc": "2026-03-14T15:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_465Pr9",
+        "date": "2026-03-14",
+        "time_utc": "2026-03-14T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_472eVf",
+        "date": "2026-03-15",
+        "time_utc": "2026-03-15T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_24kIBI",
+        "date": "2026-03-15",
+        "time_utc": "2026-03-15T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0AUPPg",
+        "date": "2026-03-15",
+        "time_utc": "2026-03-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2mnjYf",
+        "date": "2026-03-21",
+        "time_utc": "2026-03-21T10:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1F5NSe",
+        "date": "2026-03-21",
+        "time_utc": "2026-03-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_217GPX",
+        "date": "2026-03-21",
+        "time_utc": "2026-03-21T15:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_1mCy6J",
+        "date": "2026-03-21",
+        "time_utc": "2026-03-21T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0CDZ72",
+        "date": "2026-03-22",
+        "time_utc": "2026-03-22T10:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1rdGsh",
+        "date": "2026-03-22",
+        "time_utc": "2026-03-22T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_39dt1q",
+        "date": "2026-03-22",
+        "time_utc": "2026-03-22T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3WLK7q",
+        "date": "2026-03-22",
+        "time_utc": "2026-03-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_21LQJ4",
+        "date": "2026-04-04",
+        "time_utc": "2026-04-04T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2wJhVL",
+        "date": "2026-04-04",
+        "time_utc": "2026-04-04T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1vQL4O",
+        "date": "2026-04-04",
+        "time_utc": "2026-04-04T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3hy627",
+        "date": "2026-04-04",
+        "time_utc": "2026-04-04T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ARi2W",
+        "date": "2026-04-05",
+        "time_utc": "2026-04-05T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_48L8y4",
+        "date": "2026-04-05",
+        "time_utc": "2026-04-05T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3UHSZW",
+        "date": "2026-04-05",
+        "time_utc": "2026-04-05T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3b161z",
+        "date": "2026-04-06",
+        "time_utc": "2026-04-06T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0UyL7m",
+        "date": "2026-04-11",
+        "time_utc": "2026-04-11T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0TQ9BM",
+        "date": "2026-04-11",
+        "time_utc": "2026-04-11T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0jBSjB",
+        "date": "2026-04-11",
+        "time_utc": "2026-04-11T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ncnpV",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3BlObX",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_42L8HT",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_40Dtej",
+        "date": "2026-04-12",
+        "time_utc": "2026-04-12T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0pdb0k",
+        "date": "2026-04-13",
+        "time_utc": "2026-04-13T14:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4UBx9P",
+        "date": "2026-04-17",
+        "time_utc": "2026-04-17T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2s9qKW",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T09:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2OGMqh",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_278Biy",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1f7hqU",
+        "date": "2026-04-18",
+        "time_utc": "2026-04-18T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Jh8ic",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4ZxZUO",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1iXC5F",
+        "date": "2026-04-19",
+        "time_utc": "2026-04-19T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_23QcE0",
+        "date": "2026-04-21",
+        "time_utc": "2026-04-21T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_11uQEi",
+        "date": "2026-04-21",
+        "time_utc": "2026-04-21T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Coa52",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4gGuvd",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3NApP7",
+        "date": "2026-04-22",
+        "time_utc": "2026-04-22T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0m1UM4",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_11MGOb",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3hzQvW",
+        "date": "2026-04-23",
+        "time_utc": "2026-04-23T16:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3QUENc",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_04A8Im",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_48GTPF",
+        "date": "2026-04-25",
+        "time_utc": "2026-04-25T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0YdbLr",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3eNb4d",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_18Emg2",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2cusKa",
+        "date": "2026-04-26",
+        "time_utc": "2026-04-26T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1pZxal",
+        "date": "2026-04-27",
+        "time_utc": "2026-04-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2SiULf",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-01T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2gLhBK",
+        "date": "2026-05-01",
+        "time_utc": "2026-05-01T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1IxHTv",
+        "date": "2026-05-02",
+        "time_utc": "2026-05-02T11:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0VFKoW",
+        "date": "2026-05-02",
+        "time_utc": "2026-05-02T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1klcYh",
+        "date": "2026-05-02",
+        "time_utc": "2026-05-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_29IPS5",
+        "date": "2026-05-03",
+        "time_utc": "2026-05-03T11:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0kDn9X",
+        "date": "2026-05-03",
+        "time_utc": "2026-05-03T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_25jkRk",
+        "date": "2026-05-03",
+        "time_utc": "2026-05-03T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_43ksvE",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T09:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "away_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2aPf66",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "away_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4GJsqK",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T14:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "away_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1BDiNP",
+        "date": "2026-05-10",
+        "time_utc": "2026-05-10T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "away_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4fqQKH",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T10:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "away_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2mxhrg",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "away_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1otinF",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "away_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0vDBfu",
+        "date": "2026-05-11",
+        "time_utc": "2026-05-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "away_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3BDVz8",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1DhcK0",
+          "name": "PFC Sochi",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/372a271f70dfcb0b16f202a99ff8b191f4ae27dd0e761f8048b2e8de28847a3a.webp"
+        },
+        "away_team": {
+          "id": "t_39i1br",
+          "name": "FK Akhmat",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/89a25afde133bcbddc896ee175067712047112de92e36a0ffb323a8faff86f43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1WyHQj",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gA6Aq",
+          "name": "Baltika",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/25a3ca0c12d85a1e231e4bd35fc3659f420dbf20389d502e4c2433c6cff3828e.webp"
+        },
+        "away_team": {
+          "id": "t_28ZWDL",
+          "name": "Dynamo Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/bd5d6575cd9625ed57f656c722734402d597ec1f90f78e9c2e47001fd5c19af7.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_00Ii2Q",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3IHGdc",
+          "name": "Dynamo Makhachkala",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4e029cf41663a32191f8127b92c3daf040efc4eb92a5c85ba996c888e1e09deb.webp"
+        },
+        "away_team": {
+          "id": "t_2CaEha",
+          "name": "Spartak Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/844d950446285955f73079c777e374e6f3d55baf7466b7d315d463a9a90dc574.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0SR6i3",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0FIbMb",
+          "name": "FC Rostov",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/0ebfda4e1d346648b5f8d1c459c47b45910b688564b0735f7387b45151342f46.webp"
+        },
+        "away_team": {
+          "id": "t_0y6Z8F",
+          "name": "Zenit St. Petersburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4d28abd44523853e0cec9fd81a29ef550c9c6658848a89cb021aacf02324984f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3E8qus",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_06Cqku",
+          "name": "Krylya Sovetov Samara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/793b05a660dc176f5e7780db2b05b97688acef39bede5dff80589ab479fbcbcc.webp"
+        },
+        "away_team": {
+          "id": "t_280mK2",
+          "name": "Akron Togliatti",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4bde3b9cae43836c433f8beab611b286c38e4d1354ae4e38700cc33555dc2a4f.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2dJh25",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0sBFRq",
+          "name": "Rubin Kazan",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d7dcbaf07bbe04109b7996b9cd848994d82c6aa956e0a2b05766846a1d54c492.webp"
+        },
+        "away_team": {
+          "id": "t_2Z4NtQ",
+          "name": "Nizhny Novgorod",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d39cf3a7575b1723f5b4a69a0a9bb70adb07dfa494d50365aae8a87948ee61d.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4TbSGd",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gyKuh",
+          "name": "FC Krasnodar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/c0218823e16f7c200291f094957548a42b0bc3e938b8edeea7115cd3bd3b46a7.webp"
+        },
+        "away_team": {
+          "id": "t_2Mlwuk",
+          "name": "FC Orenburg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/620fda331f4b4715a1232116763aa12c340defcd3706c012d31d1111f230ebaa.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3QMRik",
+        "date": "2026-05-17",
+        "time_utc": "2026-05-17T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1LtiUA",
+          "name": "CSKA Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/41c605352dec26c89416712043d89576ca31b8e34feb190eba93865507da2926.webp"
+        },
+        "away_team": {
+          "id": "t_3qYRtS",
+          "name": "Lokomotiv Moscow",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3511c5d4c364ff76b8dda38973d5f6073bc6a9d490b4d5038c667a7320bf4458.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      }
+    ]
+  }
+}

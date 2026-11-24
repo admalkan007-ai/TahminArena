@@ -1,0 +1,4332 @@
+{
+  "data": {
+    "league": {
+      "id": "l_0uqFK8",
+      "name": "Eliteserien",
+      "season": "2024",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/60acf74d0d7f366ffc9bb1d0e83c03ed7835fb095a2d957a76f311f90b2d37fc.webp"
+    },
+    "matches": [
+      {
+        "id": "m_1pZBRA",
+        "date": "2024-03-31",
+        "time_utc": "2024-03-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1xuohB",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0dk2AL",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2BSh1X",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3TVAdv",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2ldXQK",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2im3TE",
+        "date": "2024-04-01",
+        "time_utc": "2024-04-01T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_47ntSS",
+        "date": "2024-04-02",
+        "time_utc": "2024-04-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0HPJ07",
+        "date": "2024-04-06",
+        "time_utc": "2024-04-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2CYrL7",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_447Vmg",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3PuK26",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2AC0pc",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3ZJnws",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_24H1qX",
+        "date": "2024-04-07",
+        "time_utc": "2024-04-07T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4L2eVz",
+        "date": "2024-04-13",
+        "time_utc": "2024-04-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1JVk7t",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_14XkoD",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0hiyZu",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3OmFOR",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3px4Ew",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4VEBih",
+        "date": "2024-04-14",
+        "time_utc": "2024-04-14T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_43QgP7",
+        "date": "2024-04-16",
+        "time_utc": "2024-04-16T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0jVhc5",
+        "date": "2024-04-17",
+        "time_utc": "2024-04-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3pYvNl",
+        "date": "2024-04-17",
+        "time_utc": "2024-04-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3p2b0j",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_47CoOi",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2wLLiP",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1BkJeu",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_144yvE",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3V5ld2",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Utt8h",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3QprRY",
+        "date": "2024-04-21",
+        "time_utc": "2024-04-21T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Mp2Zj",
+        "date": "2024-04-27",
+        "time_utc": "2024-04-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4G4Dga",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3l0qFe",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Wa7tx",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_18mQN0",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0dimRj",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Aqqul",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_02xiV4",
+        "date": "2024-04-28",
+        "time_utc": "2024-04-28T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Jd3bF",
+        "date": "2024-05-04",
+        "time_utc": "2024-05-04T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_06diMb",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hUd0O",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3EbrC2",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0Wo2ee",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_02nUPl",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_26ROCI",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3gLS9t",
+        "date": "2024-05-05",
+        "time_utc": "2024-05-05T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_16Xf48",
+        "date": "2024-05-11",
+        "time_utc": "2024-05-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0yjnmc",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3DPg8e",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Oks9d",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4YDxlX",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_24A3Xl",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3u4bWj",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3gfUzG",
+        "date": "2024-05-12",
+        "time_utc": "2024-05-12T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_032GvE",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_0n6xkz",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 7
+      },
+      {
+        "id": "m_0MSxJD",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Ih9ma",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3290OL",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ziZBt",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ifXeY",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2RFHvS",
+        "date": "2024-05-16",
+        "time_utc": "2024-05-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3DzGob",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3Zxj4d",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2Wr2vX",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2ZpAxb",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0YuxXk",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2m6VoI",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1RZxcF",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2x7bz0",
+        "date": "2024-05-20",
+        "time_utc": "2024-05-20T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3tIAR7",
+        "date": "2024-05-24",
+        "time_utc": "2024-05-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0f4K7r",
+        "date": "2024-05-25",
+        "time_utc": "2024-05-25T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0fiKPN",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Fkdn0",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wgEJR",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_203N1d",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4SesTp",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Zk5tB",
+        "date": "2024-05-26",
+        "time_utc": "2024-05-26T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3ZwBOp",
+        "date": "2024-05-29",
+        "time_utc": "2024-05-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2k0nzY",
+        "date": "2024-05-29",
+        "time_utc": "2024-05-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2zOBQf",
+        "date": "2024-05-29",
+        "time_utc": "2024-05-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3BA5w1",
+        "date": "2024-06-01",
+        "time_utc": "2024-06-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0cxepV",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4S0nCx",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_43AkrM",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2iWjY1",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2YQBVh",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4OdrCq",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0I49Ra",
+        "date": "2024-06-02",
+        "time_utc": "2024-06-02T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2zDnXE",
+        "date": "2024-06-27",
+        "time_utc": "2024-06-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3d3sc2",
+        "date": "2024-06-27",
+        "time_utc": "2024-06-27T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3keUtp",
+        "date": "2024-06-28",
+        "time_utc": "2024-06-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2wf7it",
+        "date": "2024-06-28",
+        "time_utc": "2024-06-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3D7zhQ",
+        "date": "2024-06-28",
+        "time_utc": "2024-06-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3iVodW",
+        "date": "2024-06-28",
+        "time_utc": "2024-06-28T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_02CURQ",
+        "date": "2024-06-30",
+        "time_utc": "2024-06-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_3dr2Tk",
+        "date": "2024-07-03",
+        "time_utc": "2024-07-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4HySJH",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_0UOzBk",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2amXAM",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0gYwrF",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2cP4B7",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_04migi",
+        "date": "2024-07-07",
+        "time_utc": "2024-07-07T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Iujeb",
+        "date": "2024-07-08",
+        "time_utc": "2024-07-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1BNRnb",
+        "date": "2024-07-08",
+        "time_utc": "2024-07-08T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3sX7K8",
+        "date": "2024-07-12",
+        "time_utc": "2024-07-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_4DFbXB",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2MmzM3",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4VmBvH",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3dN9Y4",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4XFtjt",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4YbJgH",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0eCiSV",
+        "date": "2024-07-13",
+        "time_utc": "2024-07-13T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4UrcZA",
+        "date": "2024-07-19",
+        "time_utc": "2024-07-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kjQb5",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1GQfEt",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1lrIbT",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_26efSg",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2AGXa0",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1fKIna",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ho53n",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2IF2RH",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_0DadjA",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0AKfTP",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4fFPAu",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ZWkDc",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ue4Ju",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0k1W6A",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_04tgwT",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_350Xw8",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1diASA",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3mEapd",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0BfoE5",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4EjJQX",
+        "date": "2024-08-09",
+        "time_utc": "2024-08-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1xjuse",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_40K7ED",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Nqop5",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4AtSLK",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3vx6Vh",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0hVOnU",
+        "date": "2024-08-14",
+        "time_utc": "2024-08-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2gt6YM",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_40ZPpO",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3yMuOz",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_09LAxH",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1hceCO",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Q3XB1",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_22exl4",
+        "date": "2024-08-21",
+        "time_utc": "2024-08-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3X3bo2",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_1pSvLx",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_16qa4e",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0NrLvJ",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_3WztYJ",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2DZHRc",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_26ETP2",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4BRykO",
+        "date": "2024-08-30",
+        "time_utc": "2024-08-30T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1kRPSw",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0r6PFj",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3gGBmY",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1uRwDe",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_22YR35",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2lFIoM",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Imj9T",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0s3Epi",
+        "date": "2024-09-13",
+        "time_utc": "2024-09-13T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1umdCJ",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0DRv3M",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Leedd",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4TpeLm",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0H4OBx",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4JRWhX",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_01DR9U",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2NX23n",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3COGUT",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1L17dg",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4bSlgH",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_4eizSE",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_28Btfs",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2REfFQ",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1TFrZS",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1d2vq5",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3shoKh",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4JVLq7",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 5,
+        "score_away": 3
+      },
+      {
+        "id": "m_4AOivb",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4eZavH",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1sJ0sW",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_35aQXI",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2855pQ",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wZBC9",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3bRcaW",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_24Y8vk",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1NSVsv",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2NoWDx",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0xxsBV",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T12:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1cO9o3",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0pNX0E",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0HVvos",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1EG0L7",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ksCo1",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T17:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4dmrYK",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_40hXne",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_43Ezc4",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3jbijM",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4JjefP",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_41DOxg",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1UrnCT",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_06CNJ0",
+        "date": "2024-10-28",
+        "time_utc": "2024-10-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4M4PKb",
+        "date": "2024-11-02",
+        "time_utc": "2024-11-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2LdfNu",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_19noA0",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Kwyr8",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3VDLYF",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_0QMfKU",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_4bADhr",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Qfj6w",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Pkr7i",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2mIUmB",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4cw3zh",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0OPoyW",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2DNCa9",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_02xO2A",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0QejlL",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0aHDvv",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T18:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_28WUfR",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "away_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2c917F",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "away_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1ImES7",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "away_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2WMHkt",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "away_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2iu2hC",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "away_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0QJjVD",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "away_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1bOVvg",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "away_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2zCnXG",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "away_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3NYK9v",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0SGPHB",
+          "name": "Bodø/Glimt",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/8e8bca727ae90fc0fba027bf099bdaf083ba1031aeacb0a8441f7f19039c8364.webp"
+        },
+        "away_team": {
+          "id": "t_1wU4wq",
+          "name": "Lillestrøm",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b581a614bcdfacf0fd8ab791f9056d9bd7f7cb538a7900175970c7d46bb1f123.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_2Yr5Uq",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1XFW8M",
+          "name": "Brann",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5bbcd80ef55230809400b518a86f6c62b8cac6152aa8961a6c4599984e1d27d0.webp"
+        },
+        "away_team": {
+          "id": "t_0jjyWh",
+          "name": "Viking",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/451feb97f5b2d5f6f3a7a294ea3b95b7b1ed40eca67ef15729cd78071318f4f2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0s9ygr",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2Qs9XR",
+          "name": "FK Haugesund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fbd64fe3a7dea091d676d6583ac6e54d8cc08ffdc1ff9205f9d531ce5116d6d6.webp"
+        },
+        "away_team": {
+          "id": "t_3TQTBg",
+          "name": "Odds Ballklubb",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cd60dfa77514d534b824570e4eded99d55205ef9b940c876810565175a3b17d5.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1HujOR",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2pLxVY",
+          "name": "Hamarkameratene",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6ccd6457618baf65fbb85c93892032a5eee290b1139640fe749a4e93cda3188f.webp"
+        },
+        "away_team": {
+          "id": "t_3r3rgc",
+          "name": "KFUM",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5e638c046707a8873ac3c1a7a6c30f77d612a5b4f7b0b6b1e1f83e8dc0a7ca16.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_391C8j",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3c8V46",
+          "name": "Kristiansund",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/1d012145856fe975ae6b30dd6a22020b6de57dde15bfeada3206d445061b3087.webp"
+        },
+        "away_team": {
+          "id": "t_18X5R3",
+          "name": "Rosenborg",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f359dbe116f051616ffae9ac1545e32c9a912dc2d6c219b7a3ef0a08dd87ac10.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_2WqKLs",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0rrHss",
+          "name": "Sandefjord",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/7a9c4c1f142a18204d21f8534a7fe5cfb73e64bba73fd00d58e92c9da2feb6ac.webp"
+        },
+        "away_team": {
+          "id": "t_4buU5Q",
+          "name": "Fredrikstad",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/855e9c8a30e0ecf67efaf8e1d1eadfcfcfb357d98a8b46ff76e20a7edabaa2d6.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0m0bwM",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0jcQ4I",
+          "name": "Sarpsborg 08",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/681b3ce9d5ffce453e113a7339edbc274e06bf5ff97b9ab1b8cb8e9106e4fa13.webp"
+        },
+        "away_team": {
+          "id": "t_2K3SfK",
+          "name": "Tromsø",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f26c9e86fa9563592d2b46fe417afb99fbe0124b92d7f54d490ac2337e60e72.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1s0ER2",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2YsR0z",
+          "name": "Strømsgodset",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/72e35bcfda111caff67d6c49c90363eb74a7fd8e55e717e999548438e9524acf.webp"
+        },
+        "away_team": {
+          "id": "t_14EJ9t",
+          "name": "Molde",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/61edb452fbd31e6a811a8b53102304a7ab620455d06e45743118151055897c9a.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      }
+    ]
+  }
+}

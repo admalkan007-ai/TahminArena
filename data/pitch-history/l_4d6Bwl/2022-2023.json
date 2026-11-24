@@ -1,0 +1,3234 @@
+{
+  "data": {
+    "league": {
+      "id": "l_4d6Bwl",
+      "name": "Super League",
+      "season": "2022/2023",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/4b5d0a21b76ee4d67cbc924dba4092e770450450fd5a408d89c87fefa94e9109.webp"
+    },
+    "matches": [
+      {
+        "id": "m_1D5qfq",
+        "date": "2022-07-16",
+        "time_utc": "2022-07-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2NrfnH",
+        "date": "2022-07-16",
+        "time_utc": "2022-07-16T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ogDnr",
+        "date": "2022-07-17",
+        "time_utc": "2022-07-17T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0NgeUd",
+        "date": "2022-07-17",
+        "time_utc": "2022-07-17T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2IoL5H",
+        "date": "2022-07-23",
+        "time_utc": "2022-07-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_293OFv",
+        "date": "2022-07-23",
+        "time_utc": "2022-07-23T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2X5Mbs",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0oVtxm",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0PsZ57",
+        "date": "2022-07-24",
+        "time_utc": "2022-07-24T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1eVBee",
+        "date": "2022-07-30",
+        "time_utc": "2022-07-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0MdZWb",
+        "date": "2022-07-30",
+        "time_utc": "2022-07-30T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Fkddp",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3AZ3jO",
+        "date": "2022-07-31",
+        "time_utc": "2022-07-31T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0FDzYI",
+        "date": "2022-08-06",
+        "time_utc": "2022-08-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1uoDZO",
+        "date": "2022-08-06",
+        "time_utc": "2022-08-06T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2wOBR8",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1Ra0gt",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0jjJ1A",
+        "date": "2022-08-07",
+        "time_utc": "2022-08-07T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ihHdY",
+        "date": "2022-08-10",
+        "time_utc": "2022-08-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4AAFBn",
+        "date": "2022-08-13",
+        "time_utc": "2022-08-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2EOORz",
+        "date": "2022-08-13",
+        "time_utc": "2022-08-13T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_20LOc3",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0MD5do",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4GvLHv",
+        "date": "2022-08-14",
+        "time_utc": "2022-08-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3eIquL",
+        "date": "2022-08-27",
+        "time_utc": "2022-08-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1DoPIV",
+        "date": "2022-08-27",
+        "time_utc": "2022-08-27T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_10BTyT",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0TezVT",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_0japmT",
+        "date": "2022-08-28",
+        "time_utc": "2022-08-28T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_3ajOsl",
+        "date": "2022-09-03",
+        "time_utc": "2022-09-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4asEra",
+        "date": "2022-09-03",
+        "time_utc": "2022-09-03T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4PVzqF",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2IgSGE",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1mDHwb",
+        "date": "2022-09-04",
+        "time_utc": "2022-09-04T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2wL0di",
+        "date": "2022-09-10",
+        "time_utc": "2022-09-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0cpCvH",
+        "date": "2022-09-10",
+        "time_utc": "2022-09-10T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_4AVZTa",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0fvxW1",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_3xRXEU",
+        "date": "2022-09-11",
+        "time_utc": "2022-09-11T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_4XbAtU",
+        "date": "2022-10-01",
+        "time_utc": "2022-10-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3cETSh",
+        "date": "2022-10-01",
+        "time_utc": "2022-10-01T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3HBwle",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0pRii8",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0TJFYv",
+        "date": "2022-10-02",
+        "time_utc": "2022-10-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2QnmYS",
+        "date": "2022-10-08",
+        "time_utc": "2022-10-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 4,
+        "score_away": 4
+      },
+      {
+        "id": "m_3ZYnpM",
+        "date": "2022-10-08",
+        "time_utc": "2022-10-08T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1gqgCI",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Hvhwa",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ll5Da",
+        "date": "2022-10-09",
+        "time_utc": "2022-10-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2J9u0Y",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_11hiJv",
+        "date": "2022-10-15",
+        "time_utc": "2022-10-15T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_27xKKe",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4SVSjy",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Dnmmo",
+        "date": "2022-10-16",
+        "time_utc": "2022-10-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4UCDuQ",
+        "date": "2022-10-18",
+        "time_utc": "2022-10-18T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2GNCYU",
+        "date": "2022-10-19",
+        "time_utc": "2022-10-19T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3V6ixs",
+        "date": "2022-10-19",
+        "time_utc": "2022-10-19T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3mjeJP",
+        "date": "2022-10-20",
+        "time_utc": "2022-10-20T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1MhBor",
+        "date": "2022-10-20",
+        "time_utc": "2022-10-20T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3wlddU",
+        "date": "2022-10-22",
+        "time_utc": "2022-10-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1pPDwN",
+        "date": "2022-10-22",
+        "time_utc": "2022-10-22T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3oBw9s",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2kT9Kp",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2BMPqo",
+        "date": "2022-10-23",
+        "time_utc": "2022-10-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1shtMt",
+        "date": "2022-10-29",
+        "time_utc": "2022-10-29T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3z5FoP",
+        "date": "2022-10-29",
+        "time_utc": "2022-10-29T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0FwAmw",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2yO4Bv",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cpla2",
+        "date": "2022-10-30",
+        "time_utc": "2022-10-30T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2nijrJ",
+        "date": "2022-11-05",
+        "time_utc": "2022-11-05T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ERy4g",
+        "date": "2022-11-05",
+        "time_utc": "2022-11-05T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_44a74w",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1X3hTt",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ycH6t",
+        "date": "2022-11-06",
+        "time_utc": "2022-11-06T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4FtpNw",
+        "date": "2022-11-09",
+        "time_utc": "2022-11-09T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1ELou3",
+        "date": "2022-11-12",
+        "time_utc": "2022-11-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 2,
+        "score_away": 7
+      },
+      {
+        "id": "m_1d15zJ",
+        "date": "2022-11-12",
+        "time_utc": "2022-11-12T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1iIrZ2",
+        "date": "2022-11-13",
+        "time_utc": "2022-11-13T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ALcyw",
+        "date": "2022-11-13",
+        "time_utc": "2022-11-13T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ADSmt",
+        "date": "2022-11-13",
+        "time_utc": "2022-11-13T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0oH6OK",
+        "date": "2023-01-21",
+        "time_utc": "2023-01-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_46IyRZ",
+        "date": "2023-01-21",
+        "time_utc": "2023-01-21T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0OwYqY",
+        "date": "2023-01-22",
+        "time_utc": "2023-01-22T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3ETMkV",
+        "date": "2023-01-22",
+        "time_utc": "2023-01-22T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2j7t7m",
+        "date": "2023-01-28",
+        "time_utc": "2023-01-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0DxaQK",
+        "date": "2023-01-28",
+        "time_utc": "2023-01-28T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_0G7hLk",
+        "date": "2023-01-29",
+        "time_utc": "2023-01-29T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_2cIi3N",
+        "date": "2023-01-29",
+        "time_utc": "2023-01-29T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1mYDGa",
+        "date": "2023-01-29",
+        "time_utc": "2023-01-29T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3ULF1C",
+        "date": "2023-02-04",
+        "time_utc": "2023-02-04T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0rioCA",
+        "date": "2023-02-04",
+        "time_utc": "2023-02-04T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2V8MTJ",
+        "date": "2023-02-05",
+        "time_utc": "2023-02-05T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wPt2e",
+        "date": "2023-02-05",
+        "time_utc": "2023-02-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ZRcqw",
+        "date": "2023-02-05",
+        "time_utc": "2023-02-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3YyQK7",
+        "date": "2023-02-11",
+        "time_utc": "2023-02-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4ccrUO",
+        "date": "2023-02-11",
+        "time_utc": "2023-02-11T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2TRNPO",
+        "date": "2023-02-12",
+        "time_utc": "2023-02-12T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Mx7bH",
+        "date": "2023-02-12",
+        "time_utc": "2023-02-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4LCZsT",
+        "date": "2023-02-12",
+        "time_utc": "2023-02-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_16o48B",
+        "date": "2023-02-15",
+        "time_utc": "2023-02-15T17:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4bSL5b",
+        "date": "2023-02-18",
+        "time_utc": "2023-02-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_43DLPW",
+        "date": "2023-02-18",
+        "time_utc": "2023-02-18T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0l5nti",
+        "date": "2023-02-19",
+        "time_utc": "2023-02-19T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4FZKcp",
+        "date": "2023-02-19",
+        "time_utc": "2023-02-19T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2XTroK",
+        "date": "2023-02-19",
+        "time_utc": "2023-02-19T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0vbcQC",
+        "date": "2023-02-25",
+        "time_utc": "2023-02-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1i2G1t",
+        "date": "2023-02-25",
+        "time_utc": "2023-02-25T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3KQf8M",
+        "date": "2023-02-26",
+        "time_utc": "2023-02-26T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1deTNk",
+        "date": "2023-02-26",
+        "time_utc": "2023-02-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1uOtW7",
+        "date": "2023-02-26",
+        "time_utc": "2023-02-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4S1w4P",
+        "date": "2023-03-04",
+        "time_utc": "2023-03-04T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3CJLOo",
+        "date": "2023-03-04",
+        "time_utc": "2023-03-04T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1lxbId",
+        "date": "2023-03-05",
+        "time_utc": "2023-03-05T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bfpIK",
+        "date": "2023-03-05",
+        "time_utc": "2023-03-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2D3xRi",
+        "date": "2023-03-05",
+        "time_utc": "2023-03-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_482M33",
+        "date": "2023-03-11",
+        "time_utc": "2023-03-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1Ckizt",
+        "date": "2023-03-11",
+        "time_utc": "2023-03-11T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_02n6en",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3gHqDG",
+        "date": "2023-03-12",
+        "time_utc": "2023-03-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_20qQt7",
+        "date": "2023-03-18",
+        "time_utc": "2023-03-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2MV74E",
+        "date": "2023-03-18",
+        "time_utc": "2023-03-18T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3kW9mt",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T13:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0VxveD",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0sNHSB",
+        "date": "2023-03-19",
+        "time_utc": "2023-03-19T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3B2iop",
+        "date": "2023-04-01",
+        "time_utc": "2023-04-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0RbDeL",
+        "date": "2023-04-01",
+        "time_utc": "2023-04-01T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2VlOBD",
+        "date": "2023-04-02",
+        "time_utc": "2023-04-02T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3SQLHy",
+        "date": "2023-04-02",
+        "time_utc": "2023-04-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2SY7PY",
+        "date": "2023-04-02",
+        "time_utc": "2023-04-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3n8VLp",
+        "date": "2023-04-08",
+        "time_utc": "2023-04-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_11u8y1",
+        "date": "2023-04-08",
+        "time_utc": "2023-04-08T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_45bKZu",
+        "date": "2023-04-10",
+        "time_utc": "2023-04-10T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2pQKI6",
+        "date": "2023-04-10",
+        "time_utc": "2023-04-10T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Md3iE",
+        "date": "2023-04-10",
+        "time_utc": "2023-04-10T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_32QffT",
+        "date": "2023-04-15",
+        "time_utc": "2023-04-15T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1CmY70",
+        "date": "2023-04-15",
+        "time_utc": "2023-04-15T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1j2YIB",
+        "date": "2023-04-16",
+        "time_utc": "2023-04-16T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2LsJsu",
+        "date": "2023-04-16",
+        "time_utc": "2023-04-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1vEA81",
+        "date": "2023-04-16",
+        "time_utc": "2023-04-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1LcS7r",
+        "date": "2023-04-22",
+        "time_utc": "2023-04-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1BFEmh",
+        "date": "2023-04-22",
+        "time_utc": "2023-04-22T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_1QI8GF",
+        "date": "2023-04-23",
+        "time_utc": "2023-04-23T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_091nwQ",
+        "date": "2023-04-23",
+        "time_utc": "2023-04-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0z92zx",
+        "date": "2023-04-23",
+        "time_utc": "2023-04-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4azyn7",
+        "date": "2023-04-25",
+        "time_utc": "2023-04-25T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3BrW8y",
+        "date": "2023-04-26",
+        "time_utc": "2023-04-26T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_04w4y1",
+        "date": "2023-04-26",
+        "time_utc": "2023-04-26T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_45Da7d",
+        "date": "2023-04-27",
+        "time_utc": "2023-04-27T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1VYLT7",
+        "date": "2023-04-27",
+        "time_utc": "2023-04-27T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1eeAVG",
+        "date": "2023-04-29",
+        "time_utc": "2023-04-29T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_1x21jC",
+        "date": "2023-04-29",
+        "time_utc": "2023-04-29T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1fpsi5",
+        "date": "2023-04-30",
+        "time_utc": "2023-04-30T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_33Zode",
+        "date": "2023-04-30",
+        "time_utc": "2023-04-30T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_2hszRT",
+        "date": "2023-04-30",
+        "time_utc": "2023-04-30T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_1GmHPP",
+        "date": "2023-05-06",
+        "time_utc": "2023-05-06T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1RUUYU",
+        "date": "2023-05-06",
+        "time_utc": "2023-05-06T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0u3VKu",
+        "date": "2023-05-07",
+        "time_utc": "2023-05-07T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0t5meP",
+        "date": "2023-05-07",
+        "time_utc": "2023-05-07T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3ManTE",
+        "date": "2023-05-07",
+        "time_utc": "2023-05-07T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1HF7KT",
+        "date": "2023-05-13",
+        "time_utc": "2023-05-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3pY45N",
+        "date": "2023-05-13",
+        "time_utc": "2023-05-13T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wQ6Br",
+        "date": "2023-05-14",
+        "time_utc": "2023-05-14T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3crMd3",
+        "date": "2023-05-14",
+        "time_utc": "2023-05-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2eFtv1",
+        "date": "2023-05-14",
+        "time_utc": "2023-05-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Nwyqr",
+        "date": "2023-05-20",
+        "time_utc": "2023-05-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0GhFf8",
+        "date": "2023-05-20",
+        "time_utc": "2023-05-20T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dygea",
+        "date": "2023-05-21",
+        "time_utc": "2023-05-21T12:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4MJS3N",
+        "date": "2023-05-21",
+        "time_utc": "2023-05-21T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_27xoD4",
+        "date": "2023-05-21",
+        "time_utc": "2023-05-21T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Nmbl4",
+        "date": "2023-05-25",
+        "time_utc": "2023-05-25T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "away_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ZVIus",
+        "date": "2023-05-25",
+        "time_utc": "2023-05-25T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "away_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3k1P0R",
+        "date": "2023-05-25",
+        "time_utc": "2023-05-25T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "away_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_48dUVf",
+        "date": "2023-05-25",
+        "time_utc": "2023-05-25T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "away_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3YQLPV",
+        "date": "2023-05-25",
+        "time_utc": "2023-05-25T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "away_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0form0",
+        "date": "2023-05-29",
+        "time_utc": "2023-05-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0nmcie",
+          "name": "Basel",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/047232fd0ebb10f6fb037ac50293438fcacffebc75a7e7e36502f492e557e5dd.webp"
+        },
+        "away_team": {
+          "id": "t_4O5rx2",
+          "name": "Grasshopper",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a7a296538d0273a3e430280ba5a88c65ebfbba2afcf405236f9aff45a1099f03.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3NP2sL",
+        "date": "2023-05-29",
+        "time_utc": "2023-05-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_46kWss",
+          "name": "FC Zürich",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/48f0b13eb07e7b0865481fc8bf8cc3e842362c8a4cb1b1d6399a135c9744485b.webp"
+        },
+        "away_team": {
+          "id": "t_1akMDV",
+          "name": "Lugano",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/49f1b7e24f25457ec6b04242a0846e6ac7fefc8918e3bcc6fb8cfc88d1ec539b.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2DGkUe",
+        "date": "2023-05-29",
+        "time_utc": "2023-05-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3EZS3O",
+          "name": "Luzern",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/216547c86da66ea01835cd8b2c5bea471459a060dd5ff607a5d9d421f9b736cd.webp"
+        },
+        "away_team": {
+          "id": "t_2wHnOW",
+          "name": "Servette",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f7f6be022c1343ddbfc750c86a8a4a320c5f259e2dda312d9b59ec284611a7b3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3pE1vw",
+        "date": "2023-05-29",
+        "time_utc": "2023-05-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0mQK0a",
+          "name": "St. Gallen",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1b6dec0a74db10546ebc68cd01c8460a17bc6790ae8e43e9ea19d2982771826.webp"
+        },
+        "away_team": {
+          "id": "t_1zYSCB",
+          "name": "Sion",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6acdb4941e12b6c6a99153c59c488983729a2f8fdc27ddc9ba91c8ac5e3c572e.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2tVBRP",
+        "date": "2023-05-29",
+        "time_utc": "2023-05-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4BMKXx",
+          "name": "Young Boys",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/eeec575f1122ff79b27a64f288338e87a4a7ba94c40d7f7b7772d785eeab330c.webp"
+        },
+        "away_team": {
+          "id": "t_3g5OvX",
+          "name": "Winterthur",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/91a70869d5c02f19f948864eec9f7f46fe4f8edfd978249996f08f5e1bf02c06.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      }
+    ]
+  }
+}

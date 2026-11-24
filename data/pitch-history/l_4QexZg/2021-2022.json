@@ -1,0 +1,4908 @@
+{
+  "data": {
+    "league": {
+      "id": "l_4QexZg",
+      "name": "Liga Portugal",
+      "season": "2021/2022",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/77c078948ff67bf4bf3b7f156f4dbbd4c46d6eb043a3563098a11b432aa39117.webp"
+    },
+    "matches": [
+      {
+        "id": "m_3cOUtp",
+        "date": "2021-08-06",
+        "time_utc": "2021-08-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2b0hyn",
+        "date": "2021-08-07",
+        "time_utc": "2021-08-07T11:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_48xRLH",
+        "date": "2021-08-07",
+        "time_utc": "2021-08-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3A8MbZ",
+        "date": "2021-08-07",
+        "time_utc": "2021-08-07T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2wzxYx",
+        "date": "2021-08-08",
+        "time_utc": "2021-08-08T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_15ymcv",
+        "date": "2021-08-08",
+        "time_utc": "2021-08-08T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1qFCqm",
+        "date": "2021-08-08",
+        "time_utc": "2021-08-08T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0hQKQ4",
+        "date": "2021-08-09",
+        "time_utc": "2021-08-09T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2DKaww",
+        "date": "2021-08-13",
+        "time_utc": "2021-08-13T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3MnXel",
+        "date": "2021-08-14",
+        "time_utc": "2021-08-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4KLIdq",
+        "date": "2021-08-14",
+        "time_utc": "2021-08-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1aVBLN",
+        "date": "2021-08-14",
+        "time_utc": "2021-08-14T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2d7i4y",
+        "date": "2021-08-15",
+        "time_utc": "2021-08-15T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0YMks1",
+        "date": "2021-08-15",
+        "time_utc": "2021-08-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2j9bn4",
+        "date": "2021-08-15",
+        "time_utc": "2021-08-15T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0WK4rU",
+        "date": "2021-08-16",
+        "time_utc": "2021-08-16T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1xm34D",
+        "date": "2021-08-20",
+        "time_utc": "2021-08-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0VVr8M",
+        "date": "2021-08-20",
+        "time_utc": "2021-08-20T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_038tuV",
+        "date": "2021-08-21",
+        "time_utc": "2021-08-21T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_383SFJ",
+        "date": "2021-08-22",
+        "time_utc": "2021-08-22T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1bXy91",
+        "date": "2021-08-22",
+        "time_utc": "2021-08-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1rDTNZ",
+        "date": "2021-08-22",
+        "time_utc": "2021-08-22T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3k1BRV",
+        "date": "2021-08-23",
+        "time_utc": "2021-08-23T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0nrURt",
+        "date": "2021-08-23",
+        "time_utc": "2021-08-23T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0CHNKM",
+        "date": "2021-08-27",
+        "time_utc": "2021-08-27T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1hogOl",
+        "date": "2021-08-28",
+        "time_utc": "2021-08-28T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4DxfM5",
+        "date": "2021-08-28",
+        "time_utc": "2021-08-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2DDuTP",
+        "date": "2021-08-28",
+        "time_utc": "2021-08-28T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2yv6xY",
+        "date": "2021-08-29",
+        "time_utc": "2021-08-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3avApY",
+        "date": "2021-08-29",
+        "time_utc": "2021-08-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_10PnnM",
+        "date": "2021-08-29",
+        "time_utc": "2021-08-29T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1sditT",
+        "date": "2021-08-29",
+        "time_utc": "2021-08-29T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3uOm73",
+        "date": "2021-09-11",
+        "time_utc": "2021-09-11T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1jotUa",
+        "date": "2021-09-11",
+        "time_utc": "2021-09-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 0,
+        "score_away": 5
+      },
+      {
+        "id": "m_1eHxr6",
+        "date": "2021-09-11",
+        "time_utc": "2021-09-11T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1OPW0C",
+        "date": "2021-09-12",
+        "time_utc": "2021-09-12T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3KVJfv",
+        "date": "2021-09-12",
+        "time_utc": "2021-09-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_13GgAg",
+        "date": "2021-09-12",
+        "time_utc": "2021-09-12T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_34UEuL",
+        "date": "2021-09-13",
+        "time_utc": "2021-09-13T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0AYD38",
+        "date": "2021-09-13",
+        "time_utc": "2021-09-13T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4JoUHE",
+        "date": "2021-09-17",
+        "time_utc": "2021-09-17T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3SjHpg",
+        "date": "2021-09-18",
+        "time_utc": "2021-09-18T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0TFMgX",
+        "date": "2021-09-18",
+        "time_utc": "2021-09-18T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2HQgiJ",
+        "date": "2021-09-19",
+        "time_utc": "2021-09-19T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4WmzYo",
+        "date": "2021-09-19",
+        "time_utc": "2021-09-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_2pXhHs",
+        "date": "2021-09-19",
+        "time_utc": "2021-09-19T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2LYgA0",
+        "date": "2021-09-20",
+        "time_utc": "2021-09-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0LGXoT",
+        "date": "2021-09-20",
+        "time_utc": "2021-09-20T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4YJd0g",
+        "date": "2021-09-24",
+        "time_utc": "2021-09-24T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3gUp96",
+        "date": "2021-09-24",
+        "time_utc": "2021-09-24T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1p98O0",
+        "date": "2021-09-25",
+        "time_utc": "2021-09-25T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2nb3CS",
+        "date": "2021-09-25",
+        "time_utc": "2021-09-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2pCERB",
+        "date": "2021-09-25",
+        "time_utc": "2021-09-25T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_2CdTLl",
+        "date": "2021-09-26",
+        "time_utc": "2021-09-26T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0CRaWo",
+        "date": "2021-09-26",
+        "time_utc": "2021-09-26T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2BpVyA",
+        "date": "2021-09-27",
+        "time_utc": "2021-09-27T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2FReh4",
+        "date": "2021-10-01",
+        "time_utc": "2021-10-01T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0eMwgs",
+        "date": "2021-10-01",
+        "time_utc": "2021-10-01T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1axeH8",
+        "date": "2021-10-02",
+        "time_utc": "2021-10-02T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0tLjOH",
+        "date": "2021-10-02",
+        "time_utc": "2021-10-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4byDdr",
+        "date": "2021-10-02",
+        "time_utc": "2021-10-02T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0W0tsw",
+        "date": "2021-10-03",
+        "time_utc": "2021-10-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_05PsAZ",
+        "date": "2021-10-03",
+        "time_utc": "2021-10-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3QolsG",
+        "date": "2021-10-03",
+        "time_utc": "2021-10-03T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ocgJf",
+        "date": "2021-10-22",
+        "time_utc": "2021-10-22T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2fpn3E",
+        "date": "2021-10-23",
+        "time_utc": "2021-10-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_25zVwz",
+        "date": "2021-10-23",
+        "time_utc": "2021-10-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1l4VcE",
+        "date": "2021-10-23",
+        "time_utc": "2021-10-23T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_05xK9M",
+        "date": "2021-10-24",
+        "time_utc": "2021-10-24T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_07RiQK",
+        "date": "2021-10-24",
+        "time_utc": "2021-10-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Rf7Gm",
+        "date": "2021-10-24",
+        "time_utc": "2021-10-24T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1bWtYS",
+        "date": "2021-10-25",
+        "time_utc": "2021-10-25T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2tiCM0",
+        "date": "2021-10-29",
+        "time_utc": "2021-10-29T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3Rok4L",
+        "date": "2021-10-30",
+        "time_utc": "2021-10-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Rzocm",
+        "date": "2021-10-30",
+        "time_utc": "2021-10-30T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3mdGxN",
+        "date": "2021-10-30",
+        "time_utc": "2021-10-30T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2bW4bz",
+        "date": "2021-10-31",
+        "time_utc": "2021-10-31T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Jv61H",
+        "date": "2021-10-31",
+        "time_utc": "2021-10-31T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3QgHzM",
+        "date": "2021-11-01",
+        "time_utc": "2021-11-01T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2mlv3K",
+        "date": "2021-11-01",
+        "time_utc": "2021-11-01T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3GqMsE",
+        "date": "2021-11-05",
+        "time_utc": "2021-11-05T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0RGbVE",
+        "date": "2021-11-05",
+        "time_utc": "2021-11-05T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 5
+      },
+      {
+        "id": "m_2cixPW",
+        "date": "2021-11-06",
+        "time_utc": "2021-11-06T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2hSOZF",
+        "date": "2021-11-06",
+        "time_utc": "2021-11-06T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3QBYxn",
+        "date": "2021-11-07",
+        "time_utc": "2021-11-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_1jof2L",
+        "date": "2021-11-07",
+        "time_utc": "2021-11-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1KXfOQ",
+        "date": "2021-11-07",
+        "time_utc": "2021-11-07T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1BOIaf",
+        "date": "2021-11-07",
+        "time_utc": "2021-11-07T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 6,
+        "score_away": 1
+      },
+      {
+        "id": "m_4XhwGK",
+        "date": "2021-11-26",
+        "time_utc": "2021-11-26T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4bq0q6",
+        "date": "2021-11-27",
+        "time_utc": "2021-11-27T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3Bzdo7",
+        "date": "2021-11-27",
+        "time_utc": "2021-11-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_29tm6M",
+        "date": "2021-11-28",
+        "time_utc": "2021-11-28T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1IPlxn",
+        "date": "2021-11-28",
+        "time_utc": "2021-11-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4ZgBDI",
+        "date": "2021-11-28",
+        "time_utc": "2021-11-28T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4AQj89",
+        "date": "2021-11-29",
+        "time_utc": "2021-11-29T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_08P9kx",
+        "date": "2021-11-30",
+        "time_utc": "2021-11-30T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_13iVay",
+        "date": "2021-12-03",
+        "time_utc": "2021-12-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_4fihve",
+        "date": "2021-12-03",
+        "time_utc": "2021-12-03T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_19aQbs",
+        "date": "2021-12-04",
+        "time_utc": "2021-12-04T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_23iKv4",
+        "date": "2021-12-04",
+        "time_utc": "2021-12-04T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3xo3DU",
+        "date": "2021-12-05",
+        "time_utc": "2021-12-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1cY4JP",
+        "date": "2021-12-05",
+        "time_utc": "2021-12-05T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2clPi4",
+        "date": "2021-12-05",
+        "time_utc": "2021-12-05T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3MhBSW",
+        "date": "2021-12-10",
+        "time_utc": "2021-12-10T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_32qM0n",
+        "date": "2021-12-11",
+        "time_utc": "2021-12-11T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1vBaEv",
+        "date": "2021-12-11",
+        "time_utc": "2021-12-11T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_1SxsSg",
+        "date": "2021-12-11",
+        "time_utc": "2021-12-11T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1wz8hK",
+        "date": "2021-12-12",
+        "time_utc": "2021-12-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3NRjGt",
+        "date": "2021-12-12",
+        "time_utc": "2021-12-12T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_1X2hdF",
+        "date": "2021-12-12",
+        "time_utc": "2021-12-12T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2HmLCF",
+        "date": "2021-12-13",
+        "time_utc": "2021-12-13T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_24tWlw",
+        "date": "2021-12-17",
+        "time_utc": "2021-12-17T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2FduuT",
+        "date": "2021-12-17",
+        "time_utc": "2021-12-17T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2HEqQb",
+        "date": "2021-12-18",
+        "time_utc": "2021-12-18T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0OI3ig",
+        "date": "2021-12-18",
+        "time_utc": "2021-12-18T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0TqfoD",
+        "date": "2021-12-18",
+        "time_utc": "2021-12-18T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2FYZym",
+        "date": "2021-12-19",
+        "time_utc": "2021-12-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 7,
+        "score_away": 1
+      },
+      {
+        "id": "m_1NcVtH",
+        "date": "2021-12-19",
+        "time_utc": "2021-12-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0l0pMe",
+        "date": "2021-12-19",
+        "time_utc": "2021-12-19T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4dwfKy",
+        "date": "2021-12-28",
+        "time_utc": "2021-12-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3hzydY",
+        "date": "2021-12-28",
+        "time_utc": "2021-12-28T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Edlb3",
+        "date": "2021-12-28",
+        "time_utc": "2021-12-28T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_24ZILR",
+        "date": "2021-12-29",
+        "time_utc": "2021-12-29T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2U1YNR",
+        "date": "2021-12-29",
+        "time_utc": "2021-12-29T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_28CTGi",
+        "date": "2021-12-30",
+        "time_utc": "2021-12-30T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2pbdcM",
+        "date": "2021-12-30",
+        "time_utc": "2021-12-30T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 0,
+        "score_away": 6
+      },
+      {
+        "id": "m_07JLZC",
+        "date": "2021-12-30",
+        "time_utc": "2021-12-30T21:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4V9SsJ",
+        "date": "2022-01-03",
+        "time_utc": "2022-01-03T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Gf1ML",
+        "date": "2022-01-07",
+        "time_utc": "2022-01-07T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0MsCwC",
+        "date": "2022-01-08",
+        "time_utc": "2022-01-08T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0b1tp8",
+        "date": "2022-01-08",
+        "time_utc": "2022-01-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3as5MA",
+        "date": "2022-01-08",
+        "time_utc": "2022-01-08T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ZVWgn",
+        "date": "2022-01-09",
+        "time_utc": "2022-01-09T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Le4SS",
+        "date": "2022-01-09",
+        "time_utc": "2022-01-09T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2AzPSP",
+        "date": "2022-01-09",
+        "time_utc": "2022-01-09T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_00qARC",
+        "date": "2022-01-10",
+        "time_utc": "2022-01-10T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0ex9oB",
+        "date": "2022-01-15",
+        "time_utc": "2022-01-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kgtFg",
+        "date": "2022-01-15",
+        "time_utc": "2022-01-15T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2vHIAY",
+        "date": "2022-01-15",
+        "time_utc": "2022-01-15T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Gh5xy",
+        "date": "2022-01-16",
+        "time_utc": "2022-01-16T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1COJoT",
+        "date": "2022-01-16",
+        "time_utc": "2022-01-16T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1KUOsP",
+        "date": "2022-01-16",
+        "time_utc": "2022-01-16T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_10wMUv",
+        "date": "2022-01-17",
+        "time_utc": "2022-01-17T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3vytYV",
+        "date": "2022-01-21",
+        "time_utc": "2022-01-21T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3tSGDl",
+        "date": "2022-01-21",
+        "time_utc": "2022-01-21T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2y154O",
+        "date": "2022-01-22",
+        "time_utc": "2022-01-22T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1kPwR1",
+        "date": "2022-01-22",
+        "time_utc": "2022-01-22T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_35tees",
+        "date": "2022-01-22",
+        "time_utc": "2022-01-22T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1GxL7B",
+        "date": "2022-01-23",
+        "time_utc": "2022-01-23T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2h7Xf8",
+        "date": "2022-01-23",
+        "time_utc": "2022-01-23T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_46e9aG",
+        "date": "2022-01-23",
+        "time_utc": "2022-01-23T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_4D04I4",
+        "date": "2022-01-27",
+        "time_utc": "2022-01-27T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0BL0Wi",
+        "date": "2022-01-30",
+        "time_utc": "2022-01-30T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2JdO40",
+        "date": "2022-01-30",
+        "time_utc": "2022-01-30T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4AC2AH",
+        "date": "2022-01-30",
+        "time_utc": "2022-01-30T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_33gLr4",
+        "date": "2022-01-30",
+        "time_utc": "2022-01-30T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Xy1Xd",
+        "date": "2022-01-31",
+        "time_utc": "2022-01-31T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1LNEt6",
+        "date": "2022-01-31",
+        "time_utc": "2022-01-31T21:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0raGjW",
+        "date": "2022-02-01",
+        "time_utc": "2022-02-01T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Cn6Nl",
+        "date": "2022-02-02",
+        "time_utc": "2022-02-02T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2mwzFi",
+        "date": "2022-02-05",
+        "time_utc": "2022-02-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1HI3V4",
+        "date": "2022-02-05",
+        "time_utc": "2022-02-05T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0J5gEJ",
+        "date": "2022-02-05",
+        "time_utc": "2022-02-05T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3kQXgX",
+        "date": "2022-02-06",
+        "time_utc": "2022-02-06T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2hTZkK",
+        "date": "2022-02-06",
+        "time_utc": "2022-02-06T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3mx9e2",
+        "date": "2022-02-06",
+        "time_utc": "2022-02-06T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Q7Eqr",
+        "date": "2022-02-06",
+        "time_utc": "2022-02-06T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0kgnPf",
+        "date": "2022-02-07",
+        "time_utc": "2022-02-07T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_4YoZPB",
+        "date": "2022-02-11",
+        "time_utc": "2022-02-11T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0DJK3r",
+        "date": "2022-02-12",
+        "time_utc": "2022-02-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1lI0DH",
+        "date": "2022-02-12",
+        "time_utc": "2022-02-12T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ykQs7",
+        "date": "2022-02-12",
+        "time_utc": "2022-02-12T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_05R7i3",
+        "date": "2022-02-12",
+        "time_utc": "2022-02-12T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0QWwpX",
+        "date": "2022-02-13",
+        "time_utc": "2022-02-13T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      },
+      {
+        "id": "m_380uMZ",
+        "date": "2022-02-13",
+        "time_utc": "2022-02-13T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0PUfsH",
+        "date": "2022-02-14",
+        "time_utc": "2022-02-14T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_1tC882",
+        "date": "2022-02-18",
+        "time_utc": "2022-02-18T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1xO5lS",
+        "date": "2022-02-19",
+        "time_utc": "2022-02-19T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2045hB",
+        "date": "2022-02-19",
+        "time_utc": "2022-02-19T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2qxuYe",
+        "date": "2022-02-20",
+        "time_utc": "2022-02-20T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2KEXEt",
+        "date": "2022-02-20",
+        "time_utc": "2022-02-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3TMU7G",
+        "date": "2022-02-20",
+        "time_utc": "2022-02-20T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3MRY8M",
+        "date": "2022-02-20",
+        "time_utc": "2022-02-20T20:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0j3iOG",
+        "date": "2022-02-21",
+        "time_utc": "2022-02-21T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_00DIZA",
+        "date": "2022-02-26",
+        "time_utc": "2022-02-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_48nlZ1",
+        "date": "2022-02-26",
+        "time_utc": "2022-02-26T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1AE3QE",
+        "date": "2022-02-26",
+        "time_utc": "2022-02-26T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0eiBwQ",
+        "date": "2022-02-27",
+        "time_utc": "2022-02-27T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4emMMR",
+        "date": "2022-02-27",
+        "time_utc": "2022-02-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_1PXW4o",
+        "date": "2022-02-27",
+        "time_utc": "2022-02-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3l28PL",
+        "date": "2022-02-27",
+        "time_utc": "2022-02-27T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3s48c2",
+        "date": "2022-02-28",
+        "time_utc": "2022-02-28T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4NdwHw",
+        "date": "2022-03-04",
+        "time_utc": "2022-03-04T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0X6fJ8",
+        "date": "2022-03-05",
+        "time_utc": "2022-03-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Ew3II",
+        "date": "2022-03-05",
+        "time_utc": "2022-03-05T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2u7Tie",
+        "date": "2022-03-05",
+        "time_utc": "2022-03-05T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1dn5Nh",
+        "date": "2022-03-06",
+        "time_utc": "2022-03-06T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ObB0P",
+        "date": "2022-03-06",
+        "time_utc": "2022-03-06T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_3LNn88",
+        "date": "2022-03-06",
+        "time_utc": "2022-03-06T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1VgEbN",
+        "date": "2022-03-06",
+        "time_utc": "2022-03-06T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Tdo4Y",
+        "date": "2022-03-11",
+        "time_utc": "2022-03-11T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3HaIED",
+        "date": "2022-03-12",
+        "time_utc": "2022-03-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4bBXO7",
+        "date": "2022-03-12",
+        "time_utc": "2022-03-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4LkhN8",
+        "date": "2022-03-12",
+        "time_utc": "2022-03-12T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_49Innz",
+        "date": "2022-03-13",
+        "time_utc": "2022-03-13T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4FsBVq",
+        "date": "2022-03-13",
+        "time_utc": "2022-03-13T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dimqx",
+        "date": "2022-03-13",
+        "time_utc": "2022-03-13T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0BrAxH",
+        "date": "2022-03-14",
+        "time_utc": "2022-03-14T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4AoaRC",
+        "date": "2022-03-18",
+        "time_utc": "2022-03-18T20:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Clsd0",
+        "date": "2022-03-19",
+        "time_utc": "2022-03-19T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2MVIIg",
+        "date": "2022-03-19",
+        "time_utc": "2022-03-19T20:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0pAOP0",
+        "date": "2022-03-20",
+        "time_utc": "2022-03-20T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3W1iYN",
+        "date": "2022-03-20",
+        "time_utc": "2022-03-20T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4GTFuh",
+        "date": "2022-03-20",
+        "time_utc": "2022-03-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1R46Pw",
+        "date": "2022-03-20",
+        "time_utc": "2022-03-20T20:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3IPYYj",
+        "date": "2022-03-20",
+        "time_utc": "2022-03-20T20:45:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1cD3Jj",
+        "date": "2022-04-01",
+        "time_utc": "2022-04-01T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Rn7BV",
+        "date": "2022-04-02",
+        "time_utc": "2022-04-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1zNY1L",
+        "date": "2022-04-02",
+        "time_utc": "2022-04-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_16KJTS",
+        "date": "2022-04-02",
+        "time_utc": "2022-04-02T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1zQv0L",
+        "date": "2022-04-03",
+        "time_utc": "2022-04-03T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0b8jAM",
+        "date": "2022-04-03",
+        "time_utc": "2022-04-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2qJ7eS",
+        "date": "2022-04-03",
+        "time_utc": "2022-04-03T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3zCFUM",
+        "date": "2022-04-04",
+        "time_utc": "2022-04-04T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2l401U",
+        "date": "2022-04-08",
+        "time_utc": "2022-04-08T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2EKcA5",
+        "date": "2022-04-09",
+        "time_utc": "2022-04-09T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ugzZa",
+        "date": "2022-04-09",
+        "time_utc": "2022-04-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2PS6eR",
+        "date": "2022-04-09",
+        "time_utc": "2022-04-09T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2K7tpt",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3uNT4N",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_48Mrm6",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1WlOMd",
+        "date": "2022-04-10",
+        "time_utc": "2022-04-10T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2UEAEK",
+        "date": "2022-04-15",
+        "time_utc": "2022-04-15T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1wMx11",
+        "date": "2022-04-15",
+        "time_utc": "2022-04-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2SM6OB",
+        "date": "2022-04-15",
+        "time_utc": "2022-04-15T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2cPAMW",
+        "date": "2022-04-16",
+        "time_utc": "2022-04-16T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_02qrY5",
+        "date": "2022-04-16",
+        "time_utc": "2022-04-16T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3I1xpa",
+        "date": "2022-04-16",
+        "time_utc": "2022-04-16T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 7,
+        "score_away": 0
+      },
+      {
+        "id": "m_3AeiAv",
+        "date": "2022-04-17",
+        "time_utc": "2022-04-17T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2bIPnQ",
+        "date": "2022-04-18",
+        "time_utc": "2022-04-18T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0ruuTK",
+        "date": "2022-04-22",
+        "time_utc": "2022-04-22T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2cuoUI",
+        "date": "2022-04-23",
+        "time_utc": "2022-04-23T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1O8JTJ",
+        "date": "2022-04-23",
+        "time_utc": "2022-04-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1GHehH",
+        "date": "2022-04-23",
+        "time_utc": "2022-04-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1PF8GT",
+        "date": "2022-04-23",
+        "time_utc": "2022-04-23T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4OHygY",
+        "date": "2022-04-24",
+        "time_utc": "2022-04-24T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Y2Nit",
+        "date": "2022-04-25",
+        "time_utc": "2022-04-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1g5mbn",
+        "date": "2022-04-25",
+        "time_utc": "2022-04-25T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3HqQOI",
+        "date": "2022-04-29",
+        "time_utc": "2022-04-29T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3lTKBv",
+        "date": "2022-04-30",
+        "time_utc": "2022-04-30T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0tOuM7",
+        "date": "2022-04-30",
+        "time_utc": "2022-04-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3HqJFx",
+        "date": "2022-04-30",
+        "time_utc": "2022-04-30T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_0Z1E0Q",
+        "date": "2022-05-01",
+        "time_utc": "2022-05-01T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1D0UFm",
+        "date": "2022-05-01",
+        "time_utc": "2022-05-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2PlyIC",
+        "date": "2022-05-01",
+        "time_utc": "2022-05-01T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3ueEv1",
+        "date": "2022-05-02",
+        "time_utc": "2022-05-02T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2uOvAr",
+        "date": "2022-05-06",
+        "time_utc": "2022-05-06T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "away_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0IeXvZ",
+        "date": "2022-05-07",
+        "time_utc": "2022-05-07T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "away_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2CsHyR",
+        "date": "2022-05-07",
+        "time_utc": "2022-05-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "away_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1cGEnT",
+        "date": "2022-05-07",
+        "time_utc": "2022-05-07T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "away_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_2L0AV5",
+        "date": "2022-05-08",
+        "time_utc": "2022-05-08T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "away_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2h0xzS",
+        "date": "2022-05-08",
+        "time_utc": "2022-05-08T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "away_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_13FHnP",
+        "date": "2022-05-08",
+        "time_utc": "2022-05-08T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "away_team": {
+          "id": "t_0LVHGt",
+          "name": "Arouca",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/058b56600b5c2b95b4432f14d73e49eab6ca694e75b558d97fc15ba08da65456.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1vugXs",
+        "date": "2022-05-08",
+        "time_utc": "2022-05-08T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "away_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0sriS4",
+        "date": "2022-05-13",
+        "time_utc": "2022-05-13T19:15:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0YMdpN",
+          "name": "Pacos de Ferreira",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2301157c385ea14caeb302e19122814ea824ff9f23c28c7cab3a8b1b45c3db95.webp"
+        },
+        "away_team": {
+          "id": "t_0Mzm1V",
+          "name": "Benfica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f400d9a5aa24f6f0c3094f0d1598c0f56ce2b003b8282a45481dd551d75a7a20.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_1Z786H",
+        "date": "2022-05-14",
+        "time_utc": "2022-05-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0t0HHy",
+          "name": "Moreirense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d598a9dac1d99892e130b508b13c0468684f286a28c95862e3ba80644d7b9f4.webp"
+        },
+        "away_team": {
+          "id": "t_3GF6e9",
+          "name": "Vizela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/caad5e21d6a66d1b68498e3e5698b978c97175a42fa3ae881c6fa8be47cb60a9.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_17X9sS",
+        "date": "2022-05-14",
+        "time_utc": "2022-05-14T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1gBcAQ",
+          "name": "Tondela",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/501aec723c2107495d7383341cc49a9a217f7aff66cba610a7b3252b68b2c473.webp"
+        },
+        "away_team": {
+          "id": "t_1H87M1",
+          "name": "Boavista",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ab36f337e9e491300c13990f12b8f1a39b6a22968a86e70320f64fa3ed236773.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Wvojk",
+        "date": "2022-05-14",
+        "time_utc": "2022-05-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_0dVrhE",
+          "name": "FC Porto",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/32b58b1949ae598ee4f05086017e0bf309cbc15846c63a60955beccf41726790.webp"
+        },
+        "away_team": {
+          "id": "t_0V3djZ",
+          "name": "Estoril",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/3f07a465a910b410c97b60cc1cc7ffc4356b6d019450612788f4de9d1fd0104e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1xaAVK",
+        "date": "2022-05-14",
+        "time_utc": "2022-05-14T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_191XJT",
+          "name": "Marítimo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f62b11db46f2a119eddda0140f455a65fe8360ae4ba5e1db5e90c77f1b534a91.webp"
+        },
+        "away_team": {
+          "id": "t_3emXzd",
+          "name": "Portimonense",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/cb53ce391fcfce304b1a3f71f034fc73ed877fc56a88b41add16a4ad7f3683f8.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0uRCOr",
+        "date": "2022-05-14",
+        "time_utc": "2022-05-14T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1TAfIz",
+          "name": "Sporting CP",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5817bbd34cd3f72b924b6fe60740c7176bc383aa030a4d10832bffab27318dd9.webp"
+        },
+        "away_team": {
+          "id": "t_2TePe3",
+          "name": "Santa Clara",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/fa8fe8daca85df8a4ece1f701195026dc3195701ad44cd2c0b235d5346ed911a.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_1d6Ctt",
+        "date": "2022-05-15",
+        "time_utc": "2022-05-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cfbYN",
+          "name": "Famalicão",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/111f33274a5107cb9fe3f9954a7a04dca3ba54a6ebf5ac23b1eb34016ef7962f.webp"
+        },
+        "away_team": {
+          "id": "t_2kXart",
+          "name": "Braga",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/a1892ba6866568f9d93771bb12c20c59031589516013282509a934aff7d76672.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0j4PXU",
+        "date": "2022-05-15",
+        "time_utc": "2022-05-15T19:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2S7UQI",
+          "name": "Vitória de Guimarães",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/5567d7ba89b0635ee1b04f84c451bc6ac347e6146a67867286ee00e858f51f7f.webp"
+        },
+        "away_team": {
+          "id": "t_0gXPER",
+          "name": "Gil Vicente",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/902c15949fa6b536bacab1f62dbc94b55109ae66207566209198613104f7dd43.webp"
+        },
+        "score_home": 5,
+        "score_away": 0
+      }
+    ]
+  }
+}

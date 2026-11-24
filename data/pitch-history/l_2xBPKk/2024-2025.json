@@ -1,0 +1,5340 @@
+{
+  "data": {
+    "league": {
+      "id": "l_2xBPKk",
+      "name": "Super Liga",
+      "season": "2024/2025",
+      "image_url": "https://cdn.pitchapi.dev/images/leagues/75d9d7aa0d53b485aec330987614c9e430fcbdfd314b8be1049ba226964d66eb.webp"
+    },
+    "matches": [
+      {
+        "id": "m_1eeEfV",
+        "date": "2024-07-19",
+        "time_utc": "2024-07-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_3p5DP0",
+        "date": "2024-07-19",
+        "time_utc": "2024-07-19T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_29ss9L",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_15lTeL",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_27w0eA",
+        "date": "2024-07-20",
+        "time_utc": "2024-07-20T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0XIHGL",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_1y0kFo",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_38Ug0o",
+        "date": "2024-07-21",
+        "time_utc": "2024-07-21T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2i4pcd",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_20bk76",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Ap16k",
+        "date": "2024-07-27",
+        "time_utc": "2024-07-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_36qU4U",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_08Z1wd",
+        "date": "2024-07-28",
+        "time_utc": "2024-07-28T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4awWOP",
+        "date": "2024-07-29",
+        "time_utc": "2024-07-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0GvHlh",
+        "date": "2024-08-02",
+        "time_utc": "2024-08-02T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1BwXH9",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_292maR",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3pA2iR",
+        "date": "2024-08-03",
+        "time_utc": "2024-08-03T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4HaeBP",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_38Izq0",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2vrVC6",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2GOoZp",
+        "date": "2024-08-04",
+        "time_utc": "2024-08-04T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_2XeyBF",
+        "date": "2024-08-09",
+        "time_utc": "2024-08-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2QmRLb",
+        "date": "2024-08-09",
+        "time_utc": "2024-08-09T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1biLor",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_3KNOfA",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2DFXsS",
+        "date": "2024-08-10",
+        "time_utc": "2024-08-10T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0dzLjt",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3vrjce",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2NcIvh",
+        "date": "2024-08-11",
+        "time_utc": "2024-08-11T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1DWgvo",
+        "date": "2024-08-15",
+        "time_utc": "2024-08-15T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_4G0E4A",
+        "date": "2024-08-16",
+        "time_utc": "2024-08-16T16:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4ePw8G",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2TRIot",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ttC7Y",
+        "date": "2024-08-17",
+        "time_utc": "2024-08-17T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_22WfEj",
+        "date": "2024-08-18",
+        "time_utc": "2024-08-18T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_34TYI1",
+        "date": "2024-08-19",
+        "time_utc": "2024-08-19T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2FgDiZ",
+        "date": "2024-08-23",
+        "time_utc": "2024-08-23T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0GQT0W",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4a75ED",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2srwRM",
+        "date": "2024-08-24",
+        "time_utc": "2024-08-24T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4DWa8x",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 3,
+        "score_away": 5
+      },
+      {
+        "id": "m_43SBxS",
+        "date": "2024-08-25",
+        "time_utc": "2024-08-25T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_22zO4k",
+        "date": "2024-08-30",
+        "time_utc": "2024-08-30T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ekdpI",
+        "date": "2024-08-30",
+        "time_utc": "2024-08-30T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_38kix9",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3UwGxn",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1eArDx",
+        "date": "2024-08-31",
+        "time_utc": "2024-08-31T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1yAcy4",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0NG8F1",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3MOJNE",
+        "date": "2024-09-01",
+        "time_utc": "2024-09-01T19:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4G4Wpv",
+        "date": "2024-09-13",
+        "time_utc": "2024-09-13T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2fNsgH",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3dxGeO",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4PGvuB",
+        "date": "2024-09-14",
+        "time_utc": "2024-09-14T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4FTi3o",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0rWTNE",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0TrHrj",
+        "date": "2024-09-15",
+        "time_utc": "2024-09-15T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3ZO0UC",
+        "date": "2024-09-16",
+        "time_utc": "2024-09-16T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_44BtGp",
+        "date": "2024-09-18",
+        "time_utc": "2024-09-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_0oFDka",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_0X7LSy",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_01rS8v",
+        "date": "2024-09-21",
+        "time_utc": "2024-09-21T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1eqkbL",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_3kjpqh",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_40aQug",
+        "date": "2024-09-22",
+        "time_utc": "2024-09-22T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_39a7ao",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4gXqzP",
+        "date": "2024-09-23",
+        "time_utc": "2024-09-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_1htk5e",
+        "date": "2024-09-27",
+        "time_utc": "2024-09-27T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2CEXTV",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 4,
+        "score_away": 3
+      },
+      {
+        "id": "m_2bTq1M",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0BvndA",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3caods",
+        "date": "2024-09-28",
+        "time_utc": "2024-09-28T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Qxg58",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4flALU",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1eeayR",
+        "date": "2024-09-29",
+        "time_utc": "2024-09-29T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_356sUg",
+        "date": "2024-10-02",
+        "time_utc": "2024-10-02T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2fsrmo",
+        "date": "2024-10-04",
+        "time_utc": "2024-10-04T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Fx8xW",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3yscGt",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1hNfk9",
+        "date": "2024-10-05",
+        "time_utc": "2024-10-05T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0NcPDE",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1nSSWl",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_4XIXfP",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1dufpm",
+        "date": "2024-10-06",
+        "time_utc": "2024-10-06T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0pD8BQ",
+        "date": "2024-10-18",
+        "time_utc": "2024-10-18T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 5,
+        "score_away": 1
+      },
+      {
+        "id": "m_1amNcv",
+        "date": "2024-10-18",
+        "time_utc": "2024-10-18T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4cSe3p",
+        "date": "2024-10-18",
+        "time_utc": "2024-10-18T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3QBkAN",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Fk50s",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0rwJwe",
+        "date": "2024-10-19",
+        "time_utc": "2024-10-19T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Q1mpT",
+        "date": "2024-10-20",
+        "time_utc": "2024-10-20T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2sj7YB",
+        "date": "2024-10-21",
+        "time_utc": "2024-10-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 3,
+        "score_away": 4
+      },
+      {
+        "id": "m_2b0afk",
+        "date": "2024-10-25",
+        "time_utc": "2024-10-25T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2mNflW",
+        "date": "2024-10-25",
+        "time_utc": "2024-10-25T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_3BDgWu",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_1mCg7J",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_27dudd",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 1,
+        "score_away": 5
+      },
+      {
+        "id": "m_1nbkgw",
+        "date": "2024-10-26",
+        "time_utc": "2024-10-26T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1P7jvi",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_08fZgy",
+        "date": "2024-10-27",
+        "time_utc": "2024-10-27T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Vztha",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_41dpEY",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2bVKhz",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Qnl8F",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_19l5xd",
+        "date": "2024-11-03",
+        "time_utc": "2024-11-03T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0c3UgA",
+        "date": "2024-11-04",
+        "time_utc": "2024-11-04T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0eWspc",
+        "date": "2024-11-04",
+        "time_utc": "2024-11-04T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_31nIb3",
+        "date": "2024-11-04",
+        "time_utc": "2024-11-04T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0TU3Zv",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Coh6q",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0yYXCL",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3o2q3O",
+        "date": "2024-11-09",
+        "time_utc": "2024-11-09T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_23fK8c",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_08Lv4i",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_39f26T",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1ci73J",
+        "date": "2024-11-10",
+        "time_utc": "2024-11-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2L8yYr",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_07mzMA",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Skd15",
+        "date": "2024-11-23",
+        "time_utc": "2024-11-23T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2iE66t",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_09c6ab",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2fLi3V",
+        "date": "2024-11-24",
+        "time_utc": "2024-11-24T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0WMLa6",
+        "date": "2024-11-29",
+        "time_utc": "2024-11-29T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_265a6Y",
+        "date": "2024-11-29",
+        "time_utc": "2024-11-29T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0MDOO9",
+        "date": "2024-11-29",
+        "time_utc": "2024-11-29T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Goggy",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1r32Cf",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2wEMme",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T13:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_2opWML",
+        "date": "2024-11-30",
+        "time_utc": "2024-11-30T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ZXYkc",
+        "date": "2024-12-01",
+        "time_utc": "2024-12-01T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0EXUws",
+        "date": "2024-12-04",
+        "time_utc": "2024-12-04T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_29aaqG",
+        "date": "2024-12-04",
+        "time_utc": "2024-12-04T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Ndrhb",
+        "date": "2024-12-07",
+        "time_utc": "2024-12-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_0pVqWq",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3rezYy",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3aIlm0",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1KHgqi",
+        "date": "2024-12-08",
+        "time_utc": "2024-12-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1iZET2",
+        "date": "2024-12-09",
+        "time_utc": "2024-12-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1dN3Yt",
+        "date": "2024-12-09",
+        "time_utc": "2024-12-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0PpPSI",
+        "date": "2024-12-09",
+        "time_utc": "2024-12-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1G40W2",
+        "date": "2024-12-12",
+        "time_utc": "2024-12-12T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2fvYrS",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_0vm3th",
+        "date": "2024-12-14",
+        "time_utc": "2024-12-14T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_0La5NO",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2yB1rI",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_4Dfp8P",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 1,
+        "score_away": 7
+      },
+      {
+        "id": "m_3RwVvC",
+        "date": "2024-12-15",
+        "time_utc": "2024-12-15T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_0Wd04A",
+        "date": "2024-12-16",
+        "time_utc": "2024-12-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_0gbkJh",
+        "date": "2024-12-16",
+        "time_utc": "2024-12-16T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0jrSi3",
+        "date": "2024-12-18",
+        "time_utc": "2024-12-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_0WrSb6",
+        "date": "2024-12-20",
+        "time_utc": "2024-12-20T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_1pcRhn",
+        "date": "2024-12-21",
+        "time_utc": "2024-12-21T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Q5joi",
+        "date": "2024-12-21",
+        "time_utc": "2024-12-21T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_161joj",
+        "date": "2024-12-21",
+        "time_utc": "2024-12-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2vPbiP",
+        "date": "2024-12-22",
+        "time_utc": "2024-12-22T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_1cFbUE",
+        "date": "2024-12-22",
+        "time_utc": "2024-12-22T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_1EZinZ",
+        "date": "2024-12-22",
+        "time_utc": "2024-12-22T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4H63uH",
+        "date": "2024-12-23",
+        "time_utc": "2024-12-23T13:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_0TKIww",
+        "date": "2024-12-26",
+        "time_utc": "2024-12-26T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0drNGB",
+        "date": "2025-01-31",
+        "time_utc": "2025-01-31T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_20UxSE",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_14z9FS",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_44qFEz",
+        "date": "2025-02-01",
+        "time_utc": "2025-02-01T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1eCHsV",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3WkpDv",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2XgYld",
+        "date": "2025-02-02",
+        "time_utc": "2025-02-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3XwvNn",
+        "date": "2025-02-03",
+        "time_utc": "2025-02-03T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1gJCCp",
+        "date": "2025-02-07",
+        "time_utc": "2025-02-07T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1zqUpu",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_2y4WHK",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 6,
+        "score_away": 0
+      },
+      {
+        "id": "m_24EtgV",
+        "date": "2025-02-08",
+        "time_utc": "2025-02-08T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4EfaEf",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0p380I",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_3OzAy0",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_0DT7nw",
+        "date": "2025-02-09",
+        "time_utc": "2025-02-09T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_1ob3aQ",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_0hNghz",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_0UdtAg",
+        "date": "2025-02-15",
+        "time_utc": "2025-02-15T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3Lji79",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2QXrlP",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T12:55:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_125Vw5",
+        "date": "2025-02-16",
+        "time_utc": "2025-02-16T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2HDTP0",
+        "date": "2025-02-17",
+        "time_utc": "2025-02-17T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_46iF9P",
+        "date": "2025-02-17",
+        "time_utc": "2025-02-17T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Ohlcb",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Ri5Fy",
+        "date": "2025-02-21",
+        "time_utc": "2025-02-21T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0ONh5Z",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2bj4oP",
+        "date": "2025-02-22",
+        "time_utc": "2025-02-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_3u66bT",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_15VzCX",
+        "date": "2025-02-23",
+        "time_utc": "2025-02-23T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0e9DQt",
+        "date": "2025-02-24",
+        "time_utc": "2025-02-24T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_4ZYAp4",
+        "date": "2025-02-26",
+        "time_utc": "2025-02-26T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3nUweM",
+        "date": "2025-02-26",
+        "time_utc": "2025-02-26T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_2mr6zc",
+        "date": "2025-02-26",
+        "time_utc": "2025-02-26T17:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3qOhWV",
+        "date": "2025-02-26",
+        "time_utc": "2025-02-26T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_4UDtu2",
+        "date": "2025-02-26",
+        "time_utc": "2025-02-26T18:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3E585B",
+        "date": "2025-02-27",
+        "time_utc": "2025-02-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3MGtca",
+        "date": "2025-02-27",
+        "time_utc": "2025-02-27T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_3hXWmh",
+        "date": "2025-02-27",
+        "time_utc": "2025-02-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3IYYyc",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_4FAKnu",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 1,
+        "score_away": 4
+      },
+      {
+        "id": "m_3w55Yu",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 4,
+        "score_away": 0
+      },
+      {
+        "id": "m_481Y7v",
+        "date": "2025-03-02",
+        "time_utc": "2025-03-02T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_3QBtZB",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1NTMYD",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_2Jj9Ut",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_39hDus",
+        "date": "2025-03-03",
+        "time_utc": "2025-03-03T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4bbd94",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_05Ht8x",
+        "date": "2025-03-07",
+        "time_utc": "2025-03-07T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3WJg57",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3IXnQD",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2baGGN",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T17:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_4NziOZ",
+        "date": "2025-03-08",
+        "time_utc": "2025-03-08T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_15obNV",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3JWtpg",
+        "date": "2025-03-09",
+        "time_utc": "2025-03-09T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4Fno0d",
+        "date": "2025-03-12",
+        "time_utc": "2025-03-12T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3GmdWV",
+        "date": "2025-03-14",
+        "time_utc": "2025-03-14T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_3bzO3x",
+        "date": "2025-03-15",
+        "time_utc": "2025-03-15T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_14kOp1",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 4,
+        "score_away": 2
+      },
+      {
+        "id": "m_33Ng2z",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1I1c4T",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2Bf3nS",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T17:05:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_2f6Kgr",
+        "date": "2025-03-16",
+        "time_utc": "2025-03-16T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2NFEHx",
+        "date": "2025-03-17",
+        "time_utc": "2025-03-17T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_19Hrel",
+        "date": "2025-03-28",
+        "time_utc": "2025-03-28T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_2efAzD",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_15Wzd5",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4gTTi3",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 3,
+        "score_away": 5
+      },
+      {
+        "id": "m_0nZuRa",
+        "date": "2025-03-29",
+        "time_utc": "2025-03-29T19:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_01fJb7",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3eJeeY",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_0wIMHx",
+        "date": "2025-03-30",
+        "time_utc": "2025-03-30T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_4M6pwc",
+        "date": "2025-04-05",
+        "time_utc": "2025-04-05T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_1YqjmI",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_0nzOjd",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0dMSDc",
+        "date": "2025-04-06",
+        "time_utc": "2025-04-06T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_4cZ4iG",
+        "date": "2025-04-07",
+        "time_utc": "2025-04-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_2LqvOi",
+        "date": "2025-04-07",
+        "time_utc": "2025-04-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 3
+      },
+      {
+        "id": "m_02gNLO",
+        "date": "2025-04-07",
+        "time_utc": "2025-04-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_2mAR2F",
+        "date": "2025-04-07",
+        "time_utc": "2025-04-07T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 0,
+        "score_away": 2
+      },
+      {
+        "id": "m_4Napnz",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3gAIzG",
+        "date": "2025-04-12",
+        "time_utc": "2025-04-12T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ywn5l",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_1M8ptc",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_1heQSu",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_2ppNXm",
+        "date": "2025-04-13",
+        "time_utc": "2025-04-13T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2cFHAx",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Bl1AQ",
+        "date": "2025-04-14",
+        "time_utc": "2025-04-14T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_3z7uZ8",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_0z94aU",
+        "date": "2025-04-22",
+        "time_utc": "2025-04-22T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0UcgKk",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T14:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_3RHxYk",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 2,
+        "score_away": 0
+      },
+      {
+        "id": "m_394AKn",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_2ZyFzK",
+        "date": "2025-04-23",
+        "time_utc": "2025-04-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Yo1E5",
+        "date": "2025-04-24",
+        "time_utc": "2025-04-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_3uibwC",
+        "date": "2025-04-24",
+        "time_utc": "2025-04-24T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 4,
+        "score_away": 1
+      },
+      {
+        "id": "m_1Yk7Pj",
+        "date": "2025-04-26",
+        "time_utc": "2025-04-26T15:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0oINLK",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      },
+      {
+        "id": "m_3EFaPx",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0Zdd3U",
+        "date": "2025-04-27",
+        "time_utc": "2025-04-27T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_22QYCf",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_3eNzKQ",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_01Zpnt",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_1tcpyw",
+        "date": "2025-04-28",
+        "time_utc": "2025-04-28T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3xburG",
+        "date": "2025-05-02",
+        "time_utc": "2025-05-02T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_18Os1l",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T12:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_1ZvLYI",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_3Ahe3E",
+        "date": "2025-05-03",
+        "time_utc": "2025-05-03T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4GY5Ua",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T13:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 0,
+        "score_away": 1
+      },
+      {
+        "id": "m_0REHD6",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_15rhW1",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_2nAL1B",
+        "date": "2025-05-04",
+        "time_utc": "2025-05-04T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_2N3OKi",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_29ggNd",
+        "date": "2025-05-10",
+        "time_utc": "2025-05-10T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_1FLuRQ",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T14:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_04o4uJ",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 1,
+        "score_away": 0
+      },
+      {
+        "id": "m_4AUNY3",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3tioRV",
+        "date": "2025-05-11",
+        "time_utc": "2025-05-11T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 1,
+        "score_away": 2
+      },
+      {
+        "id": "m_2X01Sz",
+        "date": "2025-05-12",
+        "time_utc": "2025-05-12T16:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_4PUI65",
+        "date": "2025-05-12",
+        "time_utc": "2025-05-12T18:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 1,
+        "score_away": 1
+      },
+      {
+        "id": "m_3Bv3lx",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "away_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "score_home": 0,
+        "score_away": 4
+      },
+      {
+        "id": "m_3TC5h6",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "away_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "score_home": 0,
+        "score_away": 0
+      },
+      {
+        "id": "m_3VfnbB",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "away_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_0wyPGe",
+        "date": "2025-05-17",
+        "time_utc": "2025-05-17T16:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "away_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "score_home": 3,
+        "score_away": 3
+      },
+      {
+        "id": "m_1pi4q1",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "away_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_3e3S8T",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "away_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_0T8LYn",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "away_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "score_home": 3,
+        "score_away": 0
+      },
+      {
+        "id": "m_3G4EiN",
+        "date": "2025-05-18",
+        "time_utc": "2025-05-18T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "away_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "score_home": 0,
+        "score_away": 3
+      },
+      {
+        "id": "m_2NHzUq",
+        "date": "2025-05-23",
+        "time_utc": "2025-05-23T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_3in1S9",
+          "name": "Čukarički",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/45cd512eb456e6755632b5f78039dc86daa4794b7fc1187bff3cae87b984501e.webp"
+        },
+        "away_team": {
+          "id": "t_2gwv05",
+          "name": "Železničar Pančevo",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/ce764d70db54293cf70eb8850d38fd8e070a87bb81e5d49136f0238704df1ebc.webp"
+        },
+        "score_home": 2,
+        "score_away": 2
+      },
+      {
+        "id": "m_19xLGO",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_2rCgAm",
+          "name": "Radnički Niš",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/d83aa9e84b6909d261699ff2d24d1e3fb7087c2888962695351f7b5b8517400e.webp"
+        },
+        "away_team": {
+          "id": "t_2SjX56",
+          "name": "Jedinstvo Ub",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b37e7dd5b06144222436203e143f5dec13f042a44ee992d12ed3cbfbbcfdd9e2.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_0uiFrV",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_42j5I4",
+          "name": "IMT",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9670fbfc6bc559ef572ad8d9d7b65ba85ee16ee3516d07e39afab0b11af3ff19.webp"
+        },
+        "away_team": {
+          "id": "t_4Kwcr6",
+          "name": "Napredak",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/84950a1459028db5d801cd77de3daaa76ac7411e9711193b7a83545360a397fd.webp"
+        },
+        "score_home": 2,
+        "score_away": 1
+      },
+      {
+        "id": "m_16fx6A",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T15:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4StiA5",
+          "name": "Spartak Subotica",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/f5729f983979667483a695a745ed9d8a03a222fa523b87de8a10efba39a8807f.webp"
+        },
+        "away_team": {
+          "id": "t_2qtUBs",
+          "name": "Tekstilac Odžaci",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/83a2efd52e9c03e32ca659b34efb8806d8e9cd216bbf7a2c0d8e70fae42a01aa.webp"
+        },
+        "score_home": 2,
+        "score_away": 4
+      },
+      {
+        "id": "m_2HWqBe",
+        "date": "2025-05-24",
+        "time_utc": "2025-05-24T17:30:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_4W9DaV",
+          "name": "FK Crvena Zvezda",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/2a41ce07da3d58db1d4d634784f29d1301d833e7dcbe201bb0dc27ff67023d54.webp"
+        },
+        "away_team": {
+          "id": "t_49UIKT",
+          "name": "Mladost Lučani",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/6d3a189982cb7a440b62e2b60635490bf8ff69cb8804079f5ce043638682697c.webp"
+        },
+        "score_home": 3,
+        "score_away": 1
+      },
+      {
+        "id": "m_43iXav",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_25ex0s",
+          "name": "Partizan Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/58a2f918acbd4be494ec32585a747b61da3aadccae019e6b78fcc8920440d2c3.webp"
+        },
+        "away_team": {
+          "id": "t_4JIp6m",
+          "name": "Vojvodina",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b5fc085ad24f60137aa359fdb8a25c1abb63a26d68b6816af3c74a26efa58b41.webp"
+        },
+        "score_home": 3,
+        "score_away": 2
+      },
+      {
+        "id": "m_35Mbpn",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_1IJnn4",
+          "name": "OFK Beograd",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/4b5cc62b89fffbccbcf1ecc717be1089048837e73c74e2e3c3fe2a5010225149.webp"
+        },
+        "away_team": {
+          "id": "t_47DAlu",
+          "name": "Novi Pazar",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/9246b8f20a76f7eee86c8a3258b6077ddf8132e2961c456f6337f1237e7ab672.webp"
+        },
+        "score_home": 2,
+        "score_away": 3
+      },
+      {
+        "id": "m_4XViEl",
+        "date": "2025-05-25",
+        "time_utc": "2025-05-25T17:00:00Z",
+        "status": "finished",
+        "home_team": {
+          "id": "t_39pqEa",
+          "name": "Radnički 1923",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/277482d4bc21b0c88adef96b8c9b8dfc690753a700b12348f1fed25a0afd294c.webp"
+        },
+        "away_team": {
+          "id": "t_3cFDTA",
+          "name": "TSC Bačka Topola",
+          "image_url": "https://cdn.pitchapi.dev/images/teams/b8513843dc3edc683c3c2ce70e8314d814ecb140088f749a073b5d42ea5e2e81.webp"
+        },
+        "score_home": 5,
+        "score_away": 2
+      }
+    ]
+  }
+}
