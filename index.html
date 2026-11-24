@@ -230,7 +230,7 @@ if (premierLeague) {
       if (!cevap.ok) throw new Error("Dosya okunamadı");
 
       const veri = await cevap.json();
-      const maclar = veri.matches.slice(0, 100);
+      const maclar = veri.matches.slice(0, 10);
 
       bilgi.replaceChildren();
 
@@ -370,7 +370,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const maclar = veri.matches
         .filter(mac => mac.status === "FINISHED")
         .sort((a, b) => new Date(b.utcDate) - new Date(a.utcDate))
-        .slice(0, 100);
+        .slice(0, 10);
 
       alan.replaceChildren();
 
