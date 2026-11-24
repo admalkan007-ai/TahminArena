@@ -180,7 +180,7 @@ nav button.active {
 
 <script>
 window.taCompactRow=function(parent,m,scored){
- const row=document.createElement('div');row.className='ta-match-row';parent.append(row);
+ const row=document.createElement('div');row.className='ta-match-row'+(scored?' ta-result-row':'');parent.append(row);
  const date=new Date(m.time_utc||m.utcDate||m.date), home=m.home_team||m.homeTeam, away=m.away_team||m.awayTeam;
  const h=m.score_home??m.score?.fullTime?.home,a=m.score_away??m.score?.fullTime?.away;
  const name=t=>t?.shortName||t?.name||'Takım';
@@ -191,7 +191,8 @@ window.taCompactRow=function(parent,m,scored){
  const line=document.createElement('div');line.className='ta-compact-line';row.append(line);
  function text(v,c){const n=document.createElement('span');n.className=c;n.textContent=v;line.append(n);return n;}
  function team(t,c){const n=text('',c);const url=t?.image_url||t?.crest;if(typeof url==='string'&&url.startsWith('https://')){const img=document.createElement('img');img.src=url;img.alt='';img.loading='lazy';img.onerror=()=>img.remove();n.append(img);}const label=document.createElement('span');label.textContent=name(t);n.append(label);n.title=name(t);}
- text(scored?'MS':time,'ta-match-time');team(home,'ta-match-home');text(scored?(h??'—')+' - '+(a??'—'):'–','ta-match-score');team(away,'ta-match-away');
+ text(scored?'MS':time,'ta-match-time');team(home,'ta-match-home');text(scored?(h??'—')+'-'+(a??'—'):'–','ta-match-score');team(away,'ta-match-away');
+ if(scored&&h!=null&&a!=null){if(h>a)line.querySelector('.ta-match-home').classList.add('ta-winner');if(a>h)line.querySelector('.ta-match-away').classList.add('ta-winner');}
  return row;
 };
 </script>
@@ -683,7 +684,7 @@ const labels={BallPossession:'Topa sahip olma',total_shots:'Toplam şut',ShotsOn
 const make=(tag,text,parent,cls)=>{const n=document.createElement(tag);n.textContent=text||'';if(cls)n.className=cls;parent.append(n);return n;};
 document.getElementById('ta-stat-close').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{seq++;controller?.abort();});
 window.taStatsButton=(parent,m)=>{if(!/^m_[a-zA-Z0-9]{6}$/.test(m.id||''))return;const b=make('button','📊 İstatistikler',parent,'ta-stat-button');b.type='button';b.setAttribute('aria-label',b.textContent);b.title=b.textContent;b.onclick=e=>{e.stopPropagation();open(m);};};
-async function open(m){const current=++seq;controller?.abort();controller=new AbortController();content.replaceChildren();make('p','İstatistikler yükleniyor…',content);if(!dialog.open)dialog.showModal();try{const r=await fetch('https://tahminarena-live.admalkan007.workers.dev/match/'+m.id+'/stats',{signal:controller.signal});if(!r.ok)throw Error('HTTP '+r.status);const j=await r.json();if(current!==seq)return;if(!j.success||!Array.isArray(j.data?.periods)||!j.data.periods.length)throw Error('İstatistik bulunamadı');const d=j.data;content.replaceChildren();const teams=make('div','',content,'ta-stat-teams');for(const t of [d.home_team||m.home_team,d.away_team||m.away_team]){const box=make('div','',teams);if(t?.image_url?.startsWith('https://cdn.pitchapi.dev/')){const img=make('img','',box);img.src=t.image_url;img.alt='';img.onerror=()=>img.remove();}make('strong',t?.name||'Takım',box);}const tabs=make('div','',content),area=make('div','',content);const periods=[['All','Maç tamamı'],['FirstHalf','İlk yarı'],['SecondHalf','İkinci yarı']];const buttons=[];function render(key){area.replaceChildren();buttons.forEach(([k,b])=>b.setAttribute('aria-pressed',String(k===key)));const p=d.periods.find(x=>x.period===key);const items=new Map();for(const g of p?.groups||[])for(const item of g.items||[])if(labels[item.key])items.set(item.key,item);for(const [k,label] of Object.entries(labels)){const item=items.get(k);if(!item)continue;const line=make('div','',area,'ta-stat-line');const suffix=k==='BallPossession'?'%':'';for(const v of [item.home,label,item.away].entries()){const [i,val]=v;make(i===1?'span':'strong',val==null?'—':String(val)+(i!==1?suffix:''),line);}const h=parseFloat(item.home),a=parseFloat(item.away);if(Number.isFinite(h)&&Number.isFinite(a)&&h>=0&&a>=0&&h+a>0){const bars=make('div','',area,'ta-stat-bars');for(const [value,color] of [[h,'#d4af37'],[a,'#777']]){const bar=make('span','',bars);bar.style.flex=String(value);bar.style.background=color;}}}if(!items.size)make('p','Bu dönem için istatistik yok.',area);}for(const [key,label] of periods){const b=make('button',label,tabs);b.type='button';b.disabled=!d.periods.some(p=>p.period===key);b.onclick=()=>render(key);buttons.push([key,b]);}render(d.periods.some(p=>p.period==='All')?'All':d.periods[0].period);make('p','Kaynak: PitchAPI • Yalnızca mevcut istatistikler gösterilir.',content);}catch(e){if(current!==seq)return;content.replaceChildren();make('p','Bu maçın istatistikleri henüz alınamadı. Maç başlamamış olabilir veya sağlayıcı veri sunmuyor olabilir.',content);}}
+async function open(m){const current=++seq;controller?.abort();controller=new AbortController();content.replaceChildren();make('p','İstatistikler yükleniyor…',content);if(!dialog.open)dialog.showModal();try{const r=await fetch('https://tahminarena-live.admalkan007.workers.dev/match/'+m.id+'/stats',{signal:controller.signal});if(!r.ok)throw Error('HTTP '+r.status);const j=await r.json();if(current!==seq)return;if(!j.success||!Array.isArray(j.data?.periods)||!j.data.periods.length)throw Error('İstatistik bulunamadı');const d=j.data;content.replaceChildren();const teams=make('div','',content,'ta-stat-teams');for(const t of [d.home_team||m.home_team,d.away_team||m.away_team]){const box=make('div','',teams);if(t?.image_url?.startsWith('https://cdn.pitchapi.dev/')){const img=make('img','',box);img.src=t.image_url;img.alt='';img.onerror=()=>img.remove();}make('strong',t?.name||'Takım',box);}const sh=m.live_data?.score_home??m.live_data?.match?.score_home??m.score_home,sa=m.live_data?.score_away??m.live_data?.match?.score_away??m.score_away;const score=document.createElement('strong');score.className='ta-stat-score';score.textContent=Number.isInteger(sh)&&Number.isInteger(sa)?sh+' - '+sa:'—';teams.insertBefore(score,teams.lastElementChild);const tabs=make('div','',content,'ta-period-tabs'),area=make('div','',content,'ta-period-area');const periods=[['All','Maç tamamı'],['FirstHalf','İlk yarı'],['SecondHalf','İkinci yarı']];const buttons=[];function render(key){area.replaceChildren();buttons.forEach(([k,b])=>b.setAttribute('aria-pressed',String(k===key)));const p=d.periods.find(x=>x.period===key);const items=new Map();for(const g of p?.groups||[])for(const item of g.items||[])if(labels[item.key])items.set(item.key,item);for(const [k,label] of Object.entries(labels)){const item=items.get(k);if(!item)continue;const line=make('div','',area,'ta-stat-line');const suffix=k==='BallPossession'?'%':'';for(const v of [item.home,label,item.away].entries()){const [i,val]=v;make(i===1?'span':'strong',val==null?'—':String(val)+(i!==1&&!String(val).includes('%')?suffix:''),line);}const h=parseFloat(item.home),a=parseFloat(item.away);if(Number.isFinite(h)&&Number.isFinite(a)&&h>=0&&a>=0&&h+a>0){const bars=make('div','',area,'ta-stat-bars');for(const [value,color] of [[h,'#d4af37'],[a,'#777']]){const bar=make('span','',bars);bar.style.flex=String(value);bar.style.background=color;}}}if(!items.size)make('p','Bu dönem için istatistik yok.',area);}for(const [key,label] of periods){const b=make('button',label,tabs);b.type='button';b.disabled=!d.periods.some(p=>p.period===key);b.onclick=()=>render(key);buttons.push([key,b]);}render(d.periods.some(p=>p.period==='All')?'All':d.periods[0].period);make('p','Kaynak: PitchAPI • Yalnızca mevcut istatistikler gösterilir.',content);}catch(e){if(current!==seq)return;content.replaceChildren();make('p','Bu maçın istatistikleri henüz alınamadı. Maç başlamamış olabilir veya sağlayıcı veri sunmuyor olabilir.',content);}}
 })();
 </script>
 <script>
@@ -851,6 +852,43 @@ html[data-view="mobile"] .ta-match-actions .ta-stat-button:first-child::after{co
 html[data-view="mobile"] .ta-compact-line img{display:none;}
 html[data-view="mobile"] .ta-match-home span,html[data-view="mobile"] .ta-match-away span{font-size:11px;white-space:normal;overflow-wrap:anywhere;}
 html[data-view="mobile"] #ta-stats .ta-stat-line{font-size:11px;margin:5px 0 2px;}html[data-view="mobile"] #ta-stats .ta-stat-bars{height:4px;margin-bottom:6px;}
+</style>
+<style>
+html[data-view="mobile"] .ta-result-row .ta-compact-line {grid-template-columns:22px minmax(0,1fr) 36px minmax(0,1fr);min-height:34px;gap:3px;}
+html[data-view="mobile"] .ta-result-row:has(.ta-match-actions) .ta-compact-line {grid-template-columns:22px minmax(0,1fr) 36px minmax(0,1fr);}
+html[data-view="mobile"] .ta-result-row .ta-match-score {background:#303030;border-radius:4px;padding:4px 1px;font-size:12px;line-height:1.2;font-variant-numeric:tabular-nums;}
+html[data-view="mobile"] .ta-result-row .ta-match-time {text-align:center;}
+html[data-view="mobile"] .ta-result-row .ta-winner {font-weight:bold;color:#fff;}
+html[data-view="mobile"] .ta-result-row .ta-match-home span,html[data-view="mobile"] .ta-result-row .ta-match-away span {line-height:1.2;overflow-wrap:anywhere;white-space:normal;}
+html[data-view="mobile"] .ta-result-row .ta-match-actions .ta-stat-button {height:28px;min-height:28px;}
+</style>
+<style id="ta-compact-stats">
+.ta-stat-score{display:none}
+html[data-view="mobile"] #ta-stats{padding:8px;line-height:1.25;max-height:85dvh}
+html[data-view="mobile"] #ta-stats .ta-stat-heading h3{font-size:13px;margin:3px 0}
+html[data-view="mobile"] #ta-stats .ta-stat-heading button{min-height:30px;padding:3px 7px;margin:0;font-size:11px}
+html[data-view="mobile"] #ta-stats .ta-stat-teams{display:grid;grid-template-columns:minmax(0,1fr) 58px minmax(0,1fr);align-items:center;gap:5px;margin:8px 0;font-size:11px}
+html[data-view="mobile"] #ta-stats .ta-stat-teams img{width:28px;height:28px;margin-bottom:3px}
+html[data-view="mobile"] .ta-stat-score{display:block;color:#f4c542;font-size:19px;text-align:center;white-space:nowrap}
+html[data-view="mobile"] .ta-period-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:3px;margin:6px 0 8px}
+html[data-view="mobile"] #ta-stats .ta-period-tabs button{font-size:11px;min-height:30px;padding:4px 2px;margin:0;border-radius:4px}
+html[data-view="mobile"] #ta-stats .ta-stat-line{grid-template-columns:minmax(0,1fr) minmax(0,2.5fr) minmax(0,1fr);gap:3px;align-items:center;font-size:11px;margin:5px 0 3px;line-height:1.2;font-variant-numeric:tabular-nums}
+html[data-view="mobile"] #ta-stats .ta-stat-line strong:first-child{text-align:left}
+html[data-view="mobile"] #ta-stats .ta-stat-line strong:last-child{text-align:right}
+html[data-view="mobile"] #ta-stats .ta-stat-bars{height:4px;margin-bottom:7px;gap:3px}
+html[data-view="mobile"] #ta-stats p{font-size:10px;margin:8px 0 2px}
+html[data-view="mobile"] #ta-h2h .ta-h2h-row{font-size:11px;padding:5px 0;gap:5px;flex-wrap:nowrap}
+html[data-view="mobile"] #ta-h2h .ta-h2h-row span{min-width:0;flex:1}
+html[data-view="mobile"] #ta-h2h .ta-h2h-row strong{flex-shrink:0;max-width:45%}
+</style>
+<style id="ta-results-aligned">
+html[data-view="mobile"] .ta-result-row {display:grid;grid-template-columns:minmax(0,1fr) 64px;gap:2px;align-items:center;min-height:34px;border-bottom:1px solid #383838;padding:0!important;}
+html[data-view="mobile"] .ta-result-row .ta-compact-line,html[data-view="mobile"] .ta-result-row:has(.ta-match-actions) .ta-compact-line {grid-template-columns:30px minmax(0,1fr) 36px minmax(0,1fr);gap:2px;min-height:34px;border:0;padding:2px 0;}
+html[data-view="mobile"] .ta-result-row .ta-match-home span,html[data-view="mobile"] .ta-result-row .ta-match-away span {font-size:11px;line-height:1.2;white-space:normal;overflow-wrap:normal;word-break:normal;}
+html[data-view="mobile"] .ta-result-row .ta-match-score {background:transparent;padding:0;font-size:12px;}
+html[data-view="mobile"] .ta-result-row .ta-match-actions {display:flex;gap:2px;justify-content:flex-end;}
+html[data-view="mobile"] .ta-result-row .ta-match-actions .ta-stat-button {width:30px;height:30px;min-height:30px;padding:0!important;margin:0!important;}
+html[data-view="mobile"] .ta-result-row:not(:has(.ta-match-actions)) {grid-template-columns:minmax(0,1fr);}
 </style>
 </body>
 </html>
