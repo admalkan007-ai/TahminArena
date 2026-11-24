@@ -179,7 +179,19 @@ nav button.active {
 </nav>
 
 <script>
-window.taCompactRow=function(parent,m,scored){
+window.taPitchIds={PL:'l_4WFCIZ',PD:'l_0ErfuF',BL1:'l_1Isor4',SA:'l_0ALvwF',FL1:'l_3FJFUl',DED:'l_4H43wr',PPL:'l_4QexZg',CL:'l_0bfbkO',WC:'l_1XLtP0'};
+const taPitchCache=new Map();
+function taNorm(v){return String(v||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');}
+function taSameTeam(a,b){const x=[a?.name,a?.shortName].map(taNorm).filter(Boolean),y=[b?.name,b?.shortName].map(taNorm).filter(Boolean);return x.some(n=>y.includes(n));}
+async function taAttach(row,m,lid){
+ const actions=document.createElement('div');actions.className='ta-match-actions';row.append(actions);
+ if(!taPitchCache.has(lid))taPitchCache.set(lid,fetch('./data/pitch/'+lid+'.json').then(r=>{if(!r.ok)throw Error('Veri yok');return r.json();}).then(j=>{if(j.data?.league?.id!==lid||!Array.isArray(j.data.matches))throw Error('Lig verisi yok');return j.data.matches;}).catch(()=>{taPitchCache.delete(lid);return [];}));
+ const list=await taPitchCache.get(lid);if(!row.isConnected)return;
+ const candidates=list.filter(x=>/^m_[a-zA-Z0-9]{6}$/.test(x.id||'')&&Math.abs(new Date(x.time_utc)-new Date(m.utcDate))<=300000&&taSameTeam(m.homeTeam,x.home_team)&&taSameTeam(m.awayTeam,x.away_team));
+ if(candidates.length===1)window.taStatsButton(actions,{...candidates[0],league_id:lid});
+ else {for(const label of ['📊','H2H']){const b=document.createElement('button');b.type='button';b.className='ta-stat-button';b.textContent=label;b.disabled=true;b.title='Bu maç için eşleşen detay verisi bulunamadı';b.setAttribute('aria-label',b.title);actions.append(b);}}
+}
+window.taCompactRow=function(parent,m,scored,lid){
  const row=document.createElement('div');row.className='ta-match-row'+(scored?' ta-result-row':'');parent.append(row);
  const date=new Date(m.time_utc||m.utcDate||m.date), home=m.home_team||m.homeTeam, away=m.away_team||m.awayTeam;
  const h=m.score_home??m.score?.fullTime?.home,a=m.score_away??m.score?.fullTime?.away;
@@ -193,6 +205,7 @@ window.taCompactRow=function(parent,m,scored){
  function team(t,c){const n=text('',c);const url=t?.image_url||t?.crest;if(typeof url==='string'&&url.startsWith('https://')){const img=document.createElement('img');img.src=url;img.alt='';img.loading='lazy';img.onerror=()=>img.remove();n.append(img);}const label=document.createElement('span');label.textContent=name(t);n.append(label);n.title=name(t);}
  text(scored?'MS':time,'ta-match-time');team(home,'ta-match-home');text(scored?(h??'—')+'-'+(a??'—'):'–','ta-match-score');team(away,'ta-match-away');
  if(scored&&h!=null&&a!=null){if(h>a)line.querySelector('.ta-match-home').classList.add('ta-winner');if(a>h)line.querySelector('.ta-match-away').classList.add('ta-winner');}
+ if(lid)taAttach(row,m,lid);
  return row;
 };
 </script>
@@ -253,7 +266,7 @@ if (premierLeague) {
   const fiksturButonu = detay.querySelector("button");
 
   fiksturButonu.addEventListener("click", async function() {
-    const bilgi = detay.querySelector("p");
+    let bilgi = detay.querySelector("p");
     bilgi.style.display = "block";
     bilgi.textContent = "Fikstür yükleniyor...";
    document.getElementById("pl-puan-tablosu")?.remove();
@@ -264,11 +277,11 @@ document.getElementById("pl-mac-sonuclari")?.remove();
       if (!cevap.ok) throw new Error("Dosya okunamadı");
 
       const veri = await cevap.json();
-      const maclar = veri.matches.slice(0, 10);
+      const maclar = veri.matches.filter(m=>!['FINISHED','CANCELLED','AWARDED','SUSPENDED'].includes(m.status)&&new Date(m.utcDate)>=new Date()).sort((a,b)=>new Date(a.utcDate)-new Date(b.utcDate)).slice(0,10);
 
       bilgi.replaceChildren();
 
-      maclar.forEach(mac => window.taCompactRow(bilgi,mac,false));
+      maclar.forEach(mac => window.taCompactRow(bilgi,mac,false,"l_4WFCIZ"));
 
       if (maclar.length === 0) {
         bilgi.textContent = "Planlanmış maç bulunamadı.";
@@ -462,7 +475,7 @@ document.getElementById("pl-puan-tablosu")?.remove();
         return;
       }
 
-      maclar.forEach(mac => window.taCompactRow(alan,mac,true));
+      maclar.forEach(mac => window.taCompactRow(alan,mac,true,"l_4WFCIZ"));
     } catch (hata) {
       alan.textContent = "Maç sonuçları yüklenemedi.";
     }
@@ -550,7 +563,7 @@ document.getElementById("pl-puan-tablosu")?.remove();
           const zaman = new Date(m.utcDate).toLocaleString('tr-TR', {
             timeZone:'Europe/Istanbul',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'
           });
-          window.taCompactRow(alan,m,false);
+          window.taCompactRow(alan,m,false,window.taPitchIds[ligBilgi.kod]);
         }
       } catch(e) { if (no === istek) alan.textContent = `${ligBilgi.isim} fikstürü yüklenemedi: ${e.message}`; }
     });
@@ -620,7 +633,7 @@ document.getElementById("pl-puan-tablosu")?.remove();
         alan.replaceChildren();
         baslik(`⚽ ${ligBilgi.isim} Maç Sonuçları`);
         if (!maclar.length) satir('Veri dosyasında tamamlanmış maç bulunamadı.');
-        for (const m of maclar) window.taCompactRow(alan,m,true);
+        for (const m of maclar) window.taCompactRow(alan,m,true,window.taPitchIds[ligBilgi.kod]);
       } catch(e) { if (no === istek) alan.textContent = `${ligBilgi.isim} maç sonuçları yüklenemedi: ${e.message}`; }
     });
   }
@@ -889,6 +902,11 @@ html[data-view="mobile"] .ta-result-row .ta-match-score {background:transparent;
 html[data-view="mobile"] .ta-result-row .ta-match-actions {display:flex;gap:2px;justify-content:flex-end;}
 html[data-view="mobile"] .ta-result-row .ta-match-actions .ta-stat-button {width:30px;height:30px;min-height:30px;padding:0!important;margin:0!important;}
 html[data-view="mobile"] .ta-result-row:not(:has(.ta-match-actions)) {grid-template-columns:minmax(0,1fr);}
+</style>
+<style>
+html[data-view="mobile"] #leagues .ta-match-row .ta-compact-line {grid-template-columns:30px minmax(0,1fr) 36px minmax(0,1fr);gap:2px;min-height:34px;}
+html[data-view="mobile"] #leagues .ta-match-row .ta-match-home span,html[data-view="mobile"] #leagues .ta-match-row .ta-match-away span {font-size:11px;white-space:normal;overflow-wrap:anywhere;line-height:1.2;}
+.ta-match-actions button:disabled {opacity:.35;cursor:default;}
 </style>
 </body>
 </html>
