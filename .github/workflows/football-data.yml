@@ -49,10 +49,10 @@ jobs:
             get_data "$code" "$slug" 'matches?status=FINISHED' '-results'
           done <<'LEAGUES'
           PL premier-league
-          PD la-liga
+          PD1 la-liga
           BL1 bundesliga
-          SA serie-a
-          FL ligue-1
+          SA1 serie-a
+          FL1 ligue-1
           DED eredivisie
           PPL primeira-liga
           CL champions-league
