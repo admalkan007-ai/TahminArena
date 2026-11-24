@@ -23,7 +23,7 @@ jobs:
         with:
           ref: main
 
-      - name: Liglerin gercek verilerini indir
+      - name: Futbol verilerini indir
         env:
           API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
         shell: bash
@@ -40,21 +40,24 @@ jobs:
 
             echo "Indiriliyor: $filename"
 
-            curl --fail --silent --show-error \
+            if curl --fail --silent --show-error \
               --retry 2 --retry-delay 65 \
               -H "X-Auth-Token: $API_KEY" \
               "https://api.football-data.org/v4/competitions/${code}/${endpoint}" \
-              -o "${filename}.tmp"
+              -o "${filename}.tmp"; then
 
-            if jq -e --arg code "$code" \
-              '.competition.code == $code' \
-              "${filename}.tmp" > /dev/null; then
-              mv "${filename}.tmp" "$filename"
-              echo "Dogru lig verisi kaydedildi: $code"
+              if jq -e --arg code "$code" \
+                '.competition.code == $code' \
+                "${filename}.tmp" > /dev/null; then
+                mv "${filename}.tmp" "$filename"
+                echo "Dogru lig verisi kaydedildi: $code"
+              else
+                echo "UYARI: Yanlis lig verisi: $code"
+                rm -f "${filename}.tmp"
+              fi
             else
+              echo "UYARI: Veri alinamadi: $filename"
               rm -f "${filename}.tmp"
-              echo "Hatali lig verisi: $code"
-              return 1
             fi
 
             sleep 7
@@ -74,8 +77,7 @@ jobs:
           update_league DED eredivisie
           update_league PPL primeira-liga
           update_league CL champions-league
-                   get_data WC world-cup "matches" ""
-          get_data WC world-cup "matches?status=FINISHED" "-results"
+          update_league WC world-cup
 
       - name: Verileri GitHub'a kaydet
         run: |
