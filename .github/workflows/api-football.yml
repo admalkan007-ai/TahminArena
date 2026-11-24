@@ -1,0 +1,31 @@
+
+name: TahminArena Ek Ligler
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  api-kontrol:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Lig erisimini kontrol et
+        env:
+          API_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for league in 203 3 848; do
+            echo "Lig kodu: $league"
+
+            curl --fail --silent --show-error \
+              -H "x-apisports-key: $API_KEY" \
+              "https://v3.football.api-sports.io/fixtures?league=${league}&season=2026" \
+              | jq '{errors, results}'
+
+            sleep 7
+          done
