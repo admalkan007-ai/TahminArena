@@ -1,3 +1,4 @@
+
 name: TahminArena Futbol Verileri
 
 on:
@@ -15,6 +16,7 @@ concurrency:
 jobs:
   update-football-data:
     runs-on: ubuntu-latest
+
     steps:
       - name: Depoyu indir
         uses: actions/checkout@v4
@@ -28,48 +30,61 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p data
-          # Her istek arasinda 7 saniye bekleyerek ucretsiz API limitini koru.
+
           get_data() {
-            local code="$1" slug="$2" endpoint="$3" suffix="$4"
+            local code="$1"
+            local slug="$2"
+            local endpoint="$3"
+            local suffix="$4"
             local filename="data/${slug}${suffix}.json"
+
             echo "Indiriliyor: $filename"
-            curl --fail --silent --show-error --retry 2 --retry-delay 10 \
+
+            curl --fail --silent --show-error \
+              --retry 2 --retry-delay 65 \
               -H "X-Auth-Token: $API_KEY" \
-              "https://api.football-data.org/v4/competitions/PD/standings" \
+              "https://api.football-data.org/v4/competitions/${code}/${endpoint}" \
               -o "${filename}.tmp"
-            mv "${filename}.tmp" "$filename"
+
+            if jq -e --arg code "$code" \
+              '.competition.code == $code' \
+              "${filename}.tmp" > /dev/null; then
+              mv "${filename}.tmp" "$filename"
+              echo "Dogru lig verisi kaydedildi: $code"
+            else
+              rm -f "${filename}.tmp"
+              echo "Hatali lig verisi: $code"
+              return 1
+            fi
+
             sleep 7
           }
 
-          # Premier League dosya adlari degismiyor.
-          # Diger ligler de ayni adlandirma sistemini kullaniyor.
-          while read -r code slug; do
-            get_data "$code" "$slug" 'matches?status=SCHEDULED' ''
-            get_data "$code" "$slug" 'standings' '-standings'
-            get_data "$code" "$slug" 'matches?status=FINISHED' '-results'
-          done <<'LEAGUES'
-          PL premier-league
-          PD1 la-liga
-          BL1 bundesliga
-          SA1 serie-a
-          FL1 ligue-1
-          DED eredivisie
-          PPL primeira-liga
-          CL champions-league
-          WC world-cup
-          LEAGUES
+          update_league() {
+            get_data "$1" "$2" "matches" ""
+            get_data "$1" "$2" "standings" "-standings"
+            get_data "$1" "$2" "matches?status=FINISHED" "-results"
+          }
+
+          update_league PL premier-league
+          update_league PD la-liga
+          update_league BL1 bundesliga
+          update_league SA serie-a
+          update_league FL1 ligue-1
+          update_league DED eredivisie
+          update_league PPL primeira-liga
+          update_league CL champions-league
+          update_league WC world-cup
 
       - name: Verileri GitHub'a kaydet
-        shell: bash
         run: |
-          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
-          if ! git diff --cached --quiet; then
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok"
+          else
             git commit -m "Futbol verilerini guncelle"
             git pull --rebase origin main
-            git push origin HEAD:main
-          else
-            echo "Degisen veri yok."
+            git push origin main
           fi
