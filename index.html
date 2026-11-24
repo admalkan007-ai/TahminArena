@@ -426,7 +426,8 @@ document.addEventListener("DOMContentLoaded", () => {
       detay.appendChild(alan);
     }
 
-    alan.textContent = "Maç sonuçları yükleniyor...";
+detay.querySelector("p").style.display = "none";
+document.getElementById("pl-puan-tablosu")?.remove();
 
     try {
       const cevap = await fetch("./data/premier-league-results.json");
