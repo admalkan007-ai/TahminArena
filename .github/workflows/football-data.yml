@@ -1,0 +1,37 @@
+
+name: TahminArena Futbol Verileri
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-football-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu indir
+        uses: actions/checkout@v4
+
+      - name: Futbol verilerini al
+        env:
+          API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: |
+          mkdir -p data
+
+          curl --fail --silent --show-error \
+            -H "X-Auth-Token: $API_KEY" \
+            "https://api.football-data.org/v4/competitions/PL/matches?status=SCHEDULED" \
+            -o data/premier-league.json
+
+      - name: Verileri GitHub'a kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/premier-league.json
+          git diff --cached --quiet || git commit -m "Futbol verilerini güncelle"
+          git push
