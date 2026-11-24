@@ -90,6 +90,16 @@ nav button {
 nav button.active {
   background: #33290d;
 }
+
+#live-list h3 {color:#f4c542;margin-top:24px;}
+.live-match {padding:12px 8px;border-bottom:1px solid #444;}
+.live-meta {font-size:12px;color:#bbb;margin-bottom:8px;}
+.live-teams {display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:8px;align-items:center;}
+.live-team {display:flex;align-items:center;gap:6px;overflow-wrap:anywhere;font-size:13px;}
+.live-team:last-child {justify-content:flex-end;text-align:right;}
+.live-team img {width:28px;height:28px;object-fit:contain;flex-shrink:0;}
+.live-score {font-weight:bold;color:#f4c542;white-space:nowrap;}
+.live-now {color:#ff7777;}
 </style>
 </head>
 <body>
@@ -136,7 +146,8 @@ nav button.active {
 <section id="live" class="page">
   <div class="card">
     <h2>🔴 Canlı Skorlar</h2>
-    <p>Gerçek maç verileri henüz bağlanmadı.</p>
+    <p id="live-info" role="status">Canlı ekran açıldığında maçlar yüklenir.</p>
+    <div id="live-list"></div>
   </div>
 </section>
 
@@ -679,6 +690,88 @@ msg.textContent=`${leagues.length} ek lig katalogda. Maç dosyaları lig seçild
 }catch(e){msg.textContent='Yeni ligler yüklenemedi: '+e.message;}
 })();
 
+</script>
+<script>
+(() => {
+  const page = document.getElementById('live');
+  const info = document.getElementById('live-info');
+  const list = document.getElementById('live-list');
+  const endpoint = 'https://tahminarena-live.admalkan007.workers.dev/';
+  const excluded = new Set(['l_0eg6C9']);
+  let timer = null, busy = false, last = null;
+  const el = (tag, text, parent, cls) => {
+    const n = document.createElement(tag);
+    n.textContent = text || '';
+    if (cls) n.className = cls;
+    if (parent) parent.append(n);
+    return n;
+  };
+  const clock = v => {
+    const d = new Date(v);
+    return v && !isNaN(d) ? d.toLocaleTimeString('tr-TR',{timeZone:'Europe/Istanbul',hour:'2-digit',minute:'2-digit',second:'2-digit'}) : '—';
+  };
+  const active = () => page.classList.contains('active') && !document.hidden;
+  const live = m => ['started','live','in_progress','half_time','halftime','first_half','second_half','extra_time'].includes(m.status);
+  const done = m => ['finished','ended','full_time'].includes(m.status);
+  const upcoming = m => ['not_started','scheduled','timed'].includes(m.status);
+  function team(t, parent, away) {
+    const box = el('div','',parent,'live-team');
+    const name = el('span',t?.name || 'Bilinmeyen takım');
+    let img;
+    if (typeof t?.image_url === 'string' && t.image_url.startsWith('https://cdn.pitchapi.dev/')) {
+      img = document.createElement('img'); img.src=t.image_url; img.alt=''; img.loading='lazy';
+      img.onerror=()=>img.remove();
+    }
+    if (away) {box.append(name); if(img)box.append(img);}
+    else {if(img)box.append(img);box.append(name);}
+  }
+  function render(data) {
+    const matches = data.matches.filter(m=>!excluded.has(m.league?.id) && m.league?.country_code!=='KSA' && !/saudi/i.test(m.league?.name||'') && m.league?.name!=='MLS');
+    const frag = document.createDocumentFragment();
+    const groups = [['🔴 Canlı maçlar',matches.filter(live)],['📅 Başlamamış maçlar',matches.filter(upcoming)],['🏁 Biten maçlar',matches.filter(done)],['Diğer durumlar',matches.filter(m=>!live(m)&&!upcoming(m)&&!done(m))]];
+    for (const [title, items] of groups) {
+      if(title==='Diğer durumlar'&&!items.length)continue;
+      el('h3',title+' ('+items.length+')',frag);
+      if(!items.length)el('p','Maç bulunmuyor.',frag);
+      items.sort((a,b)=>String(a.time_utc||'').localeCompare(String(b.time_utc||'')));
+      for(const m of items){
+        const row=el('div','',frag,'live-match');
+        const d=m.live_data;
+        const minute=d?.minute ?? d?.match?.minute;
+        const status=live(m)?('🔴 CANLI'+(Number.isFinite(minute)?' '+minute+"′":'')):done(m)?'MS':upcoming(m)?clock(m.time_utc).slice(0,5):({'postponed':'Ertelendi','cancelled':'İptal','suspended':'Durduruldu'}[m.status]||'Durum belirsiz');
+        el('div',(m.league?.name||'Lig')+' • '+status,row,'live-meta'+(live(m)?' live-now':''));
+        const teams=el('div','',row,'live-teams');
+        team(m.home_team,teams,false);
+        const h=d?.score_home ?? d?.match?.score_home ?? m.score_home;
+        const a=d?.score_away ?? d?.match?.score_away ?? m.score_away;
+        el('strong',Number.isInteger(h)&&Number.isInteger(a)?h+' - '+a:'—',teams,'live-score');
+        team(m.away_team,teams,true);
+      }
+    }
+    list.replaceChildren(frag);
+  }
+  async function update(){
+    if(!active()||busy)return;
+    busy=true;
+    if(!last)info.textContent='Maçlar yükleniyor...';
+    try {
+      const r=await fetch(endpoint,{signal:AbortSignal.timeout(15000)});
+      if(!r.ok)throw Error('HTTP '+r.status);
+      const d=await r.json();
+      if(d.success!==true||!Array.isArray(d.matches))throw Error('Geçersiz veri');
+      render(d);last=d.updated_at;
+      info.textContent='Son veri: '+clock(last)+' • 10 saniyede bir kontrol';
+    } catch(e){info.textContent='Bağlantı hatası. Tekrar denenecek.'+(last?' Son başarılı veri: '+clock(last):'');}
+    finally{busy=false;}
+  }
+  function sync(){
+    if(active()) {if(timer===null){update();timer=setInterval(update,10000);}}
+    else if(timer!==null){clearInterval(timer);timer=null;}
+  }
+  new MutationObserver(sync).observe(page,{attributes:true,attributeFilter:['class']});
+  document.addEventListener('visibilitychange',sync);
+  sync();
+})();
 </script>
 </body>
 </html>
