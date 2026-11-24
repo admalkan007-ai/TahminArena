@@ -35,7 +35,7 @@ jobs:
             echo "Indiriliyor: $filename"
             curl --fail --silent --show-error --retry 2 --retry-delay 10 \
               -H "X-Auth-Token: $API_KEY" \
-              "https://api.football-data.org/v4/competitions/${code}/${endpoint}" \
+              "https://api.football-data.org/v4/competitions/PD/standings" \
               -o "${filename}.tmp"
             mv "${filename}.tmp" "$filename"
             sleep 7
