@@ -14,12 +14,13 @@ concurrency:
 jobs:
   history:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
 
     steps:
       - name: Repoyu ac
         uses: actions/checkout@v4
 
-      - name: Gecmis sezonlari indir
+      - name: Tum liglerin gecmis sezonlarini indir
         env:
           PITCH_API_KEY: ${{ secrets.PITCH_API_KEY }}
         shell: bash
@@ -27,9 +28,25 @@ jobs:
           set -euo pipefail
 
           API="https://api.pitchapi.dev"
-          ID="l_0S1uaf"
 
-          mkdir -p "data/pitch-history/$ID"
+          mkdir -p data/pitch-history
+
+          curl --fail --silent --show-error \
+            --max-time 90 \
+            -H "X-API-KEY: $PITCH_API_KEY" \
+            "$API/v1/leagues" \
+            -o /tmp/leagues.json
+
+          jq -r '
+            (.data |
+              if type == "array" then .
+              else .leagues end
+            )[]
+            | select(.country_code != "KSA")
+            | select(.name != "MLS")
+            | [.id, .name]
+            | @tsv
+          ' /tmp/leagues.json > /tmp/league-list.txt
 
           SEASONS=(
             "2021/2022"
@@ -37,116 +54,130 @@ jobs:
             "2023/2024"
             "2024/2025"
             "2025/2026"
+            "2021"
+            "2022"
+            "2023"
+            "2024"
+            "2025"
           )
 
           BASARILI=0
+          TOPLAM=0
+          ATLANAN=0
+          BASARISIZ=0
 
-          for SEASON in "${SEASONS[@]}"; do
+          while IFS=$'\t' read -r ID NAME; do
 
-            FILE="${SEASON//\//-}"
+            if [[ ! "$ID" =~ ^l_[a-zA-Z0-9]+$ ]]; then
+              continue
+            fi
+
+            mkdir -p "data/pitch-history/$ID"
 
             echo "================================"
-            echo "Super Lig - $SEASON"
+            echo "LIG: $NAME"
             echo "================================"
 
-            if curl --fail --silent --show-error \
-              --retry 3 \
-              --retry-delay 5 \
-              --max-time 90 \
-              -H "X-API-KEY: $PITCH_API_KEY" \
-              --get "$API/v1/leagues/$ID/matches" \
-              --data-urlencode "season=$SEASON" \
-              --data-urlencode "status=played" \
-              -o /tmp/history.json; then
+            for SEASON in "${SEASONS[@]}"; do
 
-              if jq -e \
-                --arg id "$ID" \
-                --arg season "$SEASON" \
-                '.data.league.id == $id and
-                 .data.league.season == $season and
-                 (.data.matches | type == "array")' \
-                /tmp/history.json > /dev/null; then
+              FILE="${SEASON//\//-}"
 
-                jq '.data.matches |= map(
-                  select(
-                    .status == "finished" and
-                    .score_home != null and
-                    .score_away != null
-                  )
-                )' /tmp/history.json \
-                  > /tmp/finished.json
+              TARGET="data/pitch-history/$ID/$FILE.json"
 
-                COUNT=$(jq \
-                  '.data.matches | length' \
-                  /tmp/finished.json)
+              if [ -s "$TARGET" ]; then
+                echo "$NAME $SEASON: Zaten kayitli"
+                ATLANAN=$((ATLANAN + 1))
+                continue
+              fi
 
-                if [ "$COUNT" -gt 0 ]; then
+              if curl --fail --silent --show-error \
+                --retry 2 \
+                --retry-delay 10 \
+                --max-time 60 \
+                -H "X-API-KEY: $PITCH_API_KEY" \
+                --get "$API/v1/leagues/$ID/matches" \
+                --data-urlencode "season=$SEASON" \
+                --data-urlencode "status=played" \
+                -o /tmp/history.json; then
 
-                  cp /tmp/finished.json \
-                    "data/pitch-history/$ID/$FILE.json"
+                if jq -e \
+                  --arg id "$ID" \
+                  --arg season "$SEASON" \
+                  '.data.league.id == $id and
+                   (.data.league.season | tostring) == $season and
+                   (.data.matches | type == "array")' \
+                  /tmp/history.json > /dev/null; then
 
-                  echo "BASARILI: $COUNT mac"
-
-                  BASARILI=$((BASARILI + 1))
-
-                  jq -r '
-                    .data.matches[]
-                    | select(
-                      (
-                        .home_team.name + " " +
-                        .away_team.name
-                      ) | test("Beşiktaş"; "i")
+                  jq '.data.matches |= map(
+                    select(
+                      .status == "finished" and
+                      .score_home != null and
+                      .score_away != null
                     )
-                    | select(
-                      (
-                        .home_team.name + " " +
-                        .away_team.name
-                      ) | test("Galatasaray"; "i")
-                    )
-                    | [
-                        .time_utc,
-                        .home_team.name,
-                        .score_home,
-                        .score_away,
-                        .away_team.name
-                      ]
-                    | @tsv
-                  ' /tmp/finished.json
+                  )' /tmp/history.json \
+                    > /tmp/finished.json
+
+                  COUNT=$(jq \
+                    '.data.matches | length' \
+                    /tmp/finished.json)
+
+                  if [ "$COUNT" -gt 0 ]; then
+
+                    cp /tmp/finished.json "$TARGET"
+
+                    BASARILI=$((BASARILI + 1))
+                    TOPLAM=$((TOPLAM + COUNT))
+
+                    echo "BASARILI: $NAME $SEASON - $COUNT mac"
+
+                  else
+                    echo "$NAME $SEASON: Mac bulunamadi"
+                  fi
 
                 else
-                  echo "Bu sezonda mac bulunamadi."
+                  echo "$NAME $SEASON: Sezon dogrulanamadi"
                 fi
 
               else
-                echo "Sezon veya veri dogrulanamadi."
+                echo "$NAME $SEASON: API istegi basarisiz"
+                BASARISIZ=$((BASARISIZ + 1))
               fi
 
-            else
-              echo "API istegi basarisiz."
-            fi
+              sleep 5
 
-            sleep 3
+            done
 
-          done
+          done < /tmp/league-list.txt
 
-          echo "Basarili sezon sayisi: $BASARILI / 5"
+          echo "================================"
+          echo "ARSIV RAPORU"
+          echo "Yeni sezon dosyasi: $BASARILI"
+          echo "Yeni mac kaydi: $TOPLAM"
+          echo "Onceden kayitli sezon: $ATLANAN"
+          echo "Basarisiz API istegi: $BASARISIZ"
+          echo "================================"
 
-          if [ "$BASARILI" -eq 0 ]; then
-            echo "Gecmis sezon verisi alinamadi."
+          if [ "$BASARILI" -eq 0 ] && [ "$ATLANAN" -eq 0 ]; then
+            echo "Arsiv verisi bulunamadi"
             exit 1
           fi
 
       - name: Arsivi GitHub'a kaydet
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ ! -d data/pitch-history ]; then
+            exit 0
+          fi
 
           git add data/pitch-history/
 
           if git diff --cached --quiet; then
             echo "Degisiklik yok."
           else
-            git commit -m "PitchAPI gecmis sezon arsivi"
+            git commit -m "Tum liglerin gecmis sezon arsivi"
             git pull --rebase origin main
             git push origin HEAD:main
           fi
