@@ -74,7 +74,8 @@ jobs:
           update_league DED eredivisie
           update_league PPL primeira-liga
           update_league CL champions-league
-          update_league WC world-cup
+                   get_data WC world-cup "matches" ""
+          get_data WC world-cup "matches?status=FINISHED" "-results"
 
       - name: Verileri GitHub'a kaydet
         run: |
