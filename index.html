@@ -788,5 +788,20 @@ async function open(m){const current=++seq;controller?.abort();controller=new Ab
   sync();
 })();
 </script>
+<style>
+#ta-h2h{width:min(620px,92vw);max-height:85vh;overflow:auto;background:#171717;color:white;border:1px solid #d4af37;border-radius:14px;padding:18px;box-sizing:border-box}#ta-h2h::backdrop{background:#000b}#ta-h2h button{background:#252525;color:#e9c65a;border:1px solid #8c7433;border-radius:7px;padding:8px;cursor:pointer}.ta-h2h-row{display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #444}.ta-h2h-row strong{text-align:right}
+</style>
+<dialog id="ta-h2h"><div class="ta-stat-heading"><h3>H2H – Karşılıklı maç geçmişi</h3><button type="button" id="ta-h2h-close">Kapat ×</button></div><div id="ta-h2h-content"></div></dialog>
+<script>
+(()=>{
+const dialog=document.getElementById('ta-h2h'), area=document.getElementById('ta-h2h-content');let seq=0, controller;
+const make=(tag,text,parent,cls)=>{const n=document.createElement(tag);n.textContent=text;if(cls)n.className=cls;parent.append(n);return n;};
+const row=(label,value)=>{const r=make('div','',area,'ta-h2h-row');make('span',label,r);make('strong',String(value),r);};
+document.getElementById('ta-h2h-close').onclick=()=>dialog.close();dialog.addEventListener('close',()=>{seq++;controller?.abort();});
+async function open(m){const current=++seq;controller?.abort();controller=new AbortController();area.replaceChildren();make('p','Karşılaşmalar yükleniyor…',area);if(!dialog.open)dialog.showModal();try{const r=await fetch('https://tahminarena-live.admalkan007.workers.dev/match/'+m.id+'/h2h',{signal:controller.signal});if(!r.ok)throw Error('HTTP '+r.status);const j=await r.json();if(current!==seq)return;if(!j.success||!j.data)throw Error('Veri yok');const d=j.data;area.replaceChildren();const home=d.home_team||m.home_team,away=d.away_team||m.away_team;make('h3',(home?.name||'Ev sahibi')+' – '+(away?.name||'Deplasman'),area);const list=Array.isArray(d.recent_matches)?d.recent_matches:[];const valid=v=>v!==null&&v!==undefined&&v!==''&&Number.isInteger(Number(v))&&Number(v)>=0;const games=list.filter(x=>x.finished===true&&valid(x.score_home)&&valid(x.score_away)&&((x.home?.id===home?.id&&x.away?.id===away?.id)||(x.home?.id===away?.id&&x.away?.id===home?.id))).sort((a,b)=>String(b.time_utc).localeCompare(String(a.time_utc))).slice(0,10);if(!games.length){make('p','Yeterli karşılaşma verisi bulunamadı.',area);}else{let hw=0,aw=0,draw=0,goals=0,over=0,btts=0;for(const x of games){const h=Number(x.score_home),a=Number(x.score_away);goals+=h+a;over+=Number(h+a>2);btts+=Number(h>0&&a>0);if(h===a)draw++;else if((h>a&&x.home.id===home.id)||(a>h&&x.away.id===home.id))hw++;else aw++;}const n=games.length,pct=v=>'%'+(100*v/n).toFixed(1);make('h4','Son '+n+' tamamlanmış karşılaşma',area);row(home.name+' galibiyeti',hw);row('Beraberlik',draw);row(away.name+' galibiyeti',aw);row('Maç başına gol',(goals/n).toFixed(2));row('2.5 üst',pct(over));row('2.5 alt',pct(n-over));row('Karşılıklı gol var',pct(btts));row('Karşılıklı gol yok',pct(n-btts));make('h4','Geçmiş sonuçlar',area);for(const x of games)row(new Date(x.time_utc).toLocaleDateString('tr-TR',{timeZone:'Europe/Istanbul'})+' • '+x.home.name+' – '+x.away.name,x.score_home+' - '+x.score_away);}
+const upcoming=list.filter(x=>x.finished===false&&new Date(x.time_utc).getTime()>Date.now());if(upcoming.length){make('h4','Gelecek karşılaşmalar',area);for(const x of upcoming)row(x.home?.name+' – '+x.away?.name,new Date(x.time_utc).toLocaleString('tr-TR',{timeZone:'Europe/Istanbul'}));}make('p','Kaynak: PitchAPI. Analiz yalnızca listelenen tamamlanmış maçlara dayanır.',area);}catch(e){if(current===seq){area.replaceChildren();make('p','H2H verisi alınamadı. Daha sonra tekrar dene.',area);}}}
+const old=window.taStatsButton;window.taStatsButton=(parent,m)=>{old(parent,m);if(!/^m_[a-zA-Z0-9]{6}$/.test(m.id||''))return;const b=make('button','H2H',parent,'ta-stat-button');b.type='button';b.onclick=e=>{e.stopPropagation();open(m);};};
+})();
+</script>
 </body>
 </html>
