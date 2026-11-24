@@ -211,5 +211,62 @@ document.querySelectorAll(".league").forEach(function(lig) {
 });
 </script>
 
+<script>
+const premierLeague = Array.from(
+  document.querySelectorAll(".league")
+).find(lig => lig.textContent.includes("Premier League"));
+
+if (premierLeague) {
+  const detay = premierLeague.nextElementSibling;
+
+  const fiksturButonu = detay.querySelector("button");
+
+  fiksturButonu.addEventListener("click", async function() {
+    const bilgi = detay.querySelector("p");
+    bilgi.textContent = "Fikstür yükleniyor...";
+
+    try {
+      const cevap = await fetch("./data/premier-league.json");
+      if (!cevap.ok) throw new Error("Dosya okunamadı");
+
+      const veri = await cevap.json();
+      const maclar = veri.matches.slice(0, 10);
+
+      bilgi.replaceChildren();
+
+      maclar.forEach(mac => {
+        const satir = document.createElement("div");
+        const tarih = new Date(mac.utcDate);
+
+        satir.style.padding = "10px 0";
+        satir.style.borderBottom = "1px solid #393939";
+
+        satir.textContent =
+          tarih.toLocaleString("tr-TR", {
+            timeZone: "Europe/Istanbul",
+            day: "2-digit",
+            month: "2-digit",
+            year: "numeric",
+            hour: "2-digit",
+            minute: "2-digit"
+          }) +
+          " | " +
+          mac.homeTeam.shortName +
+          " - " +
+          mac.awayTeam.shortName;
+
+        bilgi.appendChild(satir);
+      });
+
+      if (maclar.length === 0) {
+        bilgi.textContent = "Planlanmış maç bulunamadı.";
+      }
+    } catch (hata) {
+      bilgi.textContent = "Fikstür yüklenemedi.";
+    }
+  });
+}
+</script>
+
 </body>
 </html>
