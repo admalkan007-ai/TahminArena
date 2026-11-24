@@ -189,7 +189,7 @@ async function taAttach(row,m,lid){
  const list=await taPitchCache.get(lid);if(!row.isConnected)return;
  const candidates=list.filter(x=>/^m_[a-zA-Z0-9]{6}$/.test(x.id||'')&&Math.abs(new Date(x.time_utc)-new Date(m.utcDate))<=300000&&taSameTeam(m.homeTeam,x.home_team)&&taSameTeam(m.awayTeam,x.away_team));
  if(candidates.length===1)window.taStatsButton(actions,{...candidates[0],league_id:lid});
- else {for(const label of ['📊','H2H']){const b=document.createElement('button');b.type='button';b.className='ta-stat-button';b.textContent=label;b.disabled=true;b.title='Bu maç için eşleşen detay verisi bulunamadı';b.setAttribute('aria-label',b.title);actions.append(b);}}
+ else {for(const label of ['📊','H2H']){const b=document.createElement('button');b.type='button';b.className='ta-stat-button';b.textContent=label;b.title=label==='H2H'?'Karşılıklı maç geçmişi':'Maç istatistikleri';b.setAttribute('aria-label',b.title);b.onclick=()=>{const dialog=document.getElementById(label==='H2H'?'ta-h2h':'ta-stats');const area=document.getElementById(label==='H2H'?'ta-h2h-content':'ta-stat-content');area.replaceChildren();const h=document.createElement('h3');h.textContent=(m.homeTeam?.shortName||m.homeTeam?.name||'Ev sahibi')+' – '+(m.awayTeam?.shortName||m.awayTeam?.name||'Deplasman');const p=document.createElement('p');p.textContent='Bu maç için doğrulanmış detay verisi henüz bulunamadı. Yanlış maç verisi gösterilmemektedir.';area.append(h,p);if(!dialog.open)dialog.showModal();};actions.append(b);}}
 }
 window.taCompactRow=function(parent,m,scored,lid){
  const row=document.createElement('div');row.className='ta-match-row'+(scored?' ta-result-row':'');parent.append(row);
@@ -906,7 +906,7 @@ html[data-view="mobile"] .ta-result-row:not(:has(.ta-match-actions)) {grid-templ
 <style>
 html[data-view="mobile"] #leagues .ta-match-row .ta-compact-line {grid-template-columns:30px minmax(0,1fr) 36px minmax(0,1fr);gap:2px;min-height:34px;}
 html[data-view="mobile"] #leagues .ta-match-row .ta-match-home span,html[data-view="mobile"] #leagues .ta-match-row .ta-match-away span {font-size:11px;white-space:normal;overflow-wrap:anywhere;line-height:1.2;}
-.ta-match-actions button:disabled {opacity:.35;cursor:default;}
+.ta-match-actions .ta-stat-button {opacity:1;color:#f4c542;border-color:#8c7433;cursor:pointer;}
 </style>
 </body>
 </html>
