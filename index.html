@@ -809,5 +809,39 @@ const upcoming=list.filter(x=>x.finished===false&&new Date(x.time_utc).getTime()
 const old=window.taStatsButton;window.taStatsButton=(parent,m)=>{old(parent,m);if(!/^m_[a-zA-Z0-9]{6}$/.test(m.id||''))return;const b=make('button','H2H',parent,'ta-stat-button');b.type='button';b.onclick=e=>{e.stopPropagation();open(m);};};
 })();
 </script>
+<style id="ta-mobile">
+@media (max-width: 600px) {
+  body {font-size:13px;line-height:1.45;padding-bottom:calc(76px + env(safe-area-inset-bottom, 0px));overflow-wrap:anywhere;}
+  header {font-size:21px;padding:12px 8px;}
+  main {width:100%;padding:8px;}
+  .card {padding:10px;margin-bottom:9px;border-radius:9px;min-width:0;}
+  h2 {font-size:17px;margin:6px 0 10px;}
+  h3 {font-size:14px;margin:8px 0;}
+  p {font-size:12px;}
+  .league {padding:10px 4px;font-size:13px;min-height:40px;}
+  .league-detail {padding:8px;margin-bottom:6px;min-width:0;}
+  .league-detail p {font-size:12px;}
+  .league-detail button,.ta-stat-button {font-size:12px !important;padding:6px 8px !important;margin:3px !important;min-height:36px;max-width:100%;white-space:normal;}
+  .lig-veri-alani,.takim-maclari,.takim-son-bes {min-width:0;max-width:100%;overflow-wrap:anywhere;}
+  nav {padding-bottom:env(safe-area-inset-bottom, 0px);z-index:10;}
+  nav button {min-width:0;font-size:10px;padding:8px 1px;min-height:48px;}
+  .live-match {padding:8px 2px;}
+  .live-meta {font-size:11px;margin-bottom:5px;}
+  .live-teams {gap:4px;}
+  .live-team {font-size:12px;gap:4px;min-width:0;}
+  .live-team img {width:21px;height:21px;}
+  .live-score {font-size:12px;}
+  #ta-stats,#ta-h2h {width:calc(100% - 16px);max-width:calc(100% - 16px);max-height:85vh;max-height:85dvh;padding:10px;font-size:12px;border-radius:10px;}
+  #ta-stats button,#ta-h2h button {font-size:12px;padding:6px 8px;min-height:36px;margin:3px;}
+  .ta-stat-heading {gap:6px;}
+  .ta-stat-heading button {flex-shrink:0;}
+  .ta-stat-teams {gap:8px;margin:10px 0;}
+  .ta-stat-teams > div {flex:1;min-width:0;}
+  .ta-stat-teams img {width:34px;height:34px;margin-bottom:4px;}
+  .ta-stat-line {grid-template-columns:minmax(0,1fr) minmax(0,1.6fr) minmax(0,1fr);gap:4px;margin:8px 0 4px;font-size:12px;}
+  .ta-stat-bars {height:5px;margin-bottom:9px;}
+  .ta-h2h-row {gap:6px;padding:7px 0;flex-wrap:wrap;}
+}
+</style>
 </body>
 </html>
