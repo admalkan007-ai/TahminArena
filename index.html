@@ -169,3 +169,156 @@ function showPage(id, button) {
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TahminArena</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #101010;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  padding-bottom: 85px;
+}
+header {
+  background: #191919;
+  color: #f4c542;
+  text-align: center;
+  padding: 22px;
+  font-size: 27px;
+  font-weight: bold;
+}
+main {
+  padding: 18px;
+  max-width: 850px;
+  margin: auto;
+}
+.card {
+  background: #202020;
+  border: 1px solid #6b551c;
+  border-radius: 12px;
+  padding: 18px;
+  margin-bottom: 14px;
+}
+h2 { color: #f4c542; }
+p { color: #ccc; }
+.league {
+  padding: 13px;
+  border-bottom: 1px solid #393939;
+}
+.league:last-child { border-bottom: none; }
+nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  background: #191919;
+  border-top: 1px solid #6b551c;
+}
+nav button {
+  flex: 1;
+  background: transparent;
+  color: #f4c542;
+  border: none;
+  padding: 15px 2px;
+  cursor: pointer;
+  font-size: 12px;
+}
+nav button.active { background: #33290d; }
+.page { display: none; }
+.page.active { display: block; }
+</style>
+</head>
+<body>
+
+<header>⚽ TahminArena</header>
+
+<main>
+<section id="home" class="page active">
+  <div class="card">
+    <h2>🏆 Dünya Futbolu</h2>
+    <p>Büyük ligler ve uluslararası turnuvalar.</p>
+  </div>
+  <div class="card">
+    <h2>📊 Günün 2 Ücretsiz Maçı</h2>
+    <p>Detaylı istatistikler yakında.</p>
+  </div>
+</section>
+
+<section id="leagues" class="page">
+  <div class="card">
+    <h2>🌍 Futbol Ligleri</h2>
+    <div class="league">🇹🇷 Türkiye Süper Lig</div>
+    <div class="league">🏴 İngiltere Premier League</div>
+    <div class="league">🇪🇸 İspanya La Liga</div>
+    <div class="league">🇩🇪 Almanya Bundesliga</div>
+    <div class="league">🇮🇹 İtalya Serie A</div>
+    <div class="league">🇫🇷 Fransa Ligue 1</div>
+    <div class="league">🇳🇱 Hollanda Eredivisie</div>
+    <div class="league">🇵🇹 Portekiz Primeira Liga</div>
+    <div class="league">🇺🇸 ABD MLS</div>
+    <div class="league">🇸🇦 Suudi Arabistan Pro League</div>
+  </div>
+  <div class="card">
+    <h2>🏆 Uluslararası Turnuvalar</h2>
+    <div class="league">UEFA Şampiyonlar Ligi</div>
+    <div class="league">UEFA Avrupa Ligi</div>
+    <div class="league">UEFA Konferans Ligi</div>
+    <div class="league">FIFA Dünya Kupası</div>
+    <div class="league">UEFA Avrupa Şampiyonası</div>
+    <div class="league">Copa América</div>
+    <div class="league">Afrika Uluslar Kupası</div>
+  </div>
+</section>
+
+<section id="live" class="page">
+  <div class="card">
+    <h2>🔴 Canlı Skorlar</h2>
+    <p>Gerçek maç verileri henüz bağlanmadı.</p>
+  </div>
+</section>
+
+<section id="stats" class="page">
+  <div class="card">
+    <h2>📈 İstatistikler</h2>
+    <p>Günlük 2 ücretsiz maç ve Premium raporlar.</p>
+  </div>
+</section>
+
+<section id="premium" class="page">
+  <div class="card">
+    <h2>👑 Premium</h2>
+    <p>Özel istatistikler ve tahminler yakında.</p>
+  </div>
+</section>
+</main>
+
+<nav>
+  <button class="active" onclick="showPage('home',this)">🏠<br>Ana Sayfa</button>
+  <button onclick="showPage('leagues',this)">🌍<br>Ligler</button>
+  <button onclick="showPage('live',this)">🔴<br>Canlı</button>
+  <button onclick="showPage('stats',this)">📊<br>İstatistik</button>
+  <button onclick="showPage('premium',this)">👑<br>Premium</button>
+</nav>
+
+<script>
+function showPage(id, button) {
+  document.querySelectorAll('.page').forEach(page => {
+    page.classList.remove('active');
+  });
+  document.querySelectorAll('nav button').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  document.getElementById(id).classList.add('active');
+  button.classList.add('active');
+}
+</script>
+
+</body>
+</html>
