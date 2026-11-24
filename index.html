@@ -322,3 +322,21 @@ function showPage(id, button) {
 
 </body>
 </html>
+
+<script>
+document.querySelectorAll(".league").forEach(function(lig) {
+  lig.style.cursor = "pointer";
+
+  lig.addEventListener("click", function() {
+    const ligAdi = lig.textContent.trim();
+
+    alert(
+      ligAdi +
+      "\n\n📅 Fikstür" +
+      "\n🏆 Puan Durumu" +
+      "\n⚽ Maç Sonuçları" +
+      "\n\nBu ligin gerçek verileri yakında eklenecek."
+    );
+  });
+});
+</script>
