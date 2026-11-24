@@ -292,7 +292,8 @@ document.addEventListener("DOMContentLoaded", () => {
       detay.appendChild(alan);
     }
 
-    alan.textContent = "Puan durumu yükleniyor...";
+detay.querySelector("p").style.display = "none";
+document.getElementById("pl-mac-sonuclari")?.remove();
 
     try {
       const cevap = await fetch("./data/premier-league-standings.json");
