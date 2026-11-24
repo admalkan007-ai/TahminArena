@@ -317,8 +317,73 @@ document.addEventListener("DOMContentLoaded", () => {
           "display:flex;justify-content:space-between;" +
           "gap:10px;padding:10px 5px;border-bottom:1px solid #444;";
 
-        const ad = document.createElement("span");
-        ad.textContent = `${takim.position}. ${takim.team.shortName}`;
+     
+const ad = document.createElement("button");
+ad.type = "button";
+ad.textContent = `${takim.position}. ${takim.team.shortName}`;
+ad.style.cssText =
+  "background:none;border:none;color:#f4c542;" +
+  "cursor:pointer;text-align:left;font-size:14px;";
+
+ad.addEventListener("click", async () => {
+  let macAlani = satir.querySelector(".takim-maclari");
+
+  if (macAlani) {
+    macAlani.remove();
+    return;
+  }
+
+  macAlani = document.createElement("div");
+  macAlani.className = "takim-maclari";
+  macAlani.style.cssText =
+    "width:100%;padding:10px;color:white;";
+  macAlani.textContent = "Son 5 maç yükleniyor...";
+
+  satir.appendChild(macAlani);
+
+  try {
+    const cevap = await fetch("./data/premier-league-results.json");
+    if (!cevap.ok) throw new Error("Veri okunamadı");
+
+    const veri = await cevap.json();
+
+    const maclar = veri.matches
+      .filter(mac =>
+        mac.status === "FINISHED" &&
+        (mac.homeTeam.id === takim.team.id ||
+         mac.awayTeam.id === takim.team.id)
+      )
+      .sort((a, b) => new Date(b.utcDate) - new Date(a.utcDate))
+      .slice(0, 5);
+
+    macAlani.replaceChildren();
+
+    if (!maclar.length) {
+      macAlani.textContent = "Bu takımın maç sonucu bulunamadı.";
+      return;
+    }
+
+    maclar.forEach(mac => {
+      const sonuc = document.createElement("div");
+      sonuc.style.padding = "7px 0";
+
+      const tarih = new Date(mac.utcDate)
+        .toLocaleDateString("tr-TR");
+
+      sonuc.textContent =
+        `${tarih} | ${mac.homeTeam.shortName} ` +
+        `${mac.score.fullTime.home} - ` +
+        `${mac.score.fullTime.away} ${mac.awayTeam.shortName}`;
+
+      macAlani.appendChild(sonuc);
+    });
+  } catch (hata) {
+    macAlani.textContent = "Maçlar yüklenemedi.";
+  }
+});
+
+satir.style.flexWrap = "wrap";
+
 
         const puan = document.createElement("strong");
         puan.textContent = `${takim.points} P`;
