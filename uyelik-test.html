@@ -932,7 +932,7 @@ body>header{font-size:19px!important;font-weight:750;letter-spacing:.5px;color:#
 import {createClient} from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm';
 const client=createClient('https://qvseofugesgsfdvvvxin.supabase.co','sb_publishable_LPgfDNTs5FH5obmit-mxjg_bll9JqET');
 const $=id=>document.getElementById(id), dialog=$('ta-auth-dialog'), status=$('ta-auth-status'), form=$('ta-auth-form'), email=$('ta-auth-email'), pass=$('ta-auth-pass');
-const redirect='https://admalkan007-ai.github.io/TahminArena/';
+const redirect='https://admalkan007-ai.github.io/TahminArena/uyelik-test.html';
 let recovery=false;
 async function check(){const {data:{session}}=await client.auth.getSession();if(!session){status.textContent='Giriş yapılmadı.';return}try{const r=await fetch('https://tahminarena-quota.admalkan007.workers.dev/quota',{headers:{Authorization:'Bearer '+session.access_token},cache:'no-store'});const j=await r.json();status.textContent=r.ok&&j.success?'Hesap doğrulandı. Sunucudaki kalan hak: '+j.remaining+'/5. Hak düşme henüz aktif değil.':'Hesap veya kota doğrulanamadı: '+(j.error||r.status)}catch{status.textContent='Kota sunucusuna ulaşılamadı.'}}
 $('ta-auth-launch').onclick=()=>{dialog.showModal();check()};$('ta-auth-close').onclick=()=>dialog.close();
