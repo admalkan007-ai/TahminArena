@@ -1,95 +1,71 @@
-
 name: TahminArena PitchAPI
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '30 */6 * * *'
-
 permissions:
   contents: write
-
 concurrency:
   group: pitch-api-update
   cancel-in-progress: false
-
 jobs:
   ligleri-guncelle:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
-
-      - name: Butun ligleri indir
+      - name: Lig ve fikstur verilerini indir
         env:
           API_KEY: ${{ secrets.PITCH_API_KEY }}
-        shell: bash
         run: |
-          set -euo pipefail
-
-          mkdir -p data/pitch
-
-          curl -fsS --retry 3 \
-            -H "X-API-KEY: $API_KEY" \
-            "https://api.pitchapi.dev/v1/leagues" \
-            -o /tmp/leagues.json
-
-          jq -e '.data.leagues | type == "array"' \
-            /tmp/leagues.json
-
-          jq '[
-            .data.leagues[]
-          ]' /tmp/leagues.json > /tmp/catalog.json
-
-          jq -c '.[]' /tmp/catalog.json |
-          while IFS= read -r league; do
-
-            id=$(echo "$league" | jq -r '.id')
-            name=$(echo "$league" | jq -r '.name')
-
-            echo "Indiriliyor: $name ($id)"
-
-            target="data/pitch/${id}.json"
-
-            if curl -fsS --retry 2 \
-              --max-time 120 \
-              -H "X-API-KEY: $API_KEY" \
-              "https://api.pitchapi.dev/v1/leagues/${id}/matches?status=all" \
-              -o "${target}.tmp"; then
-
-              if jq -e --arg id "$id" \
-                '(.data.league.id == $id) and
-                 (.data.matches | type == "array")' \
-                "${target}.tmp" > /dev/null; then
-
-                mv "${target}.tmp" "$target"
-                echo "Basarili: $name"
-
-              else
-                rm -f "${target}.tmp"
-                echo "UYARI: Gecersiz veri: $name"
-              fi
-            else
-              rm -f "${target}.tmp"
-              echo "UYARI: Indirilemedi: $name"
-            fi
-
-            sleep 2
-          done
-
-          cp /tmp/catalog.json data/pitch/leagues.json
-
+          python - <<'PY'
+          import os,json,time,urllib.request,urllib.parse,pathlib,datetime
+          root=pathlib.Path('data/pitch');root.mkdir(parents=True,exist_ok=True)
+          def get(path,**params):
+              url='https://api.pitchapi.dev/v1/'+path+('?' + urllib.parse.urlencode(params) if params else '')
+              for attempt in range(3):
+                  try:
+                      with urllib.request.urlopen(urllib.request.Request(url,headers={'X-API-KEY':os.environ['API_KEY']}),timeout=45) as r:
+                          return json.load(r)['data']
+                  except Exception:
+                      if attempt==2: raise
+                      time.sleep(5*(attempt+1))
+          def save(path,obj):
+              tmp=path.with_suffix('.tmp');tmp.write_text(json.dumps(obj,ensure_ascii=False));tmp.replace(path)
+          catalog=get('leagues')['leagues'];assert isinstance(catalog,list) and catalog
+          cups={'l_0bfbkO','l_38d9HA','l_2WZ2tt'}
+          report=[]
+          for l in catalog:
+              id=l['id']
+              try:
+                  meta=get('leagues/'+id);season=meta['season'];assert season
+                  batches=[get('leagues/'+id+'/matches',season=season,status=status) for status in ('played','upcoming','all')]
+                  assert all(b['league']['id']==id and isinstance(b['matches'],list) for b in batches)
+                  rows={m['id']:m for b in reversed(batches) for m in b['matches']}
+                  assert rows
+                  if id in cups:
+                      for m in rows.values():
+                          try:
+                              detail=get('matches/'+m['id']);assert detail['id']==m['id']
+                              for key in ('round_name','has_playoff','stage','group','matchday'):
+                                  if detail.get(key) is not None:m[key]=detail[key]
+                          except Exception: pass
+                          time.sleep(.15)
+                  save(root/(id+'.json'),{'data':{'league':{**l,**meta},'matches':list(rows.values())}})
+                  report.append({'id':id,'season':season,'played':sum(m.get('status')=='finished' for m in rows.values()),'upcoming':sum(m.get('status')=='not_started' for m in rows.values()),'round_known':sum(bool(m.get('round_name')) for m in rows.values())})
+              except Exception as e:
+                  report.append({'id':id,'error':type(e).__name__});print('UYARI:',id,type(e).__name__)
+              time.sleep(.5)
+          save(root/'leagues.json',catalog)
+          save(root/'coverage.json',{'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'leagues':report})
+          PY
       - name: GitHub kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add data/pitch/
-
-          if git diff --cached --quiet; then
-            echo "Degisiklik yok"
-          else
-            git commit -m "PitchAPI liglerini guncelle"
+          if ! git diff --cached --quiet; then
+            git commit -m "PitchAPI fikstur ve lig verileri"
             git pull --rebase origin main
             git push origin main
           fi
