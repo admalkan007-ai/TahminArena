@@ -36,7 +36,10 @@ jobs:
           cups={'l_0bfbkO','l_38d9HA','l_2WZ2tt'}
           report=[]
           detail_budget=600
-          for l in sorted(catalog,key=lambda l:l['id'] not in cups):
+          fields=('round_name','has_playoff','stage','group','matchday','round','week','_ta_detail_checked')
+          pending={}
+          priority=set('l_0S1uaf l_1BFfna l_0bfbkO l_38d9HA l_2WZ2tt l_4WFCIZ l_0ErfuF l_1Isor4 l_0ALvwF l_3FJFUl l_4H43wr l_4QexZg l_2L6d1F l_1LMdEO l_3xwVF2 l_4DWyTT l_3hvsne l_3kyHLd l_0jy5yE l_0275VP l_1D8Xrl l_45VZuL l_4d6Bwl l_3zsMpo l_49Zmno l_1XsMdH l_0uqFK8 l_2ApGa4'.split())
+          for l in catalog:
               id=l['id']
               try:
                   base=get('leagues/'+id+'/matches',status='all')
@@ -54,33 +57,42 @@ jobs:
                       print('Eski kayit korundu:',id,flush=True)
                       report.append({'id':id,'error':'upcoming_failed','preserved':True})
                       continue
-                  if True:
-                      previous={}
-                      try:
-                          old=json.loads((root/(id+'.json')).read_text())['data']
-                          if old['league'].get('season')==season: previous={m['id']:m for m in old['matches']}
-                      except Exception: pass
-                      errors=0
-                      for m in rows.values():
-                          prior=previous.get(m['id'],{})
-                          for key in ('round_name','has_playoff','stage','group','matchday'):
-                              if m.get(key) is None and prior.get(key) is not None: m[key]=prior[key]
-                          if m.get('round_name') is not None and (id not in cups or m.get('has_playoff') is not None): continue
-                          if detail_budget<=0: continue
-                          detail_budget-=1
-                          try:
-                              detail=get('matches/'+m['id']);assert detail['id']==m['id']
-                              for key in ('round_name','has_playoff','stage','group','matchday'):
-                                  if detail.get(key) is not None:m[key]=detail[key]
-                          except Exception as e:
-                              errors+=1
-                              print('DETAY UYARI:',id,m['id'],str(e),flush=True)
-                          time.sleep(.05)
-                  save(root/(id+'.json'),{'data':{'league':{**l,**meta},'matches':list(rows.values())}})
-                  report.append({'id':id,'season':season,'played':sum(m.get('status')=='finished' for m in rows.values()),'upcoming':sum(m.get('status')=='not_started' for m in rows.values()),'upcoming_ok':upcoming_ok,'detail_errors':errors,'round_known':sum(bool(m.get('round_name')) for m in rows.values())})
+                  previous={}
+                  try:
+                      prior_data=json.loads((root/(id+'.json')).read_text())['data']
+                      if prior_data['league'].get('season')==season: previous={m['id']:m for m in prior_data['matches']}
+                  except Exception: pass
+                  for m in rows.values():
+                      prior=previous.get(m['id'],{})
+                      for key in fields:
+                          if m.get(key) is None and prior.get(key) is not None: m[key]=prior[key]
+                  errors=0
+                  pending[id]=({**l,**meta},rows,upcoming_ok)
               except Exception as e:
                   report.append({'id':id,'error':type(e).__name__});print('UYARI:',id,str(e),flush=True)
               time.sleep(.5)
+          from collections import deque
+          queues={}
+          errors={id:0 for id in pending}
+          for id,(meta,rows,ok) in pending.items():
+              queues[id]=deque(m for m in rows.values() if not m.get('_ta_detail_checked') and (not any(m.get(k) for k in ('round_name','matchday','round','week')) or id in cups))
+          order=sorted(pending,key=lambda id:(id not in priority and not any(x in str(pending[id][0].get('name','')).lower() for x in ('major league soccer','saudi pro league')),id))
+          while detail_budget>0 and any(queues.values()):
+              for id in order:
+                  for _ in range(3 if id in priority else 1):
+                      if not queues[id] or detail_budget<=0: break
+                      m=queues[id].popleft();detail_budget-=1
+                      try:
+                          detail=get('matches/'+m['id']);detail=detail.get('match',detail);assert detail['id']==m['id']
+                          for key in fields[:-1]:
+                              if detail.get(key) is not None:m[key]=detail[key]
+                          if any(m.get(k) for k in ('round_name','matchday','round','week')):m['_ta_detail_checked']=True
+                      except Exception as e:
+                          errors[id]+=1;print('DETAY UYARI:',id,m['id'],str(e),flush=True)
+                      time.sleep(.05)
+          for id,(meta,rows,ok) in pending.items():
+              save(root/(id+'.json'),{'data':{'league':meta,'matches':list(rows.values())}})
+              report.append({'id':id,'season':meta.get('season'),'played':sum(m.get('status')=='finished' for m in rows.values()),'upcoming':sum(m.get('status')=='not_started' for m in rows.values()),'upcoming_ok':ok,'detail_errors':errors[id],'round_known':sum(any(m.get(k) for k in ('round_name','matchday','round','week')) for m in rows.values()),'total':len(rows),'round_samples':list(dict.fromkeys(str(m.get('round_name')) for m in rows.values()))[:30]})
           if not any('played' in r for r in report): raise SystemExit('Hicbir lig guncellenemedi; mevcut veriler korundu')
           save(root/'leagues.json',catalog)
           save(root/'coverage.json',{'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'leagues':report})
