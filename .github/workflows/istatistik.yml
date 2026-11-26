@@ -1,0 +1,118 @@
+name: TahminArena Istatistik Arsivi
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 2,14 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: tahminarena-statistics
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - name: Istatistikleri topla
+        env:
+          API_KEY: ${{ secrets.PITCH_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json, os, pathlib, subprocess, time, urllib.parse, datetime
+          from collections import deque
+          root=pathlib.Path('data/statistics'); root.mkdir(parents=True,exist_ok=True)
+          key=os.environ['API_KEY']; assert key.strip(), 'API anahtari eksik'
+          deadline=time.monotonic()+2400
+          budget=900
+          def get(path, **params):
+              global budget
+              if budget<=0 or time.monotonic()>deadline: raise TimeoutError('Batch limit')
+              budget-=1
+              url='https://api.pitchapi.dev/v1/'+path+('?' + urllib.parse.urlencode(params) if params else '')
+              r=subprocess.run(['curl','-fsS','--max-time','30','-H','X-API-KEY: '+key,url],capture_output=True,text=True)
+              time.sleep(.25)
+              if r.returncode: raise RuntimeError(r.stderr.replace(key,'[SECRET]'))
+              return json.loads(r.stdout)['data']
+          def save(p,obj):
+              p.parent.mkdir(parents=True,exist_ok=True)
+              tmp=p.with_suffix('.tmp'); tmp.write_text(json.dumps(obj,ensure_ascii=False,separators=(',',':'))); tmp.replace(p)
+          def read(p,default):
+              return json.loads(p.read_text()) if p.exists() else default
+          priority=set('l_0S1uaf l_1BFfna l_0bfbkO l_38d9HA l_2WZ2tt l_4WFCIZ l_0ErfuF l_1Isor4 l_0ALvwF l_3FJFUl l_4H43wr l_4QexZg l_2L6d1F l_1LMdEO l_3xwVF2 l_4DWyTT l_3hvsne l_3kyHLd l_0jy5yE l_0275VP l_1D8Xrl l_45VZuL l_4d6Bwl l_3zsMpo l_49Zmno l_1XsMdH l_0uqFK8 l_2ApGa4'.split())
+          def preferred(l):
+              return l['id'] in priority or any(s in l['name'].lower() for s in ('major league soccer','saudi pro league'))
+          leagues=sorted(get('leagues')['leagues'],key=lambda l:(not preferred(l),l['id']))
+          state=read(root/'state.json',{'cursor':0})
+          tasks=[]; report=[]
+          for l in leagues:
+              seasons=sorted(set(l.get('seasons',[])),reverse=True)[:4]
+              for i,s in enumerate(seasons): tasks.append((l,s,i))
+          tasks.sort(key=lambda t:(not preferred(t[0]),t[2],t[0]['id']))
+          cursor=state['cursor']%max(1,len(tasks))
+          # Each batch refreshes a rotating group of season lists; old lists are retained.
+          for j in range(min(32,len(tasks))):
+              l,s,i=tasks[(cursor+j)%len(tasks)]
+              p=root/'seasons'/l['id']/(s.replace('/','-')+'.json')
+              try:
+                  d=get('leagues/'+l['id']+'/matches',season=s,status='played')
+                  assert d['league']['id']==l['id'] and d['league']['season']==s
+                  assert isinstance(d['matches'],list)
+                  old=read(p,{'matches':[]}); rows={m['id']:m for m in old['matches']}
+                  rows.update({m['id']:m for m in d['matches'] if m.get('status')=='finished'})
+                  save(p,{'league':d['league'],'matches':list(rows.values())})
+              except Exception as e: report.append({'league':l['id'],'season':s,'error':str(e)})
+          state['cursor']=(cursor+min(32,len(tasks)))%max(1,len(tasks))
+          routes={'summary':'','stats':'/stats','events':'/events','lineups':'/lineups','players':'/players','player_halves':'/players/halves','shots':'/shots','h2h':'/h2h'}
+          queues={}; seen=set(); coverage={}
+          for l,s,i in tasks:
+              p=root/'seasons'/l['id']/(s.replace('/','-')+'.json')
+              rows=read(p,{'matches':[]})['matches']; q=queues.setdefault(l['id'],deque())
+              for m in sorted(rows,key=lambda m:m.get('date') or '',reverse=True):
+                  mid=m['id']
+                  if mid in seen: continue
+                  seen.add(mid)
+                  mp=root/'matches'/mid[:4]/(mid+'.json')
+                  existing=read(mp,{'match':m,'parts':{}})
+                  parts=existing['parts']; missing=[k for k in routes if k not in parts]
+                  if missing:q.append((m,mp,missing))
+          count=0; errors=0; stop=False
+          order=[l['id'] for l in leagues]
+          while any(queues.values()) and budget>0 and time.monotonic()<deadline and not stop:
+              for lid in order:
+                  for _ in range(3 if any(l['id']==lid and preferred(l) for l in leagues) else 1):
+                      q=queues.get(lid)
+                      if not q: break
+                      m,p,missing=q.popleft(); obj=read(p,{'match':m,'parts':{}})
+                      for k in missing:
+                          if budget<=0 or time.monotonic()>deadline: stop=True; break
+                          try:
+                              data=get('matches/'+m['id']+routes[k])
+                              if isinstance(data,dict):
+                                  if data.get('match_id') is not None: assert data['match_id']==m['id']
+                                  if k=='summary': assert data.get('id')==m['id']
+                              assert isinstance(data,(dict,list))
+                              obj['parts'][k]=data; save(p,obj); count+=1
+                          except Exception as e:
+                              errors+=1
+                              if len(report)<100: report.append({'match':m['id'],'part':k,'error':str(e)})
+                              if '429' in str(e) or '403' in str(e): stop=True; break
+                      if stop: break
+                  if stop: break
+          for p in (root/'matches').glob('*/*.json'):
+              obj=read(p,{}); parts=obj.get('parts',{})
+              for k in routes:
+                  if k in parts: coverage[k]=coverage.get(k,0)+1
+          save(root/'state.json',state)
+          save(root/'coverage.json',{'updated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'catalog_leagues':len(leagues),'target_seasons':len(tasks),'indexed_matches':len(seen),'endpoint_responses':coverage,'new_responses':count,'errors':errors,'warnings':report,'note':'Response counts do not guarantee nonempty statistic fields.'})
+          PY
+      - name: Arsivi kaydet
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/statistics/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update statistics archive'
+            git pull --rebase origin main
+            git push origin main
+          fi
