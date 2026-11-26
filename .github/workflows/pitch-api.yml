@@ -75,7 +75,12 @@ jobs:
           queues={}
           errors={id:0 for id in pending}
           for id,(meta,rows,ok) in pending.items():
-              queues[id]=deque(m for m in rows.values() if not m.get('_ta_detail_checked') and (not any(m.get(k) for k in ('round_name','matchday','round','week')) or id in cups))
+              today=datetime.datetime.now(datetime.timezone.utc).date()
+              def near(m):
+                  try: return abs((datetime.date.fromisoformat(str(m.get('date',''))[:10])-today).days)
+                  except (ValueError,TypeError): return 99999
+              candidates=[m for m in rows.values() if not m.get('_ta_detail_checked') and (not any(m.get(k) for k in ('round_name','matchday','round','week')) or id in cups)]
+              queues[id]=deque(sorted(candidates,key=lambda m:(near(m),str(m.get('date','')),m['id'])))
           order=sorted(pending,key=lambda id:(id not in priority and not any(x in str(pending[id][0].get('name','')).lower() for x in ('major league soccer','saudi pro league')),id))
           while detail_budget>0 and any(queues.values()):
               for id in order:
