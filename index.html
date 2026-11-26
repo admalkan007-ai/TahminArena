@@ -1100,6 +1100,50 @@ window.taAnalysisLock=(item,line,label)=>{item.classList.add('ta-analysis-locked
 <style>
 .ta-ai-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px}.ta-ai-tabs button{margin:0!important;font-size:12px}.ta-ai-card{background:#222;border-radius:9px;padding:12px;margin:8px 0}.ta-ai-line{display:flex;justify-content:space-between;gap:8px}.ta-ai-track{height:7px;background:#383838;border-radius:8px;margin:8px 0;overflow:hidden}.ta-ai-track i{display:block;height:100%;background:#d4af37}.ta-ai-card small{color:#bbb}
 </style><script>
+/* TahminArena v1 — bağımsız hesaplama motoru, ağ isteği yok. */
+(function(root){
+'use strict';
+function analyze(detail,history,fixture){
+ const date=Date.parse(fixture.start_time), home=fixture.home_id,away=fixture.away_id;
+ if(!Number.isFinite(date)||!home||!away||home===away)throw Error('Doğrulanmış takım kimlikleri ve maç tarihi gerekli');
+ const valid=(x)=>Number.isInteger(x)&&x>=0;
+ const rows=[...new Map(history.filter(m=>m.id&&m.status==='finished'&&Number.isFinite(Date.parse(m.time_utc))&&Date.parse(m.time_utc)<date&&valid(m.score_home)&&valid(m.score_away)).map(m=>[m.id,m])).values()].sort((a,b)=>Date.parse(b.time_utc)-Date.parse(a.time_utc));
+ const team=(id,side)=>rows.filter(m=>m[side+'_team']?.id===id).slice(0,10);
+ const h=team(home,'home'),a=team(away,'away');
+ const mean=(r,k)=>r.reduce((s,m)=>s+m[k],0)/r.length;
+ const enough=h.length>=5&&a.length>=5;
+ const lh=enough?(mean(h,'score_home')+mean(a,'score_home'))/2:null,la=enough?(mean(h,'score_away')+mean(a,'score_away'))/2:null;
+ function poisson(l){let p=Math.exp(-l),r=[p];for(let i=1;i<=Math.max(20,Math.ceil(l+12*Math.sqrt(l)));i++){p*=l/i;r.push(p);}return r;}
+ const grid=[];if(enough){const x=poisson(lh),y=poisson(la);for(let i=0;i<x.length;i++)for(let j=0;j<y.length;j++)grid.push([i,j,x[i]*y[j]]);}
+ const result=(x,y)=>x>y?'1':x<y?'2':'X';
+ function event(m,o,x,y){const n=m.market_name,k=Number(m.handicap),v=o.outcome_name;
+ if(n==='Full Time Result')return ['1','X','2'].includes(v)?result(x,y)===v:null;
+ if(n==='European Handicap')return Number.isInteger(k)&&['1','X','2'].includes(v)?result(x+k,y)===v:null;
+ if(n==='Double Chance Full Time')return ['1X','X1','12','2X','X2'].includes(v)?v.includes(result(x,y)):null;
+ if(n==='Both Teams To Score')return ['Yes','No'].includes(v)?(x>0&&y>0)===(v==='Yes'):null;
+ if(n==='Odd Even Full Time')return ['Odd','Even'].includes(v)?( (x+y)%2===1)===(v==='Odd'):null;
+ if(['Over Under Full Time','Over Under Team 1','Over Under Team 2'].includes(n)){if(!Number.isFinite(k)||Math.abs(k%1)!==0.5||!['Over','Under'].includes(v))return null;const t=n.endsWith('1')?x:n.endsWith('2')?y:x+y;return v==='Over'?t>k:t<k;}
+ if(n==='Correct Score Full Time')return /^\d+:\d+$/.test(v)?v===`${x}:${y}`:null;
+ if(n==='Winning Margin Full Time'){if(v==='Draw (incl 0:0)')return x===y;const z=/^([12]) By (\d+)(\+?)$/.exec(v);if(!z)return null;const d=z[1]==='1'?x-y:y-x;return z[3]?d>=Number(z[2]):d===Number(z[2]);}
+ return null;}
+ const options=[];for(const m of detail.markets||[])for(const o of m.options||[]){if(o.active!==true||!Number.isFinite(Number(o.price))||Number(o.price)<=1)continue;const supported=event(m,o,0,0)!==null;let p=null;if(enough&&supported)p=grid.reduce((s,[x,y,w])=>s+(event(m,o,x,y)?w:0),0);options.push({market_id:m.market_id,market_name:m.market_name,handicap:m.handicap,outcome_id:o.outcome_id,outcome_name:o.outcome_name,player_id:o.player_id,price:Number(o.price),model_probability:p,break_even:1/Number(o.price),difference:p===null?null:p-1/Number(o.price),status:p!==null?'model_estimate':supported?'insufficient_history':'unsupported_market',reason:p!==null?'İç saha/deplasman son 10 maç gol ortalamaları; bağımsız Poisson modeli.':supported?'Her takım için en az 5 uygun geçmiş maç gerekli.':'Bu kalem için doğrulanmış veri ve hesaplama yöntemi henüz yok.'});}
+ return {fixture_id:detail.fixture_id,home_samples:h.length,away_samples:a.length,expected_home_goals:lh,expected_away_goals:la,model:'Poisson v1; kalibrasyon yapılmadı',options};
+}
+if(typeof module!=='undefined')module.exports={analyze};else root.TahminArenaAnaliz={analyze};
+})(typeof globalThis!=='undefined'?globalThis:this);
+
+
+window.taArenaBacktest=function(rows){
+ const games=[...new Map(rows.filter(x=>x.id&&Number.isFinite(Date.parse(x.time_utc))&&Number.isInteger(x.score_home)&&Number.isInteger(x.score_away)).map(x=>[x.id,x])).values()].sort((a,b)=>Date.parse(a.time_utc)-Date.parse(b.time_utc));
+ const result={matches:0,groups:{'Maç sonucu':{n:0,correct:0,brier:0},'Gol':{n:0,correct:0,brier:0}}};
+ const record=(g,p,y)=>{g.n++;g.correct+=Number((p>=.5)===y);g.brier+=(p-Number(y))**2;};
+ for(const x of games){const t=Date.parse(x.time_utc);const past=games.filter(z=>Date.parse(z.time_utc)<t);const h=past.filter(z=>z.home_team.id===x.home_team.id).slice(-10),a=past.filter(z=>z.away_team.id===x.away_team.id).slice(-10);if(h.length<5||a.length<5)continue;
+ const detail={markets:[{market_name:'Full Time Result',options:['1','X','2'].map(outcome_name=>({outcome_name,active:true,price:2}))},{market_name:'Over Under Full Time',handicap:2.5,options:[{outcome_name:'Over',active:true,price:2}]}]};
+ const r=window.TahminArenaAnaliz.analyze(detail,past,{start_time:x.time_utc,home_id:x.home_team.id,away_id:x.away_team.id}).options; if(r.some(z=>z.model_probability===null))continue;
+ const actual=x.score_home>x.score_away?'1':x.score_home<x.score_away?'2':'X';const best=r.slice(0,3).sort((a,b)=>b.model_probability-a.model_probability)[0];const g=result.groups['Maç sonucu'];g.n++;g.correct+=Number(best.outcome_name===actual);g.brier+=r.slice(0,3).reduce((v,z)=>v+(z.model_probability-Number(z.outcome_name===actual))**2,0)/3;record(result.groups.Gol,r[3].model_probability,x.score_home+x.score_away>2.5);result.matches++;
+ }return result;
+};
+
 window.taArenaAI=async function(m){
  const out=document.getElementById('ta-live-detail-content'),token=Symbol();out._analysisToken=token;const valid=()=>out._analysisToken===token&&document.getElementById('ta-live-detail').open&&document.querySelector('[data-tab="ai-analysis"][aria-pressed="true"]');
  const add=(tag,t,p=out,c)=>{const e=document.createElement(tag);e.textContent=t;if(c)e.className=c;p.append(e);return e};out.replaceChildren();add('h3','✦ ARENA AI');if(!window.taAdmin){const b=add('button','🔒 Premium ARENA AI');b.onclick=()=>{document.getElementById('ta-analysis-premium-label').textContent='ARENA AI';document.getElementById('ta-analysis-premium').showModal()};return;}add('p','Geçmiş maçlar inceleniyor…');
@@ -1128,6 +1172,7 @@ window.taArenaAI=async function(m){
  const context=add('details','');add('summary','Modelin kullandığı veriler',context);for(const [i,t] of teams.entries()){const z=standings[i];add('p',t.name+' · '+(z?z.league+' · '+z.rank+'. sıra · '+z.p+' puan / '+z.n+' maç (hesaplanan tablo)':'Puan tablosu doğrulanamadı'),context);add('p','Geçmiş / sezon / saha / H2H: '+contexts[i].map(l=>l.length).join(' / '),context);}for(const [label,a,b] of metrics)add('p',label+': '+a+' / '+b,context);
  const tabs=add('div','',out,'ta-ai-tabs'),body=add('div','');const buttons=[];function render(k){body.replaceChildren();buttons.forEach(([name,b])=>b.setAttribute('aria-pressed',String(name===k)));add('h4','MAÇ GENELİ',body);if(!data[k].length)add('p','Bu kategori için doğrulanmış model girdisi henüz yeterli değil.',body);const rows=data[k],used=new Set();const pct=p=>Math.max(0,Math.min(100,p*100));for(const [label,p] of rows){if(used.has(label))continue;const match=label.match(/^(.*) (Alt|Üst)$/);let left,right,title;if(match){const base=match[1],a=rows.find(x=>x[0]===base+' Alt'),b=rows.find(x=>x[0]===base+' Üst');if(a&&b){left=['Alt',a[1]];right=['Üst',b[1]];title=base;used.add(a[0]);used.add(b[0]);}}else if(label==='Karşılıklı gol var'){left=['Yok',1-p];right=['Var',p];title='Karşılıklı gol';used.add('Karşılıklı gol yok');}used.add(label);const card=add('div','',body,'ta-ai-card');if(left&&right){const line=add('div','',card,'ta-ai-pair-line');add('strong','%'+pct(left[1]).toFixed(1),line);const center=add('div','',line,'ta-ai-pair-center');add('span',left[0].toLocaleUpperCase('tr'),center,'ta-ai-pair-badge');add('span',title==='Karşılıklı gol'?'KG':title,center,'ta-ai-pair-title');add('span',right[0].toLocaleUpperCase('tr'),center,'ta-ai-pair-badge');add('strong','%'+pct(right[1]).toFixed(1),line).style.color='#d4af37';const track=add('div','',card,'ta-ai-pair-track');for(const [i,v] of [left[1],right[1]].entries()){const seg=add('span','',track);seg.style.flexGrow=String(pct(v));seg.style.background=i?'#d4af37':'#eee';}}else{const line=add('div','',card,'ta-ai-line');add('strong',label,line);add('strong','%'+pct(p).toFixed(1),line).style.color='#d4af37';const track=add('div','',card,'ta-ai-track');add('i','',track).style.width=pct(p)+'%';}}add('small','Deneysel model tahmini · Garanti değildir',body);add('h4','TAKIM BAZLI TAHMİNLER',body);const names=add('div','',body,'ta-ai-line');add('strong',teams[0].name,names);add('strong',teams[1].name,names).style.color='#d4af37';if(!teamData[k].length)add('p','Takım bazlı doğrulanmış veri yetersiz.',body);for(const [label,a,b] of teamData[k]){const card=add('div','',body,'ta-ai-card'),line=add('div','',card,'ta-ma-line');add('strong','%'+(a*100).toFixed(1),line);add('span',label,line,'ta-ma-label');add('strong','%'+(b*100).toFixed(1),line).style.color='#d4af37';const bar=add('div','',card,'ta-ma-bar');for(const p of [a,b]){const t=add('div','',bar);add('i','',t).style.width=Math.max(0,Math.min(100,p*100))+'%';}}add('h4','ARENA AI değerlendirmesi',body);add('p','Deneysel model · Form, sezon, saha, H2H, lig gol ortalamaları, xG ve ilgili maç istatistikleri. Kalibrasyon tamamlanmadı.',body);}
  for(const k of Object.keys(data)){const b=add('button',k,tabs);b.type='button';buttons.push([k,b]);b.onclick=()=>render(k);}render('Maç sonucu');
+ const performance=add('details','');add('summary','MODEL PERFORMANSI',performance);add('p','Ön test: bağımsız gol modeli; ekrandaki birleşik modelin doğruluk ölçümü değildir.',performance);const run=add('button','Geçmiş maç ön testini çalıştır',performance);run.type='button';const report=add('div','',performance);run.onclick=()=>{report.replaceChildren();try{const r=window.taArenaBacktest(rows);add('p','Test edilen maç: '+r.matches,report);for(const [name,g] of Object.entries(r.groups))add('p',name+' · '+(g.n?g.correct+'/'+g.n+' doğru · %'+(100*g.correct/g.n).toFixed(1)+' · Brier '+(g.brier/g.n).toFixed(3):'Yeterli geçmiş yok'),report);add('p','Korner, kart ve yarılar: henüz test edilmedi. Test yalnızca yüklenen geçmişi kapsar.',report);}catch{add('p','Ön test çalıştırılamadı.',report);}};
  }catch(e){if(valid())out.textContent='ARENA AI için veriler okunamadı.';}
 };
 </script>
