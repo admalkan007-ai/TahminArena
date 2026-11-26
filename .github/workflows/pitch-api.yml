@@ -39,8 +39,6 @@ jobs:
 
           jq '[
             .data.leagues[]
-            | select(.country_code != "KSA")
-            | select(.name != "MLS")
           ]' /tmp/leagues.json > /tmp/catalog.json
 
           jq -c '.[]' /tmp/catalog.json |
