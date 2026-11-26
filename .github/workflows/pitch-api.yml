@@ -2,7 +2,7 @@ name: TahminArena PitchAPI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 */6 * * *'
+    - cron: '30 */3 * * *'
 permissions:
   contents: write
 concurrency:
@@ -35,7 +35,8 @@ jobs:
           catalog=get('leagues')['leagues'];assert isinstance(catalog,list) and catalog
           cups={'l_0bfbkO','l_38d9HA','l_2WZ2tt'}
           report=[]
-          for l in catalog:
+          detail_budget=600
+          for l in sorted(catalog,key=lambda l:l['id'] not in cups):
               id=l['id']
               try:
                   base=get('leagues/'+id+'/matches',status='all')
@@ -53,16 +54,30 @@ jobs:
                       print('Eski kayit korundu:',id,flush=True)
                       report.append({'id':id,'error':'upcoming_failed','preserved':True})
                       continue
-                  if id in cups:
+                  if True:
+                      previous={}
+                      try:
+                          old=json.loads((root/(id+'.json')).read_text())['data']
+                          if old['league'].get('season')==season: previous={m['id']:m for m in old['matches']}
+                      except Exception: pass
+                      errors=0
                       for m in rows.values():
+                          prior=previous.get(m['id'],{})
+                          for key in ('round_name','has_playoff','stage','group','matchday'):
+                              if m.get(key) is None and prior.get(key) is not None: m[key]=prior[key]
+                          if m.get('round_name') is not None and (id not in cups or m.get('has_playoff') is not None): continue
+                          if detail_budget<=0: continue
+                          detail_budget-=1
                           try:
                               detail=get('matches/'+m['id']);assert detail['id']==m['id']
                               for key in ('round_name','has_playoff','stage','group','matchday'):
                                   if detail.get(key) is not None:m[key]=detail[key]
-                          except Exception: pass
-                          time.sleep(.15)
+                          except Exception as e:
+                              errors+=1
+                              print('DETAY UYARI:',id,m['id'],str(e),flush=True)
+                          time.sleep(.05)
                   save(root/(id+'.json'),{'data':{'league':{**l,**meta},'matches':list(rows.values())}})
-                  report.append({'id':id,'season':season,'played':sum(m.get('status')=='finished' for m in rows.values()),'upcoming':sum(m.get('status')=='not_started' for m in rows.values()),'upcoming_ok':upcoming_ok,'round_known':sum(bool(m.get('round_name')) for m in rows.values())})
+                  report.append({'id':id,'season':season,'played':sum(m.get('status')=='finished' for m in rows.values()),'upcoming':sum(m.get('status')=='not_started' for m in rows.values()),'upcoming_ok':upcoming_ok,'detail_errors':errors,'round_known':sum(bool(m.get('round_name')) for m in rows.values())})
               except Exception as e:
                   report.append({'id':id,'error':type(e).__name__});print('UYARI:',id,str(e),flush=True)
               time.sleep(.5)
