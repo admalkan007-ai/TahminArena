@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 import {calculate,picksFor,settle,ROOT,ODDS,day,window} from './arena-engine.mjs';
 const endpoint=process.env.AI_WORKER_URL?.replace(/\/$/,'');
 const token=process.env.AI_ADMIN_TOKEN;
@@ -17,3 +27,6 @@ for(const m of upcoming.slice(0,20)){try{const kickoff=Date.parse(m.time_utc);if
 const out=await calculate(m,io,odds);if(failures.size)throw Error('Incomplete source reads');const picks=picksFor(m,out.data,out.teamData,out.result);if(!picks.length||Date.now()>=kickoff)continue;const r=await api('/prediction',{id:m.id,league:m.league_id,name:m.home_team.name+' – '+m.away_team.name,home:m.home_team.id,away:m.away_team.id,kickoff,picks,verification:out.result});saved+=r.saved;}catch(e){errors++;console.warn(m.id,e.message);}}
 for(const row of (await api('/unsettled')).rows){try{const r=JSON.parse(row.payload);const m=files.get(r.league)?.find(x=>x.id===r.id&&x.home_team?.id===r.home&&x.away_team?.id===r.away&&Date.parse(x.time_utc)===r.kickoff);if(!m||m.status!=='finished'||!Number.isInteger(m.score_home)||!Number.isInteger(m.score_away))continue;await settle(r,m,p=>io.json(p));settled+=(await api('/settlement',r)).saved;}catch(e){errors++;console.warn(row.id,e.message);}}
 console.log(JSON.stringify({mode:'pilot-v6',catalog:leagues.length,requests,upcoming:upcoming.length,saved,settled,errors}));
+
+if(errors===0)await api("/run-complete",{catalog:leagues.length,errors});
+
