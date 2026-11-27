@@ -1,22 +1,28 @@
+
 name: Arena AI V6
+
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '2-57/5 * * * *'
+
 permissions:
   contents: read
+
 concurrency:
   group: arena-ai-v6
   cancel-in-progress: false
+
 jobs:
   calculate:
     runs-on: ubuntu-latest
     timeout-minutes: 12
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+
       - run: node arena-run.mjs
         env:
           AI_WORKER_URL: ${{ vars.AI_WORKER_URL }}
