@@ -1,8 +1,5 @@
 
 
-
-
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -1178,13 +1175,17 @@ window.taArenaBacktest=function(rows){
 window.taArenaOdds=(()=>{
  let token='';
  const base='https://tahminarena-odds-test.admalkan007.workers.dev/iddaa-test';
- const norm=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/ı/g,'i').replace(/[^a-z0-9]/g,'');
- const alias=s=>{const n=norm(s);return ['manisa','manisafutbolkulubu','manisafk','manisafc'].includes(n)?'manisafk':n;};
+ const words=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/ı/g,'i').replace(/[^a-z0-9]+/g,' ').trim();
+ const norm=s=>words(s).replace(/ /g,'');
+ const alias=s=>{let w=words(s).replace(/\b(futbol kulubu|football club|fussball club|soccer club)\b/g,' ').trim().split(/\s+/);const aff=new Set(['fc','fk','sk','cf','afc','sc','ac','sv','vfb','vfl','club']);while(w.length>1&&aff.has(w[0]))w.shift();while(w.length>1&&aff.has(w[w.length-1]))w.pop();return w.join('');};
+ const names=t=>[t?.name,t?.shortName,t?.short_name].filter(Boolean);
+ const exact=(t,n)=>names(t).some(v=>norm(v)&&norm(v)===norm(n));
+ const same=(t,n)=>names(t).some(v=>alias(v)&&alias(v)===alias(n));
  async function read(m){
   const kickoff=Date.parse(m.time_utc||m.utcDate);if(!Number.isFinite(kickoff))throw Error('Maç zamanı geçersiz');if(kickoff<=Date.now())throw Error('Maç başlamış; maç öncesi oran kullanılmadı');if(!window.taAdmin)throw Error('Admin yetkisi yok');
   if(!token)token=prompt('Özel İDDAA test erişim anahtarı (isteğe bağlı; kaydedilmez)')?.trim()||'';if(!token)throw Error('Erişim anahtarı girilmedi');
   const get=async u=>{let r;try{r=await fetch(u,{headers:{Authorization:'Bearer '+token},cache:'no-store',signal:AbortSignal.timeout(8000)});}catch{throw Error('Worker bağlantısı veya CORS / zaman aşımı');}if(r.status===401){token='';throw Error('Worker anahtarı kabul etmedi (401)');}if(!r.ok)throw Error('Worker HTTP '+r.status);const j=await r.json();if(!j.success)throw Error('Worker başarılı veri döndürmedi');return j;};
-  const list=await get(base+'?at='+encodeURIComponent(new Date(kickoff).toISOString()));const same=(t,n)=>[t?.name,t?.shortName,t?.short_name].map(alias).filter(Boolean).includes(alias(n));
+  const list=await get(base+'?at='+encodeURIComponent(new Date(kickoff).toISOString()));
   const candidates=(list.maclar||[]).filter(x=>Math.abs(Date.parse(x.start_time)-kickoff)<=300000);const matches=candidates.filter(x=>same(m.home_team,x.home_team)&&same(m.away_team,x.away_team));if(matches.length!==1)throw Error(matches.length?'Birden fazla eşleşme; oran kullanılmadı':'Takım / saat eşleşmedi. Saat aralığındaki kayıt: '+candidates.length+' · '+candidates.slice(0,8).map(x=>x.home_team+' – '+x.away_team).join('; '));
   const x=matches[0],d=await get(base+'?id='+encodeURIComponent(x.fixture_id));const updated=Date.parse(d.updated_at);if(d.fixture_id!==x.fixture_id)throw Error('Maç kimliği uyuşmadı');if(!Number.isFinite(updated)||updated>Date.now()||updated>=kickoff)throw Error('Oran zamanı geçersiz');if(Date.now()-updated>86400000)throw Error('Oran 24 saatten eski');return d;
  }
