@@ -1,13 +1,6 @@
 
 
 
-
-
-
-
-
-
-
 import {calculate,picksFor,settle,ROOT,ODDS,day,window} from './arena-engine.mjs';
 const endpoint=process.env.AI_WORKER_URL?.replace(/\/$/,'');
 const token=process.env.AI_ADMIN_TOKEN;
