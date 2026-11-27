@@ -1,6 +1,8 @@
 
 
 
+
+
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -1180,6 +1182,7 @@ window.taArenaOdds=(()=>{
  const norm=s=>words(s).replace(/ /g,'');
  const alias=s=>{let w=words(s).replace(/\b(futbol kulubu|football club|fussball club|soccer club)\b/g,' ').trim().split(/\s+/);const aff=new Set(['fc','fk','sk','cf','afc','sc','ac','sv','vfb','vfl','club']);while(w.length>1&&aff.has(w[0]))w.shift();while(w.length>1&&aff.has(w[w.length-1]))w.pop();return w.join('');};
  const names=t=>[t?.name,t?.shortName,t?.short_name].filter(Boolean);
+ const leagueMap=new Map([['l_0S1uaf', 52], ['l_1BFfna', 98], ['l_0bfbkO', 7], ['l_38d9HA', 679], ['l_2WZ2tt', 34480], ['l_4WFCIZ', 17], ['l_0ErfuF', 8], ['l_1Isor4', 35], ['l_0ALvwF', 23], ['l_3FJFUl', 34], ['l_4H43wr', 37], ['l_4QexZg', 238], ['l_2L6d1F', 38], ['l_1LMdEO', 36], ['l_3xwVF2', 185], ['l_4DWyTT', 18], ['l_3hvsne', 44], ['l_3kyHLd', 54], ['l_0jy5yE', 53], ['l_0275VP', 182], ['l_1D8Xrl', 325], ['l_45VZuL', 155], ['l_4d6Bwl', 215], ['l_3zsMpo', 45], ['l_49Zmno', 39], ['l_1XsMdH', 40], ['l_0uqFK8', 20], ['l_2ApGa4', 196]]);
  const exact=(t,n)=>names(t).some(v=>norm(v)&&norm(v)===norm(n));
  const same=(t,n)=>names(t).some(v=>alias(v)&&alias(v)===alias(n));
  async function read(m){
@@ -1187,9 +1190,10 @@ window.taArenaOdds=(()=>{
   if(!token)token=prompt('Özel İDDAA test erişim anahtarı (isteğe bağlı; kaydedilmez)')?.trim()||'';if(!token)throw Error('Erişim anahtarı girilmedi');
   const get=async u=>{let r;try{r=await fetch(u,{headers:{Authorization:'Bearer '+token},cache:'no-store',signal:AbortSignal.timeout(8000)});}catch{throw Error('Worker bağlantısı veya CORS / zaman aşımı');}if(r.status===401){token='';throw Error('Worker anahtarı kabul etmedi (401)');}if(!r.ok)throw Error('Worker HTTP '+r.status);const j=await r.json();if(!j.success)throw Error('Worker başarılı veri döndürmedi');return j;};
   const list=await get(base+'?at='+encodeURIComponent(new Date(kickoff).toISOString()));
-  const candidates=(list.maclar||[]).filter(x=>Math.abs(Date.parse(x.start_time)-kickoff)<=300000);const matches=candidates.filter(x=>same(m.home_team,x.home_team)&&same(m.away_team,x.away_team));if(matches.length!==1)throw Error(matches.length?'Birden fazla eşleşme; oran kullanılmadı':'Takım / saat eşleşmedi. Saat aralığındaki kayıt: '+candidates.length+' · '+candidates.slice(0,8).map(x=>x.home_team+' – '+x.away_team).join('; '));
+  const candidates=(list.maclar||[]).filter(x=>Math.abs(Date.parse(x.start_time)-kickoff)<=300000);const league=leagueMap.get(m.league_id||m.league?.id);const matches=candidates.filter(x=>(!league||Number(x.tournament_id)===league)&&same(m.home_team,x.home_team)&&same(m.away_team,x.away_team));if(matches.length!==1)throw Error(matches.length?'Birden fazla eşleşme; oran kullanılmadı':'Takım / saat eşleşmedi. Saat aralığındaki kayıt: '+candidates.length+' · '+candidates.slice(0,8).map(x=>x.home_team+' – '+x.away_team).join('; '));
   const x=matches[0],d=await get(base+'?id='+encodeURIComponent(x.fixture_id));const updated=Date.parse(d.updated_at);if(d.fixture_id!==x.fixture_id)throw Error('Maç kimliği uyuşmadı');if(!Number.isFinite(updated)||updated>Date.now()||updated>=kickoff)throw Error('Oran zamanı geçersiz');if(Date.now()-updated>86400000)throw Error('Oran 24 saatten eski');return d;
  }
+ async function coverage(){if(!window.taAdmin||!token)throw Error("Önce özel erişim anahtarını girin");const r=await fetch(base+"?coverage=1",{headers:{Authorization:"Bearer "+token},cache:"no-store",signal:AbortSignal.timeout(8000)});if(!r.ok)throw Error("HTTP "+r.status);const j=await r.json();if(!Array.isArray(j.leagues))throw Error("Kapsam yanıtı geçersiz");return j.leagues;}
  function apply(d,data,teamData,model,teams=[]){
  const audit=[];const result=(x,y)=>x>y?'1':x<y?'2':'X';
  const grid=(ls)=>{if(!ls||!ls.every(x=>Number.isFinite(x)&&x>=0&&x<=100))return null;const ds=ls.map(l=>{let a=[Math.exp(-l)];for(let i=1;i<=Math.max(40,Math.ceil(l+12*Math.sqrt(l)));i++)a.push(a[i-1]*l/i);return a});return ds[0].flatMap((p,x)=>ds[1].map((q,y)=>[x,y,p*q]));};
@@ -1233,7 +1237,7 @@ window.taArenaOdds=(()=>{
  const [h,x,a]=data['Maç sonucu'].map(r=>r[1]);teamData['Maç sonucu']=[['Galibiyet',h,a],['Beraberlik',x,x],['Mağlubiyet',a,h]];
  return {active:audit.length,used:audit.filter(a=>Number.isFinite(a.after)).length,statOnly:audit.filter(a=>Number.isFinite(a.before)&&!Number.isFinite(a.after)).length,unavailable:audit.filter(a=>!Number.isFinite(a.before)).length,audit};
  }
- return {read,apply};
+ return {read,apply,coverage};
 })();
 
 window.taArenaAI=async function(m){
@@ -1276,8 +1280,9 @@ window.taArenaAI=async function(m){
  if(odds&&count>0){const coverage=add('div','',panel,'ta-audit-coverage');for(const [v,c] of [[combined,'#65cf91'],[only,'#edc65b'],[Math.max(0,count-calculated),'#ef8888']]){const seg=add('span','',coverage);seg.style.width=(100*v/count)+'%';seg.style.background=c;}const r=add('div','',panel,'ta-audit-summary-row');for(const [v,label,c] of [[calculated,'Hesaplama kapsamı','#65cf91'],[combined,'Birleşik tahmin kapsamı','#edc65b']]){const b=add('div','',r,'ta-audit-coverage-label');add('strong',pct(v/count),b).style.color=c;add('small',label,b);}}
  add('h4','Model ağırlıkları (deneysel)',panel);add('p',oddsResult.used?'İstatistik %70 · İDDAA %30 (eşleşen seçeneklerde)':'İstatistik %100 · İDDAA %0 (planlanan %70 / %30)',panel);const bar=add('div','',panel,'ta-audit-bar');bar.style.background=oddsResult.used?'linear-gradient(to right,#eee 70%,#d4af37 70%)':'#eee';
 const ms=['1','X','2'].map(v=>oddsResult.audit.find(a=>a.market==='Full Time Result'&&a.outcome===v));table(panel,['Seçenek','MS 1','MS X','MS 2'],[['İDDAA oranı',...ms.map(a=>a?.price)],['İstatistiksel %',...ms.map(a=>pct(a?.before))],['Piyasa %',...ms.map(a=>pct(a?.q))],['Birleşik %',...ms.map(a=>pct(a?.after))]]);
- if(odds&&only){add('h4','Yalnız istatistik kullanılan seçenekler',panel);for(const a of oddsResult.audit.filter(a=>a.status.startsWith('Yalnız istatistik'))){const c=add('div','',panel,'ta-audit-stat-only');add('strong',a.label,c);for(const [k,v] of [['Gerçek İDDAA oranı',a.price],['İstatistiksel tahmin',pct(a.before)],['Piyasa olasılığı',pct(a.q)],['Uygulanan ağırlık','%100 istatistik']]){const r=add('div','',c,'ta-audit-summary-row');add('span',k,r);add('strong',String(v??'—'),r);}add('small',a.status,c).style.color='#edc65b';}}
+ if(odds&&only){add('h4','Yalnız istatistik kullanılan seçenekler',panel);for(const a of oddsResult.audit.filter(a=>a.status.startsWith('Yalnız istatistik'))){const c=add('div','',panel,'ta-audit-stat-only');add('strong',a.label,c);for(const [k,v] of [['Gerçek İDDAA oranı',a.price],['Ham oran olasılığı (marj dahil)',pct(Number(a.price)>1?1/Number(a.price):null)],['İstatistiksel tahmin',pct(a.before)],['Piyasa olasılığı',pct(a.q)],['Uygulanan ağırlık','%100 istatistik']]){const r=add('div','',c,'ta-audit-summary-row');add('span',k,r);add('strong',String(v??'—'),r);}add('small',a.status,c).style.color='#edc65b';}}
  if(odds){const d=add('details','',panel);add('summary','Tüm aktif İDDAA seçenekleri ('+count+')',d);const t=table(d,['Pazar / seçenek','Oran','İstatistik','Piyasa','Birleşik','Durum'],oddsResult.audit.map(a=>[a.label,a.price,pct(a.before),pct(a.q),pct(a.after),a.status]));for(const r of Array.from(t.rows).slice(1)){const c=r.cells[5];c.style.color=c.textContent==='Birleşik tahmin'?'#65cf91':c.textContent.startsWith('Yalnız istatistik')?'#edc65b':'#ef8888';}}
+ const cov=card('30 LİG · İDDAA KAYIT KAPSAMI');const cb=add('button','Lig kayıtlarını kontrol et',cov);cb.type='button';const cr=add('div','',cov);cb.onclick=async()=>{cb.disabled=true;cr.textContent='D1 kayıtları okunuyor…';try{const rows=await window.taArenaOdds.coverage();cr.replaceChildren();table(cr,['Lig','Kayıt','Güncel maç','Grup durumu'],rows.map(r=>[(window.taPriority||[])[[52,98,7,679,34480,17,8,35,23,34,37,238,38,36,185,18,44,54,53,182,955,242,325,155,215,45,39,40,20,196].indexOf(r.id)]?.[1]||r.id,r.total,r.fresh,r.run]));add('small','Güncel kayıt sayısı sağlayıcıdaki tüm maçların geldiğini kanıtlamaz.',cr);}catch(e){cr.textContent=e.message;}finally{cb.disabled=false;}};
  const team=card('TAKIM VE MODEL VERİLERİ');const days=extended.map(l=>{const v=(Date.parse(m.time_utc||m.utcDate)-Date.parse(l[0]?.time_utc))/86400000;return Number.isFinite(v)&&v>=0?v.toFixed(1)+' gün':'—';});table(team,['Veri',...teams.map(t=>t.name)],[['Lig',...standings.map(z=>z?.league)],['Lig sırası',...standings.map(z=>z?.rank)],['Puan',...standings.map(z=>z?.p)],['Oynanan maç',...standings.map(z=>z?.n)],['Dinlenme',...days],...['Geçmiş','Sezon','Saha','H2H'].map((k,i)=>[k,...contexts.map(c=>c[i].length)])]);add('p','Dinlenme süresi hesaplanıyor; tahmine etkisi henüz eklenmedi.',team);
  const stat=card('MODELİN KULLANDIĞI İSTATİSTİKLER');table(stat,['Veri',...teams.map(t=>t.name)],metrics);add('p','Son 5 maçta güncellik ağırlığı; detay kategorilerinde en fazla 10 maç / takım. Eksik veri sıfır kabul edilmez.',stat);}
 
