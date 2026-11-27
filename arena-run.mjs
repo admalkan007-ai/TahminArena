@@ -1,6 +1,3 @@
-
-
-
 import {calculate,picksFor,settle,ROOT,ODDS,day,window} from './arena-engine.mjs';
 const endpoint=process.env.AI_WORKER_URL?.replace(/\/$/,'');
 const token=process.env.AI_ADMIN_TOKEN;
@@ -18,8 +15,39 @@ const known=new Set((await api('/known')).ids);const now=Date.now();const upcomi
 let saved=0,settled=0,errors=0;
 for(const m of upcoming.slice(0,20)){try{const kickoff=Date.parse(m.time_utc);if(Date.now()>=kickoff)continue;failures=new Set();let odds=null;if(process.env.ODDS_TEST_TOKEN&&window.taArenaOdds.leagueMap.has(m.league_id)){try{const h={Authorization:'Bearer '+process.env.ODDS_TEST_TOKEN};const list=await read(ODDS+'?at='+encodeURIComponent(m.time_utc),h);const x=window.taArenaOdds.resolve(m,list?.maclar||[],files.get(m.league_id));const d=await read(ODDS+'?id='+encodeURIComponent(x.fixture_id),h);const t=Date.parse(d?.updated_at);if(d?.success&&d.fixture_id===x.fixture_id&&t<=Date.now()&&t<kickoff&&Date.now()-t<=86400000)odds=d;}catch{console.warn('Odds unavailable',m.id);}}
 const out=await calculate(m,io,odds);if(failures.size)throw Error('Incomplete source reads');const picks=picksFor(m,out.data,out.teamData,out.result);if(!picks.length||Date.now()>=kickoff)continue;const r=await api('/prediction',{id:m.id,league:m.league_id,name:m.home_team.name+' – '+m.away_team.name,home:m.home_team.id,away:m.away_team.id,kickoff,picks,verification:out.result});saved+=r.saved;}catch(e){errors++;console.warn(m.id,e.message);}}
-for(const row of (await api('/unsettled')).rows){try{const r=JSON.parse(row.payload);const m=files.get(r.league)?.find(x=>x.id===r.id&&x.home_team?.id===r.home&&x.away_team?.id===r.away&&Date.parse(x.time_utc)===r.kickoff);if(!m||m.status!=='finished'||!Number.isInteger(m.score_home)||!Number.isInteger(m.score_away))continue;await settle(r,m,p=>io.json(p));settled+=(await api('/settlement',r)).saved;}catch(e){errors++;console.warn(row.id,e.message);}}
+const pending=(await api('/unsettled')).rows;
+const diag={pending:pending.length,matched:0,missingLeague:0,missingId:0,teamMismatch:0,kickoffMismatch:0,notFinished:0,invalidScore:0,attempted:0,notSaved:0,failed:0};
+console.log('SETTLEMENT_QUEUE '+JSON.stringify({count:pending.length,now:new Date().toISOString()}));
+for(const row of pending){
+  try{
+    const r=JSON.parse(row.payload);
+    const report=(reason,extra={})=>console.log('SETTLEMENT_CHECK '+JSON.stringify({id:r.id,name:r.name,league:r.league,reason,...extra}));
+    const matches=files.get(r.league);
+    if(!matches){diag.missingLeague++;report('missing_league');continue;}
+    const candidates=matches.filter(x=>x.id===r.id);
+    if(!candidates.length){diag.missingId++;report('missing_match_id');continue;}
+    const teams=candidates.filter(x=>x.home_team?.id===r.home&&x.away_team?.id===r.away);
+    if(!teams.length){diag.teamMismatch++;report('team_mismatch',{expected:[r.home,r.away],found:candidates.map(x=>[x.home_team?.id,x.away_team?.id])});continue;}
+    const m=teams.find(x=>Date.parse(x.time_utc)===r.kickoff);
+    if(!m){diag.kickoffMismatch++;report('kickoff_mismatch',{expected:r.kickoff,found:teams.map(x=>x.time_utc)});continue;}
+    diag.matched++;
+    if(m.status!=='finished'){diag.notFinished++;report('not_finished',{status:m.status,score:[m.score_home,m.score_away]});continue;}
+    if(!Number.isInteger(m.score_home)||!Number.isInteger(m.score_away)){diag.invalidScore++;report('invalid_score',{score:[m.score_home,m.score_away],types:[typeof m.score_home,typeof m.score_away]});continue;}
+    diag.attempted++;
+    await settle(r,m,p=>io.json(p));
+    const result=await api('/settlement',r);
+    settled+=result.saved;
+    if(!result.saved)diag.notSaved++;
+    report(result.saved?'saved':'not_saved',{score:[m.score_home,m.score_away],saved:result.saved});
+  }catch(e){errors++;diag.failed++;console.warn('SETTLEMENT_ERROR',row.id,e.message);}
+}
+console.log('SETTLEMENT_SUMMARY '+JSON.stringify(diag));
+// Compare finished matches already known to the worker with the current settlement queue.
+const pendingIds=new Set(pending.map(r=>r.id));
+for(const [league,ms] of files)for(const m of ms){
+  if(m.status==='finished'&&known.has(m.id)&&day(m.time_utc)===day(now))console.log('KNOWN_FINISHED '+JSON.stringify({id:m.id,league,name:m.home_team?.name+' – '+m.away_team?.name,score:[m.score_home,m.score_away],inQueue:pendingIds.has(m.id)}));
+}
+
 console.log(JSON.stringify({mode:'pilot-v6',catalog:leagues.length,requests,upcoming:upcoming.length,saved,settled,errors}));
 
 if(errors===0)await api("/run-complete",{catalog:leagues.length,errors});
-
