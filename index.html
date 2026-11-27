@@ -1188,24 +1188,32 @@ window.taArenaOdds=(()=>{
   // Whole-word containment, not a substring of a different club name.
   return long.some((_,i)=>short.every((w,j)=>long[i+j]===w));
  });
- function resolve(m,candidates){
-  const league=leagueMap.get(m.league_id||m.league?.id||m.archive_league);
-  const scoped=candidates.filter(x=>!league||x.tournament_id==null||Number(x.tournament_id)===league);
-  const unique=xs=>[...new Map(xs.map(x=>[x.fixture_id,x])).values()];
-  const strict=unique(scoped.filter(x=>exact(m.home_team,x.home_team)&&exact(m.away_team,x.away_team)));
-  if(strict.length===1)return strict[0];
-  const pairs=unique(scoped.filter(x=>same(m.home_team,x.home_team)&&same(m.away_team,x.away_team)));
-  if(pairs.length===1&&strict.length===0)return pairs[0];
-  if(pairs.length>1||strict.length>1)throw Error('Birden fazla maç eşleşti; oran kullanılmadı');
-  throw Error('Takım / saat / lig eşleşmedi. Saat aralığındaki kayıt: '+candidates.length+' · '+candidates.slice(0,8).map(x=>x.home_team+' – '+x.away_team).join('; '));
+ const leagueId=m=>m.league_id||m.league?.id||m.archive_league;
+ const time=m=>Date.parse(m.time_utc||m.utcDate);
+ const pair=(m,x)=>same(m.home_team,x.home_team)&&same(m.away_team,x.away_team);
+ const exactPair=(m,x)=>exact(m.home_team,x.home_team)&&exact(m.away_team,x.away_team);
+ const unique=xs=>[...new Map(xs.map(x=>[x.fixture_id,x])).values()];
+ function resolve(m,candidates,fixtures){
+  const league=leagueMap.get(leagueId(m));
+  if(!league)throw Error('Lig kimliği doğrulanmadı; yanlış lig oranı kullanılmadı');
+  const scoped=unique(candidates.filter(x=>Number(x.tournament_id)===league&&Math.abs(Date.parse(x.start_time)-time(m))<=300000));
+  const pairs=scoped.filter(x=>pair(m,x));
+  if(pairs.length!==1)throw Error('Güvenli eşleşme sayısı: '+pairs.length+' / ligdeki aday: '+scoped.length+' · '+scoped.map(x=>x.home_team+' – '+x.away_team).join('; '));
+  const x=pairs[0];
+  const reverse=[...new Map(fixtures.filter(f=>f.id&&Math.abs(time(f)-Date.parse(x.start_time))<=300000&&pair(f,x)).map(f=>[f.id,f])).values()];
+  if(reverse.length!==1||reverse[0].id!==m.id)throw Error('Ters maç doğrulaması başarısız; oran kullanılmadı');
+  if(reverse[0].home_team?.id!==m.home_team?.id||reverse[0].away_team?.id!==m.away_team?.id||!m.home_team?.id||!m.away_team?.id)throw Error('Takım kimliği uyuşmadı');
+  return x;
  }
+ const fixtureCache=new Map();
+ async function leagueFixtures(m){const id=leagueId(m);if(!leagueMap.has(id))throw Error('Lig kimliği doğrulanmadı');if(!fixtureCache.has(id)){const r=await fetch('./data/pitch/'+encodeURIComponent(id)+'.json',{cache:'no-store',signal:AbortSignal.timeout(10000)});if(!r.ok)throw Error('Lig fikstürü okunamadı');const j=await r.json();if(j.data?.league?.id!==id||!Array.isArray(j.data?.matches))throw Error('Lig fikstürü kimliği doğrulanmadı');fixtureCache.set(id,j.data.matches);}return fixtureCache.get(id);}
  async function read(m){
   const kickoff=Date.parse(m.time_utc||m.utcDate);if(!Number.isFinite(kickoff))throw Error('Maç zamanı geçersiz');if(kickoff<=Date.now())throw Error('Maç başlamış; maç öncesi oran kullanılmadı');if(!window.taAdmin)throw Error('Admin yetkisi yok');
   if(!token)token=prompt('Özel İDDAA test erişim anahtarı (isteğe bağlı; kaydedilmez)')?.trim()||'';if(!token)throw Error('Erişim anahtarı girilmedi');
   const get=async u=>{let r;try{r=await fetch(u,{headers:{Authorization:'Bearer '+token},cache:'no-store',signal:AbortSignal.timeout(8000)});}catch{throw Error('Worker bağlantısı veya CORS / zaman aşımı');}if(r.status===401){token='';throw Error('Worker anahtarı kabul etmedi (401)');}if(!r.ok)throw Error('Worker HTTP '+r.status);const j=await r.json();if(!j.success)throw Error('Worker başarılı veri döndürmedi');return j;};
   const list=await get(base+'?at='+encodeURIComponent(new Date(kickoff).toISOString()));
   const candidates=(list.maclar||[]).filter(x=>x.fixture_id&&Math.abs(Date.parse(x.start_time)-kickoff)<=300000);
-  const x=resolve(m,candidates),d=await get(base+'?id='+encodeURIComponent(x.fixture_id));const updated=Date.parse(d.updated_at);if(d.fixture_id!==x.fixture_id)throw Error('Maç kimliği uyuşmadı');if(!Number.isFinite(updated)||updated>Date.now()||updated>=kickoff)throw Error('Oran zamanı geçersiz');if(Date.now()-updated>86400000)throw Error('Oran 24 saatten eski');return d;
+  const x=resolve(m,candidates,await leagueFixtures(m)),d=await get(base+'?id='+encodeURIComponent(x.fixture_id));const updated=Date.parse(d.updated_at);if(d.fixture_id!==x.fixture_id)throw Error('Maç kimliği uyuşmadı');if(!Number.isFinite(updated)||updated>Date.now()||updated>=kickoff)throw Error('Oran zamanı geçersiz');if(Date.now()-updated>86400000)throw Error('Oran 24 saatten eski');return d;
  }
  async function coverage(){if(!window.taAdmin||!token)throw Error("Önce özel erişim anahtarını girin");const r=await fetch(base+"?coverage=1",{headers:{Authorization:"Bearer "+token},cache:"no-store",signal:AbortSignal.timeout(8000)});if(!r.ok)throw Error("HTTP "+r.status);const j=await r.json();if(!Array.isArray(j.leagues))throw Error("Kapsam yanıtı geçersiz");return j.leagues;}
  function apply(d,data,teamData,model,teams=[]){
