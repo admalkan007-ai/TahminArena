@@ -1,0 +1,19 @@
+import {calculate,picksFor,settle,ROOT,ODDS,day,window} from './arena-engine.mjs';
+const endpoint=process.env.AI_WORKER_URL?.replace(/\/$/,'');
+const token=process.env.AI_ADMIN_TOKEN;
+if(!endpoint||!token)throw Error('Missing worker configuration');
+const auth={Authorization:'Bearer '+token};
+async function api(path,body){const r=await fetch(endpoint+path,{method:body===undefined?'GET':'POST',headers:{...auth,'Content-Type':'application/json'},body:body===undefined?undefined:JSON.stringify(body),signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error('Worker HTTP '+r.status);return r.json();}
+const cache=new Map(); let requests=0;
+async function read(url,headers={}){requests++;for(let i=0;i<3;i++){try{const r=await fetch(url,{headers,signal:AbortSignal.timeout(20000)});if(r.status===404)return null;if(!r.ok)throw Error('HTTP '+r.status);return await r.json();}catch(e){if(i===2)throw e;await new Promise(r=>setTimeout(r,1000*(i+1)));}}}
+let failures=new Set();
+const io={json:async path=>{if(!cache.has(path))cache.set(path,read(new URL(path,ROOT)).catch(e=>{failures.add(path);cache.delete(path);throw e;}));return structuredClone(await cache.get(path));}};
+const catalog=await io.json('./data/pitch/leagues.json');if(!Array.isArray(catalog))throw Error('Invalid catalog');
+const leagues=[...new Set(catalog.map(l=>l.id).filter(x=>/^l_[A-Za-z0-9]+$/.test(x)))];if(leagues.length!==77)throw Error('Expected 77 leagues, got '+leagues.length);
+const files=new Map();for(let i=0;i<leagues.length;i+=8)await Promise.all(leagues.slice(i,i+8).map(async id=>{const j=await io.json('./data/pitch/'+id+'.json');if(j?.data?.league?.id!==id||!Array.isArray(j.data.matches))throw Error('Invalid league '+id);files.set(id,j.data.matches);}));
+const known=new Set((await api('/known')).ids);const now=Date.now();const upcoming=[...files].flatMap(([league_id,ms])=>ms.filter(m=>m.status==='not_started'&&Date.parse(m.time_utc)>now&&day(m.time_utc)===day(now)&&m.home_team?.id&&m.away_team?.id&&!known.has(m.id)).map(m=>({...m,league_id}))).sort((a,b)=>Date.parse(a.time_utc)-Date.parse(b.time_utc));
+let saved=0,settled=0,errors=0;
+for(const m of upcoming.slice(0,20)){try{const kickoff=Date.parse(m.time_utc);if(Date.now()>=kickoff)continue;failures=new Set();let odds=null;if(process.env.ODDS_TEST_TOKEN&&window.taArenaOdds.leagueMap.has(m.league_id)){try{const h={Authorization:'Bearer '+process.env.ODDS_TEST_TOKEN};const list=await read(ODDS+'?at='+encodeURIComponent(m.time_utc),h);const x=window.taArenaOdds.resolve(m,list?.maclar||[],files.get(m.league_id));const d=await read(ODDS+'?id='+encodeURIComponent(x.fixture_id),h);const t=Date.parse(d?.updated_at);if(d?.success&&d.fixture_id===x.fixture_id&&t<=Date.now()&&t<kickoff&&Date.now()-t<=86400000)odds=d;}catch{console.warn('Odds unavailable',m.id);}}
+const out=await calculate(m,io,odds);if(failures.size)throw Error('Incomplete source reads');const picks=picksFor(m,out.data,out.teamData,out.result);if(!picks.length||Date.now()>=kickoff)continue;const r=await api('/prediction',{id:m.id,league:m.league_id,name:m.home_team.name+' – '+m.away_team.name,home:m.home_team.id,away:m.away_team.id,kickoff,picks,verification:out.result});saved+=r.saved;}catch(e){errors++;console.warn(m.id,e.message);}}
+for(const row of (await api('/unsettled')).rows){try{const r=JSON.parse(row.payload);const m=files.get(r.league)?.find(x=>x.id===r.id&&x.home_team?.id===r.home&&x.away_team?.id===r.away&&Date.parse(x.time_utc)===r.kickoff);if(!m||m.status!=='finished'||!Number.isInteger(m.score_home)||!Number.isInteger(m.score_away))continue;await settle(r,m,p=>io.json(p));if(r.picks.every(x=>typeof x.correct==='boolean'))settled+=(await api('/settlement',r)).saved;}catch(e){errors++;console.warn(row.id,e.message);}}
+console.log(JSON.stringify({mode:'pilot-v6',catalog:leagues.length,requests,upcoming:upcoming.length,saved,settled,errors}));
